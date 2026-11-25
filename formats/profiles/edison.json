@@ -1,0 +1,203 @@
+{
+  "id": "edison",
+  "name": "Edison",
+  "date": "2010-04-24",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": true,
+  "description": "Edison is a 5D’s era format and one of the most popular retro Yu-Gi-Oh! TCG formats, backed by strong community support. Since Lightsworn Format, only Starlight Road was introduced.  The format’s name comes from the 75th Shonen Jump Championship held in Edison, New Jersey, which was won by Jeff Jones’s iconic Quickdraw Plant deck. The modern metagame is dominated by Blackwing, HERO, and Frog variants, with other decks and engines such as Dragon, Fairy, Lightsworn, Machina, Plant, and Zombie being competitive. Edison is well known for its open-ended deck-building and highly diverse metagame.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/edison",
+  "description_urls": [
+    "https://formatlibrary.com/formats/edison"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 20932152,
+      "name": "Quickdraw Synchron",
+      "why": "Discarding a monster supplied a Level 5 Tuner that could stand in for a named Synchron and summon Drill Warrior.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2302",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2302"
+        ]
+      }
+    },
+    {
+      "id": 58820853,
+      "name": "Blackwing - Shura the Blue Flame",
+      "why": "Winning a battle let Shura fetch another Blackwing from the Deck, often a Tuner for a second Main Phase Synchro Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2302",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2314"
+        ]
+      }
+    },
+    {
+      "id": 73580471,
+      "name": "Black Rose Dragon",
+      "why": "A Level 7 Synchro Summon could clear the entire field, making it risky to commit several cards at once.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 22,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2302",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2302"
+        ]
+      }
+    },
+    {
+      "id": 9748752,
+      "name": "Caius the Shadow Monarch",
+      "why": "A spare Frog or Token became a 2,400 ATK monster that could banish a problem card on its Tribute Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2302",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2302"
+        ]
+      }
+    },
+    {
+      "id": 15341821,
+      "name": "Dandylion",
+      "why": "Sending it to the Graveyard produced two Tokens that could absorb attacks or be used as Synchro Material.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2302",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2302"
+        ]
+      }
+    },
+    {
+      "id": 511003007,
+      "name": "Ryko, Lightsworn Hunter",
+      "why": "Its period Flip Effect answered a card on the field while putting three cards into the Graveyard.",
+      "has_art": true,
+      "printing_name": "Ryko, Lightsworn Hunter (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2302",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2302"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 22,
+    "fl_events": [
+      "IMNCS05",
+      "PBR59",
+      "SDGEIC24",
+      "SJCED10",
+      "UTWT23"
+    ],
+    "fl_deck_ids": [
+      2981,
+      2982,
+      2983,
+      2984,
+      2985,
+      2986,
+      27493,
+      27494,
+      27495,
+      27496,
+      27497,
+      27558,
+      47897,
+      47899,
+      47901,
+      47903,
+      47905,
+      47907,
+      85576,
+      85583,
+      87757,
+      87773
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2302",
+        "deck_count": 16,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2302",
+          "https://www.yugiohtopdecks.org/deck/2303",
+          "https://www.yugiohtopdecks.org/deck/2304",
+          "https://www.yugiohtopdecks.org/deck/2305",
+          "https://www.yugiohtopdecks.org/deck/2306",
+          "https://www.yugiohtopdecks.org/deck/2307",
+          "https://www.yugiohtopdecks.org/deck/2308",
+          "https://www.yugiohtopdecks.org/deck/2309",
+          "https://www.yugiohtopdecks.org/deck/2310",
+          "https://www.yugiohtopdecks.org/deck/2311",
+          "https://www.yugiohtopdecks.org/deck/2312",
+          "https://www.yugiohtopdecks.org/deck/2313",
+          "https://www.yugiohtopdecks.org/deck/2314",
+          "https://www.yugiohtopdecks.org/deck/2315",
+          "https://www.yugiohtopdecks.org/deck/2316",
+          "https://www.yugiohtopdecks.org/deck/2317"
+        ],
+        "tournaments": [
+          "2010 SJ Edison"
+        ],
+        "months": [
+          "April 2010"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2302"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "inzektor",
+  "name": "Inzektor",
+  "date": "2012-04-15",
+  "region": "OCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Inzektor won the 2012 Asia Championship and took two more of the top four places. Inzektor Hornet destroyed cards while triggering Dragonfly and Centipede to summon or search the next monster.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/inzektor",
+  "description_urls": [
+    "https://formatlibrary.com/formats/inzektor",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+    "https://yugioh-history.com/environment/generation-seven-23"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 68184115,
+      "name": "Inzektor Dragonfly",
+      "why": "Using an equipped Hornet to destroy a card triggered Dragonfly to summon Centipede from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+          "https://yugioh-history.com/environment/generation-seven-23"
+        ]
+      }
+    },
+    {
+      "id": 69207766,
+      "name": "Inzektor Hornet",
+      "why": "It equipped itself from the Graveyard and sent itself away to destroy a card, triggering Dragonfly or Centipede.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+          "https://yugioh-history.com/environment/generation-seven-23"
+        ]
+      }
+    },
+    {
+      "id": 21790410,
+      "name": "Inzektor Centipede",
+      "why": "Sending an equipped Inzektor to the Graveyard let Centipede search another Inzektor card.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+          "https://yugioh-history.com/environment/generation-seven-23"
+        ]
+      }
+    },
+    {
+      "id": 97268402,
+      "name": "Effect Veiler",
+      "why": "Discarding this Tuner during the opponent's Main Phase could stop the effect of Dragonfly or another key combo monster.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+          "https://yugioh-history.com/environment/generation-seven-23"
+        ]
+      }
+    },
+    {
+      "id": 2461031,
+      "name": "Inzektor Ladybug",
+      "why": "Sending Ladybug from the Equip Zone could adjust a monster's Level, opening different Xyz Ranks while triggering an Inzektor search or summon.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+          "https://yugioh-history.com/environment/generation-seven-23"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "contemporaneous_community_tournament_decks",
+        "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+        "deck_count": 2,
+        "tournaments": [
+          "Asia Championship 2012"
+        ],
+        "sample_date": "2012-04-15",
+        "source_images": [
+          "ACS2012_1st",
+          "ACS2012_2nd"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2012/",
+      "https://yugioh-history.com/environment/generation-seven-23"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "ocg-chaos",
+  "name": "OCG Chaos",
+  "date": "2004-02-26",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "The format includes up to OCG sets The Sanctuary in the Sky and Pharaoh's Inheritance, which are the sets combined to make the TCG set Ancient Sanctuary.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/ocg-chaos",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-chaos"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 82301904,
+      "name": "Chaos Emperor Dragon - Envoy of the End",
+      "why": "Its original effect emptied both hands and fields, often letting Sangan search Yata-Garasu against an opponent with no cards left.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos"
+        ]
+      }
+    },
+    {
+      "id": 34206604,
+      "name": "Magical Scientist",
+      "why": "Repeated payments of 1000 LP supplied Fusion Monsters for combat or for Catapult Turtle to tribute before they returned to the Fusion Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/environment/generation-three-30"
+        ]
+      }
+    },
+    {
+      "id": 72989439,
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "why": "A spent LIGHT and DARK monster put 3000 ATK on the field, with a choice between banishing a monster and attacking twice.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/environment/generation-three-29"
+        ]
+      }
+    },
+    {
+      "id": 74191942,
+      "name": "Painful Choice",
+      "why": "It sent four of five selected cards to the Graveyard, setting up revival and Graveyard effects even when the opponent chose the weakest card to keep.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos"
+        ]
+      }
+    },
+    {
+      "id": 40737112,
+      "name": "Dark Magician of Chaos",
+      "why": "Its original effect immediately recovered a Spell on summon, allowing revival and combination Spells to be used again.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/environment/generation-three-29"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 4,
+    "fl_events": [
+      "OMS02"
+    ],
+    "fl_deck_ids": [
+      69584,
+      69585,
+      69589,
+      69593
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+        "deck_count": 5,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/deck-list/historical/d-d-slash",
+          "https://yugioh-history.com/deck-list/historical/deck-destruction-1kill",
+          "https://yugioh-history.com/deck-list/historical/no-chaos",
+          "https://yugioh-history.com/deck-list/historical/scientist-catapult"
+        ],
+        "sample_dates": [
+          "2003-10-15",
+          "2003-11-20",
+          "2004-02-05"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-three-29",
+      "https://yugioh-history.com/environment/generation-three-30",
+      "https://yugioh-history.com/deck-list/historical/chaos"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "infernity",
+  "name": "Infernity",
+  "date": "2010-03-01",
+  "region": "OCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Infernity decks emptied their hand to switch on Infernity Archfiend and Infernity Necromancer. Infernity Launcher revived multiple monsters, letting the deck search again and chain together Synchro Summons.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/infernity",
+  "description_urls": [
+    "https://formatlibrary.com/formats/infernity",
+    "https://yugioh-history.com/environment/generation-six-31",
+    "https://yugioh-history.com/environment/generation-six-35"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 99177923,
+      "name": "Infernity Archfiend",
+      "why": "Special Summoning it with an empty hand searched the next Infernity piece.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2010-03-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2010-03-metagame/",
+          "https://yugioh-history.com/environment/generation-six-31"
+        ]
+      }
+    },
+    {
+      "id": 66957584,
+      "name": "Infernity Launcher",
+      "why": "An empty-handed Infernity player could use it to revive two monsters and trigger Archfiend again.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2010-03-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2010-03-metagame/",
+          "https://yugioh-history.com/environment/generation-six-31"
+        ]
+      }
+    },
+    {
+      "id": 56209279,
+      "name": "Infernity Necromancer",
+      "why": "With no cards in hand it could revive Archfiend, adding a monster to the field and a search to the sequence.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2010-03-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2010-03-metagame/",
+          "https://yugioh-history.com/environment/generation-six-31"
+        ]
+      }
+    },
+    {
+      "id": 49080532,
+      "name": "Infernity Beetle",
+      "why": "With an empty hand it could trade itself for two more Beetles, supplying Tuners for a Synchro sequence.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2010-03-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2010-03-metagame/",
+          "https://yugioh-history.com/environment/generation-six-31"
+        ]
+      }
+    },
+    {
+      "id": 86197239,
+      "name": "Infernity Mirage",
+      "why": "Tributing it with an empty hand revived two Infernity monsters, often restarting a chain of searches and Synchro Summons.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2010-03-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2010-03-metagame/",
+          "https://yugioh-history.com/environment/generation-six-31"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_examples",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "same_banlist_community_examples",
+        "source_url": "https://roadoftheking.com/ocg-2010-03-metagame/",
+        "deck_count": 3,
+        "relationship": "Road of the King illustrates its 2010-03-01 to 2010-08-31 OCG tournament review with these decklists. The dates and placements of the individual examples are unspecified. Counts cover positively identified cards legal in the snapshot.",
+        "period_start": "2010-03-01",
+        "period_end": "2010-08-31",
+        "source_images": [
+          "OCG201003_Infernity",
+          "OCG201003_Blackwing",
+          "OCG201003_FrogMonarch"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-six-31",
+      "https://yugioh-history.com/environment/generation-six-35",
+      "https://roadoftheking.com/ocg-2010-03-metagame/"
+    ]
+  }
+}

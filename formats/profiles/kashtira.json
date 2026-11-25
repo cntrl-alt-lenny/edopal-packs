@@ -1,0 +1,185 @@
+{
+  "id": "kashtira",
+  "name": "Kashtira",
+  "date": "2023-07-08",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Kashtira took both finalist places at the July 2023 North American World Championship Qualifier. The deck could summon its Level 7 monsters without tributes and use Arise-Heart to banish cards that would otherwise go to the Graveyard.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/kashtira",
+  "description_urls": [
+    "https://formatlibrary.com/formats/kashtira",
+    "https://formatlibrary.com/events/NAWCQ23",
+    "https://formatlibrary.com/decks/48958",
+    "https://www.yugiohtopdecks.org/deck/9721"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 48626373,
+      "name": "Kashtira Arise-Heart",
+      "why": "It banished cards that would go to the Graveyard and could detach three materials to banish a field card face-down.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9721",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9707"
+        ]
+      }
+    },
+    {
+      "id": 32909498,
+      "name": "Kashtira Fenrir",
+      "why": "It searched another Kashtira and could banish an opposing face-up card face-down after an opposing monster effect or its own attack declaration.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9721",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9707"
+        ]
+      }
+    },
+    {
+      "id": 68304193,
+      "name": "Kashtira Unicorn",
+      "why": "Its summon line found Kashtiratheosis, while its other effect could remove a key card from the opponent's Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9721",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9707"
+        ]
+      }
+    },
+    {
+      "id": 73542331,
+      "name": "Kashtira Shangri-Ira",
+      "why": "Cards banished face-down could lock unused opposing zones, and its Standby Phase effect summoned a Kashtira from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9721",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9707"
+        ]
+      }
+    },
+    {
+      "id": 34447918,
+      "name": "Kashtiratheosis",
+      "why": "It brought out a differently attributed Kashtira from the Deck and could recover a banished Kashtira card when banished itself.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9721",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9707"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 13,
+    "fl_events": [
+      "DLO07",
+      "EUWCQ23",
+      "NAWCQ23"
+    ],
+    "fl_deck_ids": [
+      48958,
+      48959,
+      48960,
+      48961,
+      48962,
+      48963,
+      48995,
+      48996,
+      48997,
+      48998,
+      48999,
+      49000,
+      54223
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9721",
+        "deck_count": 24,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9707",
+          "https://www.yugiohtopdecks.org/deck/9708",
+          "https://www.yugiohtopdecks.org/deck/9709",
+          "https://www.yugiohtopdecks.org/deck/9710",
+          "https://www.yugiohtopdecks.org/deck/9711",
+          "https://www.yugiohtopdecks.org/deck/9712",
+          "https://www.yugiohtopdecks.org/deck/9713",
+          "https://www.yugiohtopdecks.org/deck/9714",
+          "https://www.yugiohtopdecks.org/deck/9715",
+          "https://www.yugiohtopdecks.org/deck/9716",
+          "https://www.yugiohtopdecks.org/deck/9717",
+          "https://www.yugiohtopdecks.org/deck/9718",
+          "https://www.yugiohtopdecks.org/deck/9719",
+          "https://www.yugiohtopdecks.org/deck/9720",
+          "https://www.yugiohtopdecks.org/deck/9721",
+          "https://www.yugiohtopdecks.org/deck/9722",
+          "https://www.yugiohtopdecks.org/deck/9723",
+          "https://www.yugiohtopdecks.org/deck/9724",
+          "https://www.yugiohtopdecks.org/deck/9725",
+          "https://www.yugiohtopdecks.org/deck/9726",
+          "https://www.yugiohtopdecks.org/deck/9727",
+          "https://www.yugiohtopdecks.org/deck/9728",
+          "https://www.yugiohtopdecks.org/deck/9729",
+          "https://www.yugiohtopdecks.org/deck/9751"
+        ],
+        "tournaments": [
+          "WCQ - North America",
+          "NAWCQ 2023"
+        ],
+        "months": [
+          "July 2023"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9721"
+    ]
+  }
+}

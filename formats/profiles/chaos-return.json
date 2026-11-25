@@ -1,0 +1,173 @@
+{
+  "id": "chaos-return",
+  "name": "Chaos Return",
+  "date": "2006-08-12",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Chaos Return is a GX era format shaped by the return of Graceful Charity and a second Magician of Faith, ushering in a brief period of slower gameplay. Since Reaper Format, Enemy of Justice (EOJ) was introduced, while Dark Hole was Forbidden, and Treeborn Frog and Last Will were Limited. Notable additions include Banisher of the Radiance, Dimensional Fissure, and Macro Cosmos. The format was historically dominated by Chaos decks, most memorably, Chaos Return. As the metagame developed, Chaos Recruiter and Chaos Control decks featuring Royal Decree began to emerge.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/chaos-return",
+  "description_urls": [
+    "https://formatlibrary.com/formats/chaos-return"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 9596126,
+      "name": "Chaos Sorcerer",
+      "why": "Banishing a LIGHT and a DARK from the Graveyard summoned a threat that could remove a face-up monster every turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2986",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2986"
+        ]
+      }
+    },
+    {
+      "id": 27174286,
+      "name": "Return from the Different Dimension",
+      "why": "Half the player's LP brought back a field of banished monsters for one turn, turning earlier banish costs into a finishing attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2986",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2986"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2986",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2986"
+        ]
+      }
+    },
+    {
+      "id": 31560081,
+      "name": "Magician of Faith",
+      "why": "Its Flip Effect returned a spent Spell to the hand, giving Chaos decks another use of Heavy Storm or Graceful Charity.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2986",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2986",
+          "https://formatlibrary.com/formats/chaos-return"
+        ]
+      }
+    },
+    {
+      "id": 7572887,
+      "name": "D.D. Warrior Lady",
+      "why": "She could banish herself and the monster she battled, removing threats such as Vampire Lord without sending them to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2986",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2986"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "DENC06",
+      "SJCIND06",
+      "SJCPHI06",
+      "SORC06"
+    ],
+    "fl_deck_ids": [
+      3032,
+      3033,
+      3034,
+      3035,
+      3036,
+      3037,
+      22366,
+      22367,
+      22368,
+      22376,
+      22381,
+      22382,
+      23716,
+      23717,
+      23718,
+      23719,
+      23749,
+      23750,
+      72350
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2986",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2986",
+          "https://www.yugiohtopdecks.org/deck/2987",
+          "https://www.yugiohtopdecks.org/deck/2988",
+          "https://www.yugiohtopdecks.org/deck/2989",
+          "https://www.yugiohtopdecks.org/deck/2990",
+          "https://www.yugiohtopdecks.org/deck/2991",
+          "https://www.yugiohtopdecks.org/deck/2992",
+          "https://www.yugiohtopdecks.org/deck/2993"
+        ],
+        "tournaments": [
+          "2006 Shonen Jump: Indianapolis"
+        ],
+        "months": [
+          "August 2006"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2986"
+    ]
+  }
+}

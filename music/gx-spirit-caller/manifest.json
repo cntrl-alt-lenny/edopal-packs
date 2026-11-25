@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-gx-spirit-caller",
+  "kind": "music",
+  "name": "GX Spirit Caller",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! GX Spirit Caller",
+  "series": "GX",
+  "year": 2006,
+  "platform": "Nintendo DS",
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! GX Spirit Caller — Box - Front (North America)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/c1170001-c37e-447e-9a4f-b09713ceaa10.jpg",
+    "original_resolution": [
+      640,
+      575
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! GX Spirit Caller — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/14902"
+    }
+  ],
+  "files": {
+    "cover.webp": "a9ca34cd76961fcb31be52a28549bf7c48dc77b749cc1e75ad8a70c09a31c30e"
+  }
+}

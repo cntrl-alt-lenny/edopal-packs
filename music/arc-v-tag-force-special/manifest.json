@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "id": "music-arc-v-tag-force-special",
+  "kind": "music",
+  "name": "ARC-V Tag Force Special",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! ARC-V Tag Force Special",
+  "series": "Crossover",
+  "year": 2015,
+  "platform": "PSP, PlayStation Vita",
+  "platforms": [
+    "PSP",
+    "PlayStation Vita"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Square",
+    "description": "Yu-Gi-Oh! ARC-V Tag Force Special — Square (Japan)",
+    "platform": "Sony PSP",
+    "source_url": "https://images.launchbox-app.com/563a405f-a202-4347-a574-2672116c81be.jpg",
+    "original_resolution": [
+      640,
+      640
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! ARC-V Tag Force Special — Square (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26223"
+    }
+  ],
+  "files": {
+    "cover.webp": "ac981cde11ddec2ea41254ca387587987ea70b2495d5ae2f1cd669e5d5432846"
+  }
+}

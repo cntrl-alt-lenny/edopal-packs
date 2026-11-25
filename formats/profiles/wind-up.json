@@ -1,0 +1,185 @@
+{
+  "id": "wind-up",
+  "name": "Wind-Up",
+  "date": "2012-10-21",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": true,
+  "description": "Wind-Up is a Zexal era format and recently became one of the more popular retro Yu-Gi-Oh! formats. Some players call the format “REDU Format” because the latest core set available is Return of the Duelist (REDU). The most notable addition is the Geargia archetype. This format’s name comes from the iconic Wind-Up deck that emerged from the banlist with a lower ceiling (no hand loop) but similar consistency. While the Wind-Up deck is quite strong, many other decks are competitive in the modern metagame, including Dark World, Chaos Dragon, Geargia, Dino Rabbit, and Hero variants.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/wind-up",
+  "description_urls": [
+    "https://formatlibrary.com/formats/wind-up"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 81122844,
+      "name": "Wind-Up Carrier Zenmaity",
+      "why": "The Rank 3 fetched another Wind-Up from the Deck, extending sequences that started with Rat or Shark.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1986",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1995"
+        ]
+      }
+    },
+    {
+      "id": 59297550,
+      "name": "Wind-Up Magician",
+      "why": "Another Wind-Up's effect could trigger Magician to fetch a second monster from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1986",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1995"
+        ]
+      }
+    },
+    {
+      "id": 25484449,
+      "name": "Wind-Up Shark",
+      "why": "It joined a Wind-Up summon from the hand and adjusted its Level for different Xyz plays.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1986",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1995"
+        ]
+      }
+    },
+    {
+      "id": 54719828,
+      "name": "Number 16: Shock Master",
+      "why": "Three Level 4 monsters let an Xyz deck shut off one class of card effects or activations through the opponent's turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1986",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1986"
+        ]
+      }
+    },
+    {
+      "id": 71564252,
+      "name": "Thunder King Rai-Oh",
+      "why": "Its 1,900 ATK and search lock put pressure on engine decks before either player reached the Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1986",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1986"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 21,
+    "fl_events": [
+      "GERW00",
+      "RIVALS04",
+      "YCSIND12",
+      "YCSPROV12",
+      "YCSTOR12"
+    ],
+    "fl_deck_ids": [
+      3969,
+      3970,
+      3971,
+      3972,
+      3973,
+      3974,
+      35646,
+      35647,
+      35648,
+      35649,
+      35692,
+      35725,
+      35726,
+      35727,
+      35728,
+      35729,
+      35730,
+      85861,
+      85862,
+      86763,
+      86778
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/1986",
+        "deck_count": 18,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1986",
+          "https://www.yugiohtopdecks.org/deck/1987",
+          "https://www.yugiohtopdecks.org/deck/1988",
+          "https://www.yugiohtopdecks.org/deck/1989",
+          "https://www.yugiohtopdecks.org/deck/1990",
+          "https://www.yugiohtopdecks.org/deck/1991",
+          "https://www.yugiohtopdecks.org/deck/1992",
+          "https://www.yugiohtopdecks.org/deck/1993",
+          "https://www.yugiohtopdecks.org/deck/1994",
+          "https://www.yugiohtopdecks.org/deck/1995",
+          "https://www.yugiohtopdecks.org/deck/1996",
+          "https://www.yugiohtopdecks.org/deck/1997",
+          "https://www.yugiohtopdecks.org/deck/1998",
+          "https://www.yugiohtopdecks.org/deck/1999",
+          "https://www.yugiohtopdecks.org/deck/2001",
+          "https://www.yugiohtopdecks.org/deck/2002",
+          "https://www.yugiohtopdecks.org/deck/2003",
+          "https://www.yugiohtopdecks.org/deck/2004"
+        ],
+        "tournaments": [
+          "2012 YCS Providence"
+        ],
+        "months": [
+          "October 2012"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/1986"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "decode",
+  "name": "Decode",
+  "date": "2017-10-07",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "Decode captures the October 2017 Guadalajara championship, when Pendulum Magician, True Draco and Invoked decks all saw play. Aleister the Invoker searched Invocation, which could use a monster from either Graveyard as material for an Invoked Fusion.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/decode",
+  "description_urls": [
+    "https://formatlibrary.com/formats/decode",
+    "https://formatlibrary.com/events/YCSGDL17",
+    "https://formatlibrary.com/decks/87702",
+    "https://www.yugiohtopdecks.org/deck/6787"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 86120751,
+      "name": "Aleister the Invoker",
+      "why": "Its Normal Summon found Invocation, turning a single card into access to an Invoked Fusion Monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    },
+    {
+      "id": 1861629,
+      "name": "Decode Talker",
+      "why": "Its downward arrows gave combo decks two zones for additional Extra Deck summons under Master Rule 4.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6787",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6787"
+        ]
+      }
+    },
+    {
+      "id": 21377582,
+      "name": "Master Peace, the True Dracoslaying King",
+      "why": "The types of cards Tributed for it determined its immunities, while Continuous cards in the Graveyard fueled its destruction effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6787",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6789"
+        ]
+      }
+    },
+    {
+      "id": 75286621,
+      "name": "Invoked Mechaba",
+      "why": "Sending a card of the matching type from hand to the Graveyard let Mechaba negate an activation and banish the card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    },
+    {
+      "id": 13035077,
+      "name": "Dragonic Diagram",
+      "why": "Destroying another card the player controlled or a card in their hand searched a True Draco or True King card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6787",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6789"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 7,
+    "fl_events": [
+      "VRAINS10",
+      "YCSGDL17"
+    ],
+    "fl_deck_ids": [
+      65514,
+      65515,
+      65516,
+      65517,
+      65518,
+      65519,
+      87702
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/6787",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6787",
+          "https://www.yugiohtopdecks.org/deck/6788",
+          "https://www.yugiohtopdecks.org/deck/6789",
+          "https://www.yugiohtopdecks.org/deck/6790",
+          "https://www.yugiohtopdecks.org/deck/6791",
+          "https://www.yugiohtopdecks.org/deck/6792",
+          "https://www.yugiohtopdecks.org/deck/6793",
+          "https://www.yugiohtopdecks.org/deck/6794"
+        ],
+        "tournaments": [
+          "YCS - Guadalajara Mexico"
+        ],
+        "months": [
+          "October 2017"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      65533,
+      65534,
+      65535,
+      65536,
+      65537,
+      65538,
+      65553,
+      65554,
+      65555,
+      65556,
+      65557,
+      65558
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/6787"
+    ]
+  }
+}

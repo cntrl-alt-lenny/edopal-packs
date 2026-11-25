@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2005",
+  "kind": "music",
+  "name": "7 Trials to Glory",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005",
+  "series": "Duel Monsters",
+  "year": 2004,
+  "platform": "Game Boy Advance",
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "aliases": [
+    "Day of the Duelist: World Championship Tournament 2005",
+    "Duel Monsters International 2"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 — Box - Front (North America)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/7053f9ce-590d-4f5f-bad6-566b71bfc28d.png",
+    "original_resolution": [
+      1530,
+      1530
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/4148"
+    }
+  ],
+  "files": {
+    "cover.webp": "75d9cda3e6eaaefc49fdf0bb6dea0044632c28ed6593224cceaa435252cb8106"
+  }
+}

@@ -3,28 +3,37 @@
   "id": "music-world-championship-2007",
   "kind": "music",
   "name": "World Championship 2007",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! World Championship 2007",
+  "series": "GX",
   "year": 2007,
   "platform": "Nintendo DS",
-  "cover": "cover.webp",
-  "tracks": [],
-  "credits": [
-    {
-      "what": "Yu-Gi-Oh! World Championship 2007 - Box - Front Image (North America)",
-      "source": "LaunchBox Games Database",
-      "url": "https://gamesdb.launchbox-app.com/games/images/26507-yu-gi-oh-world-championship-2007"
-    }
+  "platforms": [
+    "Nintendo DS"
   ],
-  "files": {
-    "cover.webp": "aac009ca94d1d3e1a7d76b4b5a9861b5648f2fde5ddfece0159dd9c3409ed1bf"
-  },
+  "cover": "cover.webp",
+  "cover_region": "North America",
   "cover_attribution": {
-    "source_url": "https://images.launchbox-app.com/ff8715c5-a336-4172-beda-547a1672a73a.jpg",
     "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! World Championship 2007 — Box - Front (North America)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/ff8715c5-a336-4172-beda-547a1672a73a.jpg",
     "original_resolution": [
       789,
       703
     ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! World Championship 2007 — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26231"
+    }
+  ],
+  "files": {
+    "cover.webp": "205676dc795bcb401eba9d6d0f3f4ff89a794f45b5b140a9a0a22bd9679a29ee"
   }
 }

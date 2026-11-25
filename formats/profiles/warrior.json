@@ -1,0 +1,174 @@
+{
+  "id": "warrior",
+  "name": "Warrior",
+  "date": "2005-02-13",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Warrior Format is the final DM era format and the first to feature a banlist. The latest core sets are Ancient Sanctuary (AST), Soul of the Duelist (SOD), and Rise of Destiny (ROD). Notable additions include D.D. Assailant, Monarchs, and Monster Gate. A consequential banlist change is that Chaos Emperor Dragon - Envoy of the End is now Forbidden. The format’s name comes from the historically successful Warrior Control deck, though the modern metagame is quite diverse. During this format, the Shonen Jump Championship series began, with Metagame.com providing live-coverage to a global audience.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/warrior",
+  "description_urls": [
+    "https://formatlibrary.com/formats/warrior"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 70074904,
+      "name": "D.D. Assailant",
+      "why": "Destroying this 1700 ATK Warrior in battle also banished the attacker, making even a set Assailant awkward to challenge.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3160",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3160",
+          "https://formatlibrary.com/formats/warrior"
+        ]
+      }
+    },
+    {
+      "id": 72989439,
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "why": "A spent LIGHT and DARK monster put 3000 ATK on the field, with a choice between banishing a monster and attacking twice.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3160",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3160"
+        ]
+      }
+    },
+    {
+      "id": 7572887,
+      "name": "D.D. Warrior Lady",
+      "why": "She could banish herself and the monster she battled, removing threats such as Vampire Lord without sending them to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3160",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3160"
+        ]
+      }
+    },
+    {
+      "id": 39507162,
+      "name": "Blade Knight",
+      "why": "It reached 2000 ATK with one or fewer cards in hand and could negate defeated Flip monsters when it was the only friendly monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3160",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3160"
+        ]
+      }
+    },
+    {
+      "id": 504700055,
+      "name": "Reinforcement of the Army",
+      "why": "It searched a low-Level Warrior, so a single copy of a specialist such as Exiled Force could answer several different opening hands.",
+      "has_art": true,
+      "printing_name": "Reinforcement of the Army (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3160",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3160"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "DMD11",
+      "SJCCOL05",
+      "SJCLV05",
+      "SJCORL05"
+    ],
+    "fl_deck_ids": [
+      3006,
+      3008,
+      3009,
+      3010,
+      3011,
+      3012,
+      3440,
+      3441,
+      3442,
+      3443,
+      3444,
+      3445,
+      3992,
+      3993,
+      4060,
+      4061,
+      4062,
+      4063,
+      76838
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/3160",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3160",
+          "https://www.yugiohtopdecks.org/deck/3161",
+          "https://www.yugiohtopdecks.org/deck/3162",
+          "https://www.yugiohtopdecks.org/deck/3163",
+          "https://www.yugiohtopdecks.org/deck/3164",
+          "https://www.yugiohtopdecks.org/deck/3165",
+          "https://www.yugiohtopdecks.org/deck/3166",
+          "https://www.yugiohtopdecks.org/deck/3167"
+        ],
+        "tournaments": [
+          "2005 Shonen Jump Columbus"
+        ],
+        "months": [
+          "February 2005"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/3160"
+    ]
+  }
+}

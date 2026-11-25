@@ -1,0 +1,174 @@
+{
+  "id": "gladiator",
+  "name": "Gladiator",
+  "date": "2008-07-26",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Gladiator Format is the final GX era format and it’s defined by the “emergency ban” of Dimension Fusion and the “emergency limit” of Return from the Different Dimension. Since DAD Return, Light of Destruction (LODT) was introduced. Notable additions include the Lightsworn archetype, Honest, Gladiator Beast Gyzarus, Substitoad, and Fossil Dyna. The metagame revolves around the near full-power Gladiator Beast deck, which has access to 3 copies of Cold Wave and 3 copies of Gladiator Beast Bestiari.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/gladiator",
+  "description_urls": [
+    "https://formatlibrary.com/formats/gladiator"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 48156348,
+      "name": "Gladiator Beast Gyzarus",
+      "why": "Returning Bestiari and another Gladiator Beast summoned it without Polymerization, destroyed up to two cards and threatened two fresh Gladiators after battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2541",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2541",
+          "https://formatlibrary.com/formats/gladiator"
+        ]
+      }
+    },
+    {
+      "id": 41470137,
+      "name": "Gladiator Beast Bestiari",
+      "why": "Another Gladiator Beast could bring it out to destroy a Spell or Trap, then pair with it to summon Gyzarus.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2541",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2541",
+          "https://formatlibrary.com/formats/gladiator"
+        ]
+      }
+    },
+    {
+      "id": 92373006,
+      "name": "Test Tiger",
+      "why": "It exchanged a Gladiator Beast for one from the Deck and activated the replacement's summon effect before either monster had to battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2541",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2541"
+        ]
+      }
+    },
+    {
+      "id": 78868776,
+      "name": "Gladiator Beast Laquari",
+      "why": "Tagging it in gave it 2100 ATK, letting Gladiator Beasts win another battle and exchange it for the next specialist.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2541",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2541"
+        ]
+      }
+    },
+    {
+      "id": 65192027,
+      "name": "Dark Armed Dragon",
+      "why": "Exactly three DARK monsters in the Graveyard enabled its summon, then each DARK banished from there could destroy a field card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2541",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2544"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "GBW04",
+      "SJCPHI08",
+      "SJCTOR08",
+      "USNC08"
+    ],
+    "fl_deck_ids": [
+      3480,
+      3481,
+      3482,
+      3483,
+      3484,
+      3485,
+      24694,
+      24695,
+      24696,
+      24697,
+      24698,
+      24699,
+      24726,
+      24727,
+      24728,
+      24729,
+      24730,
+      24739,
+      84695
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2541",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2541",
+          "https://www.yugiohtopdecks.org/deck/2542",
+          "https://www.yugiohtopdecks.org/deck/2543",
+          "https://www.yugiohtopdecks.org/deck/2544",
+          "https://www.yugiohtopdecks.org/deck/2545",
+          "https://www.yugiohtopdecks.org/deck/2546",
+          "https://www.yugiohtopdecks.org/deck/2547",
+          "https://www.yugiohtopdecks.org/deck/2548"
+        ],
+        "tournaments": [
+          "2008 US Nationals"
+        ],
+        "months": [
+          "June 2008"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2541"
+    ]
+  }
+}

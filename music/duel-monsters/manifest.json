@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-duel-monsters",
+  "kind": "music",
+  "name": "Duel Monsters",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Monsters",
+  "series": "Duel Monsters",
+  "year": 1998,
+  "platform": "Game Boy",
+  "platforms": [
+    "Game Boy"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Duel Monsters — Box - Front (Japan)",
+    "platform": "Nintendo Game Boy",
+    "source_url": "https://images.launchbox-app.com/ae3d0c9d-048e-4cc0-b356-41a3e50bde82.jpg",
+    "original_resolution": [
+      592,
+      739
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Duel Monsters — Box - Front (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26238"
+    }
+  ],
+  "files": {
+    "cover.webp": "2483e241c6edf186e6c5366b612f278158a215a0242cb1263abff96ba9c7d3b3"
+  }
+}

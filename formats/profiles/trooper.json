@@ -1,0 +1,181 @@
+{
+  "id": "trooper",
+  "name": "Trooper",
+  "date": "2007-08-18",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Trooper is a GX era format known for its explosive gameplay and open-ended deck building. Since Demise Format, Force of the Breaker (FOTB) was introduced, while Magical Stone Excavation was “emergency” Limited. Notable additions include Raiza the Storm Monarch, Green Baboon, Defender of the Forest, and the Volcanic archetype. The format was defined by the Destiny HERO engine and the Card Trooper + Machine Duplication combo. It was the final format to feature pre-errata Brain Control and Trap Dustshoot at 3 copies.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/trooper",
+  "description_urls": [
+    "https://formatlibrary.com/formats/trooper"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 85087012,
+      "name": "Card Trooper",
+      "why": "It sent up to three cards from the Deck to the Graveyard, reached 1900 ATK and replaced itself with a draw when destroyed on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 20,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2827",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2827",
+          "https://formatlibrary.com/formats/trooper"
+        ]
+      }
+    },
+    {
+      "id": 511002995,
+      "name": "Brain Control",
+      "why": "For 800 LP it borrowed an opposing face-up monster, which could attack and then become tribute material for a Monarch.",
+      "has_art": true,
+      "printing_name": "Brain Control (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 20,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2827",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2828",
+          "https://formatlibrary.com/formats/trooper"
+        ]
+      }
+    },
+    {
+      "id": 63995093,
+      "name": "Machine Duplication",
+      "why": "Targeting Card Trooper before it raised its ATK brought out two more copies, each able to load the Graveyard and attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2827",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2828",
+          "https://formatlibrary.com/formats/trooper"
+        ]
+      }
+    },
+    {
+      "id": 73125233,
+      "name": "Raiza the Storm Monarch",
+      "why": "Its Tribute Summon returned a field card to the top of its owner's Deck, often making the opponent draw the same card again.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2827",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2828",
+          "https://formatlibrary.com/formats/trooper"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2827",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2828"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 22,
+    "fl_events": [
+      "DUMP09",
+      "SJCIND07",
+      "SJCPHI07",
+      "TROOP03",
+      "USNC07"
+    ],
+    "fl_deck_ids": [
+      3416,
+      3417,
+      3418,
+      3419,
+      3420,
+      3421,
+      23922,
+      23923,
+      23924,
+      23925,
+      23926,
+      23927,
+      24047,
+      24048,
+      24055,
+      24056,
+      24057,
+      24058,
+      74650,
+      74654,
+      75068,
+      75073
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2827",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2827",
+          "https://www.yugiohtopdecks.org/deck/2828",
+          "https://www.yugiohtopdecks.org/deck/2829",
+          "https://www.yugiohtopdecks.org/deck/2830",
+          "https://www.yugiohtopdecks.org/deck/2831",
+          "https://www.yugiohtopdecks.org/deck/2832",
+          "https://www.yugiohtopdecks.org/deck/2833",
+          "https://www.yugiohtopdecks.org/deck/2834"
+        ],
+        "tournaments": [
+          "2007 SJ Indianapolis"
+        ],
+        "months": [
+          "August 2007"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2827"
+    ]
+  }
+}

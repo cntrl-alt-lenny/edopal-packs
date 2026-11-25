@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-falsebound-kingdom",
+  "kind": "music",
+  "name": "The Falsebound Kingdom",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+  "series": "Duel Monsters",
+  "year": 2002,
+  "platform": "GameCube",
+  "platforms": [
+    "GameCube"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! The Falsebound Kingdom — Box - Front (North America)",
+    "platform": "Nintendo GameCube",
+    "source_url": "https://images.launchbox-app.com/4189a3a0-a0cf-46ab-bf30-220d97ab8bfe.png",
+    "original_resolution": [
+      1562,
+      2210
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! The Falsebound Kingdom — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/29725"
+    }
+  ],
+  "files": {
+    "cover.webp": "a6f08124fddd2355235d6052413f097374640ed7d5be1f79d286a89acaabd61c"
+  }
+}

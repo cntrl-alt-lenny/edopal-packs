@@ -1,0 +1,120 @@
+{
+  "id": "makyura",
+  "name": "Makyura",
+  "date": "2002-01-01",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "The original Makyura the Destructor let its owner activate Traps from the hand after it reached the Graveyard. Exchange of the Spirit decks exploited that timing to threaten a win before the opponent had taken a turn.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/makyura",
+  "description_urls": [
+    "https://formatlibrary.com/formats/makyura",
+    "https://yugioh-history.com/environment/generation-two-39",
+    "https://yugioh-history.com/environment/generation-two-41"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 21593977,
+      "name": "Makyura the Destructor",
+      "why": "Its original effect allowed Traps to be activated from the hand the turn it reached the Graveyard, accelerating otherwise slow draw combinations.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-39"
+        ]
+      }
+    },
+    {
+      "id": 72892473,
+      "name": "Card Destruction",
+      "why": "Replacing both hands could disrupt an opponent holding a combo while loading the Graveyard for the player's own effects.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+          "https://yugioh-history.com/environment/generation-two-39"
+        ]
+      }
+    },
+    {
+      "id": 17484499,
+      "name": "Exchange of the Spirit",
+      "why": "Its original effect could swap an opponent's nearly empty Graveyard with their Deck, setting up a loss at their next required draw.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-39"
+        ]
+      }
+    },
+    {
+      "id": 29762407,
+      "name": "Temple of the Kings",
+      "why": "The period version let its controller activate Traps on the turn they were set, speeding up Exchange of the Spirit.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-39"
+        ]
+      }
+    },
+    {
+      "id": 74191942,
+      "name": "Painful Choice",
+      "why": "It sent four of five selected cards to the Graveyard, setting up revival and Graveyard effects even when the opponent chose the weakest card to keep.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+          "https://yugioh-history.com/environment/generation-two-39"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_reconstructions",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "compatible_period_reconstruction",
+        "source_url": "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+        "deck_count": 1,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+          "https://yugioh-history.com/deck-list/generation-two"
+        ],
+        "sample_date": "2001-05-28",
+        "relationship": "The Japanese timeline lists Card of Safe Return Exodia alongside Yata-Lock, Exchange of the Spirit and Last Turn in January 2002. This May 28 build of that same competing strategy has 40 Main cards, all within the January 1 pool and limits. The list predates Makyura and does not measure Makyura play."
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-two-39",
+      "https://yugioh-history.com/environment/generation-two-41",
+      "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "hypernova",
+  "name": "Hypernova",
+  "date": "2023-02-12",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "The February 2023 Lyon championship paired the new Photon Hypernova cards with the December 2022 list. Tearlaments still had access to Kitkallos, and the expanded Kashtira engine could turn banished cards into material for Arise-Heart.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/hypernova",
+  "description_urls": [
+    "https://formatlibrary.com/formats/hypernova",
+    "https://formatlibrary.com/events/YCSLYON23",
+    "https://www.yugiohtopdecks.org/deck/9456"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 4928565,
+      "name": "Tearlaments Kashtira",
+      "why": "Its hand summon could banish a Tearlaments or Kashtira card, then mill three cards from either player's Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9436",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9450"
+        ]
+      }
+    },
+    {
+      "id": 92731385,
+      "name": "Tearlaments Kitkallos",
+      "why": "Kitkallos could search or send a Tearlaments card, then send the top five cards of the Deck to the Graveyard when sent there by an effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9436",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9443"
+        ]
+      }
+    },
+    {
+      "id": 48626373,
+      "name": "Kashtira Arise-Heart",
+      "why": "It banished cards that would go to the Graveyard and could detach three materials to banish a field card face-down.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9436",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9443"
+        ]
+      }
+    },
+    {
+      "id": 63542003,
+      "name": "Keldo the Sacred Protector",
+      "why": "Its Graveyard Quick Effect shuffled cards back into the Deck, disrupting opposing Tearlaments Fusion materials.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9436",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9450"
+        ]
+      }
+    },
+    {
+      "id": 37961969,
+      "name": "Tearlaments Havnis",
+      "why": "An opposing field monster's activated effect could let Havnis summon itself, mill three cards and start a Fusion play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9436",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9450"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 1,
+    "fl_events": [
+      "HYPE01"
+    ],
+    "fl_deck_ids": [
+      85795
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9436",
+        "deck_count": 13,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9435",
+          "https://www.yugiohtopdecks.org/deck/9436",
+          "https://www.yugiohtopdecks.org/deck/9440",
+          "https://www.yugiohtopdecks.org/deck/9443",
+          "https://www.yugiohtopdecks.org/deck/9444",
+          "https://www.yugiohtopdecks.org/deck/9450",
+          "https://www.yugiohtopdecks.org/deck/9455",
+          "https://www.yugiohtopdecks.org/deck/9456",
+          "https://www.yugiohtopdecks.org/deck/9457",
+          "https://www.yugiohtopdecks.org/deck/9458",
+          "https://www.yugiohtopdecks.org/deck/9459",
+          "https://www.yugiohtopdecks.org/deck/9460",
+          "https://www.yugiohtopdecks.org/deck/9461"
+        ],
+        "tournaments": [
+          "YCS - Lyon France"
+        ],
+        "months": [
+          "February 2023"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9436"
+    ]
+  }
+}

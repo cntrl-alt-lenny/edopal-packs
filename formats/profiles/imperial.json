@@ -1,0 +1,118 @@
+{
+  "id": "imperial",
+  "name": "Imperial",
+  "date": "2003-02-16",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Imperial Format is a DM era format that predates the first banlist. The latest core set is Pharaoh’s Servant (PSV). Notable additions include Jinzo, Nobleman of Crossout, Premature Burial, Call of the Haunted, and Imperial Order. This format introduces the game’s first good counter to power Spells in Imperial Order and its first true boss Monster in Jinzo.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/imperial",
+  "description_urls": [
+    "https://formatlibrary.com/formats/imperial"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "why": "Its 2400 ATK and continuous suppression of Traps made a single tribute enough to attack through a defended field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+          "https://formatlibrary.com/formats/imperial"
+        ]
+      }
+    },
+    {
+      "id": 511002996,
+      "name": "Imperial Order",
+      "why": "Flipping it in response to a power Spell could negate that play and leave the opponent's other Spells ineffective while Order stayed face-up.",
+      "has_art": true,
+      "printing_name": "Imperial Order (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+          "https://formatlibrary.com/formats/imperial"
+        ]
+      }
+    },
+    {
+      "id": 83011277,
+      "name": "Mystic Tomato",
+      "why": "Losing it in battle could bring Sangan or another small DARK monster straight from the Deck, keeping a monster in play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16
+      }
+    },
+    {
+      "id": 97077563,
+      "name": "Call of the Haunted",
+      "why": "Reviving a monster during the opponent's turn provided a surprise defender or an attacker ready for the next turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+          "https://formatlibrary.com/formats/imperial"
+        ]
+      }
+    },
+    {
+      "id": 71044499,
+      "name": "Nobleman of Crossout",
+      "why": "It removed a set monster before its Flip Effect could resolve and could strip matching Flip monsters from both Decks.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+          "https://formatlibrary.com/formats/imperial"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 16,
+    "fl_events": [
+      "SPQR08",
+      "SPQR09",
+      "YFZ14"
+    ],
+    "fl_deck_ids": [
+      38348,
+      38349,
+      38350,
+      38360,
+      62055,
+      62057,
+      62061,
+      62066,
+      62067,
+      62070,
+      77535,
+      77538,
+      77539,
+      77540,
+      77542,
+      77545
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+    ]
+  }
+}

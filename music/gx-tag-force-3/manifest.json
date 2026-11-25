@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-gx-tag-force-3",
+  "kind": "music",
+  "name": "GX Tag Force 3",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! GX Tag Force 3",
+  "series": "GX",
+  "year": 2008,
+  "platform": "PSP",
+  "platforms": [
+    "PSP"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Europe",
+  "cover_attribution": {
+    "region": "Europe",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! GX: Tag Force 3 — Box - Front (Europe)",
+    "platform": "Sony PSP",
+    "source_url": "https://images.launchbox-app.com/3d2990ce-babf-4e82-af2c-1149f2e91c06.jpg",
+    "original_resolution": [
+      793,
+      1352
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! GX: Tag Force 3 — Box - Front (Europe)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26225"
+    }
+  ],
+  "files": {
+    "cover.webp": "7797fd27ff24ef683df1555cae576cc03917c4f197f1ddabf81009cc00fc0a77"
+  }
+}

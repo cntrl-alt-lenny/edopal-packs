@@ -1,0 +1,156 @@
+{
+  "id": "doom",
+  "name": "Doom",
+  "date": "2025-11-23",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Doom uses the November 2025 YCS Bologna card pool, where Vanquish Soul, Yummy, Maliss and Mitsurugi lists all placed. K9 cards gave some decks access to Rank 5 Xyz Monsters, while Yummy built its Synchro plays around Level 1 Beasts.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/doom",
+  "description_urls": [
+    "https://formatlibrary.com/formats/doom",
+    "https://formatlibrary.com/events/YCSBOL25",
+    "https://ygoprodeck.com/tournament/x-3864"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 29302858,
+      "name": "Vanquish Soul Razen",
+      "why": "Its summon searched a non-Warrior Vanquish Soul, giving K9 Vanquish Soul access to its tag-out monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/x-3864",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/k9-vanquish-soul-668241"
+        ]
+      }
+    },
+    {
+      "id": 42141493,
+      "name": "Mulcharmy Fuwalos",
+      "why": "Discarding it with an empty field let the player draw as the opponent Special Summoned from the Deck or Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/x-3864",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/k9-vanquish-soul-668241"
+        ]
+      }
+    },
+    {
+      "id": 92895501,
+      "name": "Vanquish Soul Heavy Borger",
+      "why": "Its hand effect returned another Vanquish Soul to hand to summon itself, preserving a monster under pressure.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/x-3864",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/k9-vanquish-soul-668241"
+        ]
+      }
+    },
+    {
+      "id": 28168628,
+      "name": "Rock of the Vanquisher",
+      "why": "It could return a Vanquish Soul monster from the Graveyard to hand or summon one from hand.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/x-3864",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/k9-vanquish-soul-668241"
+        ]
+      }
+    },
+    {
+      "id": 14558127,
+      "name": "Ash Blossom & Joyous Spring",
+      "why": "Its discard could interrupt an effect that searched, summoned from the Deck or sent a card from the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/x-3864",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/k9-vanquish-soul-668241"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 7,
+    "fl_events": [
+      "DDD01",
+      "YCSBOL25"
+    ],
+    "fl_deck_ids": [
+      87897,
+      87898,
+      87899,
+      87900,
+      87901,
+      87902,
+      88854
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://ygoprodeck.com/tournament/x-3864",
+        "deck_count": 10,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/k9-vanquish-soul-668241",
+          "https://ygoprodeck.com/deck/yummy-668287",
+          "https://ygoprodeck.com/deck/k9-mitsurugi-668282",
+          "https://ygoprodeck.com/deck/ignister-maliss-668803",
+          "https://ygoprodeck.com/deck/k9-vanquish-soul-668536",
+          "https://ygoprodeck.com/deck/branded-dracotail-668118",
+          "https://ygoprodeck.com/deck/ignister-maliss-668384",
+          "https://ygoprodeck.com/deck/mitsurugi-yummy-668551",
+          "https://ygoprodeck.com/deck/branded-dracotail-668528",
+          "https://ygoprodeck.com/deck/branded-lunalight-668113"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://ygoprodeck.com/tournament/x-3864"
+    ]
+  }
+}

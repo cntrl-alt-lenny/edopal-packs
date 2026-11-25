@@ -1,0 +1,149 @@
+{
+  "id": "nexus",
+  "name": "Nexus",
+  "date": "2011-08-31",
+  "region": "OCG",
+  "era": "5D's",
+  "popular": true,
+  "description": "The latest core set is Photon Shockwave.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/nexus",
+  "description_urls": [
+    "https://formatlibrary.com/formats/nexus"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 52687916,
+      "name": "Trishula, Dragon of the Ice Barrier",
+      "why": "Three or more monsters could become a Synchro that banished cards from the opponent's hand, field and Graveyard at once.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+          "https://yugioh-history.com/environment/generation-seven-13"
+        ]
+      }
+    },
+    {
+      "id": 29981921,
+      "name": "Legendary Six Samurai - Shi En",
+      "why": "Six Samurai could establish it early to negate a Spell or Trap activation every turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-13"
+        ]
+      }
+    },
+    {
+      "id": 90953320,
+      "name": "T.G. Hyper Librarian",
+      "why": "Each further Synchro Summon drew a card for its controller, rewarding decks that could chain several summons together.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-13"
+        ]
+      }
+    },
+    {
+      "id": 35952884,
+      "name": "Shooting Quasar Dragon",
+      "why": "It rewarded a string of Synchro Summons with several attacks and a once-per-turn activation negate.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-13"
+        ]
+      }
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "why": "It put a monster from either Graveyard back into play, giving a defeated attacker another Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+          "https://yugioh-history.com/environment/generation-seven-13"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "NEXUS017",
+      "NEXUS11",
+      "NEXUS13",
+      "NEXUS15"
+    ],
+    "fl_deck_ids": [
+      76105,
+      76106,
+      76110,
+      76113,
+      76127,
+      76129,
+      80959,
+      80960,
+      80963,
+      80964,
+      80973,
+      80974,
+      85412,
+      85414,
+      85419,
+      85420,
+      85423,
+      85433,
+      88669
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+        "deck_count": 1,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/gladiator-beast"
+        ],
+        "sample_dates": [
+          "2011-04-26"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-seven-13",
+      "https://yugioh-history.com/environment/generation-seven-17",
+      "https://yugioh-history.com/environment/generation-seven-18",
+      "https://yugioh-history.com/deck-list/historical/gladiator-beast"
+    ]
+  }
+}

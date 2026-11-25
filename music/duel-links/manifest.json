@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "id": "music-duel-links",
+  "kind": "music",
+  "name": "Duel Links",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Links",
+  "series": "Crossover",
+  "year": 2016,
+  "platform": "iOS, Android, Windows",
+  "platforms": [
+    "iOS",
+    "Android",
+    "Windows"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "World",
+  "cover_attribution": {
+    "region": "World",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Duel Links — Box - Front (World)",
+    "platform": "Windows",
+    "source_url": "https://images.launchbox-app.com/a11ed34d-41e9-4515-804c-678208c919c1.jpg",
+    "original_resolution": [
+      600,
+      900
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Duel Links — Box - Front (World)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/141064"
+    }
+  ],
+  "files": {
+    "cover.webp": "b434c80d8513da5244d53a65ca05f60a6006a89227ffab6f0eb561d312808c2d"
+  }
+}

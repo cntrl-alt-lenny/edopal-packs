@@ -1,0 +1,189 @@
+{
+  "id": "grass-zoo",
+  "name": "Grass Zoo",
+  "date": "2017-04-08",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "At YCS Denver in April 2017, Zoodiac monsters offered access to several different Xyz effects from a single Beast-Warrior. Larger decks could also use That Grass Looks Greener to send the difference between the two Deck sizes to the Graveyard in one play.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/grass-zoo",
+  "description_urls": [
+    "https://formatlibrary.com/formats/grass-zoo",
+    "https://formatlibrary.com/events/YCSDEN17",
+    "https://www.yugiohtopdecks.org/deck/6449"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 78872731,
+      "name": "Zoodiac Ratpier",
+      "why": "A Beast-Warrior Xyz Monster with Ratpier attached could detach a material to summon another Ratpier from the hand or Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6449",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6244"
+        ]
+      }
+    },
+    {
+      "id": 48905153,
+      "name": "Zoodiac Drident",
+      "why": "Detaching a material let it destroy a face-up card on either player's turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6449",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6243"
+        ]
+      }
+    },
+    {
+      "id": 85115440,
+      "name": "Zoodiac Broadbull",
+      "why": "A Zoodiac Xyz stack could search a Beast-Warrior before becoming Drident.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6449",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6243"
+        ]
+      }
+    },
+    {
+      "id": 46060017,
+      "name": "Zoodiac Barrage",
+      "why": "Destroying a face-up card the player controlled brought a Zoodiac straight out of the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6449",
+            "decks_with_card": 14
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6244"
+        ]
+      }
+    },
+    {
+      "id": 11110587,
+      "name": "That Grass Looks Greener",
+      "why": "A 60-card build could send a large section of its Deck to the Graveyard against a smaller opposing Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6449",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6246"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 13,
+    "fl_events": [
+      "MAMA03",
+      "YCSBOG17",
+      "YCSDEN17"
+    ],
+    "fl_deck_ids": [
+      24618,
+      24619,
+      24620,
+      24621,
+      24622,
+      24623,
+      37112,
+      64900,
+      64901,
+      64902,
+      64903,
+      64904,
+      64921
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/6449",
+        "deck_count": 21,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6242",
+          "https://www.yugiohtopdecks.org/deck/6243",
+          "https://www.yugiohtopdecks.org/deck/6244",
+          "https://www.yugiohtopdecks.org/deck/6246",
+          "https://www.yugiohtopdecks.org/deck/6248",
+          "https://www.yugiohtopdecks.org/deck/6260",
+          "https://www.yugiohtopdecks.org/deck/6261",
+          "https://www.yugiohtopdecks.org/deck/6262",
+          "https://www.yugiohtopdecks.org/deck/6290",
+          "https://www.yugiohtopdecks.org/deck/6449",
+          "https://www.yugiohtopdecks.org/deck/6450",
+          "https://www.yugiohtopdecks.org/deck/6452",
+          "https://www.yugiohtopdecks.org/deck/6454",
+          "https://www.yugiohtopdecks.org/deck/6455",
+          "https://www.yugiohtopdecks.org/deck/6457",
+          "https://www.yugiohtopdecks.org/deck/6458",
+          "https://www.yugiohtopdecks.org/deck/6459",
+          "https://www.yugiohtopdecks.org/deck/6460",
+          "https://www.yugiohtopdecks.org/deck/6461",
+          "https://www.yugiohtopdecks.org/deck/6462",
+          "https://www.yugiohtopdecks.org/deck/6463"
+        ],
+        "tournaments": [
+          "YCS - Denver Colorado",
+          "YCS - Denver"
+        ],
+        "months": [
+          "April 2017"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      64933,
+      64934,
+      64935,
+      64961,
+      64976,
+      64977
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/6449"
+    ]
+  }
+}

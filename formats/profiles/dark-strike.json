@@ -1,0 +1,165 @@
+{
+  "id": "dark-strike",
+  "name": "Dark Strike",
+  "date": "2009-03-01",
+  "region": "OCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Blackwing took the top two places at the April 2009 Asia Championship under the March list, followed by Cat Synchro. Dark Strike Fighter’s original effect let Synchro decks Tribute their remaining monsters for damage after attacking.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/dark-strike",
+  "description_urls": [
+    "https://formatlibrary.com/formats/dark-strike",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+    "https://yugioh-history.com/environment/generation-six-13",
+    "https://yugioh-history.com/environment/generation-six-18"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 32646477,
+      "name": "Dark Strike Fighter",
+      "why": "Its original effect converted a field of monsters into burn damage, even after those monsters had attacked.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+            "decks_with_card": 2
+          },
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+          "https://yugioh-history.com/environment/generation-six-13"
+        ]
+      }
+    },
+    {
+      "id": 14878871,
+      "name": "Rescue Cat",
+      "why": "It fetched X-Saber Airbellum and a second small Beast, turning a Normal Summon into Synchro Material.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+          "https://yugioh-history.com/environment/generation-six-18"
+        ]
+      }
+    },
+    {
+      "id": 91351370,
+      "name": "Black Whirlwind",
+      "why": "A Blackwing Normal Summon could search a smaller Blackwing, often finding a Tuner or a combat trick.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/"
+        ]
+      }
+    },
+    {
+      "id": 31924889,
+      "name": "Arcanite Magician",
+      "why": "Its two Spell Counters let a Synchro Summon remove two opposing cards before the Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+            "decks_with_card": 2
+          },
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+          "https://yugioh-history.com/environment/generation-six-18"
+        ]
+      }
+    },
+    {
+      "id": 2009101,
+      "name": "Blackwing - Gale the Whirlwind",
+      "why": "It could join another Blackwing without using the Normal Summon, halve an opposing monster's stats and serve as a Tuner.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "contemporaneous_community_tournament_decks",
+        "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+        "deck_count": 2,
+        "tournaments": [
+          "Asia Championship 2009"
+        ],
+        "sample_date": "2009-04-12",
+        "relationship": "The April 12 Asia Championship used the March 2009 list and is the event named in the March 1 snapshot.",
+        "source_images": [
+          "ACS2009_1st",
+          "ACS2009_2nd"
+        ]
+      },
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+        "deck_count": 1,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro"
+        ],
+        "sample_dates": [
+          "2009-03-01"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2009/",
+      "https://yugioh-history.com/environment/generation-six-13",
+      "https://yugioh-history.com/environment/generation-six-18",
+      "https://yugioh-history.com/deck-list/historical/rescue-synchro"
+    ]
+  }
+}

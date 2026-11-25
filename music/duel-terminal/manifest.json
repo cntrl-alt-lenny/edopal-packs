@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-duel-terminal",
+  "kind": "music",
+  "name": "5D's Duel Terminal",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Duel Terminal",
+  "series": "Crossover",
+  "year": 2008,
+  "platform": "Arcade",
+  "platforms": [
+    "Arcade"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Advertisement Flyer - Front",
+    "description": "Japanese Duel Terminal arcade promotional artwork (LaunchBox Duel Terminal 6 gallery)",
+    "platform": "Arcade",
+    "source_url": "https://images.launchbox-app.com/1c2f6856-f095-4308-a562-2c510ae5ebcb.jpg",
+    "original_resolution": [
+      693,
+      568
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Japanese Duel Terminal arcade promotional artwork (LaunchBox Duel Terminal 6 gallery)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/189853"
+    }
+  ],
+  "files": {
+    "cover.webp": "c9ea8d928cf50282aae5eabdf6d7be0941ca28eb598c26dba54cc692bbb16e3b"
+  }
+}

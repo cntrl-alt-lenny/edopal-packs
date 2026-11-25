@@ -1,0 +1,125 @@
+{
+  "id": "baboon",
+  "name": "Baboon",
+  "date": "2006-03-20",
+  "region": "OCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Green Baboon, Defender of the Forest could return after another Beast was destroyed. Its original interaction with battle destruction made monsters such as Giant Rat and Nimble Momonga valuable ways to keep a field.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/baboon",
+  "description_urls": [
+    "https://formatlibrary.com/formats/baboon",
+    "https://yugioh-history.com/environment/generation-four-29",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2006/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 46668237,
+      "name": "Green Baboon, Defender of the Forest",
+      "why": "The destruction of a face-up Beast could bring this 2600 ATK monster from the hand or Graveyard for 1000 LP.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-29"
+        ]
+      }
+    },
+    {
+      "id": 97017120,
+      "name": "Giant Rat",
+      "why": "Losing it in battle summoned a small EARTH monster from the Deck, giving Beast decks access to Nimble Momonga or a removal option.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-29"
+        ]
+      }
+    },
+    {
+      "id": 39168895,
+      "name": "Berserk Gorilla",
+      "why": "A tribute-free 2000 ATK attacker beat most Level 4 monsters, forcing opponents to spend removal or turn it to Defense Position.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-29"
+        ]
+      }
+    },
+    {
+      "id": 71413901,
+      "name": "Breaker the Magical Warrior",
+      "why": "Its Spell Counter gave it 1900 ATK or could be spent to destroy a Spell or Trap before committing another attacker.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/decree-horus",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/decree-horus"
+        ]
+      }
+    },
+    {
+      "id": 22567609,
+      "name": "Nimble Momonga",
+      "why": "A battle loss gained 1000 LP and could set two more copies from the Deck, leaving Beast and tribute material in play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-29"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 4,
+    "fl_events": [
+      "OMS06"
+    ],
+    "fl_deck_ids": [
+      75101,
+      75106,
+      75107,
+      75108
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/decree-horus",
+        "deck_count": 2,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/decree-horus",
+          "https://yugioh-history.com/deck-list/historical/treeborn-monarch"
+        ],
+        "sample_dates": [
+          "2006-03-01"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2006/",
+      "https://yugioh-history.com/environment/generation-four-29",
+      "https://yugioh-history.com/deck-list/historical/decree-horus"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "treasure",
+  "name": "Treasure",
+  "date": "2002-10-01",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Treasure Format, named after the OCG's hand-disruption Spells, is a DM era format that predates the first banlist. The latest core set is Magic Ruler (MRL). Notable additions include the hand-disruption Spells, Mystical Space Typhoon, Painful Choice, recruiter Monsters, and Ritual Monsters. The hand-disruption Spells put a premium on going first and efficient deck-building.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/treasure",
+  "description_urls": [
+    "https://formatlibrary.com/formats/treasure"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 83011277,
+      "name": "Mystic Tomato",
+      "why": "Losing it in battle could bring Sangan or another small DARK monster straight from the Deck, keeping a monster in play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+        ]
+      }
+    },
+    {
+      "id": 44763025,
+      "name": "Delinquent Duo",
+      "why": "For 1000 LP it stripped two cards from a full opposing hand, including one chosen at random.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+        ]
+      }
+    },
+    {
+      "id": 17375316,
+      "name": "Confiscation",
+      "why": "For 1000 LP it revealed the opponent's hand and discarded a chosen card, breaking combinations before either piece reached the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+        ]
+      }
+    },
+    {
+      "id": 42829885,
+      "name": "The Forceful Sentry",
+      "why": "Seeing the opponent's hand and shuffling one card into the Deck removed an immediate threat without stocking their Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+        ]
+      }
+    },
+    {
+      "id": 7359741,
+      "name": "Mechanicalchaser",
+      "why": "At 1850 ATK it beat the common 1800 ATK Normal Monsters by just 50 points without needing a tribute.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 10,
+    "fl_events": [
+      "DMD08",
+      "HUNT02",
+      "HUNT05",
+      "YFZ08"
+    ],
+    "fl_deck_ids": [
+      31835,
+      31841,
+      31849,
+      40552,
+      40557,
+      40562,
+      46074,
+      46075,
+      46079,
+      72376
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+    ]
+  }
+}

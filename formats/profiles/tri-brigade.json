@@ -1,0 +1,197 @@
+{
+  "id": "tri-brigade",
+  "name": "Tri-Brigade",
+  "date": "2021-07-10",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "The July 2021 Remote Duel YCS pool featured Tri-Brigade decks built around Beast, Beast-Warrior and Winged Beast monsters. Tri-Brigade Revolt could reuse banished monsters to Link Summon Shuraig during the opponent's turn and banish a card from the field.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/tri-brigade",
+  "description_urls": [
+    "https://formatlibrary.com/formats/tri-brigade",
+    "https://formatlibrary.com/events/RDYNAJUL21",
+    "https://ygoprodeck.com/deck/tri-brigade-199470"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 87209160,
+      "name": "Tri-Brigade Fraktall",
+      "why": "Sending itself and then a low-Level Beast, Beast-Warrior or Winged Beast from the Deck set up the Tri-Brigade Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552"
+        ]
+      }
+    },
+    {
+      "id": 99726621,
+      "name": "Tri-Brigade Shuraig the Ominous Omen",
+      "why": "Its summon could banish a card without targeting, making it the payoff for Tri-Brigade Revolt on the opponent's turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552"
+        ]
+      }
+    },
+    {
+      "id": 40975243,
+      "name": "Tri-Brigade Revolt",
+      "why": "Returning banished and spent monsters as Link Materials brought out Shuraig and triggered effects such as Nervall's search.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552"
+        ]
+      }
+    },
+    {
+      "id": 56196385,
+      "name": "Tri-Brigade Kitt",
+      "why": "When sent to the Graveyard, Kitt sent another Tri-Brigade card there and helped build up material for a Link Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552"
+        ]
+      }
+    },
+    {
+      "id": 90448279,
+      "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "why": "Zoodiac Xyz Monsters could battle and then become ZEUS, threatening to send every other card on the field to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9019",
+            "decks_with_card": 1
+          },
+          {
+            "source_url": "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9073",
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "CFT04",
+      "LCS15",
+      "RDYEUJUL21",
+      "RDYNAJUL21"
+    ],
+    "fl_deck_ids": [
+      29799,
+      29802,
+      29803,
+      29804,
+      29805,
+      29806,
+      85349,
+      85350,
+      85351,
+      85352,
+      85353,
+      85354,
+      85378,
+      85379,
+      85380,
+      85381,
+      85382,
+      85383,
+      86688
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9019",
+        "deck_count": 2,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9019",
+          "https://www.yugiohtopdecks.org/deck/9073"
+        ],
+        "tournaments": [
+          "EU Remote Duel YCS",
+          "European Remote Duel YCS"
+        ],
+        "months": [
+          "July 2021"
+        ]
+      },
+      {
+        "kind": "archetype_event_decks",
+        "source_url": "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552",
+        "deck_count": 9,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552",
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196556",
+          "https://ygoprodeck.com/deck/tri-brigade-196560",
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196572",
+          "https://ygoprodeck.com/deck/tri-brigade-196576",
+          "https://ygoprodeck.com/deck/ancient-warriors-tri-brigade-195556",
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-193888",
+          "https://ygoprodeck.com/deck/zoodiac-tri-brigade-193894",
+          "https://ygoprodeck.com/deck/tri-brigade-193914"
+        ],
+        "tournaments": [
+          "July 2021 European Remote Duel YCS"
+        ],
+        "months": [
+          "July 2021"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9019",
+      "https://ygoprodeck.com/deck/zoodiac-tri-brigade-196552"
+    ]
+  }
+}

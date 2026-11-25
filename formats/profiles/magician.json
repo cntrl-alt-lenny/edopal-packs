@@ -1,0 +1,170 @@
+{
+  "id": "magician",
+  "name": "Magician",
+  "date": "2018-04-21",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "Pendulum Magician decks at YCS Memphis in April 2018 used Heavymetalfoes Electrumite to set up their scales. Its effect could destroy a scale and recover a face-up Pendulum Monster from the Extra Deck, turning one card into the next play.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/magician",
+  "description_urls": [
+    "https://formatlibrary.com/formats/magician",
+    "https://formatlibrary.com/events/YCSMEM18",
+    "https://www.yugiohtopdecks.org/deck/7241"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 24094258,
+      "name": "Heavymetalfoes Electrumite",
+      "why": "It placed a Pendulum Monster face-up in the Extra Deck and could destroy a scale to recover a Pendulum Monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7241",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7241"
+        ]
+      }
+    },
+    {
+      "id": 76794549,
+      "name": "Astrograph Sorcerer",
+      "why": "When a friendly card was destroyed, Astrograph could summon itself and search a copy of a monster destroyed that turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7241",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7241"
+        ]
+      }
+    },
+    {
+      "id": 73941492,
+      "name": "Harmonizing Magician",
+      "why": "Pendulum Summoning it from the hand brought out another Magician from the Deck for an Extra Deck summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7241",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7241"
+        ]
+      }
+    },
+    {
+      "id": 48461764,
+      "name": "Purple Poison Magician",
+      "why": "Destroying it could remove an opposing face-up card, giving the deck interaction through its scales.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7241",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7241"
+        ]
+      }
+    },
+    {
+      "id": 43387895,
+      "name": "Supreme King Dragon Starving Venom",
+      "why": "Copying another monster's effect gave Pendulum builds access to damage combos with Lyrilusc - Independent Nightingale.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7241",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7241"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "YCSATL18",
+      "YCSBOC18",
+      "YCSMEM18",
+      "YCSSDC18"
+    ],
+    "fl_deck_ids": [
+      65688,
+      65689,
+      65690,
+      65691,
+      65692,
+      65693,
+      65752,
+      65753,
+      65754,
+      65874,
+      65875,
+      65876,
+      66096,
+      66097,
+      66099,
+      66100,
+      66101,
+      66121
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/7241",
+        "deck_count": 2,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7233",
+          "https://www.yugiohtopdecks.org/deck/7241"
+        ],
+        "tournaments": [
+          "YCS - Memphis Tennessee"
+        ],
+        "months": [
+          "April 2018"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      66098
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/7241"
+    ]
+  }
+}

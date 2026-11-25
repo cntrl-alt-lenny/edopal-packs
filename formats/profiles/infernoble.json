@@ -1,0 +1,185 @@
+{
+  "id": "infernoble",
+  "name": "Infernoble",
+  "date": "2020-11-21",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "Infernoble uses the November 2020 Remote Duel card pool. Warrior Synchro decks could equip Smoke Grenade of the Thief to Emperor Charles, destroy it to discard a chosen opposing card, and inspect the opponent's hand before their turn.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/infernoble",
+  "description_urls": [
+    "https://formatlibrary.com/formats/infernoble",
+    "https://formatlibrary.com/events/LCS06",
+    "https://formatlibrary.com/decks/83329"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 77656797,
+      "name": "Infernoble Knight Emperor Charles",
+      "why": "Equipping a card to a monster let Charles destroy a card on the field, including during the opponent's turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.iyingdi.com/tz/post/2307930",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.iyingdi.com/tz/post/2307930",
+          "https://www.youtube.com/watch?v=lUrzOGJyHbs"
+        ]
+      }
+    },
+    {
+      "id": 63789924,
+      "name": "Smoke Grenade of the Thief",
+      "why": "Destroying this equipped Spell with Charles exposed the opponent's hand and let the Infernoble player discard a chosen card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.iyingdi.com/tz/post/2307930",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.iyingdi.com/tz/post/2307930",
+          "https://www.youtube.com/watch?v=lUrzOGJyHbs"
+        ]
+      }
+    },
+    {
+      "id": 56824871,
+      "name": "Infernoble Knight - Renaud",
+      "why": "Summoning it with a FIRE Warrior already on the board could recover an Equip Spell and supply a Tuner.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.iyingdi.com/tz/post/2307930",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.iyingdi.com/tz/post/2307930"
+        ]
+      }
+    },
+    {
+      "id": 59934749,
+      "name": "Isolde, Two Tales of the Noble Knights",
+      "why": "By sending Equip Spells from the Deck, Isolde turned two Warriors into another Warrior summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.iyingdi.com/tz/post/2307930",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.iyingdi.com/tz/post/2307930"
+        ]
+      }
+    },
+    {
+      "id": 60303688,
+      "name": "Dogmatika Ecclesia, the Virtuous",
+      "why": "Searching Dogmatika Punishment or Fleurdelis let control decks add disruption after making an Invoked Fusion Monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8716",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8714"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 5,
+    "fl_events": [
+      "LCS06"
+    ],
+    "fl_deck_ids": [
+      83326,
+      83327,
+      83328,
+      83330,
+      83331
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8716",
+        "deck_count": 9,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8712",
+          "https://www.yugiohtopdecks.org/deck/8713",
+          "https://www.yugiohtopdecks.org/deck/8714",
+          "https://www.yugiohtopdecks.org/deck/8715",
+          "https://www.yugiohtopdecks.org/deck/8716",
+          "https://www.yugiohtopdecks.org/deck/8717",
+          "https://www.yugiohtopdecks.org/deck/8718",
+          "https://www.yugiohtopdecks.org/deck/8719",
+          "https://www.yugiohtopdecks.org/deck/8738"
+        ],
+        "tournaments": [
+          "LCS - VIII"
+        ],
+        "months": [
+          "November 2020"
+        ]
+      },
+      {
+        "kind": "archetype_event_decks",
+        "source_url": "https://www.iyingdi.com/tz/post/2307930",
+        "deck_count": 1,
+        "source_urls": [
+          "https://www.iyingdi.com/tz/post/2307930"
+        ],
+        "tournaments": [
+          "VNC Southern 2020"
+        ],
+        "months": [
+          "October 2020"
+        ],
+        "event_details": {
+          "event_start_date": "2020-10-03",
+          "event_end_date": "2020-10-04",
+          "event_location": "Ho Chi Minh City, Vietnam",
+          "event_date_location_source_url": "https://www.youtube.com/watch?v=Q0HrW_Z0fCA"
+        }
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      83329
+    ],
+    "cross_check_urls": [
+      "https://www.youtube.com/watch?v=lUrzOGJyHbs",
+      "https://www.yugiohtopdecks.org/deck/8716",
+      "https://www.iyingdi.com/tz/post/2307930"
+    ]
+  }
+}

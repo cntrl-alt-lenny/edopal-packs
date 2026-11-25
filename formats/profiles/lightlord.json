@@ -1,0 +1,142 @@
+{
+  "id": "lightlord",
+  "name": "Lightlord",
+  "date": "2009-09-01",
+  "region": "OCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Lightsworn monsters sent cards from the Deck to the Graveyard, setting up both Wulf and Judgment Dragon. Judgment Dragon rewarded assembling four different Lightsworn names with a repeatable field-clearing effect.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/lightlord",
+  "description_urls": [
+    "https://formatlibrary.com/formats/lightlord",
+    "https://yugioh-history.com/environment/generation-five-36",
+    "https://yugioh-history.com/environment/generation-six-22"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 57774843,
+      "name": "Judgment Dragon",
+      "why": "Four different Lightsworn names in the Graveyard unlocked a 3000 ATK monster that could clear every other card for 1000 LP.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2009-09-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2009-09-metagame/",
+          "https://yugioh-history.com/environment/generation-five-36"
+        ]
+      }
+    },
+    {
+      "id": 94381039,
+      "name": "Celestia, Lightsworn Angel",
+      "why": "Tributing a Lightsworn for Celestia loaded the Graveyard and could remove two cards from the opposing field.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2009-09-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2009-09-metagame/",
+          "https://yugioh-history.com/environment/generation-five-36"
+        ]
+      }
+    },
+    {
+      "id": 95503687,
+      "name": "Lumina, Lightsworn Summoner",
+      "why": "Discarding a card revived a small Lightsworn, building a field while stocking the Graveyard for Judgment Dragon.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2009-09-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2009-09-metagame/",
+          "https://yugioh-history.com/environment/generation-five-36"
+        ]
+      }
+    },
+    {
+      "id": 22624373,
+      "name": "Lyla, Lightsworn Sorceress",
+      "why": "It could turn to Defense Position to destroy an opposing Spell or Trap and then fill the Graveyard in the End Phase.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2009-09-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2009-09-metagame/",
+          "https://yugioh-history.com/environment/generation-five-36"
+        ]
+      }
+    },
+    {
+      "id": 58996430,
+      "name": "Wulf, Lightsworn Beast",
+      "why": "Sending it from the Deck to the Graveyard brought a 2,100 ATK monster onto the field without spending a summon.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2009-09-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2009-09-metagame/",
+          "https://yugioh-history.com/environment/generation-five-36"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_examples",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "same_banlist_community_examples",
+        "source_url": "https://roadoftheking.com/ocg-2009-09-metagame/",
+        "deck_count": 2,
+        "relationship": "Road of the King illustrates its 2009-09-01 to 2010-02-28 OCG tournament review with these decklists. The dates and placements of the individual examples are unspecified. Counts cover positively identified cards legal in the snapshot.",
+        "period_start": "2009-09-01",
+        "period_end": "2010-02-28",
+        "source_images": [
+          "OCG200909_Lightsworn",
+          "OCG200909_ZombieSynchro"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-five-36",
+      "https://yugioh-history.com/environment/generation-six-22",
+      "https://roadoftheking.com/ocg-2009-09-metagame/"
+    ]
+  }
+}

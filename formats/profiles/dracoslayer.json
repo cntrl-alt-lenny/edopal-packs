@@ -1,0 +1,174 @@
+{
+  "id": "dracoslayer",
+  "name": "Dracoslayer",
+  "date": "2016-04-09",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "Dracoslayer reflects the April 2016 YCS Houston field after the February restrictions on Performapals. Pendulum decks could still turn a scale into removal through Ignister Prominence, which destroyed a Pendulum card to shuffle a card on the field into the Deck.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/dracoslayer",
+  "description_urls": [
+    "https://formatlibrary.com/formats/dracoslayer",
+    "https://formatlibrary.com/events/YCSHOU16",
+    "https://www.yugiohtopdecks.org/deck/5003"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 18239909,
+      "name": "Ignister Prominence, the Blasting Dracoslayer",
+      "why": "Destroying a Pendulum card let Ignister shuffle a card on the field into the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5003",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5003"
+        ]
+      }
+    },
+    {
+      "id": 14733538,
+      "name": "Draco Face-Off",
+      "why": "Whichever monster the opponent randomly chose could become a scale or summon while the other went face-up to the Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5003",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5003"
+        ]
+      }
+    },
+    {
+      "id": 75195825,
+      "name": "Master Pendulum, the Dracoslayer",
+      "why": "This Normal Pendulum Monster gave Rescue Rabbit and Draco Face-Off a shared Level 4 target.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5003",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5003"
+        ]
+      }
+    },
+    {
+      "id": 92746535,
+      "name": "Luster Pendulum, the Dracoslayer",
+      "why": "Destroying the other scale fetched a second copy and helped stock the face-up Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5003",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5003"
+        ]
+      }
+    },
+    {
+      "id": 47075569,
+      "name": "Performapal Pendulum Sorcerer",
+      "why": "Its Special Summon converted cards on its own field into Performapal searches, including by destroying useful scales.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5003",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5003"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 12,
+    "fl_events": [
+      "YCSLV16",
+      "YCSPRA16"
+    ],
+    "fl_deck_ids": [
+      42740,
+      43083,
+      43084,
+      43085,
+      43086,
+      43186,
+      63902,
+      63903,
+      63904,
+      63914,
+      63915,
+      63916
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/5003",
+        "deck_count": 17,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5003",
+          "https://www.yugiohtopdecks.org/deck/5004",
+          "https://www.yugiohtopdecks.org/deck/5005",
+          "https://www.yugiohtopdecks.org/deck/5006",
+          "https://www.yugiohtopdecks.org/deck/5007",
+          "https://www.yugiohtopdecks.org/deck/5008",
+          "https://www.yugiohtopdecks.org/deck/5009",
+          "https://www.yugiohtopdecks.org/deck/5010",
+          "https://www.yugiohtopdecks.org/deck/5011",
+          "https://www.yugiohtopdecks.org/deck/5012",
+          "https://www.yugiohtopdecks.org/deck/5013",
+          "https://www.yugiohtopdecks.org/deck/5014",
+          "https://www.yugiohtopdecks.org/deck/5015",
+          "https://www.yugiohtopdecks.org/deck/5016",
+          "https://www.yugiohtopdecks.org/deck/5017",
+          "https://www.yugiohtopdecks.org/deck/5018",
+          "https://www.yugiohtopdecks.org/deck/5232"
+        ],
+        "tournaments": [
+          "YCS - Houston"
+        ],
+        "months": [
+          "April 2016"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/5003"
+    ]
+  }
+}

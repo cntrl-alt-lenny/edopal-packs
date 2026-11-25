@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-sacred-cards",
+  "kind": "music",
+  "name": "The Sacred Cards",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! The Sacred Cards",
+  "series": "Duel Monsters",
+  "year": 2002,
+  "platform": "Game Boy Advance",
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! The Sacred Cards — Box - Front (North America)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/e68ce591-a415-4ac1-9c25-aa545e4815f5.jpg",
+    "original_resolution": [
+      500,
+      500
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! The Sacred Cards — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/24402"
+    }
+  ],
+  "files": {
+    "cover.webp": "f6f82022d452bb7db6599d355917a4e4a438b9a2f3ce4835579f369531958a99"
+  }
+}

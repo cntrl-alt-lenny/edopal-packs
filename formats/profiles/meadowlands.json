@@ -1,0 +1,192 @@
+{
+  "id": "meadowlands",
+  "name": "Meadowlands",
+  "date": "2013-05-11",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Mermail, Fire Fist and Evilswarm were among the decks at YCS Meadowlands in May 2013. Fire Formation - Tenki searched for Bear, whose battle damage could set another Fire Formation directly from the Deck.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/meadowlands",
+  "description_urls": [
+    "https://formatlibrary.com/formats/meadowlands",
+    "https://formatlibrary.com/events/YCSMEA13",
+    "https://www.yugiohtopdecks.org/deck/553"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 6353603,
+      "name": "Brotherhood of the Fire Fist - Bear",
+      "why": "Bear turned a Fire Formation into monster removal and could set another Formation after dealing battle damage.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/550",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/553"
+        ]
+      }
+    },
+    {
+      "id": 22446869,
+      "name": "Mermail Abyssteus",
+      "why": "Discarding one WATER monster put a Level 7 on the field and searched a smaller Mermail.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/550",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/550"
+        ]
+      }
+    },
+    {
+      "id": 57103969,
+      "name": "Fire Formation - Tenki",
+      "why": "Searching Bear or another low-Level Beast-Warrior left a Formation in play to pay for Fire Fist effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/550",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/553"
+        ]
+      }
+    },
+    {
+      "id": 21954587,
+      "name": "Mermail Abyssmegalo",
+      "why": "Its two WATER discards could trigger Atlanteans, search an Abyss Spell or Trap and set up a double attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/550",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/550"
+        ]
+      }
+    },
+    {
+      "id": 74311226,
+      "name": "Atlantean Dragoons",
+      "why": "Discarding it for a WATER monster's effect searched a Sea Serpent, turning Mermail summon costs into more cards.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/550",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/550"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "MLM35",
+      "YCSAUS13",
+      "YCSMEA13",
+      "YCSSD13"
+    ],
+    "fl_deck_ids": [
+      20904,
+      20905,
+      20906,
+      20907,
+      20908,
+      20909,
+      40065,
+      40066,
+      40067,
+      40068,
+      40069,
+      40086,
+      40088,
+      40089,
+      40090,
+      40092,
+      40093,
+      40094,
+      88608
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/550",
+        "deck_count": 26,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/550",
+          "https://www.yugiohtopdecks.org/deck/551",
+          "https://www.yugiohtopdecks.org/deck/552",
+          "https://www.yugiohtopdecks.org/deck/553",
+          "https://www.yugiohtopdecks.org/deck/554",
+          "https://www.yugiohtopdecks.org/deck/555",
+          "https://www.yugiohtopdecks.org/deck/556",
+          "https://www.yugiohtopdecks.org/deck/557",
+          "https://www.yugiohtopdecks.org/deck/558",
+          "https://www.yugiohtopdecks.org/deck/559",
+          "https://www.yugiohtopdecks.org/deck/560",
+          "https://www.yugiohtopdecks.org/deck/561",
+          "https://www.yugiohtopdecks.org/deck/562",
+          "https://www.yugiohtopdecks.org/deck/563",
+          "https://www.yugiohtopdecks.org/deck/564",
+          "https://www.yugiohtopdecks.org/deck/565",
+          "https://www.yugiohtopdecks.org/deck/566",
+          "https://www.yugiohtopdecks.org/deck/567",
+          "https://www.yugiohtopdecks.org/deck/568",
+          "https://www.yugiohtopdecks.org/deck/569",
+          "https://www.yugiohtopdecks.org/deck/570",
+          "https://www.yugiohtopdecks.org/deck/571",
+          "https://www.yugiohtopdecks.org/deck/572",
+          "https://www.yugiohtopdecks.org/deck/573",
+          "https://www.yugiohtopdecks.org/deck/574",
+          "https://www.yugiohtopdecks.org/deck/575"
+        ],
+        "tournaments": [
+          "YCS - Meadowlands New Jersey"
+        ],
+        "months": [
+          "May 2013"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/550"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "bird-up",
+  "name": "Bird-Up",
+  "date": "2022-01-15",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "Bird-Up captures the January 2022 Remote Duel YCS environment. Lyrilusc's Level 1 Winged Beasts supported both Rank 1 Xyz Monsters such as Recital Starling and the Tri-Brigade Link engine, making the same opening monsters useful along either route.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/bird-up",
+  "description_urls": [
+    "https://formatlibrary.com/formats/bird-up",
+    "https://www.yugiohtopdecks.org/deck/9104"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 8491961,
+      "name": "Lyrilusc - Recital Starling",
+      "why": "Its search for a Level 1 Winged Beast connected the Lyrilusc engine to Tri-Brigade Nervall.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9103",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9102"
+        ]
+      }
+    },
+    {
+      "id": 97949165,
+      "name": "Lyrilusc - Turquoise Warbler",
+      "why": "An empty field let Warbler summon itself and bring another Lyrilusc out of the hand or Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9103",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9102"
+        ]
+      }
+    },
+    {
+      "id": 45354718,
+      "name": "Lyrilusc - Bird Call",
+      "why": "It found a Lyrilusc and could also summon a differently named one from hand to begin the Rank 1 line.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9103",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9102"
+        ]
+      }
+    },
+    {
+      "id": 20001443,
+      "name": "Swordsoul of Mo Ye",
+      "why": "Revealing a Wyrm or Swordsoul card produced a Tuner Token for a Level 8 Synchro Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9103",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9103"
+        ]
+      }
+    },
+    {
+      "id": 72330894,
+      "name": "Simorgh, Bird of Sovereignty",
+      "why": "Its End Phase summon could bring Barrier Statue of the Stormwinds straight from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9103",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9102"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 7,
+    "fl_events": [
+      "CFT02",
+      "DDS06",
+      "DLO02"
+    ],
+    "fl_deck_ids": [
+      6486,
+      38025,
+      38026,
+      83466,
+      83468,
+      83472,
+      83475
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9103",
+        "deck_count": 4,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9102",
+          "https://www.yugiohtopdecks.org/deck/9103",
+          "https://www.yugiohtopdecks.org/deck/9104",
+          "https://www.yugiohtopdecks.org/deck/9105"
+        ],
+        "tournaments": [
+          "Remote Duel Yu-Gi-Oh! Championship Series North America 2022"
+        ],
+        "months": [
+          "January 2022"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9103"
+    ]
+  }
+}

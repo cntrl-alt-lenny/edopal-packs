@@ -1,0 +1,166 @@
+{
+  "id": "cyber",
+  "name": "Cyber",
+  "date": "2005-09-10",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Cyber Format is a GX era format that shares a banlist with Goat Format. The latest core set is Cybernetic Revolution (CRV), a set that changed the nature of the game. Notable additions include Cyber Dragon, Cyber End Dragon, and Cyber Twin Dragon. Cyber Dragon sets a new bar for beaters, and the Cyber Dragon Fusion Monsters unlock the full potential of cards like Cyber-Stein and Metamorphosis. The format largely regarded as a more explosive version of Goat Format.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/cyber",
+  "description_urls": [
+    "https://formatlibrary.com/formats/cyber"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3175",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3176",
+          "https://formatlibrary.com/formats/cyber"
+        ]
+      }
+    },
+    {
+      "id": 74157028,
+      "name": "Cyber Twin Dragon",
+      "why": "Cyber-Stein could summon this 2800 ATK Fusion for two attacks in one Battle Phase, making ATK boosts especially dangerous.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3175",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3176",
+          "https://formatlibrary.com/formats/cyber"
+        ]
+      }
+    },
+    {
+      "id": 63519819,
+      "name": "Thousand-Eyes Restrict",
+      "why": "It absorbed an opposing monster and stopped other monsters from attacking, buying time to reuse Flip Effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3175",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3175"
+        ]
+      }
+    },
+    {
+      "id": 46411259,
+      "name": "Metamorphosis",
+      "why": "A tribute became a Fusion Monster of the same Level, turning even a Sheep Token into Thousand-Eyes Restrict.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3175",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3175",
+          "https://formatlibrary.com/formats/cyber"
+        ]
+      }
+    },
+    {
+      "id": 69015963,
+      "name": "Cyber-Stein",
+      "why": "A 5000 LP payment summoned a Fusion Monster immediately, enabling sudden finishes with Cyber Twin Dragon or Cyber End Dragon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "source_urls": [
+          "https://formatlibrary.com/formats/cyber"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 16,
+    "fl_events": [
+      "CYGS08",
+      "DLC02",
+      "SJCBOS05",
+      "YFZ15"
+    ],
+    "fl_deck_ids": [
+      1908,
+      1918,
+      1921,
+      2952,
+      2953,
+      2954,
+      2955,
+      2956,
+      2957,
+      39990,
+      39991,
+      39992,
+      39993,
+      40003,
+      40016,
+      82927
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/3175",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3175",
+          "https://www.yugiohtopdecks.org/deck/3176",
+          "https://www.yugiohtopdecks.org/deck/3177",
+          "https://www.yugiohtopdecks.org/deck/3178",
+          "https://www.yugiohtopdecks.org/deck/3179",
+          "https://www.yugiohtopdecks.org/deck/3180",
+          "https://www.yugiohtopdecks.org/deck/3181",
+          "https://www.yugiohtopdecks.org/deck/3182"
+        ],
+        "tournaments": [
+          "2005 Shonen Jump Boston"
+        ],
+        "months": [
+          "September 2005"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/3175"
+    ]
+  }
+}

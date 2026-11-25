@@ -1,0 +1,138 @@
+{
+  "id": "demon",
+  "name": "Demon",
+  "date": "2003-02-20",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Magical Scientist could spend Life Points to summon low-Level Fusion Monsters directly from the Fusion Deck. Those monsters supplied both utility effects and ammunition for Catapult Turtle.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/demon",
+  "description_urls": [
+    "https://formatlibrary.com/formats/demon",
+    "https://yugioh-history.com/environment/generation-three-8",
+    "https://yugioh-history.com/environment/generation-three-16",
+    "https://yugioh-history.com/environment/generation-three-17"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 34206604,
+      "name": "Magical Scientist",
+      "why": "Repeated payments of 1000 LP supplied Fusion Monsters for combat or for Catapult Turtle to tribute before they returned to the Fusion Deck.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+          "https://yugioh-history.com/environment/generation-three-8"
+        ]
+      }
+    },
+    {
+      "id": 71413901,
+      "name": "Breaker the Magical Warrior",
+      "why": "Its Spell Counter gave it 1900 ATK or could be spent to destroy a Spell or Trap before committing another attacker.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/tomato-hand-destruction",
+          "https://yugioh-history.com/environment/generation-three-16"
+        ]
+      }
+    },
+    {
+      "id": 95727991,
+      "name": "Catapult Turtle",
+      "why": "Its original effect could tribute several monsters in one turn, converting Magical Scientist's Fusion Monsters into lethal damage.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-three-8"
+        ]
+      }
+    },
+    {
+      "id": 80071763,
+      "name": "Dark Balter the Terrible",
+      "why": "This Level 5 Fusion could shut off effects of monsters it defeated in battle and negate a Normal Spell for 1000 LP.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+          "https://yugioh-history.com/environment/generation-three-8"
+        ]
+      }
+    },
+    {
+      "id": 53839837,
+      "name": "Vampire Lord",
+      "why": "Pyramid Turtle could summon it from the Deck, and an opponent who destroyed it by card effect faced its return in the next Standby Phase.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/tomato-hand-destruction",
+          "https://yugioh-history.com/environment/generation-three-17"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_reconstructions",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+        "deck_count": 3,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/ojama-canceller",
+          "https://yugioh-history.com/deck-list/historical/tomato-hand-destruction",
+          "https://yugioh-history.com/deck-list/historical/yata-garasu-draw-lock"
+        ],
+        "sample_dates": [
+          "2003-01-01"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-three-16",
+      "https://yugioh-history.com/environment/generation-three-17",
+      "https://yugioh-history.com/environment/generation-three-8",
+      "https://yugioh-history.com/deck-list/historical/ojama-canceller"
+    ]
+  }
+}

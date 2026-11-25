@@ -1,0 +1,145 @@
+{
+  "id": "ocg-baby-ruler",
+  "name": "OCG Baby Ruler",
+  "date": "2013-04-28",
+  "region": "OCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Dragon Ruler won the 2013 Asia Championship, ahead of Evilswarm and Prophecy. The smaller Dragon Rulers could discard themselves with another monster to summon the corresponding Level 7 Dragon from the Deck.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-baby-ruler",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-baby-ruler",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+    "https://yugioh-history.com/environment/generation-eight-15",
+    "https://yugioh-history.com/environment/generation-eight-16"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 53804307,
+      "name": "Blaster, Dragon Ruler of Infernos",
+      "why": "This Level 7 Dragon could return from the Graveyard as Xyz material or trade two FIRE cards for removal.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+          "https://yugioh-history.com/environment/generation-eight-15"
+        ]
+      }
+    },
+    {
+      "id": 46448938,
+      "name": "Spellbook of Judgment",
+      "why": "A turn spent activating Spells ended with a refill of Spellbooks and could put Jowgen directly onto the field.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+          "https://yugioh-history.com/environment/generation-eight-16"
+        ]
+      }
+    },
+    {
+      "id": 22110647,
+      "name": "Mecha Phantom Beast Dracossack",
+      "why": "Two Level 7 Dragon Rulers became a threat that generated Tokens for protection, removal and later summons.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+          "https://yugioh-history.com/environment/generation-eight-15"
+        ]
+      }
+    },
+    {
+      "id": 26400609,
+      "name": "Tidal, Dragon Ruler of Waterfalls",
+      "why": "This Level 7 Dragon could revive itself as Xyz Material or discard with another WATER monster to send a monster from the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+          "https://yugioh-history.com/environment/generation-eight-15"
+        ]
+      }
+    },
+    {
+      "id": 27770341,
+      "name": "Super Rejuvenation",
+      "why": "It refilled the hand in the End Phase after Dragon players discarded monsters to activate their effects.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+          "https://yugioh-history.com/environment/generation-eight-15"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "contemporaneous_community_tournament_decks",
+        "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+        "deck_count": 3,
+        "tournaments": [
+          "Asia Championship 2013"
+        ],
+        "sample_date": "2013-04-28",
+        "source_images": [
+          "ACS2013_1st",
+          "ACS2013_2nd",
+          "ACS2013_3rd"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2013/",
+      "https://yugioh-history.com/environment/generation-eight-15",
+      "https://yugioh-history.com/environment/generation-eight-16"
+    ]
+  }
+}

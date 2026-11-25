@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-dungeon-dice-monsters",
+  "kind": "music",
+  "name": "Dungeon Dice Monsters",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+  "series": "Duel Monsters",
+  "year": 2001,
+  "platform": "Game Boy Advance",
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh!: Dungeon Dice Monsters — Box - Front (North America)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/bdf1fba3-6516-402c-8632-bdc5a574d390.jpg",
+    "original_resolution": [
+      1369,
+      1370
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh!: Dungeon Dice Monsters — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/4037"
+    }
+  ],
+  "files": {
+    "cover.webp": "f1cdcd584228d42477077e2b499dc27cd026b418195655e8190abd0c4958093b"
+  }
+}

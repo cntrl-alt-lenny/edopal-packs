@@ -1,0 +1,196 @@
+{
+  "id": "dino-rabbit",
+  "name": "Dino Rabbit",
+  "date": "2012-06-30",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Dino Rabbit takes its card pool from the 2012 North American World Championship Qualifier. Rescue Rabbit could fetch two matching Normal Dinosaurs for a Rank 4 Evolzar, giving the player a choice between Laggia's summon or Spell/Trap negation and Dolkka's monster-effect negation.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/dino-rabbit",
+  "description_urls": [
+    "https://formatlibrary.com/formats/dino-rabbit",
+    "https://formatlibrary.com/events/NAWCQ12",
+    "https://yugiohblog.konami.com/2012/championships/wcq-round-3-round-up/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 85138716,
+      "name": "Rescue Rabbit",
+      "why": "It fetched two identical Normal Monsters, giving Dinosaur decks a one-card route into Laggia or Dolkka.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.finalyugi.com/yugioh-news-view-944-news.html",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.finalyugi.com/yugioh-news-view-944-news.html"
+        ]
+      }
+    },
+    {
+      "id": 10802915,
+      "name": "Tour Guide From the Underworld",
+      "why": "A Normal Summon fetched a Level 3 Fiend such as Sangan, giving the player immediate access to Rank 3 Xyz Monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2108",
+            "decks_with_card": 3
+          },
+          {
+            "source_url": "https://www.finalyugi.com/yugioh-news-view-944-news.html",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2108",
+          "https://www.finalyugi.com/yugioh-news-view-944-news.html"
+        ]
+      }
+    },
+    {
+      "id": 74294676,
+      "name": "Evolzar Laggia",
+      "why": "Two Level 4 Dinosaurs became a negation for a summon or a Spell or Trap activation.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.finalyugi.com/yugioh-news-view-944-news.html",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.finalyugi.com/yugioh-news-view-944-news.html"
+        ]
+      }
+    },
+    {
+      "id": 42752141,
+      "name": "Evolzar Dolkka",
+      "why": "Rescue Rabbit could supply the two Dinosaurs needed to make a monster that could negate two monster effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.finalyugi.com/yugioh-news-view-944-news.html",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.finalyugi.com/yugioh-news-view-944-news.html"
+        ]
+      }
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "why": "It put a monster from either Graveyard back into play, giving a defeated attacker another Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2108",
+            "decks_with_card": 3
+          },
+          {
+            "source_url": "https://www.finalyugi.com/yugioh-news-view-944-news.html",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2108",
+          "https://www.finalyugi.com/yugioh-news-view-944-news.html"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "FTWR07",
+      "NAWCQ12",
+      "YCSCHI12",
+      "YCSPHI12"
+    ],
+    "fl_deck_ids": [
+      30493,
+      31489,
+      31490,
+      31491,
+      31493,
+      31512,
+      35025,
+      35026,
+      35027,
+      35028,
+      35029,
+      35037,
+      35090,
+      35091,
+      35093,
+      35094,
+      35161,
+      86495
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2108",
+        "deck_count": 3,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2108",
+          "https://www.yugiohtopdecks.org/deck/2109",
+          "https://www.yugiohtopdecks.org/deck/2110"
+        ],
+        "tournaments": [
+          "2012 North American WCQ - Ohio"
+        ],
+        "months": [
+          "July 2012"
+        ]
+      },
+      {
+        "kind": "archetype_event_decks",
+        "source_url": "https://www.finalyugi.com/yugioh-news-view-944-news.html",
+        "deck_count": 7,
+        "source_urls": [
+          "https://www.finalyugi.com/yugioh-news-view-944-news.html"
+        ],
+        "tournaments": [
+          "European Championship 2012"
+        ],
+        "months": [
+          "July 2012"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      35092
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2108",
+      "https://www.finalyugi.com/yugioh-news-view-944-news.html"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-gx-tag-force-2",
+  "kind": "music",
+  "name": "GX Tag Force 2",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! GX Tag Force 2",
+  "series": "GX",
+  "year": 2007,
+  "platform": "PSP",
+  "platforms": [
+    "PSP"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! GX: Tag Force 2 — Box - Front (North America)",
+    "platform": "Sony PSP",
+    "source_url": "https://images.launchbox-app.com/df7472cd-e63a-48d9-aecb-1e89066fe125.jpg",
+    "original_resolution": [
+      640,
+      1128
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! GX: Tag Force 2 — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/25071"
+    }
+  ],
+  "files": {
+    "cover.webp": "c1c3b437b2518f59650d366487f11bf5d800b8e9cecd0f9fab8368381c9feeda"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "fire-king",
+  "name": "Fire King",
+  "date": "2024-03-30",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Fire King captures the early 2024 pool around Team YCS Las Vegas. Snake-Eye and Fire King worked together because the Snake-Eye engine could reach the Level 1 FIRE monster Legendary Fire King Ponix, which in turn searched a Fire King Spell or Trap.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/fire-king",
+  "description_urls": [
+    "https://formatlibrary.com/formats/fire-king",
+    "https://formatlibrary.com/events/TYCSLV24",
+    "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 90681088,
+      "name": "Legendary Fire King Ponix",
+      "why": "Its summon searched Fire King Sanctuary and its return to hand after destruction helped the deck rebuild.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+        ]
+      }
+    },
+    {
+      "id": 90241276,
+      "name": "Snake-Eyes Poplar",
+      "why": "Searching Poplar let it summon itself and find a Snake-Eye Spell or Trap without using the Normal Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+        ]
+      }
+    },
+    {
+      "id": 9674034,
+      "name": "Snake-Eye Ash",
+      "why": "Its summon searched a Level 1 FIRE monster such as Poplar, connecting the Snake-Eye and Fire King engines.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+        ]
+      }
+    },
+    {
+      "id": 72270339,
+      "name": "Diabellstar the Black Witch",
+      "why": "It could send a card from hand or field for its own summon, then Set a Sinful Spoils Spell or Trap from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+        ]
+      }
+    },
+    {
+      "id": 66431519,
+      "name": "Sacred Fire King Garunix",
+      "why": "Destruction of a FIRE monster brought it out, and its summon could destroy a FIRE Beast, Beast-Warrior or Winged Beast from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "TYCSLV24",
+      "YCSGDL24",
+      "YCSSYD24"
+    ],
+    "fl_deck_ids": [
+      38037,
+      38050,
+      38051,
+      38052,
+      38053,
+      38054,
+      38082,
+      38113,
+      38114,
+      38115,
+      38116,
+      38117,
+      38160,
+      38161,
+      38162,
+      38163,
+      38164,
+      38165
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/",
+        "deck_count": 6,
+        "source_urls": [
+          "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2024/ycs/2024-02-team-ycs-las-vegas-nv/top-4-deck-lists-4/"
+    ]
+  }
+}

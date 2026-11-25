@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "id": "music-early-days-collection",
+  "kind": "music",
+  "name": "Early Days Collection",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Early Days Collection",
+  "series": "Duel Monsters",
+  "year": 2025,
+  "platform": "Nintendo Switch, Windows",
+  "platforms": [
+    "Nintendo Switch",
+    "Windows"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "United States",
+  "cover_attribution": {
+    "region": "United States",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Early Days Collection — Box - Front (United States)",
+    "platform": "Nintendo Switch",
+    "source_url": "https://images.launchbox-app.com/37af0bc2-4c38-4319-8de7-e8c776c17533.png",
+    "original_resolution": [
+      1350,
+      2202
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Early Days Collection — Box - Front (United States)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/456189"
+    }
+  ],
+  "files": {
+    "cover.webp": "6eca4e3c92dd61eaaa56033ec34ab286f605a42e3b61dcc39bd6db50e58667b4"
+  }
+}

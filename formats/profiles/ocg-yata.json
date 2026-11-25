@@ -1,0 +1,145 @@
+{
+  "id": "ocg-yata",
+  "name": "OCG Yata",
+  "date": "2002-08-18",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Yata-Garasu could lock an opponent out of future draws after hand disruption left them without an answer. Both finalists at the 2002 Asia Championship also played Vampire Lord, whose revival effect made it difficult to remove permanently.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-yata",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-yata",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2002/",
+    "https://yugioh-history.com/environment/generation-two-36"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 3078576,
+      "name": "Yata-Garasu",
+      "why": "A successful hit skipped the opponent's next draw, letting an empty-hand opponent be locked out by repeated attacks.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/tomato-hand-destruction",
+          "https://yugioh-history.com/environment/generation-two-36"
+        ]
+      }
+    },
+    {
+      "id": 83011277,
+      "name": "Mystic Tomato",
+      "why": "Losing it in battle could bring Sangan or another small DARK monster straight from the Deck, keeping a monster in play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill",
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2002/"
+        ]
+      }
+    },
+    {
+      "id": 76922029,
+      "name": "Don Zaloog",
+      "why": "A battle-damage hit could discard a random opposing card, making it dangerous to leave an opening for this Mystic Tomato target.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/tomato-hand-destruction"
+        ]
+      }
+    },
+    {
+      "id": 44763025,
+      "name": "Delinquent Duo",
+      "why": "For 1000 LP it stripped two cards from a full opposing hand, including one chosen at random.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/tomato-hand-destruction",
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2002/"
+        ]
+      }
+    },
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "why": "Its 2400 ATK and continuous suppression of Traps made a single tribute enough to attack through a defended field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 1,
+    "fl_events": [
+      "ASC02"
+    ],
+    "fl_deck_ids": [
+      49106
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill",
+        "deck_count": 5,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill",
+          "https://yugioh-history.com/deck-list/historical/exchange-of-the-spirit",
+          "https://yugioh-history.com/deck-list/historical/last-turn",
+          "https://yugioh-history.com/deck-list/historical/tomato-hand-destruction",
+          "https://yugioh-history.com/deck-list/historical/yata-garasu-draw-lock"
+        ],
+        "sample_dates": [
+          "2002-05-01",
+          "2002-05-16",
+          "2002-05-21"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2002/",
+      "https://yugioh-history.com/environment/generation-two-36",
+      "https://yugioh-history.com/deck-list/historical/cyber-stein-1kill"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "destiny",
+  "name": "Destiny",
+  "date": "2007-04-06",
+  "region": "OCG",
+  "era": "GX",
+  "popular": true,
+  "description": "Shum King Hang won the 2007 Asia Championship with a Destiny HERO deck built around Light and Darkness Dragon. Destiny HERO - Disk Commander rewarded revival, providing cards to support the deck's expensive Tribute Summons.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/destiny",
+  "description_urls": [
+    "https://formatlibrary.com/formats/destiny",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2007/",
+    "https://yugioh-history.com/environment/generation-five-21",
+    "https://yugioh-history.com/environment/generation-five-19"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 56570271,
+      "name": "Destiny HERO - Disk Commander",
+      "why": "Its original effect drew two cards each time it returned from the Graveyard, making repeated revival a central source of card advantage.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/air-blade",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/light-and-darkness-dragon",
+          "https://yugioh-history.com/environment/generation-five-21"
+        ]
+      }
+    },
+    {
+      "id": 40044918,
+      "name": "Elemental HERO Stratos",
+      "why": "Its summon searched the HERO needed next, often finding a Destiny HERO for Destiny Draw or a Graveyard play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/air-blade",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/air-blade"
+        ]
+      }
+    },
+    {
+      "id": 45809008,
+      "name": "Destiny Draw",
+      "why": "Discarding a Destiny HERO drew two cards, putting Malicious or Disk Commander where their Graveyard plays could start.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/air-blade",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/air-blade",
+          "https://yugioh-history.com/environment/generation-five-21"
+        ]
+      }
+    },
+    {
+      "id": 47297616,
+      "name": "Light and Darkness Dragon",
+      "why": "This two-tribute monster spent its own ATK and DEF to negate successive activations, then could revive a monster after its destruction.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/air-blade",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/light-and-darkness-dragon",
+          "https://yugioh-history.com/environment/generation-five-19"
+        ]
+      }
+    },
+    {
+      "id": 73125233,
+      "name": "Raiza the Storm Monarch",
+      "why": "Its Tribute Summon returned a field card to the top of its owner's Deck, often making the opponent draw the same card again.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/air-blade",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/light-and-darkness-dragon",
+          "https://yugioh-history.com/environment/generation-five-21"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 5,
+    "fl_events": [
+      "ASC07",
+      "OMS03"
+    ],
+    "fl_deck_ids": [
+      49484,
+      70292,
+      70295,
+      70297,
+      70299
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/air-blade",
+        "deck_count": 3,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/air-blade",
+          "https://yugioh-history.com/deck-list/historical/light-and-darkness-dragon"
+        ],
+        "sample_dates": [
+          "2007-03-01",
+          "2007-03-15"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2007/",
+      "https://yugioh-history.com/environment/generation-five-21",
+      "https://yugioh-history.com/environment/generation-five-19",
+      "https://yugioh-history.com/deck-list/historical/air-blade"
+    ]
+  }
+}

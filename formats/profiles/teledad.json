@@ -1,0 +1,182 @@
+{
+  "id": "teledad",
+  "name": "TeleDAD",
+  "date": "2009-01-17",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "At the January 2009 Shonen Jump Championship in Houston, TeleDAD paired Emergency Teleport with Destiny HERO - Malicious to reach Level 8 Synchro Monsters. Both cards helped stock or adjust the Graveyard for Dark Armed Dragon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/teledad",
+  "description_urls": [
+    "https://formatlibrary.com/formats/teledad",
+    "https://formatlibrary.com/events/SJCHOU09",
+    "https://www.yugiohtopdecks.org/deck/2463"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 65192027,
+      "name": "Dark Armed Dragon",
+      "why": "Exactly three DARK monsters in the Graveyard enabled its summon, then each DARK banished from there could destroy a field card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2463",
+            "decks_with_card": 15
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2463"
+        ]
+      }
+    },
+    {
+      "id": 67723438,
+      "name": "Emergency Teleport",
+      "why": "It placed Krebons or another small Psychic Tuner on the field without using the Normal Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2463",
+            "decks_with_card": 12
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2463"
+        ]
+      }
+    },
+    {
+      "id": 44508094,
+      "name": "Stardust Dragon",
+      "why": "Its threat to negate a destruction effect made it a common Level 8 option for protecting a developed field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2463",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2463"
+        ]
+      }
+    },
+    {
+      "id": 59575539,
+      "name": "Krebons",
+      "why": "Emergency Teleport could fetch this Level 2 Tuner to pair with a Level 6 Malicious for a Level 8 Synchro Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2463",
+            "decks_with_card": 15
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2463"
+        ]
+      }
+    },
+    {
+      "id": 23693634,
+      "name": "Colossal Fighter",
+      "why": "This Level 8 Synchro could bring a Warrior back after losing a battle, even reviving itself.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2463",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2463"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "CFC03",
+      "SJCATL08",
+      "SJCHOU09",
+      "SJCSF08"
+    ],
+    "fl_deck_ids": [
+      3496,
+      3498,
+      3499,
+      3500,
+      3501,
+      3505,
+      25043,
+      25044,
+      25045,
+      25046,
+      25047,
+      25048,
+      25126,
+      25127,
+      25128,
+      25129,
+      25130,
+      25131,
+      78544
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2463",
+        "deck_count": 16,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2463",
+          "https://www.yugiohtopdecks.org/deck/2464",
+          "https://www.yugiohtopdecks.org/deck/2465",
+          "https://www.yugiohtopdecks.org/deck/2466",
+          "https://www.yugiohtopdecks.org/deck/2467",
+          "https://www.yugiohtopdecks.org/deck/2468",
+          "https://www.yugiohtopdecks.org/deck/2469",
+          "https://www.yugiohtopdecks.org/deck/2470",
+          "https://www.yugiohtopdecks.org/deck/2471",
+          "https://www.yugiohtopdecks.org/deck/2472",
+          "https://www.yugiohtopdecks.org/deck/2473",
+          "https://www.yugiohtopdecks.org/deck/2474",
+          "https://www.yugiohtopdecks.org/deck/2475",
+          "https://www.yugiohtopdecks.org/deck/2476",
+          "https://www.yugiohtopdecks.org/deck/2477",
+          "https://www.yugiohtopdecks.org/deck/2478"
+        ],
+        "tournaments": [
+          "2009 SJ Houston"
+        ],
+        "months": [
+          "January 2009"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2463"
+    ]
+  }
+}

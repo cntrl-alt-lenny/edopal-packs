@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-duel-monsters-6-expert-2",
+  "kind": "music",
+  "name": "Duel Monsters 6: Expert 2",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Monsters 6: Expert 2",
+  "series": "Duel Monsters",
+  "year": 2001,
+  "platform": "Game Boy Advance",
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Duel Monsters 6 Expert 2 — Box - Front (Japan)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/1d8ff267-eda7-4b30-b509-690c1060526b.jpg",
+    "original_resolution": [
+      680,
+      423
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Duel Monsters 6 Expert 2 — Box - Front (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/482838"
+    }
+  ],
+  "files": {
+    "cover.webp": "ebe1dddd30699639ffac248f720541b1582d195687ecbc46d27c365cdc290e17"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "shaddoll",
+  "name": "Shaddoll",
+  "date": "2014-09-06",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "The September 2014 Toronto championship brought Shaddoll, Satellarknight and Burning Abyss decks into the same field. Shaddoll Fusion could use materials directly from the Deck if the opponent controlled a monster summoned from the Extra Deck, changing when it was safe to commit one.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/shaddoll",
+  "description_urls": [
+    "https://formatlibrary.com/formats/shaddoll",
+    "https://formatlibrary.com/events/YCSTOR14",
+    "https://www.yugiohtopdecks.org/deck/378"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 20366274,
+      "name": "El Shaddoll Construct",
+      "why": "Sending a Shaddoll card to the Graveyard on summon set up another effect while Construct threatened Special Summoned monsters in battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/378",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/378"
+        ]
+      }
+    },
+    {
+      "id": 44394295,
+      "name": "Shaddoll Fusion",
+      "why": "An opposing monster summoned from the Extra Deck let this Fusion Spell use Shaddolls straight from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/378",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/378"
+        ]
+      }
+    },
+    {
+      "id": 94977269,
+      "name": "El Shaddoll Winda",
+      "why": "Its limit of one Special Summon per player each turn forced opponents to find an answer early in their sequence.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/378",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/378"
+        ]
+      }
+    },
+    {
+      "id": 83531441,
+      "name": "Dante, Traveler of the Burning Abyss",
+      "why": "Milling up to three cards fueled the Burning Abyss monsters whose effects activated in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/378",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/387"
+        ]
+      }
+    },
+    {
+      "id": 75878039,
+      "name": "Satellarknight Deneb",
+      "why": "Any summon of Deneb could search another Tellarknight, including Altair for the following turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/378",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/379"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 14,
+    "fl_events": [
+      "ALAR01",
+      "YCSDAL14",
+      "YCSMAD14",
+      "YCSTOR14"
+    ],
+    "fl_deck_ids": [
+      3114,
+      3115,
+      3116,
+      3118,
+      3120,
+      40780,
+      40781,
+      40782,
+      40783,
+      40784,
+      40785,
+      40901,
+      40911,
+      60849
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/378",
+        "deck_count": 20,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/378",
+          "https://www.yugiohtopdecks.org/deck/379",
+          "https://www.yugiohtopdecks.org/deck/380",
+          "https://www.yugiohtopdecks.org/deck/381",
+          "https://www.yugiohtopdecks.org/deck/382",
+          "https://www.yugiohtopdecks.org/deck/383",
+          "https://www.yugiohtopdecks.org/deck/384",
+          "https://www.yugiohtopdecks.org/deck/385",
+          "https://www.yugiohtopdecks.org/deck/386",
+          "https://www.yugiohtopdecks.org/deck/387",
+          "https://www.yugiohtopdecks.org/deck/388",
+          "https://www.yugiohtopdecks.org/deck/389",
+          "https://www.yugiohtopdecks.org/deck/390",
+          "https://www.yugiohtopdecks.org/deck/391",
+          "https://www.yugiohtopdecks.org/deck/392",
+          "https://www.yugiohtopdecks.org/deck/393",
+          "https://www.yugiohtopdecks.org/deck/394",
+          "https://www.yugiohtopdecks.org/deck/395",
+          "https://www.yugiohtopdecks.org/deck/396",
+          "https://www.yugiohtopdecks.org/deck/397"
+        ],
+        "tournaments": [
+          "YCS - Toronto Ontario"
+        ],
+        "months": [
+          "September 2014"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      3117,
+      40900,
+      40902,
+      40903,
+      40904
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/378"
+    ]
+  }
+}

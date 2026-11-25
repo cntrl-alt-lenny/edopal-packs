@@ -3,28 +3,37 @@
   "id": "music-world-championship-2004",
   "kind": "music",
   "name": "World Championship 2004",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! World Championship Tournament 2004",
+  "series": "Duel Monsters",
   "year": 2004,
   "platform": "Game Boy Advance",
-  "cover": "cover.webp",
-  "tracks": [],
-  "credits": [
-    {
-      "what": "Yu-Gi-Oh! World Championship Tournament 2004 - Box - Front Image (North America)",
-      "source": "LaunchBox Games Database",
-      "url": "https://gamesdb.launchbox-app.com/games/images/3931-yu-gi-oh-world-championship-tournament-2004"
-    }
+  "platforms": [
+    "Game Boy Advance"
   ],
-  "files": {
-    "cover.webp": "702e68f4a163d6f80d1c3327b4541d591156c4e5db23ce0a1434178cfad7d260"
-  },
+  "cover": "cover.webp",
+  "cover_region": "North America",
   "cover_attribution": {
-    "source_url": "https://images.launchbox-app.com/37743d13-862c-41c8-b21d-7d0bd33166f9.jpg",
     "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! World Championship Tournament 2004 — Box - Front (North America)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/37743d13-862c-41c8-b21d-7d0bd33166f9.jpg",
     "original_resolution": [
       1000,
       1000
     ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! World Championship Tournament 2004 — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/4150"
+    }
+  ],
+  "files": {
+    "cover.webp": "97142be43ada258f899b29e68f9d2f1fffe8d7bfd20ffaf180758c6e4ec0c4ba"
   }
 }

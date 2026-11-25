@@ -1,0 +1,178 @@
+{
+  "id": "dad-return",
+  "name": "DAD Return",
+  "date": "2008-04-12",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "DAD Return is a GX era format known for its explosive gameplay. Since Perfect Circle Format, Phantom Darkness (PTDN), a set that changed the nature of the game, has been introduced. Notable additions include Dark Armed Dragon, Allure of Darkness, Dark Grepher, Cyber Valley, and Caius the Shadow Monarch, while Monster Reborn was unbanned. The metagame revolves around the infamous DAD Return deck, which uses Dark Armed Dragon, Dimension Fusion, and Return from the Different Dimension to make explosive pushes.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/dad-return",
+  "description_urls": [
+    "https://formatlibrary.com/formats/dad-return"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 65192027,
+      "name": "Dark Armed Dragon",
+      "why": "Exactly three DARK monsters in the Graveyard enabled its summon, then each DARK banished from there could destroy a field card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2622",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2624",
+          "https://formatlibrary.com/formats/dad-return"
+        ]
+      }
+    },
+    {
+      "id": 23557835,
+      "name": "Dimension Fusion",
+      "why": "It brought each player's banished monsters back for 2000 LP, allowing a deck built around banishing costs to summon several attackers at once.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2622",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2624",
+          "https://formatlibrary.com/formats/dad-return"
+        ]
+      }
+    },
+    {
+      "id": 1475311,
+      "name": "Allure of Darkness",
+      "why": "It drew two cards and banished a DARK from the hand, finding combo pieces while stocking targets for mass revival.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2622",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2624",
+          "https://formatlibrary.com/formats/dad-return"
+        ]
+      }
+    },
+    {
+      "id": 14536035,
+      "name": "Dark Grepher",
+      "why": "It could discard one DARK and send another from the Deck, setting up Malicious or the exact Graveyard count for Dark Armed Dragon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2622",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2624",
+          "https://formatlibrary.com/formats/dad-return"
+        ]
+      }
+    },
+    {
+      "id": 511001039,
+      "name": "Dark Magician of Chaos",
+      "why": "Its original effect immediately recovered a Spell on summon, allowing revival and combination Spells to be used again.",
+      "has_art": true,
+      "printing_name": "Dark Magician of Chaos (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2622",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2624"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "GDS02",
+      "SJCCME08",
+      "SJCCOL08",
+      "SJCMIN08"
+    ],
+    "fl_deck_ids": [
+      3464,
+      3466,
+      3467,
+      3468,
+      3469,
+      3470,
+      24460,
+      24461,
+      24462,
+      24463,
+      24464,
+      24465,
+      24539,
+      24540,
+      24547,
+      24548,
+      24549,
+      24550,
+      87560
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2622",
+        "deck_count": 9,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2622",
+          "https://www.yugiohtopdecks.org/deck/2624",
+          "https://www.yugiohtopdecks.org/deck/2625",
+          "https://www.yugiohtopdecks.org/deck/2626",
+          "https://www.yugiohtopdecks.org/deck/2627",
+          "https://www.yugiohtopdecks.org/deck/2628",
+          "https://www.yugiohtopdecks.org/deck/2629",
+          "https://www.yugiohtopdecks.org/deck/2630",
+          "https://www.yugiohtopdecks.org/deck/6636"
+        ],
+        "tournaments": [
+          "2008 SJ Minneapolis"
+        ],
+        "months": [
+          "April 2008"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2622"
+    ]
+  }
+}

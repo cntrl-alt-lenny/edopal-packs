@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "id": "music-rush-duel-dawn-of-the-battle-royale",
+  "kind": "music",
+  "name": "Dawn of the Battle Royale!!",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale!!",
+  "series": "SEVENS / Rush",
+  "year": 2021,
+  "platform": "Nintendo Switch",
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "aliases": [
+    "Rush Duel: Saikyo Battle Royale!!"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Rush Duel: Saikyou Battle Royale!! — Box - Front (Japan)",
+    "platform": "Nintendo Switch",
+    "source_url": "https://images.launchbox-app.com/0bb85fd3-b900-4045-863b-aa2748c84d40.png",
+    "original_resolution": [
+      1176,
+      1935
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Rush Duel: Saikyou Battle Royale!! — Box - Front (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/204396"
+    }
+  ],
+  "files": {
+    "cover.webp": "06ba3ea347e5072ec7ab472247b8180504c19615561c6db80761d3ea11cd9b46"
+  }
+}

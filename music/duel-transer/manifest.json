@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "id": "music-duel-transer",
+  "kind": "music",
+  "name": "5D's Duel Transer",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Duel Transer",
+  "series": "5D's",
+  "year": 2010,
+  "platform": "Wii",
+  "platforms": [
+    "Wii"
+  ],
+  "aliases": [
+    "5D's Master of the Cards"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's Duel Transer — Box - Front (North America)",
+    "platform": "Nintendo Wii",
+    "source_url": "https://images.launchbox-app.com/158fa10c-56be-4ffc-911a-43bb4976384c.jpg",
+    "original_resolution": [
+      1066,
+      1500
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's Duel Transer — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/20865"
+    }
+  ],
+  "files": {
+    "cover.webp": "f03198037d087b6c3cef186418a8c886cdbf54837d5432d059c62a4dd7354933"
+  }
+}

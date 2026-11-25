@@ -1,0 +1,119 @@
+{
+  "id": "catapult",
+  "name": "Catapult",
+  "date": "2004-04-10",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Magical Scientist could pay Life Points to summon several Fusion Monsters in one turn. Catapult Turtle converted their ATK into damage, while Reasoning and Monster Gate helped assemble the combo.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/catapult",
+  "description_urls": [
+    "https://formatlibrary.com/formats/catapult",
+    "https://yugioh-history.com/environment/generation-three-30",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2004/",
+    "https://yugioh-history.com/environment/generation-three-36"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 34206604,
+      "name": "Magical Scientist",
+      "why": "Repeated payments of 1000 LP supplied Fusion Monsters for combat or for Catapult Turtle to tribute before they returned to the Fusion Deck.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/environment/generation-three-30"
+        ]
+      }
+    },
+    {
+      "id": 95727991,
+      "name": "Catapult Turtle",
+      "why": "Its original effect could tribute several monsters in one turn, converting Magical Scientist's Fusion Monsters into lethal damage.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-three-30"
+        ]
+      }
+    },
+    {
+      "id": 58577036,
+      "name": "Reasoning",
+      "why": "Mixing monster Levels made the opponent's guess unreliable, helping Special Summon a threat while sending intervening cards to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-three-30"
+        ]
+      }
+    },
+    {
+      "id": 43040603,
+      "name": "Monster Gate",
+      "why": "Tributing a spare monster could turn it into a much larger one from the Deck and send intervening Spells and Traps to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-three-30"
+        ]
+      }
+    },
+    {
+      "id": 40737112,
+      "name": "Dark Magician of Chaos",
+      "why": "Its original effect immediately recovered a Spell on summon, allowing revival and combination Spells to be used again.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-three-30"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_reconstructions",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+        "deck_count": 4,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/deck-list/historical/deck-destruction-1kill",
+          "https://yugioh-history.com/deck-list/historical/meanae-virus",
+          "https://yugioh-history.com/deck-list/historical/no-chaos"
+        ],
+        "sample_dates": [
+          "2004-03-01",
+          "2004-03-25"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2004/",
+      "https://yugioh-history.com/environment/generation-three-30",
+      "https://yugioh-history.com/environment/generation-three-36",
+      "https://yugioh-history.com/deck-list/historical/chaos"
+    ]
+  }
+}

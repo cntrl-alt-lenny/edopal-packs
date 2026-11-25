@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "id": "music-master-duel",
+  "kind": "music",
+  "name": "Master Duel",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Master Duel",
+  "series": "Crossover",
+  "year": 2022,
+  "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S, Nintendo Switch, Windows, iOS, Android",
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X and S",
+    "Nintendo Switch",
+    "Windows",
+    "iOS",
+    "Android"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "World",
+  "cover_attribution": {
+    "region": "World",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Master Duel — Box - Front (World)",
+    "platform": "Windows",
+    "source_url": "https://images.launchbox-app.com/ef7a34d1-1e8d-483a-83f0-507198380853.png",
+    "original_resolution": [
+      600,
+      900
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Master Duel — Box - Front (World)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/211726"
+    }
+  ],
+  "files": {
+    "cover.webp": "5bd39c5484d2327dd25a504b8d74d1a02bf7c798024034f71f20f195cbce0b12"
+  }
+}

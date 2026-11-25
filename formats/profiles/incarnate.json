@@ -1,0 +1,107 @@
+{
+  "id": "incarnate",
+  "name": "Incarnate",
+  "date": "2014-03-20",
+  "region": "OCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Dragon Ruler was still the most represented strategy in Road of the King's February–March 2014 results after the four large Dragons became Semi-Limited. Chronomaly was the next largest group, often paired with Artifacts.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/incarnate",
+  "description_urls": [
+    "https://formatlibrary.com/formats/incarnate",
+    "https://roadoftheking.com/ocg-2014-02-metagame/",
+    "https://yugioh-history.com/environment/generation-eight-26"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 89399912,
+      "name": "Tempest, Dragon Ruler of Storms",
+      "why": "It supplied repeatable Level 7 material and could search a Dragon by discarding itself with another WIND monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2014-02-metagame/"
+        ]
+      }
+    },
+    {
+      "id": 24861088,
+      "name": "Chronomaly Nebra Disk",
+      "why": "Its Normal Summon searched a Chronomaly card, and it could revive itself on a later turn for a Rank 4 play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2014-02-metagame/"
+        ]
+      }
+    },
+    {
+      "id": 89631139,
+      "name": "Blue-Eyes White Dragon",
+      "why": "Dragon Shrine could send this Normal Monster first, then send another Dragon to set up the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3
+      }
+    },
+    {
+      "id": 53804307,
+      "name": "Blaster, Dragon Ruler of Infernos",
+      "why": "This Level 7 Dragon could return from the Graveyard as Xyz material or trade two FIRE cards for removal.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2014-02-metagame/"
+        ]
+      }
+    },
+    {
+      "id": 41620959,
+      "name": "Dragon Shrine",
+      "why": "Sending a Normal Dragon first unlocked a second send, stocking the Graveyard for Dragon Rulers.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 10,
+    "fl_events": [
+      "INCA03",
+      "INDR01",
+      "INDR02"
+    ],
+    "fl_deck_ids": [
+      53786,
+      53787,
+      53788,
+      53791,
+      54527,
+      54533,
+      66811,
+      66813,
+      66814,
+      66817
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://roadoftheking.com/ocg-2014-02-metagame/",
+      "https://yugioh-history.com/environment/generation-eight-26"
+    ]
+  }
+}

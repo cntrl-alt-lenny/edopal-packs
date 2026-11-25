@@ -1,0 +1,173 @@
+{
+  "id": "chimeratech",
+  "name": "Chimeratech",
+  "date": "2007-01-27",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Chimeratech is a GX era format defined by the game’s first “emergency ban”, which hit Cyber-Stein. Since Stein Format, Structure Deck: Machine Re-Volt (SD10) was introduced. Notable additions include Green Gadget, Red Gadget, Yellow Gadget, and support for the Ancient Gear archetype. In the only premier event of the format, Machine OTK decks focused on summoning Chimeratech Overdragon were dominant, but the modern metagame appears to be more diverse.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/chimeratech",
+  "description_urls": [
+    "https://formatlibrary.com/formats/chimeratech"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 64599569,
+      "name": "Chimeratech Overdragon",
+      "why": "Overload Fusion converted Machines in the Graveyard into a huge attacker whose number of attacks against monsters scaled with its materials.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2803",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2803",
+          "https://formatlibrary.com/formats/chimeratech"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2803",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2803"
+        ]
+      }
+    },
+    {
+      "id": 3659803,
+      "name": "Overload Fusion",
+      "why": "It banished Machines from the field or Graveyard to build Chimeratech Overdragon without spending a hand full of Fusion Materials.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2803",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2803"
+        ]
+      }
+    },
+    {
+      "id": 511002997,
+      "name": "Future Fusion",
+      "why": "Its original effect sent Machine materials from the Deck to the Graveyard immediately, setting up Overload Fusion in the same turn.",
+      "has_art": true,
+      "printing_name": "Future Fusion (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2803",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2803"
+        ]
+      }
+    },
+    {
+      "id": 41172955,
+      "name": "Green Gadget",
+      "why": "Summoning it searched Red Gadget, keeping another Normal Summon in reserve while removal Spells handled larger monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2803",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2805",
+          "https://formatlibrary.com/formats/chimeratech"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "GXDS01",
+      "SJCORL07",
+      "YFZ19"
+    ],
+    "fl_deck_ids": [
+      23853,
+      23854,
+      23855,
+      23856,
+      23857,
+      23858,
+      44879,
+      44880,
+      44883,
+      44894,
+      44898,
+      44900,
+      86036,
+      86038,
+      86041,
+      86044,
+      86047,
+      86050
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2803",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2803",
+          "https://www.yugiohtopdecks.org/deck/2804",
+          "https://www.yugiohtopdecks.org/deck/2805",
+          "https://www.yugiohtopdecks.org/deck/2806",
+          "https://www.yugiohtopdecks.org/deck/2807",
+          "https://www.yugiohtopdecks.org/deck/2808",
+          "https://www.yugiohtopdecks.org/deck/2809",
+          "https://www.yugiohtopdecks.org/deck/2810"
+        ],
+        "tournaments": [
+          "2007 SJ Orlando"
+        ],
+        "months": [
+          "January 2007"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2803"
+    ]
+  }
+}

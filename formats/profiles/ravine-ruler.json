@@ -1,0 +1,194 @@
+{
+  "id": "ravine-ruler",
+  "name": "Ravine Ruler",
+  "date": "2013-10-05",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Ravine Ruler uses the September 2013 list in force at YCS San Mateo. With the small Dragon Rulers forbidden, Dragon Ravine let players send large Dragons directly from the Deck to the Graveyard, where their own effects could summon them.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ravine-ruler",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ravine-ruler",
+    "https://formatlibrary.com/events/YCSSMA13",
+    "https://www.yugiohtopdecks.org/deck/653"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 62265044,
+      "name": "Dragon Ravine",
+      "why": "Dragon decks could discard a card to send a Dragon from the Deck to the Graveyard, setting up their next summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/653",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/653"
+        ]
+      }
+    },
+    {
+      "id": 89399912,
+      "name": "Tempest, Dragon Ruler of Storms",
+      "why": "It supplied repeatable Level 7 material and could search a Dragon by discarding itself with another WIND monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/653",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/653"
+        ]
+      }
+    },
+    {
+      "id": 22110647,
+      "name": "Mecha Phantom Beast Dracossack",
+      "why": "Two Level 7 Dragon Rulers became a threat that generated Tokens for protection, removal and later summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/653",
+            "decks_with_card": 20
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/653"
+        ]
+      }
+    },
+    {
+      "id": 53804307,
+      "name": "Blaster, Dragon Ruler of Infernos",
+      "why": "This Level 7 Dragon could return from the Graveyard as Xyz material or trade two FIRE cards for removal.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/653",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/653"
+        ]
+      }
+    },
+    {
+      "id": 45725480,
+      "name": "Sacred Sword of Seven Stars",
+      "why": "Banishing a Level 7 Dragon Ruler drew two cards and could trigger that Ruler's search.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/653",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/653"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 10,
+    "fl_events": [
+      "BATR05",
+      "YCSLON13",
+      "YCSSMA13",
+      "YCSTRN13"
+    ],
+    "fl_deck_ids": [
+      17268,
+      17269,
+      17270,
+      17271,
+      17272,
+      17273,
+      40148,
+      40215,
+      40218,
+      88689
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/653",
+        "deck_count": 26,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/653",
+          "https://www.yugiohtopdecks.org/deck/654",
+          "https://www.yugiohtopdecks.org/deck/655",
+          "https://www.yugiohtopdecks.org/deck/656",
+          "https://www.yugiohtopdecks.org/deck/657",
+          "https://www.yugiohtopdecks.org/deck/658",
+          "https://www.yugiohtopdecks.org/deck/659",
+          "https://www.yugiohtopdecks.org/deck/660",
+          "https://www.yugiohtopdecks.org/deck/661",
+          "https://www.yugiohtopdecks.org/deck/662",
+          "https://www.yugiohtopdecks.org/deck/663",
+          "https://www.yugiohtopdecks.org/deck/664",
+          "https://www.yugiohtopdecks.org/deck/665",
+          "https://www.yugiohtopdecks.org/deck/666",
+          "https://www.yugiohtopdecks.org/deck/667",
+          "https://www.yugiohtopdecks.org/deck/668",
+          "https://www.yugiohtopdecks.org/deck/669",
+          "https://www.yugiohtopdecks.org/deck/670",
+          "https://www.yugiohtopdecks.org/deck/671",
+          "https://www.yugiohtopdecks.org/deck/672",
+          "https://www.yugiohtopdecks.org/deck/673",
+          "https://www.yugiohtopdecks.org/deck/674",
+          "https://www.yugiohtopdecks.org/deck/675",
+          "https://www.yugiohtopdecks.org/deck/676",
+          "https://www.yugiohtopdecks.org/deck/677",
+          "https://www.yugiohtopdecks.org/deck/678"
+        ],
+        "tournaments": [
+          "YCS - San Mateo California"
+        ],
+        "months": [
+          "October 2013"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      40144,
+      40145,
+      40146,
+      40147,
+      40157,
+      40216,
+      40217,
+      40219,
+      40220
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/653"
+    ]
+  }
+}

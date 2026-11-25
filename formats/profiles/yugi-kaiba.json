@@ -1,0 +1,121 @@
+{
+  "id": "yugi-kaiba",
+  "name": "Yugi-Kaiba",
+  "date": "2002-05-15",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Yugi-Kaiba Format is the first Yu-Gi-Oh! TCG format, including Legend of Blue-Eyes White Dragon (LOB) and Starter Decks Yugi (SDY) and Kaiba (SDK). There are a few Effect Monsters, power Spells, and simple Monster removal. Battle Phase dynamics are important, with cards like Trap Hole and Reinforcements to consider. This is Yu-Gi-Oh! in its simplest form.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/yugi-kaiba",
+  "description_urls": [
+    "https://formatlibrary.com/formats/yugi-kaiba"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": false,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 70781052,
+      "name": "Summoned Skull",
+      "why": "A single tribute brought out a 2500 ATK attacker that could break through common 2000 DEF walls.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/6-19.shtml"
+        ]
+      }
+    },
+    {
+      "id": 54652250,
+      "name": "Man-Eater Bug",
+      "why": "Setting it forced attackers to risk losing a monster to its Flip Effect, even if the Bug lost the battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/6-19.shtml"
+        ]
+      }
+    },
+    {
+      "id": 97590747,
+      "name": "La Jinn the Mystical Genie of the Lamp",
+      "why": "Its 1800 ATK put it ahead of most monsters that could be summoned without a tribute.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/6-19.shtml"
+        ]
+      }
+    },
+    {
+      "id": 4206964,
+      "name": "Trap Hole",
+      "why": "It destroyed a newly Normal or Flip Summoned attacker before it could deal battle damage.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/6-19.shtml",
+          "https://formatlibrary.com/formats/yugi-kaiba"
+        ]
+      }
+    },
+    {
+      "id": 66788016,
+      "name": "Fissure",
+      "why": "It removed the opponent's lowest-ATK face-up monster, making a lone tribute monster particularly vulnerable.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/6-19.shtml"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "ETC05",
+      "MBM11",
+      "YKLM01",
+      "YLT01"
+    ],
+    "fl_deck_ids": [
+      5954,
+      5955,
+      5956,
+      5957,
+      5958,
+      5959,
+      5990,
+      5994,
+      6007,
+      6013,
+      6017,
+      6019,
+      6229,
+      6269,
+      6270,
+      6271,
+      6272,
+      6273,
+      86459
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/6-19.shtml"
+    ]
+  }
+}

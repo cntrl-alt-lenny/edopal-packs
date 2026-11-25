@@ -1,0 +1,172 @@
+{
+  "id": "spyral",
+  "name": "SPYRAL",
+  "date": "2017-11-18",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "SPYRAL decks at YCS San Diego in November 2017 used information about the top card of the opponent's Deck to extend their summons. Double Helix rewarded a correct card-type call by retrieving or summoning a SPYRAL monster.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/spyral",
+  "description_urls": [
+    "https://formatlibrary.com/formats/spyral",
+    "https://formatlibrary.com/events/YCSSD17",
+    "https://www.yugiohtopdecks.org/deck/6829"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 1322368,
+      "name": "SPYRAL Double Helix",
+      "why": "After calling the top card's type, Double Helix could fetch or summon a SPYRAL monster such as Master Plan.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6829",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6829"
+        ]
+      }
+    },
+    {
+      "id": 4474060,
+      "name": "SPYRAL GEAR - Drone",
+      "why": "Reordering the top of the opponent's Deck took the guesswork out of Super Agent and Double Helix.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6829",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6829"
+        ]
+      }
+    },
+    {
+      "id": 91258852,
+      "name": "SPYRAL Master Plan",
+      "why": "Being sent from the field to the Graveyard could search both SPYRAL Resort and a SPYRAL monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6829",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6829"
+        ]
+      }
+    },
+    {
+      "id": 78080961,
+      "name": "SPYRAL Quik-Fix",
+      "why": "It searched a GEAR card on summon and could return from the Graveyard by discarding a card while Super Agent was on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6829",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6829"
+        ]
+      }
+    },
+    {
+      "id": 41091257,
+      "name": "SPYRAL Super Agent",
+      "why": "Drone could set up its hand summon, giving the deck material for Double Helix and a way to clear a Spell or Trap.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6829",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6829"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "YCSBA17",
+      "YCSMEL18",
+      "YCSPRAII17",
+      "YCSSD17"
+    ],
+    "fl_deck_ids": [
+      65574,
+      65575,
+      65576,
+      65577,
+      65579,
+      65580,
+      65602,
+      65603,
+      65604,
+      65605,
+      65606,
+      65607,
+      65629,
+      65631,
+      65633,
+      65634,
+      65635,
+      65636,
+      65637
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/6829",
+        "deck_count": 6,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6829",
+          "https://www.yugiohtopdecks.org/deck/6830",
+          "https://www.yugiohtopdecks.org/deck/6831",
+          "https://www.yugiohtopdecks.org/deck/6832",
+          "https://www.yugiohtopdecks.org/deck/6862",
+          "https://www.yugiohtopdecks.org/deck/8809"
+        ],
+        "tournaments": [
+          "YCS - San Diego California"
+        ],
+        "months": [
+          "November 2017"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/6829"
+    ]
+  }
+}

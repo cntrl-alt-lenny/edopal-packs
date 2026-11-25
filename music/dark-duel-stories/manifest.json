@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "id": "music-dark-duel-stories",
+  "kind": "music",
+  "name": "Dark Duel Stories",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Dark Duel Stories",
+  "series": "Duel Monsters",
+  "year": 2000,
+  "platform": "Game Boy Color",
+  "platforms": [
+    "Game Boy Color"
+  ],
+  "aliases": [
+    "Duel Monsters III: Tri Holy God Advent"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Dark Duel Stories — Box - Front (North America)",
+    "platform": "Nintendo Game Boy Color",
+    "source_url": "https://images.launchbox-app.com/3b40884e-8d8a-48ef-be99-38c68ace9a86.jpg",
+    "original_resolution": [
+      795,
+      791
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Dark Duel Stories — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/8798"
+    }
+  ],
+  "files": {
+    "cover.webp": "7205342819d34ce199aca05ac6aa51f4f405bfa3583503ae82480e6d8ab8bd6f"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "reaper",
+  "name": "Reaper",
+  "date": "2006-03-25",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Reaper Format is a GX era format shaped by an aggressive ban list that hit Goat Control and Combo decks. The latest core sets are Elemental Energy (EEN) and Shadow of Infinity (SOI). Notable additions include Treeborn Frog, Pot of Avarice, and the Dark World archetype. Delinquent Duo, Graceful Charity, and Pot of Greed are now Forbidden. The “good” Last Will ruling is in effect, which is a major boost to the Stein Monarch deck.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/reaper",
+  "description_urls": [
+    "https://formatlibrary.com/formats/reaper"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 23205979,
+      "name": "Spirit Reaper",
+      "why": "It survived battles as a defender and discarded a random card when it landed a direct hit.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2978",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2978"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2978",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2978"
+        ]
+      }
+    },
+    {
+      "id": 56120475,
+      "name": "Sakuretsu Armor",
+      "why": "It destroyed an attacking monster, letting a set Trap trade for an attacker while preserving the defending monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2978",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2978"
+        ]
+      }
+    },
+    {
+      "id": 87621407,
+      "name": "Dekoichi the Battlechanted Locomotive",
+      "why": "Its Flip Effect drew a card, and once destroyed it supplied a DARK monster for Chaos summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2978",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2978"
+        ]
+      }
+    },
+    {
+      "id": 12538374,
+      "name": "Treeborn Frog",
+      "why": "With an empty Spell and Trap Zone, it could return each Standby Phase to supply a fresh tribute for a Monarch.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2978",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2978",
+          "https://formatlibrary.com/formats/reaper"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "KGP15",
+      "SJCDUR06",
+      "SJCLB06",
+      "SJCORL06"
+    ],
+    "fl_deck_ids": [
+      3024,
+      3025,
+      3026,
+      3027,
+      3028,
+      3029,
+      4074,
+      4075,
+      4076,
+      4078,
+      4079,
+      4082,
+      4083,
+      4084,
+      4085,
+      4086,
+      4087,
+      4088,
+      79948
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2978",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2978",
+          "https://www.yugiohtopdecks.org/deck/2979",
+          "https://www.yugiohtopdecks.org/deck/2980",
+          "https://www.yugiohtopdecks.org/deck/2981",
+          "https://www.yugiohtopdecks.org/deck/2982",
+          "https://www.yugiohtopdecks.org/deck/2983",
+          "https://www.yugiohtopdecks.org/deck/2984",
+          "https://www.yugiohtopdecks.org/deck/2985"
+        ],
+        "tournaments": [
+          "2006 Shonen Jump: Long Beach"
+        ],
+        "months": [
+          "March 2006"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2978"
+    ]
+  }
+}

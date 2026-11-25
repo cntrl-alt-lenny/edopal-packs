@@ -1,0 +1,110 @@
+{
+  "id": "joey-pegasus",
+  "name": "Joey-Pegasus",
+  "date": "2003-05-08",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Joey-Pegasus Format is a DM era format that predates the first banlist. The latest cards come from Starter Decks Joey (SDJ) and Pegasus (SDP). Notable additions include Graceful Charity, Sinister Serpent, Scapegoat, and Harpie’s Feather Duster. This is one of the only formats to feature two legal copies of Graceful Charity.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/joey-pegasus",
+  "description_urls": [
+    "https://formatlibrary.com/formats/joey-pegasus"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 511000818,
+      "name": "Sinister Serpent",
+      "why": "Its original effect returned it to the hand in successive Standby Phases, providing a repeatable discard for cards such as Graceful Charity.",
+      "has_art": true,
+      "printing_name": "Sinister Serpent (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://formatlibrary.com/formats/joey-pegasus"
+        ]
+      }
+    },
+    {
+      "id": 79571449,
+      "name": "Graceful Charity",
+      "why": "Drawing three and discarding two dug for specific cards while putting revival targets or Sinister Serpent into the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/May2003/KDR-31/Jinzo%20Beatdown%20Duncan%20Alonso%20Comic%20King%27s%20VA%20.htm",
+          "https://formatlibrary.com/formats/joey-pegasus"
+        ]
+      }
+    },
+    {
+      "id": 18144506,
+      "name": "Harpie's Feather Duster",
+      "why": "It cleared the opponent's Spells and Traps while preserving the user's set cards for the next exchange.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://formatlibrary.com/formats/joey-pegasus"
+        ]
+      }
+    },
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "why": "Its 2400 ATK and continuous suppression of Traps made a single tribute enough to attack through a defended field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/May2003/KDR-31/Jinzo%20Beatdown%20Duncan%20Alonso%20Comic%20King%27s%20VA%20.htm"
+        ]
+      }
+    },
+    {
+      "id": 69140098,
+      "name": "Gemini Elf",
+      "why": "Its 1900 ATK raised the bar for tribute-free attackers, clearing La Jinn and Mechanicalchaser in battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 10,
+    "fl_events": [
+      "DMD10",
+      "JOPE02",
+      "JOPE03",
+      "JOPE04"
+    ],
+    "fl_deck_ids": [
+      45638,
+      45642,
+      45649,
+      46724,
+      46732,
+      46734,
+      50849,
+      50851,
+      50855,
+      75113
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/May2003/KDR-31/Jinzo%20Beatdown%20Duncan%20Alonso%20Comic%20King%27s%20VA%20.htm"
+    ]
+  }
+}

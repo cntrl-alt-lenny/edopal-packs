@@ -1,0 +1,96 @@
+{
+  "id": "ocg-treasure",
+  "name": "OCG Treasure",
+  "date": "2000-05-15",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Confiscation and The Forceful Sentry revealed the opponent's hand and removed a chosen card. Delinquent Duo attacked hand size directly, giving a player who drew these Spells early considerable control over the opening turns.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-treasure",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-treasure",
+    "https://yugioh-history.com/deck-list/historical/three-sacred-treasures-of-hand-destruction",
+    "https://yugioh-history.com/environment/generation-two-2",
+    "https://yugioh-history.com/environment/generation-two-3",
+    "https://yugioh-history.com/environment/generation-two-5"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 17375316,
+      "name": "Confiscation",
+      "why": "For 1000 LP it revealed the opponent's hand and discarded a chosen card, breaking combinations before either piece reached the field.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-2"
+        ]
+      }
+    },
+    {
+      "id": 42829885,
+      "name": "The Forceful Sentry",
+      "why": "Seeing the opponent's hand and shuffling one card into the Deck removed an immediate threat without stocking their Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-2"
+        ]
+      }
+    },
+    {
+      "id": 44763025,
+      "name": "Delinquent Duo",
+      "why": "For 1000 LP it stripped two cards from a full opposing hand, including one chosen at random.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-2"
+        ]
+      }
+    },
+    {
+      "id": 45986603,
+      "name": "Snatch Steal",
+      "why": "Taking an opposing monster gave the player an attacker or a tribute, with no need to summon a monster first.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-3"
+        ]
+      }
+    },
+    {
+      "id": 74191942,
+      "name": "Painful Choice",
+      "why": "It sent four of five selected cards to the Graveyard, setting up revival and Graveyard effects even when the opponent chose the weakest card to keep.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-3"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "historical_commentary",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-two-2",
+      "https://yugioh-history.com/environment/generation-two-3",
+      "https://yugioh-history.com/environment/generation-two-5"
+    ]
+  }
+}

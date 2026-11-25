@@ -1,0 +1,148 @@
+{
+  "id": "starstrike",
+  "name": "Starstrike",
+  "date": "2011-01-08",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Starstrike captures the January 2011 card pool around the El Paso Regional Qualifier. Plant Synchro decks used Dandylion's Tokens and Level 1 Tuners to summon Formula Synchron, drawing a card and sometimes making a second Synchro Summon on the opponent's turn.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/starstrike",
+  "description_urls": [
+    "https://formatlibrary.com/formats/starstrike",
+    "https://yugiohblog.konami.com/2010/ycs/10-11-atlanta/tech-update-starstrike-blast-top-5/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 50091196,
+      "name": "Formula Synchron",
+      "why": "Two small monsters became a Tuner that drew a card and could enable a Synchro Summon during the opponent's Main Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6721",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6721"
+        ]
+      }
+    },
+    {
+      "id": 73580471,
+      "name": "Black Rose Dragon",
+      "why": "A Level 7 Synchro Summon could clear the entire field, making it risky to commit several cards at once.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6721",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6721"
+        ]
+      }
+    },
+    {
+      "id": 14943837,
+      "name": "Debris Dragon",
+      "why": "It could revive Dandylion on its Normal Summon and turn the pair into Black Rose Dragon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6
+      }
+    },
+    {
+      "id": 15341821,
+      "name": "Dandylion",
+      "why": "Sending it to the Graveyard produced two Tokens that could absorb attacks or be used as Synchro Material.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6
+      }
+    },
+    {
+      "id": 53129443,
+      "name": "Dark Hole",
+      "why": "A single Spell could erase the whole monster field, making a set monster and a held attacker a practical route back into a duel.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6721",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6721"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "STAR01",
+      "YCSATL10",
+      "YCSMIL10",
+      "YFZ032"
+    ],
+    "fl_deck_ids": [
+      4179,
+      4180,
+      4181,
+      4182,
+      4183,
+      4184,
+      26510,
+      26511,
+      26512,
+      26524,
+      26525,
+      26526,
+      66436,
+      66437,
+      66438,
+      66441,
+      66449,
+      66455,
+      84918
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/6721",
+        "deck_count": 1,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6721"
+        ],
+        "tournaments": [
+          "Regionals - Rockville, MD"
+        ],
+        "months": [
+          "January 2011"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/6721"
+    ]
+  }
+}

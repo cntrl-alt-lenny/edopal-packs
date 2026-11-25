@@ -1,0 +1,105 @@
+{
+  "id": "tokyo-dome",
+  "name": "Tokyo Dome",
+  "date": "1999-08-25",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Summoned Skull gave early OCG decks a 2500 ATK attacker for one Tribute. Magician of Faith could buy back powerful single-use Spells such as Raigeki and Pot of Greed.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/tokyo-dome",
+  "description_urls": [
+    "https://formatlibrary.com/formats/tokyo-dome",
+    "https://yugioh-history.com/environment/generation-one-10",
+    "https://yugioh-history.com/environment/generation-one-7",
+    "https://yugioh-history.com/environment/generation-one-12"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 70781052,
+      "name": "Summoned Skull",
+      "why": "A single tribute brought out a 2500 ATK attacker that could break through common 2000 DEF walls.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-one-10"
+        ]
+      }
+    },
+    {
+      "id": 54652250,
+      "name": "Man-Eater Bug",
+      "why": "Setting it forced attackers to risk losing a monster to its Flip Effect, even if the Bug lost the battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-one-10"
+        ]
+      }
+    },
+    {
+      "id": 31560081,
+      "name": "Magician of Faith",
+      "why": "Its Flip Effect recovered a spent Spell, giving decks a second use of cards such as Pot of Greed.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-one-10"
+        ]
+      }
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "why": "It put a monster from either Graveyard back into play, giving a defeated attacker another Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-one-10"
+        ]
+      }
+    },
+    {
+      "id": 53129443,
+      "name": "Dark Hole",
+      "why": "A single Spell could erase the whole monster field, making a set monster and a held attacker a practical route back into a duel.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-one-10"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 2,
+    "fl_events": [
+      "99DR01"
+    ],
+    "fl_deck_ids": [
+      50405,
+      50417
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-one-10",
+      "https://yugioh-history.com/environment/generation-one-7",
+      "https://yugioh-history.com/environment/generation-one-12"
+    ]
+  }
+}

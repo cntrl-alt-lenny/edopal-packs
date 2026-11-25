@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "id": "music-duel-generation",
+  "kind": "music",
+  "name": "Duel Generation",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Generation",
+  "series": "Crossover",
+  "year": 2014,
+  "platform": "iOS, Android, Fire OS",
+  "platforms": [
+    "iOS",
+    "Android",
+    "Fire OS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "App Store icon",
+    "description": "App Store icon for Yu-Gi-Oh! Duel Generation",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/46/e7/3b/46e73bd8-1ea3-5dec-19d7-7776c4c05235/mzl.mbyisirj.png/1024x1024bb.png",
+    "original_resolution": [
+      1024,
+      1024
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "App Store icon for Yu-Gi-Oh! Duel Generation",
+      "source": "Konami Digital Entertainment via Apple App Store",
+      "url": "https://www.yugioh.com/news/yu-gi-oh-duel-generation-now-available"
+    }
+  ],
+  "files": {
+    "cover.webp": "6c2abfe6587a7a9df605cb9c7cdd178eb02c3bb207fa67983bf63688d2445553"
+  }
+}

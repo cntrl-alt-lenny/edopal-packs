@@ -1,0 +1,159 @@
+{
+  "id": "phoenix",
+  "name": "Phoenix",
+  "date": "2022-04-09",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "Fusion Destiny supplied Destroyer Phoenix Enforcer to several kinds of decks at YCS Charlotte in April 2022. The Fusion could destroy itself and another card, then return in the next Standby Phase to threaten the field again.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/phoenix",
+  "description_urls": [
+    "https://formatlibrary.com/formats/phoenix",
+    "https://formatlibrary.com/events/YCSCHA22",
+    "https://www.yugiohtopdecks.org/deck/9096"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 60461804,
+      "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "why": "It could destroy one friendly card and another card on the field, then set up a Destiny HERO revival after its own destruction.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9096",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8972"
+        ]
+      }
+    },
+    {
+      "id": 52947044,
+      "name": "Fusion Destiny",
+      "why": "Sending Destiny HERO Fusion Materials straight from the Deck made Phoenix Enforcer accessible to several strategies.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9096",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8972"
+        ]
+      }
+    },
+    {
+      "id": 70369116,
+      "name": "Predaplant Verte Anaconda",
+      "why": "Two Effect Monsters could become Verte and copy Fusion Destiny directly from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9096",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8972"
+        ]
+      }
+    },
+    {
+      "id": 30680659,
+      "name": "Water Enchantress of the Temple",
+      "why": "Banishing it from the hand or Graveyard searched Rite of Aramesir to start the Adventurer engine.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9096",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8972"
+        ]
+      }
+    },
+    {
+      "id": 2563463,
+      "name": "Wandering Gryphon Rider",
+      "why": "While backed by an Adventurer Token, it could negate an activation by returning itself to the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9096",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8972"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 6,
+    "fl_events": [
+      "YCSCHA22"
+    ],
+    "fl_deck_ids": [
+      18354,
+      18355,
+      18356,
+      18358,
+      18359,
+      18360
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9096",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8956",
+          "https://www.yugiohtopdecks.org/deck/8957",
+          "https://www.yugiohtopdecks.org/deck/8972",
+          "https://www.yugiohtopdecks.org/deck/8973",
+          "https://www.yugiohtopdecks.org/deck/8981",
+          "https://www.yugiohtopdecks.org/deck/9096",
+          "https://www.yugiohtopdecks.org/deck/9097",
+          "https://www.yugiohtopdecks.org/deck/9098"
+        ],
+        "tournaments": [
+          "Yu-Gi-Oh! Championship Series Charlotte 2022",
+          "YCS - Charlotte North Carolina"
+        ],
+        "months": [
+          "April 2022"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9096"
+    ]
+  }
+}

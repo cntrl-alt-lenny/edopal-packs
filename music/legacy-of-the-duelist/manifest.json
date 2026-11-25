@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "id": "music-legacy-of-the-duelist",
+  "kind": "music",
+  "name": "Legacy of the Duelist",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Legacy of the Duelist",
+  "series": "Crossover",
+  "year": 2015,
+  "platform": "PlayStation 4, Xbox One, Windows",
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "Windows"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "World",
+  "cover_attribution": {
+    "region": "World",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh Legacy of the Duelist — Box - Front (World)",
+    "platform": "Windows",
+    "source_url": "https://images.launchbox-app.com/d1c3cbfd-afac-48dc-9931-a51bb9faf5ea.jpg",
+    "original_resolution": [
+      800,
+      800
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh Legacy of the Duelist — Box - Front (World)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/122756"
+    }
+  ],
+  "files": {
+    "cover.webp": "396c5d609cdd1f85e3be3c91d0a112aedc2fe28dfb78ec091d39b497287fa353"
+  }
+}

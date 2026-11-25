@@ -1,0 +1,185 @@
+{
+  "id": "fire-water",
+  "name": "Fire-Water",
+  "date": "2014-03-22",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Fire Fist, Mermail and Geargia lists all appeared at YCS Chicago in March 2014. Fire Fist used searchable Fire Formations to sustain its attackers, while Mermail discarded Atlanteans to generate effects alongside its summons.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/fire-water",
+  "description_urls": [
+    "https://formatlibrary.com/formats/fire-water",
+    "https://formatlibrary.com/events/YCSCHI14",
+    "https://www.yugiohtopdecks.org/deck/469"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 6353603,
+      "name": "Brotherhood of the Fire Fist - Bear",
+      "why": "Bear turned a Fire Formation into monster removal and could set another Formation after dealing battle damage.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/466",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/469"
+        ]
+      }
+    },
+    {
+      "id": 22446869,
+      "name": "Mermail Abyssteus",
+      "why": "Discarding one WATER monster put a Level 7 on the field and searched a smaller Mermail.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/466",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/478"
+        ]
+      }
+    },
+    {
+      "id": 3534077,
+      "name": "Coach Soldier Wolfbark",
+      "why": "Its revival effect paired two Level 4 FIRE Beast-Warriors for an immediate Rank 4 Xyz Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/466",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/469"
+        ]
+      }
+    },
+    {
+      "id": 57103969,
+      "name": "Fire Formation - Tenki",
+      "why": "Searching Bear or another low-Level Beast-Warrior left a Formation in play to pay for Fire Fist effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/466",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/466"
+        ]
+      }
+    },
+    {
+      "id": 21954587,
+      "name": "Mermail Abyssmegalo",
+      "why": "Its two WATER discards could trigger Atlanteans, search an Abyss Spell or Trap and set up a double attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/466",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/478"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "WOLF34",
+      "YCSATL14",
+      "YCSBER14",
+      "YCSCHI14"
+    ],
+    "fl_deck_ids": [
+      19223,
+      19224,
+      19225,
+      19227,
+      19237,
+      19244,
+      19412,
+      19414,
+      19415,
+      19416,
+      19417,
+      19418,
+      19442,
+      19443,
+      19445,
+      19446,
+      19447,
+      19448,
+      88538
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/466",
+        "deck_count": 19,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/466",
+          "https://www.yugiohtopdecks.org/deck/467",
+          "https://www.yugiohtopdecks.org/deck/468",
+          "https://www.yugiohtopdecks.org/deck/469",
+          "https://www.yugiohtopdecks.org/deck/470",
+          "https://www.yugiohtopdecks.org/deck/472",
+          "https://www.yugiohtopdecks.org/deck/473",
+          "https://www.yugiohtopdecks.org/deck/474",
+          "https://www.yugiohtopdecks.org/deck/476",
+          "https://www.yugiohtopdecks.org/deck/477",
+          "https://www.yugiohtopdecks.org/deck/478",
+          "https://www.yugiohtopdecks.org/deck/479",
+          "https://www.yugiohtopdecks.org/deck/480",
+          "https://www.yugiohtopdecks.org/deck/481",
+          "https://www.yugiohtopdecks.org/deck/482",
+          "https://www.yugiohtopdecks.org/deck/483",
+          "https://www.yugiohtopdecks.org/deck/484",
+          "https://www.yugiohtopdecks.org/deck/485",
+          "https://www.yugiohtopdecks.org/deck/486"
+        ],
+        "tournaments": [
+          "YCS - Chicago Illinois"
+        ],
+        "months": [
+          "March 2014"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/466"
+    ]
+  }
+}

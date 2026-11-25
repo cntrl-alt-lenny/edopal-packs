@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "id": "music-gx-beginning-of-destiny",
+  "kind": "music",
+  "name": "GX The Beginning of Destiny",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! GX The Beginning of Destiny",
+  "series": "GX",
+  "year": 2007,
+  "platform": "PlayStation 2",
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "aliases": [
+    "GX Tag Force Evolution"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! GX: The Beginning of Destiny — Box - Front (North America)",
+    "platform": "Sony Playstation 2",
+    "source_url": "https://images.launchbox-app.com/e07cbb6e-211e-48ce-a4be-453d7bd77845.jpg",
+    "original_resolution": [
+      1485,
+      2121
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! GX: The Beginning of Destiny — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/18756"
+    }
+  ],
+  "files": {
+    "cover.webp": "39286fd70cb391836ae2db9ae64cd85890a9b64bca983f2384733f751d21b1d3"
+  }
+}

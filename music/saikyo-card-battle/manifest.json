@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-saikyo-card-battle",
+  "kind": "music",
+  "name": "Saikyo Card Battle!",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Monsters Saikyo Card Battle!",
+  "series": "Duel Monsters",
+  "year": 2016,
+  "platform": "Nintendo 3DS",
+  "platforms": [
+    "Nintendo 3DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Banner",
+    "description": "Yu-Gi-Oh! Saikyo Card Battle — Banner (Japan)",
+    "platform": "Nintendo 3DS",
+    "source_url": "https://images.launchbox-app.com/d2716c1e-0d9a-4558-a0c1-6139a03c126c.png",
+    "original_resolution": [
+      600,
+      338
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Saikyo Card Battle — Banner (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/150391"
+    }
+  ],
+  "files": {
+    "cover.webp": "0c9565bad63a5328a2270b9168d2fed0bf5c6a0ea6c8684415ef3967c8f50eb4"
+  }
+}

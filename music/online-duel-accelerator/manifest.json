@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-online-duel-accelerator",
+  "kind": "music",
+  "name": "Online: Duel Accelerator",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Online: Duel Accelerator",
+  "series": "Crossover",
+  "year": 2010,
+  "platform": "Windows",
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "International (English)",
+  "cover_attribution": {
+    "region": "International (English)",
+    "type": "Official English launch-site banner",
+    "description": "Official English launch-site banner for Yu-Gi-Oh! Online: Duel Accelerator",
+    "source_url": "https://web.archive.org/web/20111202032907id_/http://www.yugioh-online.net/v3/swf/fl_top.swf?=&lng=eng&pfx=/v3/",
+    "original_resolution": [
+      980,
+      275
+    ],
+    "extraction": "Frame 60 of the original English Flash masthead, rendered at 1.5×, with the navigation strip cropped. The original art stage is 980×230 at native size."
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Official English launch-site banner for Yu-Gi-Oh! Online: Duel Accelerator",
+      "source": "Konami Digital Entertainment, archived Yu-Gi-Oh! Online: Duel Accelerator website",
+      "url": "https://web.archive.org/web/20100716110715/http://www.yugioh-online.net:80/v3/"
+    }
+  ],
+  "files": {
+    "cover.webp": "368752b21277d75a45fb0814193fd4232a09a5b749cf56369b3ca41a248fbef5"
+  }
+}

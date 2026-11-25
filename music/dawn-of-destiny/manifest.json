@@ -3,20 +3,37 @@
   "id": "music-dawn-of-destiny",
   "kind": "music",
   "name": "The Dawn of Destiny",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! The Dawn of Destiny",
+  "series": "Duel Monsters",
   "year": 2004,
   "platform": "Xbox",
+  "platforms": [
+    "Xbox"
+  ],
   "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! The Dawn of Destiny — Box - Front (North America)",
+    "platform": "Microsoft Xbox",
+    "source_url": "https://images.launchbox-app.com/3db69fe0-1fc8-40d2-bbf3-ea8ab6fb7ab4.jpg",
+    "original_resolution": [
+      800,
+      1126
+    ]
+  },
+  "audio": "pending",
   "tracks": [],
   "credits": [
     {
-      "what": "Original illustrated concept cover",
-      "source": "EDOPal",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs"
+      "what": "Yu-Gi-Oh! The Dawn of Destiny — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/29074"
     }
   ],
   "files": {
-    "cover.webp": "c4e5f817e789300248658cbaa942cbfda6a03aa58cbbb3321400a39015fe4882"
+    "cover.webp": "d1855a4f9db5b6ddf85a8b131bb928541be6fd20a9c48aef795c26be8dcdf915"
   }
 }

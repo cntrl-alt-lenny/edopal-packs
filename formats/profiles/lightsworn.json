@@ -1,0 +1,173 @@
+{
+  "id": "lightsworn",
+  "name": "Lightsworn",
+  "date": "2010-02-27",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "The February 2010 Nashville championship saw Lightsworn alongside Zombie, Blackwing and X-Saber decks. Sending cards from the Deck to the Graveyard could summon Wulf for free and assemble the four different Lightsworn names needed for Judgment Dragon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/lightsworn",
+  "description_urls": [
+    "https://formatlibrary.com/formats/lightsworn",
+    "https://formatlibrary.com/events/SJCNSH10",
+    "https://www.yugiohtopdecks.org/deck/8627"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 57774843,
+      "name": "Judgment Dragon",
+      "why": "Four different Lightsworn names in the Graveyard unlocked a 3000 ATK monster that could clear every other card for 1000 LP.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8624",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8627"
+        ]
+      }
+    },
+    {
+      "id": 95503687,
+      "name": "Lumina, Lightsworn Summoner",
+      "why": "Discarding a card revived a small Lightsworn, building a field while stocking the Graveyard for Judgment Dragon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8624",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8624"
+        ]
+      }
+    },
+    {
+      "id": 94886282,
+      "name": "Charge of the Light Brigade",
+      "why": "It found a low-Level Lightsworn while sending three cards to the Graveyard for the same engine.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8624",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8624"
+        ]
+      }
+    },
+    {
+      "id": 4906301,
+      "name": "Necro Gardna",
+      "why": "Milling it gave Lightsworn a way to stop an attack from the Graveyard and survive until its next turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8624",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8624"
+        ]
+      }
+    },
+    {
+      "id": 511003020,
+      "name": "Wulf, Lightsworn Beast",
+      "why": "Sending it from the Deck to the Graveyard brought a 2,100 ATK monster onto the field without spending a summon.",
+      "has_art": true,
+      "printing_name": "Wulf, Lightsworn Beast (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8624",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8624"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "LLIB04",
+      "SJCCOL09",
+      "SJCLA10",
+      "SJCNSH10"
+    ],
+    "fl_deck_ids": [
+      3529,
+      3530,
+      3531,
+      3532,
+      3533,
+      3534,
+      25349,
+      25350,
+      25351,
+      25352,
+      25353,
+      25404,
+      25416,
+      25418,
+      25419,
+      25420,
+      25449,
+      25450,
+      83570
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8624",
+        "deck_count": 6,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8623",
+          "https://www.yugiohtopdecks.org/deck/8624",
+          "https://www.yugiohtopdecks.org/deck/8625",
+          "https://www.yugiohtopdecks.org/deck/8626",
+          "https://www.yugiohtopdecks.org/deck/8627",
+          "https://www.yugiohtopdecks.org/deck/8628"
+        ],
+        "tournaments": [
+          "2010 SJ Nashville"
+        ],
+        "months": [
+          "February 2010"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8624"
+    ]
+  }
+}

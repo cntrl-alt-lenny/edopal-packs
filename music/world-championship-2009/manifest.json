@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2009",
+  "kind": "music",
+  "name": "Stardust Accelerator",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Stardust Accelerator: World Championship 2009",
+  "series": "5D's",
+  "year": 2009,
+  "platform": "Nintendo DS",
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Germany",
+  "cover_attribution": {
+    "region": "Germany",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator — Box - Front (Germany)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/r2_e8e4f3eb-c10f-404e-9439-2364ab14bd3a.jpg",
+    "original_resolution": [
+      1500,
+      1388
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator — Box - Front (Germany)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26228"
+    }
+  ],
+  "files": {
+    "cover.webp": "a43d86e3c3c44120bb7702d738c9bfee6c193e23e1c047e777d170370a984793"
+  }
+}

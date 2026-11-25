@@ -1,0 +1,187 @@
+{
+  "id": "thunder-dragon",
+  "name": "Thunder Dragon",
+  "date": "2019-06-23",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "Thunder Dragon decks could pair their engine with Danger! monsters at the June 2019 North American World Championship Qualifier. Activating a Thunder monster's effect in hand enabled a route to Colossus, which stopped the opponent from adding cards from the Deck except by drawing.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/thunder-dragon",
+  "description_urls": [
+    "https://formatlibrary.com/formats/thunder-dragon",
+    "https://formatlibrary.com/events/NAWCQ19",
+    "https://www.yugiohtopdecks.org/deck/7903"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 15291624,
+      "name": "Thunder Dragon Colossus",
+      "why": "After a Thunder monster used its effect in hand, Tributing a non-Fusion Thunder Effect Monster could bring out Colossus and shut down opposing Deck searches.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7903",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7861"
+        ]
+      }
+    },
+    {
+      "id": 29596581,
+      "name": "Thunder Dragonroar",
+      "why": "Banishing it or sending it from the field to the Graveyard summoned another Thunder Dragon from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7903",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7861"
+        ]
+      }
+    },
+    {
+      "id": 56713174,
+      "name": "Thunder Dragondark",
+      "why": "Its banishment or departure from the field to the Graveyard could search another Thunder Dragon card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7903",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7861"
+        ]
+      }
+    },
+    {
+      "id": 70711847,
+      "name": "Danger! Nessie!",
+      "why": "A random discard either helped put Nessie on the field with a draw or triggered its search for another Danger card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7903",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7861"
+        ]
+      }
+    },
+    {
+      "id": 55878038,
+      "name": "Chaos Dragon Levianeer",
+      "why": "Banishing LIGHT and DARK monsters for its summon cleared cards while triggering the banished Thunder Dragons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7903",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7861"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "CFT05",
+      "EUWCQ19",
+      "NAWCQ19",
+      "YCSKNX19"
+    ],
+    "fl_deck_ids": [
+      86794,
+      86795,
+      86796,
+      86797,
+      86798,
+      86799,
+      87057,
+      87058,
+      87059,
+      87060,
+      87061,
+      87062,
+      87121,
+      87122,
+      87123,
+      87124,
+      87125,
+      87126,
+      88189
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/7903",
+        "deck_count": 21,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7847",
+          "https://www.yugiohtopdecks.org/deck/7860",
+          "https://www.yugiohtopdecks.org/deck/7861",
+          "https://www.yugiohtopdecks.org/deck/7862",
+          "https://www.yugiohtopdecks.org/deck/7863",
+          "https://www.yugiohtopdecks.org/deck/7864",
+          "https://www.yugiohtopdecks.org/deck/7865",
+          "https://www.yugiohtopdecks.org/deck/7867",
+          "https://www.yugiohtopdecks.org/deck/7868",
+          "https://www.yugiohtopdecks.org/deck/7870",
+          "https://www.yugiohtopdecks.org/deck/7871",
+          "https://www.yugiohtopdecks.org/deck/7877",
+          "https://www.yugiohtopdecks.org/deck/7878",
+          "https://www.yugiohtopdecks.org/deck/7900",
+          "https://www.yugiohtopdecks.org/deck/7901",
+          "https://www.yugiohtopdecks.org/deck/7902",
+          "https://www.yugiohtopdecks.org/deck/7903",
+          "https://www.yugiohtopdecks.org/deck/7904",
+          "https://www.yugiohtopdecks.org/deck/7922",
+          "https://www.yugiohtopdecks.org/deck/7925",
+          "https://www.yugiohtopdecks.org/deck/8395"
+        ],
+        "tournaments": [
+          "WCQ - North America"
+        ],
+        "months": [
+          "June 2019"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/7903"
+    ]
+  }
+}

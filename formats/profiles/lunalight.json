@@ -1,0 +1,160 @@
+{
+  "id": "lunalight",
+  "name": "Lunalight",
+  "date": "2019-10-05",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "The October 2019 Fort Worth field included Orcust and Sky Striker strategies. Lunalight variants used Tiger to revive Level 4 monsters repeatedly, supplying Xyz or Link Materials for combinations that could extend into Orcust plays.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/lunalight",
+  "description_urls": [
+    "https://formatlibrary.com/formats/lunalight",
+    "https://formatlibrary.com/events/YCSFTW19",
+    "https://www.yugiohtopdecks.org/deck/8214"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 35618217,
+      "name": "Lunalight Kaleido Chick",
+      "why": "Sending Yellow Marten or another Lunalight from the Deck to the Graveyard set up the deck's Rank 4 plays.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8214",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8214"
+        ]
+      }
+    },
+    {
+      "id": 26077387,
+      "name": "Sky Striker Ace - Raye",
+      "why": "Raye repeatedly supplied the Ace Link Monsters and could revive after an opposing card removed one.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8214",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8213"
+        ]
+      }
+    },
+    {
+      "id": 63166095,
+      "name": "Sky Striker Mobilize - Engage!",
+      "why": "It found any other Sky Striker card and drew another card once three Spells were in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8214",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8213"
+        ]
+      }
+    },
+    {
+      "id": 83190280,
+      "name": "Lunalight Tiger",
+      "why": "Its Pendulum effect repeatedly revived Lunalight monsters when the scale was returned to hand and activated again.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8214",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8214"
+        ]
+      }
+    },
+    {
+      "id": 50546208,
+      "name": "Lunalight Yellow Marten",
+      "why": "Returning Tiger to hand let Marten summon itself and reset Tiger for another revival.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8214",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8214"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 7,
+    "fl_events": [
+      "MM01",
+      "YCSPOR19"
+    ],
+    "fl_deck_ids": [
+      86165,
+      87267,
+      87268,
+      87269,
+      87270,
+      87271,
+      87272
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8214",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8212",
+          "https://www.yugiohtopdecks.org/deck/8213",
+          "https://www.yugiohtopdecks.org/deck/8214",
+          "https://www.yugiohtopdecks.org/deck/8216",
+          "https://www.yugiohtopdecks.org/deck/8218",
+          "https://www.yugiohtopdecks.org/deck/8219",
+          "https://www.yugiohtopdecks.org/deck/8220",
+          "https://www.yugiohtopdecks.org/deck/8221"
+        ],
+        "tournaments": [
+          "YCS - Fort Worth Texas"
+        ],
+        "months": [
+          "October 2019"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8214"
+    ]
+  }
+}

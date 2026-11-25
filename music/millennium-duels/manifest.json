@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "id": "music-millennium-duels",
+  "kind": "music",
+  "name": "Millennium Duels",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Millennium Duels",
+  "series": "Crossover",
+  "year": 2014,
+  "platform": "Xbox 360, PlayStation 3",
+  "platforms": [
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "United States",
+  "cover_attribution": {
+    "region": "United States",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Millennium Duels — Box - Front (United States)",
+    "platform": "Microsoft Xbox 360",
+    "source_url": "https://images.launchbox-app.com/f049f515-a55d-4b9e-8571-99357260afa6.jpg",
+    "original_resolution": [
+      219,
+      300
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Millennium Duels — Box - Front (United States)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/143394"
+    }
+  ],
+  "files": {
+    "cover.webp": "08c05245b018b34d9f9435263320b514c152d81842d740bb3ea09eaf52ff5bbc"
+  }
+}

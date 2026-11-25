@@ -3,28 +3,37 @@
   "id": "music-power-of-chaos-joey",
   "kind": "music",
   "name": "Joey the Passion",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
+  "series": "Duel Monsters",
   "year": 2004,
   "platform": "Windows",
-  "cover": "cover.webp",
-  "tracks": [],
-  "credits": [
-    {
-      "what": "Yu-Gi-Oh! Power of Chaos: Joey the Passion - Box - Front Image (North America)",
-      "source": "LaunchBox Games Database",
-      "url": "https://gamesdb.launchbox-app.com/games/images/16759-yu-gi-oh-power-of-chaos-joey-the-passion"
-    }
+  "platforms": [
+    "Windows"
   ],
-  "files": {
-    "cover.webp": "3afaa89d45fdcedb10c880ea62a1040dfa2b0b835b1957f2c410d06b7617dd7d"
-  },
+  "cover": "cover.webp",
+  "cover_region": "North America",
   "cover_attribution": {
-    "source_url": "https://images.launchbox-app.com/a69a3502-5576-4844-b651-83cb23707610.jpg",
     "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Power of Chaos: Joey the Passion — Box - Front (North America)",
+    "platform": "Windows",
+    "source_url": "https://images.launchbox-app.com/a69a3502-5576-4844-b651-83cb23707610.jpg",
     "original_resolution": [
       640,
       909
     ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Power of Chaos: Joey the Passion — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/17285"
+    }
+  ],
+  "files": {
+    "cover.webp": "4b58b8a9189972528a6a139e3e721fdd6a314f581cefa16fca6fc18a432ca9f6"
   }
 }

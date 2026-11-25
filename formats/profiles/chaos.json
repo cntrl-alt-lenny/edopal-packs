@@ -1,0 +1,119 @@
+{
+  "id": "chaos",
+  "name": "Chaos",
+  "date": "2004-06-26",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Chaos Format is a DM era format that predates the first banlist. The latest core set is Invasion of Chaos (IOC). The format revolves around special summoning two of the most iconic cards ever printed, Black Luster Soldier - Envoy of the Beginning and Chaos Emperor Dragon - Envoy of the End, by banishing a LIGHT and a DARK monster from your Graveyard. Other notable additions include Chaos Sorcerer, Dark Magician of Chaos, and Dimension Fusion.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/chaos",
+  "description_urls": [
+    "https://formatlibrary.com/formats/chaos"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 511000819,
+      "name": "Chaos Emperor Dragon - Envoy of the End",
+      "why": "Its original effect emptied both hands and fields, often letting Sangan search Yata-Garasu against an opponent with no cards left.",
+      "has_art": true,
+      "printing_name": "Chaos Emperor Dragon - Envoy of the End (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2004/2004Jun/KDR-31/Grunt%20Chaos%20Deck%20Matt%20Barnes%20Regional%20tournament%20Days%20Inn%20Knoxville%20TN.htm",
+          "https://formatlibrary.com/formats/chaos"
+        ]
+      }
+    },
+    {
+      "id": 72989439,
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "why": "A spent LIGHT and DARK monster put 3000 ATK on the field, with a choice between banishing a monster and attacking twice.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2004/2004Jun/KDR-31/Grunt%20Chaos%20Deck%20Matt%20Barnes%20Regional%20tournament%20Days%20Inn%20Knoxville%20TN.htm",
+          "https://formatlibrary.com/formats/chaos"
+        ]
+      }
+    },
+    {
+      "id": 7572887,
+      "name": "D.D. Warrior Lady",
+      "why": "She could banish herself and the monster she battled, removing threats such as Vampire Lord without sending them to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2004/2004Jun/KDR-31/Grunt%20Chaos%20Deck%20Matt%20Barnes%20Regional%20tournament%20Days%20Inn%20Knoxville%20TN.htm"
+        ]
+      }
+    },
+    {
+      "id": 504700178,
+      "name": "Sangan",
+      "why": "Sending it from the field to the Graveyard searched out a low-ATK monster, from a combo piece to another defensive play.",
+      "has_art": true,
+      "printing_name": "Sangan (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 12
+      }
+    },
+    {
+      "id": 71413901,
+      "name": "Breaker the Magical Warrior",
+      "why": "Its Spell Counter gave it 1900 ATK or could be spent to destroy a Spell or Trap before committing another attacker.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 14,
+    "fl_events": [
+      "BCAMS04",
+      "CHAOS07",
+      "DMD12",
+      "USNC04",
+      "YFZ11"
+    ],
+    "fl_deck_ids": [
+      3005,
+      3435,
+      3436,
+      3437,
+      34627,
+      34629,
+      34636,
+      34641,
+      34644,
+      34662,
+      74505,
+      74512,
+      81980,
+      81983
+    ],
+    "other_deck_samples": [],
+    "fl_deck_ids_excluded_by_pool": [
+      3432,
+      3433,
+      3434
+    ],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/KillerDecks/2004/2004Jun/KDR-31/Grunt%20Chaos%20Deck%20Matt%20Barnes%20Regional%20tournament%20Days%20Inn%20Knoxville%20TN.htm"
+    ]
+  }
+}

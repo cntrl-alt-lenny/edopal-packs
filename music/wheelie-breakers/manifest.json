@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-wheelie-breakers",
+  "kind": "music",
+  "name": "5D's Wheelie Breakers",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Wheelie Breakers",
+  "series": "5D's",
+  "year": 2009,
+  "platform": "Wii",
+  "platforms": [
+    "Wii"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Germany",
+  "cover_attribution": {
+    "region": "Germany",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's: Wheelie Breakers — Box - Front (Germany)",
+    "platform": "Nintendo Wii",
+    "source_url": "https://images.launchbox-app.com/7c809eb8-5a64-43c2-9954-24a26b01db05.jpg",
+    "original_resolution": [
+      1066,
+      1500
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's: Wheelie Breakers — Box - Front (Germany)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/34661"
+    }
+  ],
+  "files": {
+    "cover.webp": "5ab19d02b8091804b6fbc2f2536d972057466a2588557bae8c05162e28b4e3cd"
+  }
+}

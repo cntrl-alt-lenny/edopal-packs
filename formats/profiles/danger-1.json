@@ -1,0 +1,154 @@
+{
+  "id": "danger-1",
+  "name": "Danger 1",
+  "date": "2018-11-17",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "Danger 1 takes its card pool from YCS Pasadena in November 2018. Danger! monsters put bodies on the field or triggered when discarded, giving strategies such as Gouki more ways to assemble Link Materials.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/danger-1",
+  "description_urls": [
+    "https://formatlibrary.com/formats/danger-1",
+    "https://formatlibrary.com/events/YCSPAS18",
+    "https://www.yugiohtopdecks.org/deck/7519"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 70711847,
+      "name": "Danger! Nessie!",
+      "why": "A random discard either helped put Nessie on the field with a draw or triggered its search for another Danger card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7520",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7519"
+        ]
+      }
+    },
+    {
+      "id": 59934749,
+      "name": "Isolde, Two Tales of the Noble Knights",
+      "why": "By sending Equip Spells from the Deck, Isolde turned two Warriors into another Warrior summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7520",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7519"
+        ]
+      }
+    },
+    {
+      "id": 9411399,
+      "name": "Destiny HERO - Malicious",
+      "why": "Banishing it from the Graveyard summoned another copy from the Deck for the next Link or Synchro play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7520",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7519"
+        ]
+      }
+    },
+    {
+      "id": 5043010,
+      "name": "Firewall Dragon",
+      "why": "Its original effect turned monsters leaving its linked zones for the Graveyard into additional summons from hand.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7520",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7519"
+        ]
+      }
+    },
+    {
+      "id": 43694650,
+      "name": "Danger!? Jackalope?",
+      "why": "Discarding it brought a different Danger monster directly out of the Deck, preserving a body for a Link Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 11,
+    "fl_events": [
+      "YCSCOL18",
+      "YCSNIA18",
+      "YCSUT18"
+    ],
+    "fl_deck_ids": [
+      66359,
+      66414,
+      66415,
+      66416,
+      66417,
+      66418,
+      67223,
+      69624,
+      69626,
+      69627,
+      69628
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/7520",
+        "deck_count": 6,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7519",
+          "https://www.yugiohtopdecks.org/deck/7520",
+          "https://www.yugiohtopdecks.org/deck/7521",
+          "https://www.yugiohtopdecks.org/deck/7523",
+          "https://www.yugiohtopdecks.org/deck/7524",
+          "https://www.yugiohtopdecks.org/deck/7533"
+        ],
+        "tournaments": [
+          "YCS - Pasadena California"
+        ],
+        "months": [
+          "November 2018"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/7520"
+    ]
+  }
+}

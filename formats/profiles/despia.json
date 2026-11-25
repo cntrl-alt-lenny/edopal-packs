@@ -1,0 +1,150 @@
+{
+  "id": "despia",
+  "name": "Despia",
+  "date": "2022-07-17",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "Branded Despia reached the elimination rounds of the July 2022 North America TCG Championship. Branded Fusion used Fallen of Albaz and material from the Deck to start a chain of Fusion Summons leading to Mirrorjade, whose effect could banish a monster.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/despia",
+  "description_urls": [
+    "https://formatlibrary.com/formats/despia",
+    "https://yugiohblog.konami.com/2022/championships/na-ygoc-2022/north-america-yu-gi-oh-tcg-championship-top-64-pairings/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 44146295,
+      "name": "Mirrorjade the Iceblade Dragon",
+      "why": "Sending an Albaz Fusion such as Albion from the Extra Deck let Mirrorjade banish a monster and set up a Branded search in the End Phase.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/branded-adventurer-despia-297867",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/branded-adventurer-despia-297867"
+        ]
+      }
+    },
+    {
+      "id": 44362883,
+      "name": "Branded Fusion",
+      "why": "Using materials from the Deck made Lubellion or Albion and set up a second Fusion Summon for Mirrorjade.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/branded-adventurer-despia-297867",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/branded-adventurer-despia-297867"
+        ]
+      }
+    },
+    {
+      "id": 62962630,
+      "name": "Aluber the Jester of Despia",
+      "why": "Its summon found a Branded Spell or Trap, most often the Fusion Spell that started the deck's main line.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/branded-adventurer-despia-297867",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/branded-adventurer-despia-297867"
+        ]
+      }
+    },
+    {
+      "id": 11321089,
+      "name": "Guardian Chimera",
+      "why": "Branded in Red could summon it on the opponent's turn to draw cards and destroy opposing cards.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/branded-adventurer-despia-297867",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/branded-adventurer-despia-297867"
+        ]
+      }
+    },
+    {
+      "id": 3285551,
+      "name": "Rite of Aramesir",
+      "why": "A single Spell supplied an Adventurer Token and placed Fateful Adventure, opening the route to Gryphon Rider.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/branded-adventurer-despia-297867",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/branded-adventurer-despia-297867"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2022/championships/top-4-decklists-2022-north-america-yu-gi-oh-tcg-championship/",
+        "deck_count": 4,
+        "source_urls": [
+          "https://yugiohblog.konami.com/2022/championships/top-4-decklists-2022-north-america-yu-gi-oh-tcg-championship/"
+        ]
+      },
+      {
+        "kind": "archetype_event_decks",
+        "source_url": "https://ygoprodeck.com/deck/branded-adventurer-despia-297867",
+        "deck_count": 6,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/branded-adventurer-despia-297867",
+          "https://ygoprodeck.com/deck/blind-second-branded-despia-297216",
+          "https://ygoprodeck.com/deck/branded-predaplant-despia-296863",
+          "https://ygoprodeck.com/deck/branded-predaplant-despia-296365",
+          "https://ygoprodeck.com/deck/adventurer-p-u-n-k-dragon-link-296518",
+          "https://ygoprodeck.com/deck/adventurer-p-u-n-k-synchro-gs-297208"
+        ],
+        "tournaments": [
+          "North America WCQ 2022"
+        ],
+        "months": [
+          "July 2022"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2022/championships/top-4-decklists-2022-north-america-yu-gi-oh-tcg-championship/",
+      "https://ygoprodeck.com/deck/branded-adventurer-despia-297867"
+    ]
+  }
+}

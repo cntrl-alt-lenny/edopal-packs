@@ -1,0 +1,178 @@
+{
+  "id": "darkwing",
+  "name": "Darkwing",
+  "date": "2022-10-22",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "Darkwing captures YCS Minneapolis in October 2022, when Bystial monsters joined a field containing Tearlaments and Spright. A Bystial could banish a LIGHT or DARK Fusion Material from a Graveyard, disrupting a Tearlaments effect while summoning its own attacker.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/darkwing",
+  "description_urls": [
+    "https://formatlibrary.com/formats/darkwing",
+    "https://formatlibrary.com/events/YCSMIN22",
+    "https://www.yugiohtopdecks.org/deck/9248"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 33854624,
+      "name": "Bystial Magnamhut",
+      "why": "Banishing a LIGHT or DARK monster from either Graveyard could disrupt a Tearlaments Fusion effect and set up a Dragon search.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9261",
+            "decks_with_card": 13
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9244"
+        ]
+      }
+    },
+    {
+      "id": 92731385,
+      "name": "Tearlaments Kitkallos",
+      "why": "Kitkallos could search or send a Tearlaments card, then send the top five cards of the Deck to the Graveyard when sent there by an effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9261",
+            "decks_with_card": 14
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9244"
+        ]
+      }
+    },
+    {
+      "id": 84330567,
+      "name": "Tearlaments Rulkallos",
+      "why": "It could negate an effect that would Special Summon a monster and return after a card effect sent the Fusion Summoned Rulkallos to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9261",
+            "decks_with_card": 14
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9244"
+        ]
+      }
+    },
+    {
+      "id": 72329844,
+      "name": "Spright Sprind",
+      "why": "Its Link Summon could send a Level 2 monster such as Tearlaments Merrli directly from the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9261",
+            "decks_with_card": 18
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9244"
+        ]
+      }
+    },
+    {
+      "id": 6767771,
+      "name": "Tearlaments Scream",
+      "why": "Summoning a monster while a Tearlaments monster was present could send the top three cards of the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9261",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9244"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 8,
+    "fl_events": [
+      "DWDW03",
+      "GSP01",
+      "YCSMIN22"
+    ],
+    "fl_deck_ids": [
+      5898,
+      48306,
+      48307,
+      48308,
+      48309,
+      48310,
+      48311,
+      87979
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9261",
+        "deck_count": 24,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9244",
+          "https://www.yugiohtopdecks.org/deck/9245",
+          "https://www.yugiohtopdecks.org/deck/9246",
+          "https://www.yugiohtopdecks.org/deck/9247",
+          "https://www.yugiohtopdecks.org/deck/9248",
+          "https://www.yugiohtopdecks.org/deck/9249",
+          "https://www.yugiohtopdecks.org/deck/9250",
+          "https://www.yugiohtopdecks.org/deck/9251",
+          "https://www.yugiohtopdecks.org/deck/9255",
+          "https://www.yugiohtopdecks.org/deck/9256",
+          "https://www.yugiohtopdecks.org/deck/9257",
+          "https://www.yugiohtopdecks.org/deck/9258",
+          "https://www.yugiohtopdecks.org/deck/9259",
+          "https://www.yugiohtopdecks.org/deck/9260",
+          "https://www.yugiohtopdecks.org/deck/9261",
+          "https://www.yugiohtopdecks.org/deck/9264",
+          "https://www.yugiohtopdecks.org/deck/9270",
+          "https://www.yugiohtopdecks.org/deck/9271",
+          "https://www.yugiohtopdecks.org/deck/9272",
+          "https://www.yugiohtopdecks.org/deck/9273",
+          "https://www.yugiohtopdecks.org/deck/9274",
+          "https://www.yugiohtopdecks.org/deck/9275",
+          "https://www.yugiohtopdecks.org/deck/9277",
+          "https://www.yugiohtopdecks.org/deck/9278"
+        ],
+        "tournaments": [
+          "YCS - Minneapolis Minnesota"
+        ],
+        "months": [
+          "October 2022"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9261"
+    ]
+  }
+}

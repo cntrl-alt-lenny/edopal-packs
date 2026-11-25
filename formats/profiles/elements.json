@@ -1,0 +1,178 @@
+{
+  "id": "elements",
+  "name": "Elements",
+  "date": "2022-09-10",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "Tearlaments and Spright both reached the top cut at YCS Niagara Falls in September 2022. Tearlaments could Fusion Summon when sent to the Graveyard by a card effect, while Spright turned pairs of Level 2 monsters into Xyz and Link plays.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/elements",
+  "description_urls": [
+    "https://formatlibrary.com/formats/elements",
+    "https://formatlibrary.com/events/YCSNIA22",
+    "https://www.yugiohtopdecks.org/deck/9081"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 76145933,
+      "name": "Spright Blue",
+      "why": "Controlling a Level or Rank 2 let Blue summon itself and find another Spright monster, commonly Jet.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9080",
+            "decks_with_card": 15
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9083"
+        ]
+      }
+    },
+    {
+      "id": 27381364,
+      "name": "Spright Elf",
+      "why": "Its Quick Effect revived a Level 2 monster and gave the deck access to effects such as Swap Frog's on either turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9080",
+            "decks_with_card": 22
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9081"
+        ]
+      }
+    },
+    {
+      "id": 54498517,
+      "name": "Gigantic Spright",
+      "why": "It summoned any Level 2 monster from the Deck and restricted subsequent Special Summons to Level, Rank or Link 2.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9080",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9081"
+        ]
+      }
+    },
+    {
+      "id": 92731385,
+      "name": "Tearlaments Kitkallos",
+      "why": "Kitkallos could search or send a Tearlaments card, then send the top five cards of the Deck to the Graveyard when sent there by an effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9080",
+            "decks_with_card": 11
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9081"
+        ]
+      }
+    },
+    {
+      "id": 37961969,
+      "name": "Tearlaments Havnis",
+      "why": "An opposing field monster's activated effect could let Havnis summon itself, mill three cards and start a Fusion play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9080",
+            "decks_with_card": 11
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9081"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 7,
+    "fl_events": [
+      "DLO03",
+      "YCSNIA22"
+    ],
+    "fl_deck_ids": [
+      38779,
+      38780,
+      38781,
+      38782,
+      38783,
+      38784,
+      40983
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9080",
+        "deck_count": 26,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9080",
+          "https://www.yugiohtopdecks.org/deck/9081",
+          "https://www.yugiohtopdecks.org/deck/9082",
+          "https://www.yugiohtopdecks.org/deck/9083",
+          "https://www.yugiohtopdecks.org/deck/9106",
+          "https://www.yugiohtopdecks.org/deck/9107",
+          "https://www.yugiohtopdecks.org/deck/9108",
+          "https://www.yugiohtopdecks.org/deck/9109",
+          "https://www.yugiohtopdecks.org/deck/9110",
+          "https://www.yugiohtopdecks.org/deck/9111",
+          "https://www.yugiohtopdecks.org/deck/9112",
+          "https://www.yugiohtopdecks.org/deck/9113",
+          "https://www.yugiohtopdecks.org/deck/9114",
+          "https://www.yugiohtopdecks.org/deck/9115",
+          "https://www.yugiohtopdecks.org/deck/9116",
+          "https://www.yugiohtopdecks.org/deck/9117",
+          "https://www.yugiohtopdecks.org/deck/9118",
+          "https://www.yugiohtopdecks.org/deck/9119",
+          "https://www.yugiohtopdecks.org/deck/9120",
+          "https://www.yugiohtopdecks.org/deck/9121",
+          "https://www.yugiohtopdecks.org/deck/9122",
+          "https://www.yugiohtopdecks.org/deck/9123",
+          "https://www.yugiohtopdecks.org/deck/9124",
+          "https://www.yugiohtopdecks.org/deck/9125",
+          "https://www.yugiohtopdecks.org/deck/9126",
+          "https://www.yugiohtopdecks.org/deck/9127"
+        ],
+        "tournaments": [
+          "Yu-Gi-Oh! Championship Series Niagara Falls 2022"
+        ],
+        "months": [
+          "September 2022"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9080"
+    ]
+  }
+}

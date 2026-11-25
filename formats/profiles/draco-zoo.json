@@ -1,0 +1,182 @@
+{
+  "id": "draco-zoo",
+  "name": "Draco Zoo",
+  "date": "2017-07-08",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "True Draco and Zoodiac engines could share a deck at the July 2017 North American World Championship Qualifier. Zoodiac Xyz Monsters stacked on a single monster, while True Draco monsters could use Continuous Spells and Traps for their Tribute Summons.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/draco-zoo",
+  "description_urls": [
+    "https://formatlibrary.com/formats/draco-zoo",
+    "https://formatlibrary.com/events/NAWCQ17",
+    "https://www.yugiohtopdecks.org/deck/6638"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 48905153,
+      "name": "Zoodiac Drident",
+      "why": "Detaching a material let it destroy a face-up card on either player's turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6629",
+            "decks_with_card": 17
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6629"
+        ]
+      }
+    },
+    {
+      "id": 21377582,
+      "name": "Master Peace, the True Dracoslaying King",
+      "why": "The types of cards Tributed for it determined its immunities, while Continuous cards in the Graveyard fueled its destruction effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6629",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6628"
+        ]
+      }
+    },
+    {
+      "id": 85115440,
+      "name": "Zoodiac Broadbull",
+      "why": "A Zoodiac Xyz stack could search a Beast-Warrior before becoming Drident.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6629",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6629"
+        ]
+      }
+    },
+    {
+      "id": 46060017,
+      "name": "Zoodiac Barrage",
+      "why": "Destroying a face-up card the player controlled brought a Zoodiac straight out of the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6629",
+            "decks_with_card": 17
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6629"
+        ]
+      }
+    },
+    {
+      "id": 41375811,
+      "name": "Zoodiac Chakanine",
+      "why": "Reviving Zoodiac Ramram gave Drident a friendly monster to destroy, triggering Ramram to bring back another Zoodiac.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6629",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6629"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 15,
+    "fl_events": [
+      "EUWCQ17",
+      "MAMA01",
+      "MAMA04",
+      "NAWCQ17"
+    ],
+    "fl_deck_ids": [
+      21525,
+      21526,
+      21527,
+      21528,
+      21529,
+      21533,
+      21785,
+      21789,
+      49641,
+      49645,
+      49646,
+      49647,
+      49652,
+      49653,
+      51979
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/6629",
+        "deck_count": 20,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6628",
+          "https://www.yugiohtopdecks.org/deck/6629",
+          "https://www.yugiohtopdecks.org/deck/6630",
+          "https://www.yugiohtopdecks.org/deck/6631",
+          "https://www.yugiohtopdecks.org/deck/6632",
+          "https://www.yugiohtopdecks.org/deck/6633",
+          "https://www.yugiohtopdecks.org/deck/6638",
+          "https://www.yugiohtopdecks.org/deck/6639",
+          "https://www.yugiohtopdecks.org/deck/6640",
+          "https://www.yugiohtopdecks.org/deck/6641",
+          "https://www.yugiohtopdecks.org/deck/6642",
+          "https://www.yugiohtopdecks.org/deck/6643",
+          "https://www.yugiohtopdecks.org/deck/6644",
+          "https://www.yugiohtopdecks.org/deck/6645",
+          "https://www.yugiohtopdecks.org/deck/6649",
+          "https://www.yugiohtopdecks.org/deck/6650",
+          "https://www.yugiohtopdecks.org/deck/6651",
+          "https://www.yugiohtopdecks.org/deck/6652",
+          "https://www.yugiohtopdecks.org/deck/6653",
+          "https://www.yugiohtopdecks.org/deck/6654"
+        ],
+        "tournaments": [
+          "WCQ - North America"
+        ],
+        "months": [
+          "July 2017"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/6629"
+    ]
+  }
+}

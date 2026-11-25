@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "id": "music-duel-monsters-ii",
+  "kind": "music",
+  "name": "Duel Monsters II: Dark Duel Stories",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories",
+  "series": "Duel Monsters",
+  "year": 1999,
+  "platform": "Game Boy, Game Boy Color",
+  "platforms": [
+    "Game Boy",
+    "Game Boy Color"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Duel Monsters II — Box - Front (Japan)",
+    "platform": "Nintendo Game Boy Color",
+    "source_url": "https://images.launchbox-app.com/bbd87317-d817-4389-8cce-2057760ca227.jpg",
+    "original_resolution": [
+      587,
+      738
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Duel Monsters II — Box - Front (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/25987"
+    }
+  ],
+  "files": {
+    "cover.webp": "a9b47f3bb024fbb085a1d57c36b5d7fc370a3cc261588638cca95c9ec0684307"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "id": "music-online-duel-evolution",
+  "kind": "music",
+  "name": "Online: Duel Evolution",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Online: Duel Evolution",
+  "series": "Crossover",
+  "year": 2007,
+  "platform": "Windows",
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "International (English)",
+  "cover_attribution": {
+    "region": "International (English)",
+    "type": "English title screen, operating-system border cropped",
+    "description": "English title screen, operating-system border cropped for Yu-Gi-Oh! Online: Duel Evolution",
+    "source_url": "https://cdn.mobygames.com/d4385576-75b1-11ef-832b-02420a000111.webp",
+    "original_resolution": [
+      567,
+      440
+    ],
+    "source_crop": [
+      2,
+      16,
+      565,
+      438
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "English title screen, operating-system border cropped for Yu-Gi-Oh! Online: Duel Evolution",
+      "source": "Konami Digital Entertainment, title screen archived by MobyGames and displayed by TechPlay",
+      "url": "https://techplay.gg/games/yu-gi-oh-online-duel-evolution"
+    }
+  ],
+  "files": {
+    "cover.webp": "5ab2238d68b25496124d3c32744a77009bdb29be50bff4e26fddc964c53d912f"
+  }
+}

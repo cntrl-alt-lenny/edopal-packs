@@ -1,6 +1,8 @@
 # Music packs
 
-`sample-afterglow` and `sample-tideglass` each contain three original synthesizer loops, a cover, and a file inventory. The ten game folders are catalog candidates. Their empty `tracks` lists keep them visible as cover-only entries. Eight covers reuse the archived EDOPal gallery with LaunchBox page and image credits in each manifest. The Dawn of Destiny and The Duelists of the Roses use original concept illustrations.
+The catalogue spans Yu-Gi-Oh! games with background music across handheld, console, PC, arcade, browser and mobile releases. Game years are the first release in any region. Each game manifest credits its cover, links to the original image, and records its native dimensions and region. A 1,200 px WebP accompanies each entry. The 480 px thumbnails live in `thumbs/`. Game entries have `audio: "pending"` and an empty `tracks` list.
+
+`edopro-default` lists the seven factory tracks from EDOPro 41.0.2 by scene under `builtin_tracks`. The `builtin` flag identifies this entry for restoration. Its paths are relative to the game installation.
 
 ## Build from local audio
 
@@ -33,17 +35,10 @@ By default, tracks follow filename order and use the filename stem for their tit
 
 The five role IDs are `menu`, `deck`, `duel`, `win` and `lose`. Listeners can assign any track to any role.
 
-## Catalog and samples
+## Rebuild the catalog
 
 ```sh
 .venv/bin/python packs/tools/build_catalog.py --root ./pack-staging
 ```
 
 The shared catalog builder validates each manifest, writes a ZIP under `dist/`, and creates the top-level `catalog.json`. Each row includes ZIP size and SHA-256, gallery URLs, and track metadata. Its local rows point to pack directories for `LocalPacks`. The builder also supports `--release-base` and `--media-base` for release URLs. The application repository documents the format in `docs/packs.md`.
-
-To recreate the sample assets in a fresh staging directory, run the following. The generator synthesizes stereo PCM with Python's standard `wave` module, wraps the note tails at each loop boundary and draws the two jackets with Pillow.
-
-```sh
-.venv/bin/python packs/music/make_samples.py --root ./sample-staging
-.venv/bin/python packs/tools/build_catalog.py --root ./sample-staging
-```

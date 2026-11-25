@@ -1,0 +1,157 @@
+{
+  "id": "adamancipator",
+  "name": "Adamancipator",
+  "date": "2020-08-22",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "The August 2020 Remote Duel Invitational featured Adamancipator alongside Dinosaur and other Synchro strategies. Adamancipator Tuners excavated the top of the Deck to find more Rock monsters, turning a successful excavation into another Synchro Summon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/adamancipator",
+  "description_urls": [
+    "https://formatlibrary.com/formats/adamancipator",
+    "https://formatlibrary.com/events/RDIAUG20",
+    "https://www.yugiohtopdecks.org/deck/8672"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 85914562,
+      "name": "Adamancipator Researcher",
+      "why": "Controlling another Rock let this Tuner summon itself, then excavate cards for another non-Tuner Rock.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8668",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8670"
+        ]
+      }
+    },
+    {
+      "id": 94689206,
+      "name": "Block Dragon",
+      "why": "Its search for Rock monsters totaling eight Levels could replace a spent Link Material with multiple Adamancipator monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8668",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8670"
+        ]
+      }
+    },
+    {
+      "id": 9464441,
+      "name": "Adamancipator Risen - Dragite",
+      "why": "With a WATER monster in the Graveyard, Dragite gave Rock combos an answer to a Spell or Trap activation.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3
+      }
+    },
+    {
+      "id": 95440946,
+      "name": "Eldlich the Golden Lord",
+      "why": "Sending a Spell or Trap alongside it removed a card, and its Graveyard effect put a boosted Zombie back on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8668",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8671"
+        ]
+      }
+    },
+    {
+      "id": 44335251,
+      "name": "Souleating Oviraptor",
+      "why": "Its summon searched a Dinosaur or sent one to the Graveyard, giving Dinosaur decks access to Miscellaneousaurus.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8668",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8668"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 16,
+    "fl_events": [
+      "LCS04",
+      "LCS05",
+      "RDIAUG20"
+    ],
+    "fl_deck_ids": [
+      83242,
+      83243,
+      83244,
+      83245,
+      83247,
+      83248,
+      83285,
+      83286,
+      83287,
+      83288,
+      83289,
+      83290,
+      83322,
+      83323,
+      83324,
+      83325
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8668",
+        "deck_count": 4,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8668",
+          "https://www.yugiohtopdecks.org/deck/8670",
+          "https://www.yugiohtopdecks.org/deck/8671",
+          "https://www.yugiohtopdecks.org/deck/8672"
+        ],
+        "tournaments": [
+          "Yu-Gi-Oh! Remote Duel - TCG Invitational"
+        ],
+        "months": [
+          "August 2020"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8668"
+    ]
+  }
+}

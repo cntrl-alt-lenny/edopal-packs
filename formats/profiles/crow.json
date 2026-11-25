@@ -1,0 +1,122 @@
+{
+  "id": "crow",
+  "name": "Crow",
+  "date": "2010-11-01",
+  "region": "OCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Blackwing decks used Black Whirlwind to turn a Normal Summon into another monster in hand. Icarus Attack gave their Winged Beasts a second use by trading one for two opposing cards.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/crow",
+  "description_urls": [
+    "https://formatlibrary.com/formats/crow",
+    "https://yugioh-history.com/environment/generation-six-35",
+    "https://yugioh-history.com/environment/generation-seven-4",
+    "https://yugioh-history.com/environment/generation-seven-5"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 58820853,
+      "name": "Blackwing - Shura the Blue Flame",
+      "why": "Winning a battle let Shura fetch another Blackwing from the Deck, often a Tuner for a second Main Phase Synchro Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-35"
+        ]
+      }
+    },
+    {
+      "id": 53567095,
+      "name": "Icarus Attack",
+      "why": "Tributing a Winged Beast could destroy two opposing cards, giving Blackwings a way to interrupt plays on either player's turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-35"
+        ]
+      }
+    },
+    {
+      "id": 91351370,
+      "name": "Black Whirlwind",
+      "why": "A Blackwing Normal Summon could search a smaller Blackwing, often finding a Tuner or a combat trick.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-4"
+        ]
+      }
+    },
+    {
+      "id": 85215458,
+      "name": "Blackwing - Kalut the Moon Shadow",
+      "why": "Its 1,400 ATK boost from the hand made seemingly safe attacks against Blackwings risky.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-35"
+        ]
+      }
+    },
+    {
+      "id": 2009101,
+      "name": "Blackwing - Gale the Whirlwind",
+      "why": "It could join another Blackwing without using the Normal Summon, halve an opposing monster's stats and serve as a Tuner.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "CROW09",
+      "CROW10",
+      "CROW15",
+      "GUBU05"
+    ],
+    "fl_deck_ids": [
+      67997,
+      68000,
+      68001,
+      68003,
+      68005,
+      68013,
+      68997,
+      69001,
+      69004,
+      69013,
+      69020,
+      69021,
+      79484,
+      79485,
+      79490,
+      79491,
+      79492,
+      79500,
+      88807
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-seven-4",
+      "https://yugioh-history.com/environment/generation-six-35",
+      "https://yugioh-history.com/environment/generation-seven-5"
+    ]
+  }
+}

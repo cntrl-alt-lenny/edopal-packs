@@ -1,0 +1,153 @@
+{
+  "id": "lacrima",
+  "name": "Lacrima",
+  "date": "2024-11-24",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Fiendsmith, Yubel and Tenpai Dragon decks placed at YCS Bologna in November 2024. In Fiendsmith builds, Lacrima the Crimson Tears could send a Fiendsmith card from the Deck to the Graveyard, setting up a Fusion or Link play without first drawing Engraver.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/lacrima",
+  "description_urls": [
+    "https://formatlibrary.com/formats/lacrima",
+    "https://formatlibrary.com/events/YCSBOL24",
+    "https://ygoprodeck.com/tournament/ycs-bologna-2407"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 28803166,
+      "name": "Lacrima the Crimson Tears",
+      "why": "Its summon sent a Fiendsmith card from the Deck to the Graveyard, and it could later revive a Fiendsmith Link Monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/ycs-bologna-2407",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/magical-musketeer-fiendsmith-548265"
+        ]
+      }
+    },
+    {
+      "id": 60764609,
+      "name": "Fiendsmith Engraver",
+      "why": "Discarding it found Fiendsmith's Tract, and its Graveyard effect recycled a LIGHT Fiend to put Engraver back on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/ycs-bologna-2407",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/magical-musketeer-fiendsmith-548265"
+        ]
+      }
+    },
+    {
+      "id": 42141493,
+      "name": "Mulcharmy Fuwalos",
+      "why": "Discarding it with an empty field let the player draw as the opponent Special Summoned from the Deck or Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/ycs-bologna-2407",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/magical-musketeer-fiendsmith-548265"
+        ]
+      }
+    },
+    {
+      "id": 82135803,
+      "name": "Fiendsmith's Desirae",
+      "why": "Desirae could negate several face-up cards at once, up to the total Link Rating of the Link Monsters equipped to it.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/ycs-bologna-2407",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/magical-musketeer-fiendsmith-548265"
+        ]
+      }
+    },
+    {
+      "id": 2463794,
+      "name": "Fiendsmith's Requiem",
+      "why": "A LIGHT Fiend could become Requiem, which Tributed itself to summon a Fiendsmith monster from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/tournament/ycs-bologna-2407",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/magical-musketeer-fiendsmith-548265"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 5,
+    "fl_events": [
+      "YCSBOL24"
+    ],
+    "fl_deck_ids": [
+      49986,
+      49987,
+      49988,
+      49989,
+      49991
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://ygoprodeck.com/tournament/ycs-bologna-2407",
+        "deck_count": 10,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/magical-musketeer-fiendsmith-548265",
+          "https://ygoprodeck.com/deck/kashtira-fiendsmith-548259",
+          "https://ygoprodeck.com/deck/fiendsmith-azamina-snake-eye-548350",
+          "https://ygoprodeck.com/deck/fiendsmith-kashtira-yubel-548099",
+          "https://ygoprodeck.com/deck/memento-548733",
+          "https://ygoprodeck.com/deck/horus-orcust-548322",
+          "https://ygoprodeck.com/deck/ritual-beast-548319",
+          "https://ygoprodeck.com/deck/azamina-kashtira-snake-eye-548732",
+          "https://ygoprodeck.com/deck/azamina-snake-eye-fire-king-548411",
+          "https://ygoprodeck.com/deck/atlantean-mermail-548352"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://ygoprodeck.com/tournament/ycs-bologna-2407"
+    ]
+  }
+}

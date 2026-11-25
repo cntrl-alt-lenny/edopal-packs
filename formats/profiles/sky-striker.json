@@ -1,0 +1,161 @@
+{
+  "id": "sky-striker",
+  "name": "Sky Striker",
+  "date": "2019-03-16",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "Sky Striker reflects the March 2019 card pool at Team YCS Atlanta. Its single Ace could change Link forms to reuse Spells such as Engage, while those Spells rewarded leaving the Main Monster Zones empty.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/sky-striker",
+  "description_urls": [
+    "https://formatlibrary.com/formats/sky-striker",
+    "https://formatlibrary.com/events/TYCSATL19",
+    "https://yugiohblog.konami.com/2019/ycs/2019-03-atlanta-ga/team-ycs-atlanta-and-the-winners-are/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 26077387,
+      "name": "Sky Striker Ace - Raye",
+      "why": "Raye repeatedly supplied the Ace Link Monsters and could revive after an opposing card removed one.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095"
+        ]
+      }
+    },
+    {
+      "id": 63288573,
+      "name": "Sky Striker Ace - Kagari",
+      "why": "Its Special Summon recovered a Sky Striker Spell from the Graveyard, often giving the player another use of Engage.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095"
+        ]
+      }
+    },
+    {
+      "id": 90673288,
+      "name": "Sky Striker Ace - Shizuku",
+      "why": "Ending on Shizuku searched a Sky Striker Spell whose name was missing from the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095"
+        ]
+      }
+    },
+    {
+      "id": 63166095,
+      "name": "Sky Striker Mobilize - Engage!",
+      "why": "It found any other Sky Striker card and drew another card once three Spells were in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095"
+        ]
+      }
+    },
+    {
+      "id": 98338152,
+      "name": "Sky Striker Mecha - Widow Anchor",
+      "why": "It negated an opposing monster and could take control of it once three Spells were in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 1,
+    "fl_events": [
+      "ARR01"
+    ],
+    "fl_deck_ids": [
+      62832
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8948",
+        "deck_count": 1,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8948"
+        ],
+        "tournaments": [
+          "YCS Atlanta 2019"
+        ],
+        "months": [
+          "March 2019"
+        ]
+      },
+      {
+        "kind": "archetype_event_decks",
+        "source_url": "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095",
+        "deck_count": 1,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095"
+        ],
+        "tournaments": [
+          "Team YCS Atlanta 2019"
+        ],
+        "months": [
+          "March 2019"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8948",
+      "https://ygoprodeck.com/deck/sky-striker-paulo-goncalves-40095"
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "zombie",
+  "name": "Zombie",
+  "date": "2007-10-13",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Zombie is a GX era format shaped by a dampening of the game’s explosiveness via an aggressive banlist. Since Trooper Format, Tactical Evolution (TAEV) was introduced, while Snatch Steal and Ring of Destruction were Forbidden, and Card Trooper, Brain Control, and Trap Dustshoot were Limited. Notable additions include Elemental HERO Neos Alius, Il Blud, Zombie Master, and Dark Bribe. The metagame was quite diverse, with many decks being able to compete. Notably, the Zombie deck was arguably Tier 1 for the first time, despite several attempts to support it since Pharaonic Guardian.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/zombie",
+  "description_urls": [
+    "https://formatlibrary.com/formats/zombie"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 17259470,
+      "name": "Zombie Master",
+      "why": "Sending a monster from the hand revived a low-Level Zombie from either Graveyard, enabling repeated summons and Card of Safe Return draws.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2844",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2844",
+          "https://formatlibrary.com/formats/zombie"
+        ]
+      }
+    },
+    {
+      "id": 85087012,
+      "name": "Card Trooper",
+      "why": "It sent up to three cards from the Deck to the Graveyard, reached 1900 ATK and replaced itself with a draw when destroyed on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2844",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2844",
+          "https://formatlibrary.com/formats/zombie"
+        ]
+      }
+    },
+    {
+      "id": 70595331,
+      "name": "Il Blud",
+      "why": "After its second Normal Summon, it could bring back a Zombie each turn, extending the revival chains that powered the deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2844",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2844",
+          "https://formatlibrary.com/formats/zombie"
+        ]
+      }
+    },
+    {
+      "id": 57953380,
+      "name": "Card of Safe Return",
+      "why": "Each successful revival from the player's Graveyard could draw a card, letting Zombie Master replace the card it had spent.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2844",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2844"
+        ]
+      }
+    },
+    {
+      "id": 73125233,
+      "name": "Raiza the Storm Monarch",
+      "why": "Its Tribute Summon returned a field card to the top of its owner's Deck, often making the opponent draw the same card again.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2844",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2847"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "GXDS03",
+      "SJCCHI07",
+      "SJCDC07",
+      "SJCDUR07"
+    ],
+    "fl_deck_ids": [
+      24205,
+      24206,
+      24207,
+      24209,
+      24210,
+      24211,
+      24231,
+      24232,
+      24236,
+      24238,
+      24239,
+      24241,
+      24276,
+      24277,
+      24278,
+      24279,
+      24280,
+      24281,
+      88471
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2844",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2844",
+          "https://www.yugiohtopdecks.org/deck/2845",
+          "https://www.yugiohtopdecks.org/deck/2846",
+          "https://www.yugiohtopdecks.org/deck/2847",
+          "https://www.yugiohtopdecks.org/deck/2848",
+          "https://www.yugiohtopdecks.org/deck/2849",
+          "https://www.yugiohtopdecks.org/deck/2850",
+          "https://www.yugiohtopdecks.org/deck/2851"
+        ],
+        "tournaments": [
+          "2007 SJ Durham"
+        ],
+        "months": [
+          "October 2007"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2844"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "trishula",
+  "name": "Trishula",
+  "date": "2011-06-18",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "At YCS Providence in June 2011, Synchro decks had access to Trishula, Dragon of the Ice Barrier. Its summon could remove a card from the opponent's hand, field and Graveyard at once, making even an apparently secure hand vulnerable.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/trishula",
+  "description_urls": [
+    "https://formatlibrary.com/formats/trishula",
+    "https://formatlibrary.com/events/YCSPROV11",
+    "https://yugiohblog.konami.com/2011/ycs/ycs-providence-top-32-decklists/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 52687916,
+      "name": "Trishula, Dragon of the Ice Barrier",
+      "why": "Three or more monsters could become a Synchro that banished cards from the opponent's hand, field and Graveyard at once.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2144",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2144"
+        ]
+      }
+    },
+    {
+      "id": 48686504,
+      "name": "Lonefire Blossom",
+      "why": "Tributing a Plant let it fetch any Plant from the Deck, giving access to both Tuners and token producers.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2144",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2144"
+        ]
+      }
+    },
+    {
+      "id": 10028593,
+      "name": "Reborn Tengu",
+      "why": "A face-up Tengu that left the field fetched the next copy, replacing material spent on a Synchro Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2144",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2144"
+        ]
+      }
+    },
+    {
+      "id": 5318639,
+      "name": "Mystical Space Typhoon",
+      "why": "As a Quick-Play Spell it could remove a set Trap in the End Phase or break a Continuous Spell or Trap during a combo.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2144",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2144"
+        ]
+      }
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "why": "It put a monster from either Graveyard back into play, giving a defeated attacker another Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2144",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2144"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "YCSANA11",
+      "YCSCHA11",
+      "YCSPROV11",
+      "YFZ038"
+    ],
+    "fl_deck_ids": [
+      4211,
+      4212,
+      4213,
+      4214,
+      4215,
+      4216,
+      26872,
+      26873,
+      26874,
+      26875,
+      26876,
+      26877,
+      26904,
+      26905,
+      26906,
+      26907,
+      26908,
+      26909,
+      87871
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2144",
+        "deck_count": 9,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2144",
+          "https://www.yugiohtopdecks.org/deck/2145",
+          "https://www.yugiohtopdecks.org/deck/2146",
+          "https://www.yugiohtopdecks.org/deck/2147",
+          "https://www.yugiohtopdecks.org/deck/2148",
+          "https://www.yugiohtopdecks.org/deck/2149",
+          "https://www.yugiohtopdecks.org/deck/2150",
+          "https://www.yugiohtopdecks.org/deck/2151",
+          "https://www.yugiohtopdecks.org/deck/2152"
+        ],
+        "tournaments": [
+          "2011 YCS Providence"
+        ],
+        "months": [
+          "July 2011",
+          "June 2011"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2144"
+    ]
+  }
+}

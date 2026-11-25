@@ -3,28 +3,37 @@
   "id": "music-power-of-chaos-yugi",
   "kind": "music",
   "name": "Yugi the Destiny",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
+  "series": "Duel Monsters",
   "year": 2003,
   "platform": "Windows",
-  "cover": "cover.webp",
-  "tracks": [],
-  "credits": [
-    {
-      "what": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny - Box - Front Image (North America)",
-      "source": "LaunchBox Games Database",
-      "url": "https://gamesdb.launchbox-app.com/games/images/16757-yu-gi-oh-power-of-chaos-yugi-the-destiny"
-    }
+  "platforms": [
+    "Windows"
   ],
-  "files": {
-    "cover.webp": "f6c5ef8e9fc690bb224e51735ca334ae80746e1fea5db52bfed6803f4e7d6fc2"
-  },
+  "cover": "cover.webp",
+  "cover_region": "North America",
   "cover_attribution": {
-    "source_url": "https://images.launchbox-app.com/cd27932a-3651-4098-b7ff-213c76b8e87f.jpg",
     "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny — Box - Front (North America)",
+    "platform": "Windows",
+    "source_url": "https://images.launchbox-app.com/cd27932a-3651-4098-b7ff-213c76b8e87f.jpg",
     "original_resolution": [
       434,
       617
     ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/17283"
+    }
+  ],
+  "files": {
+    "cover.webp": "a6d59fd9536b7cea7644e4fd955c3623176ba63d45d682620a1ac50e22f5c4f4"
   }
 }

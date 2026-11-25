@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "music-decade-duels",
+  "kind": "music",
+  "name": "5D's Decade Duels",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Decade Duels",
+  "series": "5D's",
+  "year": 2010,
+  "platform": "Xbox 360, PlayStation 3",
+  "platforms": [
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "aliases": [
+    "5D's Decade Duels Plus"
+  ],
+  "editions": [
+    {
+      "name": "5D's Decade Duels",
+      "year": 2010,
+      "platforms": [
+        "Xbox 360"
+      ]
+    },
+    {
+      "name": "5D's Decade Duels Plus",
+      "year": 2013,
+      "platforms": [
+        "Xbox 360",
+        "PlayStation 3"
+      ]
+    }
+  ],
+  "cover": "cover.webp",
+  "cover_region": "World",
+  "cover_attribution": {
+    "region": "World",
+    "type": "Box - Front",
+    "description": "Xbox Live Arcade storefront cover for the Decade Duels Plus edition",
+    "platform": "Microsoft Xbox 360",
+    "source_url": "https://images.launchbox-app.com/77c3d7ad-2e6c-46d8-90b5-b2b8958f5fb0.jpg",
+    "original_resolution": [
+      219,
+      300
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Xbox Live Arcade storefront cover for the Decade Duels Plus edition",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/210007"
+    }
+  ],
+  "files": {
+    "cover.webp": "2c627e1f7d14a91cc65a882f7c2da385d1139bf0282a4b26913f6c8d9e875d04"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "perfect-circle",
+  "name": "Perfect Circle",
+  "date": "2008-01-26",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Perfect Circle is a GX era format known for its methodical gameplay. Since Zombie Format, Gladiator’s Assault (GLAS) and Structure Deck: Rise of the Dragon Lords (SDRL) were introduced. Notable additions include Light and Darkness Dragon, Foolish Burial, Trade-In, Dimensional Prison, and the Gladiator Beast archetype. The metagame is centralized around the Perfect Circle Monarch deck, which uses the Destiny Hero engine combined with Raiza the Storm Monarch and Light and Darkness Dragon to control the game.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/perfect-circle",
+  "description_urls": [
+    "https://formatlibrary.com/formats/perfect-circle"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 47297616,
+      "name": "Light and Darkness Dragon",
+      "why": "This two-tribute monster spent its own ATK and DEF to negate successive activations, then could revive a monster after its destruction.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2606",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2606",
+          "https://formatlibrary.com/formats/perfect-circle"
+        ]
+      }
+    },
+    {
+      "id": 73125233,
+      "name": "Raiza the Storm Monarch",
+      "why": "Its Tribute Summon returned a field card to the top of its owner's Deck, often making the opponent draw the same card again.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2606",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2606",
+          "https://formatlibrary.com/formats/perfect-circle"
+        ]
+      }
+    },
+    {
+      "id": 511003116,
+      "name": "Destiny HERO - Disk Commander",
+      "why": "Its original effect drew two cards each time it returned from the Graveyard, making repeated revival a central source of card advantage.",
+      "has_art": true,
+      "printing_name": "Destiny HERO - Disk Commander (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 7
+      }
+    },
+    {
+      "id": 45809008,
+      "name": "Destiny Draw",
+      "why": "Discarding a Destiny HERO drew two cards, putting Malicious or Disk Commander where their Graveyard plays could start.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2606",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2606"
+        ]
+      }
+    },
+    {
+      "id": 40044918,
+      "name": "Elemental HERO Stratos",
+      "why": "Its summon searched the HERO needed next, often finding a Destiny HERO for Destiny Draw or a Graveyard play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "DCC14",
+      "SJCORL08",
+      "SJCSMA07"
+    ],
+    "fl_deck_ids": [
+      3448,
+      3449,
+      3450,
+      3451,
+      3452,
+      3453,
+      24292,
+      24293,
+      24294,
+      24295,
+      24296,
+      24297,
+      86605,
+      86607,
+      86609,
+      86611,
+      86635,
+      86643
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2606",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2606",
+          "https://www.yugiohtopdecks.org/deck/2607",
+          "https://www.yugiohtopdecks.org/deck/2608",
+          "https://www.yugiohtopdecks.org/deck/2609",
+          "https://www.yugiohtopdecks.org/deck/2610",
+          "https://www.yugiohtopdecks.org/deck/2611",
+          "https://www.yugiohtopdecks.org/deck/2612",
+          "https://www.yugiohtopdecks.org/deck/2613"
+        ],
+        "tournaments": [
+          "2008 SJ Orlando"
+        ],
+        "months": [
+          "January 2008"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2606"
+    ]
+  }
+}

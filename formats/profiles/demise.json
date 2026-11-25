@@ -1,0 +1,173 @@
+{
+  "id": "demise",
+  "name": "Demise",
+  "date": "2007-04-28",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Demise is a GX era format known for its explosive gameplay and open-ended deck building, and it’s very similar to the next format, Trooper. Since Airblade Format, Strike of Neos (STON) was introduced, while Graceful Charity was Forbidden, and Dimension Fusion and Giant Trunade were Limited. Notable additions include D.D. Crow, Advanced Ritual Art, Pulling the Rug, and the Six Samurai archetype.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/demise",
+  "description_urls": [
+    "https://formatlibrary.com/formats/demise"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 72426662,
+      "name": "Demise, King of Armageddon",
+      "why": "After its Ritual Summon, 2000 LP cleared every other card on the field and opened a direct attack for Demise and Doom Dozer.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2876",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2876"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2876",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2879"
+        ]
+      }
+    },
+    {
+      "id": 46052429,
+      "name": "Advanced Ritual Art",
+      "why": "It Ritual Summoned Demise using Normal Insects from the Deck, leaving those same Insects in the Graveyard to summon Doom Dozer.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2876",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2876",
+          "https://formatlibrary.com/formats/demise"
+        ]
+      }
+    },
+    {
+      "id": 76039636,
+      "name": "Doom Dozer",
+      "why": "Banishing two Insects sent by Advanced Ritual Art put another 2800 ATK on the field after Demise cleared it.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2876",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2876"
+        ]
+      }
+    },
+    {
+      "id": 19613556,
+      "name": "Heavy Storm",
+      "why": "It cleared both players' Spells and Traps, rewarding the player who held back a card before committing to an attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2876",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2876"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "RKR02",
+      "SJCANA07",
+      "SJCCOL07",
+      "SJCHOU07"
+    ],
+    "fl_deck_ids": [
+      23874,
+      23875,
+      23876,
+      23877,
+      23878,
+      23879,
+      23882,
+      23884,
+      23885,
+      23886,
+      23887,
+      23888,
+      23914,
+      23915,
+      23916,
+      23917,
+      23918,
+      23919,
+      80548
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2876",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2876",
+          "https://www.yugiohtopdecks.org/deck/2877",
+          "https://www.yugiohtopdecks.org/deck/2878",
+          "https://www.yugiohtopdecks.org/deck/2879",
+          "https://www.yugiohtopdecks.org/deck/2880",
+          "https://www.yugiohtopdecks.org/deck/2881",
+          "https://www.yugiohtopdecks.org/deck/2882",
+          "https://www.yugiohtopdecks.org/deck/2883"
+        ],
+        "tournaments": [
+          "2007 SJ Anaheim"
+        ],
+        "months": [
+          "April 2007"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2876"
+    ]
+  }
+}

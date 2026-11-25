@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "music-rush-duel-go-rush",
+  "kind": "music",
+  "name": "Ikuzo! Go Rush!!",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Rush Duel: Saikyo Battle Royale!! Ikuzo! Go Rush!!",
+  "series": "SEVENS / Rush",
+  "year": 2022,
+  "platform": "Nintendo Switch",
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Retail front cover (special edition)",
+    "description": "Retail front cover (special edition) for Yu-Gi-Oh! Rush Duel: Saikyo Battle Royale!! Ikuzo! Go Rush!!",
+    "source_url": "https://m.media-amazon.com/images/I/81hx3FguvVL.jpg",
+    "original_resolution": [
+      1000,
+      1614
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Retail front cover (special edition) for Yu-Gi-Oh! Rush Duel: Saikyo Battle Royale!! Ikuzo! Go Rush!!",
+      "source": "Konami Digital Entertainment via Amazon Japan",
+      "url": "https://www.amazon.co.jp/dp/B0B9W6HRR1"
+    }
+  ],
+  "files": {
+    "cover.webp": "4d814d2fbab9db29d1886bfc442013c5bf8c6ec56bba51e170b21f98940141b9"
+  }
+}

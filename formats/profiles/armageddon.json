@@ -1,0 +1,119 @@
+{
+  "id": "armageddon",
+  "name": "Armageddon",
+  "date": "2007-09-01",
+  "region": "OCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Light and Darkness Dragon and the Monarchs rewarded decks that could generate Tribute material without exhausting their hands. The Dragon repeatedly negated effects, while Monarchs such as Raiza could disrupt an opponent as soon as they were summoned.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/armageddon",
+  "description_urls": [
+    "https://formatlibrary.com/formats/armageddon",
+    "https://yugioh-history.com/environment/generation-five-29",
+    "https://yugioh-history.com/environment/generation-five-28",
+    "https://yugioh-history.com/environment/generation-five-31"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 73125233,
+      "name": "Raiza the Storm Monarch",
+      "why": "Its Tribute Summon returned a field card to the top of its owner's Deck, often making the opponent draw the same card again.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4
+      }
+    },
+    {
+      "id": 47297616,
+      "name": "Light and Darkness Dragon",
+      "why": "This two-tribute monster spent its own ATK and DEF to negate successive activations, then could revive a monster after its destruction.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-five-29"
+        ]
+      }
+    },
+    {
+      "id": 17259470,
+      "name": "Zombie Master",
+      "why": "Sending a monster from the hand revived a low-Level Zombie from either Graveyard, enabling repeated summons and Card of Safe Return draws.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    },
+    {
+      "id": 19613556,
+      "name": "Heavy Storm",
+      "why": "It cleared both players' Spells and Traps, rewarding the player who held back a card before committing to an attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/demise-dozer",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/demise-dozer",
+          "https://yugioh-history.com/environment/generation-five-28"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 4,
+    "fl_events": [
+      "PCOM01"
+    ],
+    "fl_deck_ids": [
+      67148,
+      67152,
+      67159,
+      67160
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/demise-dozer",
+        "deck_count": 2,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/demise-dozer",
+          "https://yugioh-history.com/deck-list/historical/ocean-beat"
+        ],
+        "sample_dates": [
+          "2007-09-01"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-five-28",
+      "https://yugioh-history.com/environment/generation-five-29",
+      "https://yugioh-history.com/environment/generation-five-31",
+      "https://yugioh-history.com/deck-list/historical/demise-dozer"
+    ]
+  }
+}

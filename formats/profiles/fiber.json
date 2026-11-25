@@ -1,0 +1,119 @@
+{
+  "id": "fiber",
+  "name": "Fiber",
+  "date": "2003-07-08",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Fiber Format is a DM era format that predates the first banlist. The latest core set is Legacy of Darkness (LOD). Notable additions include Exiled Force, Fiber Jar, Injection Fairy Lily, Yata-Garasu and Reinforcement of the Army. These cards create interesting new dynamics between card advantage and life points, particularly with Fiber Jar's ability to reset the game.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/fiber",
+  "description_urls": [
+    "https://formatlibrary.com/formats/fiber"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 78706415,
+      "name": "Fiber Jar",
+      "why": "Flipping it reset both fields, hands and Graveyards into the Decks, then gave each player five new cards while preserving the LP difference.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://formatlibrary.com/formats/fiber"
+        ]
+      }
+    },
+    {
+      "id": 79575620,
+      "name": "Injection Fairy Lily",
+      "why": "Paying 2000 LP during damage calculation turned a 400 ATK monster into a 3400 ATK answer to larger threats.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/July2003/KDR-31/Injection%20attack%20garys%20games%20and%20hobbys%20seattle.htm",
+          "https://formatlibrary.com/formats/fiber"
+        ]
+      }
+    },
+    {
+      "id": 74131780,
+      "name": "Exiled Force",
+      "why": "This searchable Warrior could tribute itself to destroy a monster, including a face-down threat before its Flip Effect mattered.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://formatlibrary.com/formats/fiber"
+        ]
+      }
+    },
+    {
+      "id": 3078576,
+      "name": "Yata-Garasu",
+      "why": "A successful hit skipped the opponent's next draw, letting an empty-hand opponent be locked out by repeated attacks.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/July2003/KDR-31/Injection%20attack%20garys%20games%20and%20hobbys%20seattle.htm",
+          "https://formatlibrary.com/formats/fiber"
+        ]
+      }
+    },
+    {
+      "id": 83011277,
+      "name": "Mystic Tomato",
+      "why": "Losing it in battle could bring Sangan or another small DARK monster straight from the Deck, keeping a monster in play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "FFM24",
+      "FFM29",
+      "FFM31",
+      "FFM32"
+    ],
+    "fl_deck_ids": [
+      72549,
+      72554,
+      72559,
+      72561,
+      72566,
+      72568,
+      82154,
+      82159,
+      82162,
+      82166,
+      82170,
+      82171,
+      86169,
+      86174,
+      86176,
+      86178,
+      86181,
+      86186,
+      88291
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/July2003/KDR-31/Injection%20attack%20garys%20games%20and%20hobbys%20seattle.htm"
+    ]
+  }
+}

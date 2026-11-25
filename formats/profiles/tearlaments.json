@@ -1,0 +1,157 @@
+{
+  "id": "tearlaments",
+  "name": "Tearlaments",
+  "date": "2022-12-10",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "The December 2022 Tearlaments snapshot includes the Ishizu Fairy monsters from Magnificent Mavens. Kelbek and Agido could send cards from both Decks to the Graveyard, while Keldo and Mudora could shuffle away Fusion Materials in response to an opposing Tearlaments effect.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/tearlaments",
+  "description_urls": [
+    "https://formatlibrary.com/formats/tearlaments",
+    "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 92731385,
+      "name": "Tearlaments Kitkallos",
+      "why": "Kitkallos could search or send a Tearlaments card, then send the top five cards of the Deck to the Graveyard when sent there by an effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+        ]
+      }
+    },
+    {
+      "id": 37961969,
+      "name": "Tearlaments Havnis",
+      "why": "An opposing field monster's activated effect could let Havnis summon itself, mill three cards and start a Fusion play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+        ]
+      }
+    },
+    {
+      "id": 25926710,
+      "name": "Kelbek the Ancient Vanguard",
+      "why": "Sending Kelbek from hand or Deck to the Graveyard could mill five cards from each player's Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+        ]
+      }
+    },
+    {
+      "id": 63542003,
+      "name": "Keldo the Sacred Protector",
+      "why": "Its Graveyard Quick Effect shuffled cards back into the Deck, disrupting opposing Tearlaments Fusion materials.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+        ]
+      }
+    },
+    {
+      "id": 572850,
+      "name": "Tearlaments Scheiren",
+      "why": "Its hand effect extended the board and sent cards to the Graveyard, creating additional chances to trigger a Fusion Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 9,
+    "fl_events": [
+      "TEARS01",
+      "TS02",
+      "YCSSYD23"
+    ],
+    "fl_deck_ids": [
+      25827,
+      25836,
+      49935,
+      49949,
+      49950,
+      49951,
+      49952,
+      49953,
+      81523
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/",
+        "deck_count": 4,
+        "source_urls": [
+          "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      49957,
+      49958,
+      49959,
+      49960,
+      49961,
+      49962
+    ],
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2022/ycs/remote-duel-ycs-top-4-decklists/"
+    ]
+  }
+}

@@ -3,28 +3,37 @@
   "id": "music-forbidden-memories",
   "kind": "music",
   "name": "Forbidden Memories",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! Forbidden Memories",
+  "series": "Duel Monsters",
   "year": 1999,
   "platform": "PlayStation",
-  "cover": "cover.webp",
-  "tracks": [],
-  "credits": [
-    {
-      "what": "Yu-Gi-Oh! Forbidden Memories - Box - Front Image (North America)",
-      "source": "LaunchBox Games Database",
-      "url": "https://gamesdb.launchbox-app.com/games/images/9490-yu-gi-oh-forbidden-memories"
-    }
+  "platforms": [
+    "PlayStation"
   ],
-  "files": {
-    "cover.webp": "59966458f19e8f8a29b43a242b033001fed7989adfc9529e240117ac7c90edb9"
-  },
+  "cover": "cover.webp",
+  "cover_region": "North America",
   "cover_attribution": {
-    "source_url": "https://images.launchbox-app.com/r2_52fbcfee-4ae4-4f9f-96bf-9889e615ca90.png",
     "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Forbidden Memories — Box - Front (North America)",
+    "platform": "Sony Playstation",
+    "source_url": "https://images.launchbox-app.com/r2_52fbcfee-4ae4-4f9f-96bf-9889e615ca90.png",
     "original_resolution": [
       1500,
       1500
     ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Forbidden Memories — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/9864"
+    }
+  ],
+  "files": {
+    "cover.webp": "80a52e806ddda803451cf489a53c54cec4a5cc9b4062ca280dd2821f2a9866cf"
   }
 }

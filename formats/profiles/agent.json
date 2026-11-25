@@ -1,0 +1,105 @@
+{
+  "id": "agent",
+  "name": "Agent",
+  "date": "2011-11-01",
+  "region": "OCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "The Agent of Mystery - Earth searched the Fairy needed for the next play. The Agent of Creation - Venus could put multiple Mystical Shine Balls on the field, while Master Hyperion converted Fairies in the Graveyard into removal.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/agent",
+  "description_urls": [
+    "https://formatlibrary.com/formats/agent",
+    "https://yugioh-history.com/environment/generation-seven-7",
+    "https://yugioh-history.com/environment/generation-seven-19"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 55794644,
+      "name": "Master Hyperion",
+      "why": "The Agent engine helped summon this boss and supplied LIGHT Fairies for its card-destruction effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-7"
+        ]
+      }
+    },
+    {
+      "id": 64734921,
+      "name": "The Agent of Creation - Venus",
+      "why": "Paying 500 life points per Mystical Shine Ball filled the field with material for Synchro or Rank 2 Xyz plays.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-7"
+        ]
+      }
+    },
+    {
+      "id": 91188343,
+      "name": "The Agent of Mystery - Earth",
+      "why": "Its Normal Summon found another Agent while leaving a Level 2 Tuner on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-7"
+        ]
+      }
+    },
+    {
+      "id": 59509952,
+      "name": "Archlord Kristya",
+      "why": "With four Fairies in the Graveyard, it could land beside the Agent engine and lock both players out of Special Summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-7"
+        ]
+      }
+    },
+    {
+      "id": 10002346,
+      "name": "Gachi Gachi Gantetsu",
+      "why": "Venus could summon two Mystical Shine Balls to make this durable Rank 2 and boost the team's stats.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-seven-7"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 4,
+    "fl_events": [
+      "MOMA01"
+    ],
+    "fl_deck_ids": [
+      81402,
+      81406,
+      81412,
+      81416
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-seven-7",
+      "https://yugioh-history.com/environment/generation-seven-19"
+    ]
+  }
+}

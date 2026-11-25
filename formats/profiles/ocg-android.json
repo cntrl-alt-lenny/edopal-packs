@@ -1,0 +1,120 @@
+{
+  "id": "ocg-android",
+  "name": "OCG Android",
+  "date": "2001-08-12",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "The winning deck at the 2001 Asia Championship attacked with Goblin Attack Force and Vorse Raider. It could also turn Scapegoat Tokens into direct damage with Cannon Soldier.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-android",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-android",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2001/",
+    "https://yugioh-history.com/environment/generation-two-31"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "why": "Its 2400 ATK and continuous suppression of Traps made a single tribute enough to attack through a defended field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-31"
+        ]
+      }
+    },
+    {
+      "id": 14898066,
+      "name": "Vorse Raider",
+      "why": "Its 1,900 ATK gave aggressive decks a strong Normal Summon without the drawback of Goblin Attack Force.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2001/"
+        ]
+      }
+    },
+    {
+      "id": 78658564,
+      "name": "Goblin Attack Force",
+      "why": "Its 2300 ATK beat most tribute-free monsters, but attacking exposed its 0 DEF on the following turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-31"
+        ]
+      }
+    },
+    {
+      "id": 11384280,
+      "name": "Cannon Soldier",
+      "why": "It turned spare monsters into 500 damage apiece, letting combo decks finish a duel without attacking.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2001/"
+        ]
+      }
+    },
+    {
+      "id": 61740673,
+      "name": "Imperial Order",
+      "why": "Flipping it in response to a power Spell could negate that play and leave the opponent's other Spells ineffective while Order stayed face-up.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 1,
+    "fl_events": [
+      "ASC01"
+    ],
+    "fl_deck_ids": [
+      48993
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+        "deck_count": 2,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return",
+          "https://yugioh-history.com/deck-list/historical/fire-princess-card-of-safe-return"
+        ],
+        "sample_dates": [
+          "2001-05-28"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2001/",
+      "https://yugioh-history.com/environment/generation-two-31",
+      "https://yugioh-history.com/deck-list/historical/exodia-card-of-safe-return"
+    ]
+  }
+}

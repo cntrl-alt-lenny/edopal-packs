@@ -3,20 +3,37 @@
   "id": "music-duelists-of-the-roses",
   "kind": "music",
   "name": "The Duelists of the Roses",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! The Duelists of the Roses",
+  "series": "Duel Monsters",
   "year": 2001,
   "platform": "PlayStation 2",
+  "platforms": [
+    "PlayStation 2"
+  ],
   "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! The Duelists of the Roses — Box - Front (North America)",
+    "platform": "Sony Playstation 2",
+    "source_url": "https://images.launchbox-app.com/cedac086-642d-44b9-bc2a-8616d4343327.jpg",
+    "original_resolution": [
+      1506,
+      2134
+    ]
+  },
+  "audio": "pending",
   "tracks": [],
   "credits": [
     {
-      "what": "Original illustrated concept cover",
-      "source": "EDOPal",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs"
+      "what": "Yu-Gi-Oh! The Duelists of the Roses — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/9847"
     }
   ],
   "files": {
-    "cover.webp": "725324d5ff40247532d0d2c75424211411d315b5cd91bf8f0a51f5540614be87"
+    "cover.webp": "4623e1514d4d2c7044e1978907443370e4c8a2af810a51ce87533b4153bf74ac"
   }
 }

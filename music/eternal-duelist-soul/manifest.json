@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "id": "music-eternal-duelist-soul",
+  "kind": "music",
+  "name": "The Eternal Duelist Soul",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! The Eternal Duelist Soul",
+  "series": "Duel Monsters",
+  "year": 2001,
+  "platform": "Game Boy Advance",
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "aliases": [
+    "Duel Monsters 5: Expert 1"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! The Eternal Duelist Soul — Box - Front (North America)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/20715622-511b-441e-a10c-71d8bfff10ae.jpg",
+    "original_resolution": [
+      1530,
+      1370
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! The Eternal Duelist Soul — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/4149"
+    }
+  ],
+  "files": {
+    "cover.webp": "05f7795280f76a2edf222305f5da48b5e39070f04543410f3882c73c99013686"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "yata",
+  "name": "Yata",
+  "date": "2003-08-10",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Yata Format is a DM era format that predates the first banlist. The latest core set is Pharaonic Guardian (PGD). Notable additions include Don Zaloog, Spirit Reaper, Mirage of Nightmare, Ring of Destruction, and the Gravekeeper archetype. Historically, games often ended in \"Yata locks\", with Yata-Garasu forcing the opponent to skip their Draw Phase every turn.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/yata",
+  "description_urls": [
+    "https://formatlibrary.com/formats/yata"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 3078576,
+      "name": "Yata-Garasu",
+      "why": "A successful hit skipped the opponent's next draw, letting an empty-hand opponent be locked out by repeated attacks.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8631",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8631",
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+          "https://formatlibrary.com/formats/yata"
+        ]
+      }
+    },
+    {
+      "id": 511000824,
+      "name": "Ring of Destruction",
+      "why": "Its original effect destroyed a face-up monster and burned both players for its ATK, turning a large attacker into a possible finisher.",
+      "has_art": true,
+      "printing_name": "Ring of Destruction (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8631",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8631",
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+          "https://formatlibrary.com/formats/yata"
+        ]
+      }
+    },
+    {
+      "id": 504700178,
+      "name": "Sangan",
+      "why": "Sending it from the field to the Graveyard searched out a low-ATK monster, from a combo piece to another defensive play.",
+      "has_art": true,
+      "printing_name": "Sangan (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8631",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8631",
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+        ]
+      }
+    },
+    {
+      "id": 76922029,
+      "name": "Don Zaloog",
+      "why": "A battle-damage hit could discard a random opposing card, making it dangerous to leave an opening for this Mystic Tomato target.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8631",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8631",
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+          "https://formatlibrary.com/formats/yata"
+        ]
+      }
+    },
+    {
+      "id": 83011277,
+      "name": "Mystic Tomato",
+      "why": "Losing it in battle could bring Sangan or another small DARK monster straight from the Deck, keeping a monster in play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8631",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8631",
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 16,
+    "fl_events": [
+      "DMD13",
+      "PURP01",
+      "WCS03",
+      "YFZ07"
+    ],
+    "fl_deck_ids": [
+      3002,
+      3003,
+      3004,
+      30670,
+      30673,
+      30677,
+      30679,
+      30686,
+      30700,
+      47709,
+      47710,
+      47713,
+      47718,
+      47720,
+      47735,
+      84839
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8631",
+        "deck_count": 3,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8631",
+          "https://www.yugiohtopdecks.org/deck/8659",
+          "https://www.yugiohtopdecks.org/deck/8982"
+        ],
+        "tournaments": [
+          "World Championship 2003"
+        ],
+        "months": [
+          "August 2003"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2015/11-30.shtml",
+      "https://www.yugiohtopdecks.org/deck/8631"
+    ]
+  }
+}

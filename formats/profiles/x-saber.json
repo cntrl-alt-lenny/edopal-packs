@@ -1,0 +1,171 @@
+{
+  "id": "x-saber",
+  "name": "X-Saber",
+  "date": "2010-10-09",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "X-Saber decks at YCS Philadelphia in October 2010 used small monsters to set up larger Synchro Summons. With two X-Sabers in play, Faultroll could summon itself and revive another X-Saber, while Hyunlei threatened up to three opposing Spells and Traps.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/x-saber",
+  "description_urls": [
+    "https://formatlibrary.com/formats/x-saber",
+    "https://formatlibrary.com/events/YCSPHI10",
+    "https://www.yugiohtopdecks.org/deck/2344"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 51808422,
+      "name": "XX-Saber Faultroll",
+      "why": "Controlling two X-Sabers let it enter from hand, then revive another Saber for Synchro plays.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2342",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2344"
+        ]
+      }
+    },
+    {
+      "id": 31383545,
+      "name": "XX-Saber Darksoul",
+      "why": "Using it as Synchro Material set up an End Phase search for the next X-Saber monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2342",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2344"
+        ]
+      }
+    },
+    {
+      "id": 42737833,
+      "name": "XX-Saber Emmersblade",
+      "why": "Losing it in battle fetched another small X-Saber from the Deck and helped keep the engine on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2342",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2344"
+        ]
+      }
+    },
+    {
+      "id": 2203790,
+      "name": "XX-Saber Hyunlei",
+      "why": "Its Synchro Summon could destroy up to three Spells or Traps, punishing opponents who set a full back row.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2342",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2344"
+        ]
+      }
+    },
+    {
+      "id": 78422252,
+      "name": "XX-Saber Fulhelmknight",
+      "why": "This Level 3 Tuner could stop an attack and revive a small X-Saber after beating a Defense Position monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2342",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2344"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 16,
+    "fl_events": [
+      "VEIL07",
+      "YCSBOC10",
+      "YCSMEX10",
+      "YCSPHI10"
+    ],
+    "fl_deck_ids": [
+      26119,
+      26120,
+      26121,
+      26122,
+      26123,
+      26124,
+      26405,
+      26406,
+      26407,
+      26408,
+      26410,
+      26411,
+      26507,
+      26508,
+      26509,
+      87253
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2342",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2342",
+          "https://www.yugiohtopdecks.org/deck/2343",
+          "https://www.yugiohtopdecks.org/deck/2344",
+          "https://www.yugiohtopdecks.org/deck/2345",
+          "https://www.yugiohtopdecks.org/deck/2346",
+          "https://www.yugiohtopdecks.org/deck/2347",
+          "https://www.yugiohtopdecks.org/deck/2348",
+          "https://www.yugiohtopdecks.org/deck/2349"
+        ],
+        "tournaments": [
+          "2010 Championship Series - Philadelphia"
+        ],
+        "months": [
+          "October 2010"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2342"
+    ]
+  }
+}

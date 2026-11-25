@@ -1,0 +1,180 @@
+{
+  "id": "secaucus",
+  "name": "Secaucus",
+  "date": "2018-06-02",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "YCS Secaucus in June 2018 featured Sky Striker, Trickstar and Gouki lists. The compact Sky Striker Spell engine could support another strategy. Engage searched a card, and Hornet Drones supplied a Token for a Link Summon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/secaucus",
+  "description_urls": [
+    "https://formatlibrary.com/formats/secaucus",
+    "https://formatlibrary.com/events/YCSSEC18",
+    "https://www.yugiohtopdecks.org/deck/7274"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 24073068,
+      "name": "Gouki Suprex",
+      "why": "Its Normal Summon put another Gouki from hand into play, providing both materials for a Warrior Link Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7274",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7277"
+        ]
+      }
+    },
+    {
+      "id": 63166095,
+      "name": "Sky Striker Mobilize - Engage!",
+      "why": "It found any other Sky Striker card and drew another card once three Spells were in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7274",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7272"
+        ]
+      }
+    },
+    {
+      "id": 52340444,
+      "name": "Sky Striker Mecha - Hornet Drones",
+      "why": "A single Spell produced a Token that could become a Sky Striker Ace Link Monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7274",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7272"
+        ]
+      }
+    },
+    {
+      "id": 59934749,
+      "name": "Isolde, Two Tales of the Noble Knights",
+      "why": "By sending Equip Spells from the Deck, Isolde turned two Warriors into another Warrior summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7274",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7272"
+        ]
+      }
+    },
+    {
+      "id": 39064822,
+      "name": "Knightmare Goblin",
+      "why": "Its linked zones and additional Normal Summon let Gouki extend a chain of co-linked monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7274",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7274"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 13,
+    "fl_events": [
+      "EUWCQ18",
+      "NAWCQ18",
+      "YCSSEC18"
+    ],
+    "fl_deck_ids": [
+      38828,
+      38829,
+      38830,
+      38831,
+      38832,
+      66161,
+      66172,
+      66173,
+      66174,
+      66240,
+      66268,
+      66321,
+      66322
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/7274",
+        "deck_count": 14,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7272",
+          "https://www.yugiohtopdecks.org/deck/7274",
+          "https://www.yugiohtopdecks.org/deck/7275",
+          "https://www.yugiohtopdecks.org/deck/7276",
+          "https://www.yugiohtopdecks.org/deck/7277",
+          "https://www.yugiohtopdecks.org/deck/7279",
+          "https://www.yugiohtopdecks.org/deck/7280",
+          "https://www.yugiohtopdecks.org/deck/7281",
+          "https://www.yugiohtopdecks.org/deck/7282",
+          "https://www.yugiohtopdecks.org/deck/7289",
+          "https://www.yugiohtopdecks.org/deck/7574",
+          "https://www.yugiohtopdecks.org/deck/7589",
+          "https://www.yugiohtopdecks.org/deck/8739",
+          "https://www.yugiohtopdecks.org/deck/8880"
+        ],
+        "tournaments": [
+          "YCS - Secaucus New Jersey"
+        ],
+        "months": [
+          "June 2018"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      66170,
+      66175,
+      66203,
+      66239,
+      66241
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/7274"
+    ]
+  }
+}

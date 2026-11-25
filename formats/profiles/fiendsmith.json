@@ -1,0 +1,167 @@
+{
+  "id": "fiendsmith",
+  "name": "Fiendsmith",
+  "date": "2024-07-19",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Fiendsmith takes its card pool from the July 2024 North American World Championship Qualifier. Fiendsmith Engraver could search a Fiendsmith Spell or Trap and later return from the Graveyard, giving several decks access to the same LIGHT Fiend Fusion and Link engine.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/fiendsmith",
+  "description_urls": [
+    "https://formatlibrary.com/formats/fiendsmith",
+    "https://formatlibrary.com/events/NAWCQ24",
+    "https://www.yugiohtopdecks.org/deck/9901"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 60764609,
+      "name": "Fiendsmith Engraver",
+      "why": "Discarding it found Fiendsmith's Tract, and its Graveyard effect recycled a LIGHT Fiend to put Engraver back on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9901",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9835"
+        ]
+      }
+    },
+    {
+      "id": 2463794,
+      "name": "Fiendsmith's Requiem",
+      "why": "A LIGHT Fiend could become Requiem, which Tributed itself to summon a Fiendsmith monster from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9901",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9835"
+        ]
+      }
+    },
+    {
+      "id": 98567237,
+      "name": "Fiendsmith's Tract",
+      "why": "Searching Fabled Lurrie and then discarding it produced a LIGHT Fiend for Requiem.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9901",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9835"
+        ]
+      }
+    },
+    {
+      "id": 49867899,
+      "name": "Fiendsmith's Sequence",
+      "why": "Shuffling materials from the Graveyard into the Deck let Sequence summon a Fiend Fusion Monster without spending cards from hand.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9901",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9835"
+        ]
+      }
+    },
+    {
+      "id": 14558127,
+      "name": "Ash Blossom & Joyous Spring",
+      "why": "Its discard could interrupt an effect that searched, summoned from the Deck or sent a card from the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9901",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9832"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 12,
+    "fl_events": [
+      "EUWCQ24",
+      "NAWCQ24"
+    ],
+    "fl_deck_ids": [
+      48928,
+      48929,
+      48930,
+      48931,
+      48933,
+      48934,
+      49076,
+      49077,
+      49078,
+      49079,
+      49080,
+      49082
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9901",
+        "deck_count": 10,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9831",
+          "https://www.yugiohtopdecks.org/deck/9832",
+          "https://www.yugiohtopdecks.org/deck/9833",
+          "https://www.yugiohtopdecks.org/deck/9834",
+          "https://www.yugiohtopdecks.org/deck/9835",
+          "https://www.yugiohtopdecks.org/deck/9836",
+          "https://www.yugiohtopdecks.org/deck/9837",
+          "https://www.yugiohtopdecks.org/deck/9901",
+          "https://www.yugiohtopdecks.org/deck/9902",
+          "https://www.yugiohtopdecks.org/deck/9981"
+        ],
+        "tournaments": [
+          "WCQ - North America"
+        ],
+        "months": [
+          "July 2024"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9901"
+    ]
+  }
+}

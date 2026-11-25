@@ -1,0 +1,185 @@
+{
+  "id": "miami",
+  "name": "Miami",
+  "date": "2013-02-17",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "At YCS Miami in February 2013, Wind-Up and Mermail decks reached the elimination rounds. Wind-Up Magician and Shark built Xyz Summons from the Deck and hand, while Mermail turned discarded WATER monsters into searches and removal.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/miami",
+  "description_urls": [
+    "https://formatlibrary.com/formats/miami",
+    "https://formatlibrary.com/events/YCSMIA13",
+    "https://www.yugiohtopdecks.org/deck/1898"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 21954587,
+      "name": "Mermail Abyssmegalo",
+      "why": "Its two WATER discards could trigger Atlanteans, search an Abyss Spell or Trap and set up a double attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1898",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1901"
+        ]
+      }
+    },
+    {
+      "id": 59297550,
+      "name": "Wind-Up Magician",
+      "why": "Another Wind-Up's effect could trigger Magician to fetch a second monster from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1898",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1898"
+        ]
+      }
+    },
+    {
+      "id": 74311226,
+      "name": "Atlantean Dragoons",
+      "why": "Discarding it for a WATER monster's effect searched a Sea Serpent, turning Mermail summon costs into more cards.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1898",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1901"
+        ]
+      }
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "why": "It put a monster from either Graveyard back into play, giving a defeated attacker another Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1898",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1898"
+        ]
+      }
+    },
+    {
+      "id": 19613556,
+      "name": "Heavy Storm",
+      "why": "It cleared both players' Spells and Traps, rewarding the player who held back a card before committing to an attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/1898",
+            "decks_with_card": 18
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1898"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "MIME01",
+      "YCSBOC13",
+      "YCSMIA13",
+      "YCSSDC13"
+    ],
+    "fl_deck_ids": [
+      35750,
+      35751,
+      35752,
+      35753,
+      35754,
+      35755,
+      35800,
+      36624,
+      36625,
+      36626,
+      36627,
+      36633,
+      36637,
+      36638,
+      36639,
+      36640,
+      36641,
+      36642,
+      44168
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/1898",
+        "deck_count": 19,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/1898",
+          "https://www.yugiohtopdecks.org/deck/1899",
+          "https://www.yugiohtopdecks.org/deck/1900",
+          "https://www.yugiohtopdecks.org/deck/1901",
+          "https://www.yugiohtopdecks.org/deck/1902",
+          "https://www.yugiohtopdecks.org/deck/1903",
+          "https://www.yugiohtopdecks.org/deck/1904",
+          "https://www.yugiohtopdecks.org/deck/1905",
+          "https://www.yugiohtopdecks.org/deck/1906",
+          "https://www.yugiohtopdecks.org/deck/1907",
+          "https://www.yugiohtopdecks.org/deck/1908",
+          "https://www.yugiohtopdecks.org/deck/1909",
+          "https://www.yugiohtopdecks.org/deck/1910",
+          "https://www.yugiohtopdecks.org/deck/1911",
+          "https://www.yugiohtopdecks.org/deck/1912",
+          "https://www.yugiohtopdecks.org/deck/1913",
+          "https://www.yugiohtopdecks.org/deck/1914",
+          "https://www.yugiohtopdecks.org/deck/1915",
+          "https://www.yugiohtopdecks.org/deck/1916"
+        ],
+        "tournaments": [
+          "2013 YCS Miami"
+        ],
+        "months": [
+          "February 2013"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/1898"
+    ]
+  }
+}

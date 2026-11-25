@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-tag-force-5",
+  "kind": "music",
+  "name": "5D's Tag Force 5",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Tag Force 5",
+  "series": "5D's",
+  "year": 2010,
+  "platform": "PSP",
+  "platforms": [
+    "PSP"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's Tag Force 5 — Box - Front (North America)",
+    "platform": "Sony PSP",
+    "source_url": "https://images.launchbox-app.com/9427fdb8-9d80-4e19-8156-f6bad6035b6f.jpg",
+    "original_resolution": [
+      640,
+      1105
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's Tag Force 5 — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/15253"
+    }
+  ],
+  "files": {
+    "cover.webp": "2e1ffe813499a54d296396101252c136cfa598221446a6b5db7cbcb4c29d0ce5"
+  }
+}

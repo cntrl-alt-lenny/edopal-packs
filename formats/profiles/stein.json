@@ -1,0 +1,173 @@
+{
+  "id": "stein",
+  "name": "Stein",
+  "date": "2006-12-09",
+  "region": "TCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Stein is a GX era format shaped by an aggressive ban of Chaos Sorcerer, which was previously Unlimited. Since Chaos Return Format, Power of the Duelist (POTD) and Cyberdark Impact (CDIP) were introduced, while Thousand-Eyes Restrict was Forbidden. Notable additions include Chimeratech Overdragon, Future Fusion, Overload Fusion, Chain Strike, and Accumulated Fortune. Now that the “Age of Chaos” had officially come to a close, the format was dominated by decks featuring Cyber-Stein, Monarchs, and Burn strategies.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/stein",
+  "description_urls": [
+    "https://formatlibrary.com/formats/stein"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 69015963,
+      "name": "Cyber-Stein",
+      "why": "A 5000 LP payment summoned a Fusion Monster immediately, enabling sudden finishes with Cyber Twin Dragon or Cyber End Dragon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2942",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2942",
+          "https://formatlibrary.com/formats/stein"
+        ]
+      }
+    },
+    {
+      "id": 74157028,
+      "name": "Cyber Twin Dragon",
+      "why": "Cyber-Stein could summon this 2800 ATK Fusion for two attacks in one Battle Phase, making ATK boosts especially dangerous.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2942",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2942"
+        ]
+      }
+    },
+    {
+      "id": 1546123,
+      "name": "Cyber End Dragon",
+      "why": "Cyber-Stein gave decks access to a 4000 ATK Fusion whose piercing damage punished even a field of defense monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2942",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2942"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2942",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2942"
+        ]
+      }
+    },
+    {
+      "id": 12538374,
+      "name": "Treeborn Frog",
+      "why": "With an empty Spell and Trap Zone, it could return each Standby Phase to supply a fresh tribute for a Monarch.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2942",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2943"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "PTS04",
+      "SJCANA06",
+      "SJCBOS06",
+      "SJCSJ06"
+    ],
+    "fl_deck_ids": [
+      3408,
+      3409,
+      3410,
+      3411,
+      3412,
+      3413,
+      23762,
+      23763,
+      23764,
+      23773,
+      23774,
+      23775,
+      23842,
+      23844,
+      23845,
+      23846,
+      23847,
+      23848,
+      79469
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2942",
+        "deck_count": 8,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2942",
+          "https://www.yugiohtopdecks.org/deck/2943",
+          "https://www.yugiohtopdecks.org/deck/2944",
+          "https://www.yugiohtopdecks.org/deck/2945",
+          "https://www.yugiohtopdecks.org/deck/2946",
+          "https://www.yugiohtopdecks.org/deck/2947",
+          "https://www.yugiohtopdecks.org/deck/2948",
+          "https://www.yugiohtopdecks.org/deck/2949"
+        ],
+        "tournaments": [
+          "2006 SJ San Jose"
+        ],
+        "months": [
+          "December 2006"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2942"
+    ]
+  }
+}

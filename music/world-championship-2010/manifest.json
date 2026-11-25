@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2010",
+  "kind": "music",
+  "name": "Reverse of Arcadia",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia",
+  "series": "5D's",
+  "year": 2010,
+  "platform": "Nintendo DS",
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia — Box - Front (North America)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/b3fc0ac2-ef7e-497e-b781-85566579a89f.jpg",
+    "original_resolution": [
+      1000,
+      911
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26229"
+    }
+  ],
+  "files": {
+    "cover.webp": "5a51c2aebae5ceee1254cdd2a35ba9f60fb85350688c335d296f4c6028faffca"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "danger-2",
+  "name": "Danger 2",
+  "date": "2018-12-08",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "YCS Milan in December 2018 featured Prank-Kids, Sky Striker and Danger! decks. A Danger! monster revealed in hand forced a random discard, so the same play could summon a Link Material or trigger a monster discarded as part of the attempt.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/danger-2",
+  "description_urls": [
+    "https://formatlibrary.com/formats/danger-2",
+    "https://formatlibrary.com/events/YCSMIL18",
+    "https://www.yugiohtopdecks.org/deck/7539"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 70711847,
+      "name": "Danger! Nessie!",
+      "why": "A random discard either helped put Nessie on the field with a draw or triggered its search for another Danger card.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7538",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7539"
+        ]
+      }
+    },
+    {
+      "id": 99745551,
+      "name": "Danger!? Tsuchinoko?",
+      "why": "Even when chosen for the random discard, it could summon itself and leave a monster on the field.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7538",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7539"
+        ]
+      }
+    },
+    {
+      "id": 17382973,
+      "name": "Prank-Kids Dodo-Doodle-Doo",
+      "why": "The Milan-winning Prank-Kids deck could use its Link Summon to search a Spell or Trap, then tribute it to recover two different Prank-Kids cards.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7538",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7538"
+        ]
+      }
+    },
+    {
+      "id": 63166095,
+      "name": "Sky Striker Mobilize - Engage!",
+      "why": "It found any other Sky Striker card and drew another card once three Spells were in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7538",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7540"
+        ]
+      }
+    },
+    {
+      "id": 59934749,
+      "name": "Isolde, Two Tales of the Noble Knights",
+      "why": "By sending Equip Spells from the Deck, Isolde turned two Warriors into another Warrior summon.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/7538",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7540"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/7538",
+        "deck_count": 6,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/7538",
+          "https://www.yugiohtopdecks.org/deck/7539",
+          "https://www.yugiohtopdecks.org/deck/7540",
+          "https://www.yugiohtopdecks.org/deck/7550",
+          "https://www.yugiohtopdecks.org/deck/7856",
+          "https://www.yugiohtopdecks.org/deck/9039"
+        ],
+        "tournaments": [
+          "YCS - Milan Italy"
+        ],
+        "months": [
+          "December 2018"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/7538"
+    ]
+  }
+}

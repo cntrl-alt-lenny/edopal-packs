@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-gx-card-almanac",
+  "kind": "music",
+  "name": "GX Card Almanac",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! GX Card Almanac",
+  "series": "GX",
+  "year": 2007,
+  "platform": "Nintendo DS",
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Europe",
+  "cover_attribution": {
+    "region": "Europe",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Duel Monsters GX Card Almanac — Box - Front (Europe)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/525a72f0-e99c-4ac1-99d7-3ce71d6b4bdf.jpg",
+    "original_resolution": [
+      768,
+      680
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Duel Monsters GX Card Almanac — Box - Front (Europe)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/176576"
+    }
+  ],
+  "files": {
+    "cover.webp": "5b62f995735bb1787ea365eef547a7bd5dd1b84ca54c5c098d2a10cc4161e856"
+  }
+}

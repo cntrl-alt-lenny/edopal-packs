@@ -1,0 +1,124 @@
+{
+  "id": "critter",
+  "name": "Critter",
+  "date": "2002-07-01",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Critter Format, named after the OCG's Sangan, is the second Yu-Gi-Oh! TCG format. The latest core set is Metal Raiders (MRD). Notable additions include many new Effect Monsters, Heavy Storm, and Mirror Force. For the first time, we see a clear split in play-styles between Aggro and Control. Players can also set up win conditions via OTKs with cards like Cannon Soldier.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/critter",
+  "description_urls": [
+    "https://formatlibrary.com/formats/critter"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": false,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 504700178,
+      "name": "Sangan",
+      "why": "Sending it from the field to the Graveyard searched out a low-ATK monster, from a combo piece to another defensive play.",
+      "has_art": true,
+      "printing_name": "Sangan (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/7-6.shtml",
+          "https://formatlibrary.com/formats/critter"
+        ]
+      }
+    },
+    {
+      "id": 504700144,
+      "name": "Witch of the Black Forest",
+      "why": "Its 1500 DEF search limit reached high-ATK monsters such as Summoned Skull, replacing the Witch when it left the field for the Graveyard.",
+      "has_art": true,
+      "printing_name": "Witch of the Black Forest (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/7-6.shtml"
+        ]
+      }
+    },
+    {
+      "id": 44095762,
+      "name": "Mirror Force",
+      "why": "A single attack could cost the opponent every Attack Position monster, discouraging them from committing several attackers.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/7-6.shtml",
+          "https://formatlibrary.com/formats/critter"
+        ]
+      }
+    },
+    {
+      "id": 31560081,
+      "name": "Magician of Faith",
+      "why": "Its Flip Effect recovered a spent Spell, giving decks a second use of cards such as Pot of Greed.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/7-6.shtml"
+        ]
+      }
+    },
+    {
+      "id": 11384280,
+      "name": "Cannon Soldier",
+      "why": "It turned spare monsters into 500 damage apiece, letting combo decks finish a duel without attacking.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "source_urls": [
+          "https://formatlibrary.com/formats/critter"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "CCE01",
+      "CCE02",
+      "CCE04",
+      "CRIT01"
+    ],
+    "fl_deck_ids": [
+      16130,
+      16190,
+      16197,
+      16198,
+      16199,
+      16208,
+      38368,
+      38369,
+      38372,
+      38374,
+      38378,
+      38379,
+      51644,
+      51647,
+      51650,
+      51651,
+      51670,
+      51676,
+      88035
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/FeaturedWriters/Baneful/2017/7-6.shtml"
+    ]
+  }
+}

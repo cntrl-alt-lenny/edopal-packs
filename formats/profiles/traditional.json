@@ -1,0 +1,139 @@
+{
+  "id": "traditional",
+  "name": "Traditional",
+  "date": "Rolling",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Traditional follows the TCG's releases and copy limits, with cards forbidden in Advanced generally available at one copy. That gives decks access to otherwise unavailable draw and combo cards such as Pot of Greed and Magical Scientist.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/traditional",
+  "description_urls": [
+    "https://formatlibrary.com/formats/traditional",
+    "https://www.yugioh-card.com/en/about/glossary-of-yu-gi-oh-terms/",
+    "https://www.yugioh-card.com/en/limited/list_2026-10-19/",
+    "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world.html"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 55144522,
+      "name": "Pot of Greed",
+      "why": "Traditional allows a single copy of this draw Spell, giving its player two new cards for one.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world.html"
+        ]
+      }
+    },
+    {
+      "id": 79571449,
+      "name": "Graceful Charity",
+      "why": "Drawing three and discarding two found combo pieces while setting up cards with Graveyard effects.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world.html"
+        ]
+      }
+    },
+    {
+      "id": 74191942,
+      "name": "Painful Choice",
+      "why": "Presenting five cards from the Deck guaranteed one in hand and sent the other four to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world.html"
+        ]
+      }
+    },
+    {
+      "id": 34206604,
+      "name": "Magical Scientist",
+      "why": "Its repeatable Life Point payment summoned low-Level Fusion Monsters directly from the Extra Deck for combo material.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world.html"
+        ]
+      }
+    },
+    {
+      "id": 44763025,
+      "name": "Delinquent Duo",
+      "why": "Two opposing cards could be stripped from hand before the opponent had a chance to use them.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world.html"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254",
+        "deck_count": 7,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254",
+          "https://traditionalformatacademy.blogspot.com/2013/10/tournament-results-sports-card-world.html",
+          "https://traditionalformatacademy.blogspot.com/2013/09/tournament-results-sports-card-world.html",
+          "https://traditionalformatacademy.blogspot.com/2013/05/tournament-results-sports-card-world.html",
+          "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world_23.html",
+          "https://traditionalformatacademy.blogspot.com/2013/04/tournament-results-sports-card-world.html"
+        ],
+        "relationship": "Seven archived Traditional tournament decks from 2009 and 2013 illustrate strategies enabled by the format’s single-copy rule."
+      }
+    ],
+    "as_of": "2026-11-25",
+    "cross_check_urls": [
+      "https://ygoprodeck.com/deck/sept-09-traditional-format-twilight-536254"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "cannon",
+  "name": "Cannon",
+  "date": "2000-08-20",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Tam Yee Luk won the 2000 Asia Championship with a Cannon Soldier burn deck. Sinister Serpent supplied discard fodder, while Ultimate Offering put extra monsters on the field for Cannon Soldier to Tribute.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/cannon",
+  "description_urls": [
+    "https://formatlibrary.com/formats/cannon",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2000/",
+    "https://yugioh-history.com/environment/generation-two-12"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 11384280,
+      "name": "Cannon Soldier",
+      "why": "It turned spare monsters into 500 damage apiece, letting combo decks finish a duel without attacking.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2000/"
+        ]
+      }
+    },
+    {
+      "id": 80604091,
+      "name": "Ultimate Offering",
+      "why": "Paying 500 life points granted extra Normal Summons, supplying monsters for Cannon Soldier to tribute.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-12"
+        ]
+      }
+    },
+    {
+      "id": 8131171,
+      "name": "Sinister Serpent",
+      "why": "Its original effect returned it to the hand in successive Standby Phases, providing a repeatable discard for cards such as Graceful Charity.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2000/"
+        ]
+      }
+    },
+    {
+      "id": 26202165,
+      "name": "Sangan",
+      "why": "Sending it from the field to the Graveyard searched out a low-ATK monster, from a combo piece to another defensive play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2000/"
+        ]
+      }
+    },
+    {
+      "id": 78010363,
+      "name": "Witch of the Black Forest",
+      "why": "Its 1500 DEF search limit reached high-ATK monsters such as Summoned Skull, replacing the Witch when it left the field for the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2000/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 1,
+    "fl_events": [
+      "ASC00"
+    ],
+    "fl_deck_ids": [
+      48868
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2000/",
+      "https://yugioh-history.com/environment/generation-two-12"
+    ]
+  }
+}

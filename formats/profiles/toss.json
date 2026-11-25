@@ -1,0 +1,159 @@
+{
+  "id": "toss",
+  "name": "TOSS",
+  "date": "2019-11-23",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "TOSS takes its name from the Thunder Dragon, Orcust, Sky Striker and Salamangreat decks of 2019. The November Pasadena snapshot includes builds that combined Sky Striker Spells with Orcust monsters whose Graveyard effects supplied Link Materials.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/toss",
+  "description_urls": [
+    "https://formatlibrary.com/formats/toss",
+    "https://formatlibrary.com/events/YCSPAS19",
+    "https://www.yugiohtopdecks.org/deck/8347",
+    "https://yugiohblog.konami.com/2019/ycs/ycs-pasadena-top-32-deck-breakdown-2/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 30741503,
+      "name": "Galatea, the Orcust Automaton",
+      "why": "Returning a banished Machine to the Deck let Galatea Set an Orcust Spell or Trap and prepare the next turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8347",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8347"
+        ]
+      }
+    },
+    {
+      "id": 15291624,
+      "name": "Thunder Dragon Colossus",
+      "why": "After a Thunder monster used its effect in hand, Tributing a non-Fusion Thunder Effect Monster could bring out Colossus and shut down opposing Deck searches.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "source_urls": [
+          "https://yugiohblog.konami.com/2019/ycs/ycs-pasadena-pro-talk-with-aaron-furman/"
+        ]
+      }
+    },
+    {
+      "id": 63166095,
+      "name": "Sky Striker Mobilize - Engage!",
+      "why": "It found any other Sky Striker card and drew another card once three Spells were in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8347",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8347"
+        ]
+      }
+    },
+    {
+      "id": 87871125,
+      "name": "Salamangreat Sunlight Wolf",
+      "why": "A summon to a zone it pointed to recovered a FIRE monster. A copy Link Summoned using another Sunlight Wolf could also recover a Salamangreat Spell or Trap.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8347",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8362"
+        ]
+      }
+    },
+    {
+      "id": 57835716,
+      "name": "Orcust Harp Horror",
+      "why": "Banishing it from the Graveyard summoned an Orcust from the Deck and started the DARK Machine line.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8347",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8347"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 13,
+    "fl_events": [
+      "TOSS27",
+      "TOSS28",
+      "YCSPAS19"
+    ],
+    "fl_deck_ids": [
+      44273,
+      44274,
+      44276,
+      44283,
+      44284,
+      44285,
+      85735,
+      85739,
+      85742,
+      85745,
+      85756,
+      85764,
+      87669
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8347",
+        "deck_count": 4,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8347",
+          "https://www.yugiohtopdecks.org/deck/8350",
+          "https://www.yugiohtopdecks.org/deck/8362",
+          "https://www.yugiohtopdecks.org/deck/8369"
+        ],
+        "tournaments": [
+          "YCS - Pasadena California"
+        ],
+        "months": [
+          "November 2019"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2019/ycs/ycs-pasadena-pro-talk-with-aaron-furman/",
+      "https://www.yugiohtopdecks.org/deck/8347"
+    ]
+  }
+}

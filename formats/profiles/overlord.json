@@ -1,0 +1,172 @@
+{
+  "id": "overlord",
+  "name": "Overlord",
+  "date": "2023-12-10",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "The December 2023 Bologna championship featured Rescue-ACE, Labrynth and several strategies built around Bystial monsters. Rescue-ACE Turbulence could set four different Quick-Play Spells and Normal Traps from the Deck, turning a single monster into several responses.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/overlord",
+  "description_urls": [
+    "https://formatlibrary.com/formats/overlord",
+    "https://formatlibrary.com/events/YCSBOL23",
+    "https://www.yugiohtopdecks.org/deck/9867"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 29301450,
+      "name": "S:P Little Knight",
+      "why": "Two Effect Monsters could become a Link-2 that temporarily banished itself and another monster in response to an opposing activation.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 19,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9852",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9852"
+        ]
+      }
+    },
+    {
+      "id": 72270339,
+      "name": "Diabellstar the Black Witch",
+      "why": "It could send a card from hand or field for its own summon, then Set a Sinful Spoils Spell or Trap from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9852",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9867"
+        ]
+      }
+    },
+    {
+      "id": 37495766,
+      "name": "Rescue-ACE Turbulence",
+      "why": "It could Set four differently named Rescue-ACE Quick-Play Spells and Normal Traps directly from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9852",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9867"
+        ]
+      }
+    },
+    {
+      "id": 14558127,
+      "name": "Ash Blossom & Joyous Spring",
+      "why": "Its discard could interrupt an effect that searched, summoned from the Deck or sent a card from the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9852",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9852"
+        ]
+      }
+    },
+    {
+      "id": 92714517,
+      "name": "Big Welcome Labrynth",
+      "why": "Summoning a Labrynth monster and returning a friendly monster to hand triggered Labrynth effects while recycling a summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9852",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9866"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "OVOB10",
+      "YCSBOL23",
+      "YCSIND23",
+      "YCSRIC23"
+    ],
+    "fl_deck_ids": [
+      38992,
+      38993,
+      38994,
+      38995,
+      38996,
+      38997,
+      61939,
+      61941,
+      61943,
+      61945,
+      61946,
+      61981,
+      61986,
+      61987,
+      61989,
+      61990,
+      61991,
+      71341,
+      86261
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9852",
+        "deck_count": 6,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9852",
+          "https://www.yugiohtopdecks.org/deck/9857",
+          "https://www.yugiohtopdecks.org/deck/9866",
+          "https://www.yugiohtopdecks.org/deck/9867",
+          "https://www.yugiohtopdecks.org/deck/9883",
+          "https://www.yugiohtopdecks.org/deck/9896"
+        ],
+        "tournaments": [
+          "YCS - Bologna Italy"
+        ],
+        "months": [
+          "December 2023"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9852"
+    ]
+  }
+}

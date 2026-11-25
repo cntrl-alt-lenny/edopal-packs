@@ -1,0 +1,134 @@
+{
+  "id": "mirror",
+  "name": "Mirror",
+  "date": "2001-04-19",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Mystical Refpanel could redirect a Spell such as Pot of Greed to the other player. With both draw Spells and hand disruption in circulation, deciding when to commit a Spell could change which player gained cards.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/mirror",
+  "description_urls": [
+    "https://formatlibrary.com/formats/mirror",
+    "https://yugioh-history.com/environment/generation-two-29",
+    "https://yugioh-history.com/environment/generation-two-28"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 35563539,
+      "name": "Mystical Refpanel",
+      "why": "It could redirect a draw Spell such as Pot of Greed, giving the two cards to the other player.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-29"
+        ]
+      }
+    },
+    {
+      "id": 83011277,
+      "name": "Mystic Tomato",
+      "why": "Losing it in battle could bring Sangan or another small DARK monster straight from the Deck, keeping a monster in play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2
+      }
+    },
+    {
+      "id": 55144522,
+      "name": "Pot of Greed",
+      "why": "Two draws from one Spell helped assemble a combo or rebuild a hand after exchanging removal.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+          "https://yugioh-history.com/environment/generation-two-29"
+        ]
+      }
+    },
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "why": "Its 2400 ATK and continuous suppression of Traps made a single tribute enough to attack through a defended field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+          "https://yugioh-history.com/environment/generation-two-28"
+        ]
+      }
+    },
+    {
+      "id": 31560081,
+      "name": "Magician of Faith",
+      "why": "Its Flip Effect recovered a spent Spell, giving decks a second use of cards such as Pot of Greed.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+          "https://yugioh-history.com/environment/generation-two-28"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 2,
+    "fl_events": [
+      "OMS08"
+    ],
+    "fl_deck_ids": [
+      83036,
+      83038
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+        "deck_count": 1,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two"
+        ],
+        "sample_dates": [
+          "2001-01-15"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-two-29",
+      "https://yugioh-history.com/environment/generation-two-28",
+      "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two"
+    ]
+  }
+}

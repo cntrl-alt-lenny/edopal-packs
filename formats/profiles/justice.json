@@ -1,0 +1,151 @@
+{
+  "id": "justice",
+  "name": "Justice",
+  "date": "2025-08-17",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "At YCS Vancouver in August 2025, 19 of the 32 published top-cut decks included K9-17 Izuna and K9-17 “Ripper”. The K9 engine paired Level 5 monsters for Rank 5 Xyz Summons, including plays triggered by an opposing monster effect in the hand or Graveyard.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/justice",
+  "description_urls": [
+    "https://formatlibrary.com/formats/justice",
+    "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 29302858,
+      "name": "Vanquish Soul Razen",
+      "why": "Its summon searched a non-Warrior Vanquish Soul, giving K9 Vanquish Soul access to its tag-out monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/",
+            "decks_with_card": 12
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 29301450,
+      "name": "S:P Little Knight",
+      "why": "Two Effect Monsters could become a Link-2 that temporarily banished itself and another monster in response to an opposing activation.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/",
+            "decks_with_card": 30
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 42141493,
+      "name": "Mulcharmy Fuwalos",
+      "why": "Discarding it with an empty field let the player draw as the opponent Special Summoned from the Deck or Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/",
+            "decks_with_card": 29
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 28168628,
+      "name": "Rock of the Vanquisher",
+      "why": "It could return a Vanquish Soul monster from the Graveyard to hand or summon one from hand.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/",
+            "decks_with_card": 12
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 92895501,
+      "name": "Vanquish Soul Heavy Borger",
+      "why": "Its hand effect returned another Vanquish Soul to hand to summon itself, preserving a monster under pressure.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/",
+            "decks_with_card": 12
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 14,
+    "fl_events": [
+      "CCC01",
+      "JJAM01",
+      "YCSVAN25"
+    ],
+    "fl_deck_ids": [
+      82735,
+      82822,
+      82823,
+      82824,
+      82825,
+      82826,
+      84443,
+      84445,
+      84451,
+      84457,
+      87472,
+      87473,
+      87474,
+      87475
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/",
+        "deck_count": 32
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2025/ycs/ycs-vancouver-top-32-deck-lists/"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "id": "music-link-evolution",
+  "kind": "music",
+  "name": "Link Evolution",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+  "series": "Crossover",
+  "year": 2019,
+  "platform": "Nintendo Switch, PlayStation 4, Xbox One, Windows",
+  "platforms": [
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One",
+    "Windows"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution — Box - Front (North America)",
+    "platform": "Nintendo Switch",
+    "source_url": "https://images.launchbox-app.com/9e68e811-0ebb-43d5-bc2a-a497620ab72f.jpg",
+    "original_resolution": [
+      1234,
+      2000
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/168882"
+    }
+  ],
+  "files": {
+    "cover.webp": "93175587604ae4375d6a385ee0e6f812fde091073fac8886b602b58d492a6d8e"
+  }
+}

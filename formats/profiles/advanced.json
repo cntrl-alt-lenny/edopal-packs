@@ -1,0 +1,128 @@
+{
+  "id": "advanced",
+  "name": "Advanced",
+  "date": "Rolling",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Advanced is the standard constructed TCG format for premier events. New releases enter the card pool over time, and the Forbidden and Limited List determines which cards can be played and how many copies a deck may include.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/advanced",
+  "description_urls": [
+    "https://formatlibrary.com/formats/advanced",
+    "https://www.yugioh-card.com/en/about/glossary-of-yu-gi-oh-terms/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 14558127,
+      "name": "Ash Blossom & Joyous Spring",
+      "why": "Its discard could interrupt an effect that searched, summoned from the Deck or sent a card from the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/",
+            "decks_with_card": 31
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 94145021,
+      "name": "Droll & Lock Bird",
+      "why": "After the opponent added a card from the Main Deck to hand outside the Draw Phase, Droll could prevent both players from adding more that turn.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/",
+            "decks_with_card": 32
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 42141493,
+      "name": "Mulcharmy Fuwalos",
+      "why": "Discarding it with an empty field let the player draw as the opponent Special Summoned from the Deck or Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/",
+            "decks_with_card": 25
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 29301450,
+      "name": "S:P Little Knight",
+      "why": "Two Effect Monsters could become a Link-2 that temporarily banished itself and another monster in response to an opposing activation.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/",
+            "decks_with_card": 21
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 8165596,
+      "name": "Number 90: Galaxy-Eyes Photon Lord",
+      "why": "Its Rank 8 monster-effect negate gave decks able to pair Level 8 monsters an additional interruption.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/",
+        "deck_count": 32
+      }
+    ],
+    "as_of": "2026-11-25",
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-advanced-main-event-top-32-deck-lists/"
+    ]
+  }
+}

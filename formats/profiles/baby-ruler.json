@@ -1,0 +1,187 @@
+{
+  "id": "baby-ruler",
+  "name": "Baby Ruler",
+  "date": "2013-07-13",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "The 2013 North American World Championship Qualifier featured Dragon Ruler and Spellbook decks. The smaller Dragon Rulers helped put Level 7 Dragons into play for Dracossack, while Spellbook of Judgment could refill a hand after a turn of Spell activations.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/baby-ruler",
+  "description_urls": [
+    "https://formatlibrary.com/formats/baby-ruler",
+    "https://formatlibrary.com/events/NAWCQ13",
+    "https://www.yugiohtopdecks.org/deck/747"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 53804307,
+      "name": "Blaster, Dragon Ruler of Infernos",
+      "why": "This Level 7 Dragon could return from the Graveyard as Xyz material or trade two FIRE cards for removal.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/747",
+            "decks_with_card": 18
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/747"
+        ]
+      }
+    },
+    {
+      "id": 22110647,
+      "name": "Mecha Phantom Beast Dracossack",
+      "why": "Two Level 7 Dragon Rulers became a threat that generated Tokens for protection, removal and later summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/747",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/747"
+        ]
+      }
+    },
+    {
+      "id": 46448938,
+      "name": "Spellbook of Judgment",
+      "why": "A turn spent activating Spells ended with a refill of Spellbooks and could put Jowgen directly onto the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/747",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/748"
+        ]
+      }
+    },
+    {
+      "id": 80117527,
+      "name": "Number 11: Big Eye",
+      "why": "Two Level 7 monsters gave Dragon Rulers a way to take permanent control of an opposing monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/747",
+            "decks_with_card": 21
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/747"
+        ]
+      }
+    },
+    {
+      "id": 504700049,
+      "name": "Super Rejuvenation",
+      "why": "It refilled the hand in the End Phase after Dragon players discarded monsters to activate their effects.",
+      "has_art": true,
+      "printing_name": "Super Rejuvenation (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/747",
+            "decks_with_card": 18
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/747"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 14,
+    "fl_events": [
+      "EUWCQ13",
+      "NAWCQ13",
+      "YRS16"
+    ],
+    "fl_deck_ids": [
+      2332,
+      2333,
+      37314,
+      37315,
+      37483,
+      37484,
+      37485,
+      37486,
+      49488,
+      49490,
+      49492,
+      49493,
+      49568,
+      49570
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/747",
+        "deck_count": 26,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/747",
+          "https://www.yugiohtopdecks.org/deck/748",
+          "https://www.yugiohtopdecks.org/deck/749",
+          "https://www.yugiohtopdecks.org/deck/750",
+          "https://www.yugiohtopdecks.org/deck/751",
+          "https://www.yugiohtopdecks.org/deck/752",
+          "https://www.yugiohtopdecks.org/deck/753",
+          "https://www.yugiohtopdecks.org/deck/754",
+          "https://www.yugiohtopdecks.org/deck/755",
+          "https://www.yugiohtopdecks.org/deck/756",
+          "https://www.yugiohtopdecks.org/deck/757",
+          "https://www.yugiohtopdecks.org/deck/758",
+          "https://www.yugiohtopdecks.org/deck/759",
+          "https://www.yugiohtopdecks.org/deck/760",
+          "https://www.yugiohtopdecks.org/deck/761",
+          "https://www.yugiohtopdecks.org/deck/762",
+          "https://www.yugiohtopdecks.org/deck/763",
+          "https://www.yugiohtopdecks.org/deck/764",
+          "https://www.yugiohtopdecks.org/deck/765",
+          "https://www.yugiohtopdecks.org/deck/766",
+          "https://www.yugiohtopdecks.org/deck/767",
+          "https://www.yugiohtopdecks.org/deck/768",
+          "https://www.yugiohtopdecks.org/deck/769",
+          "https://www.yugiohtopdecks.org/deck/770",
+          "https://www.yugiohtopdecks.org/deck/771",
+          "https://www.yugiohtopdecks.org/deck/772"
+        ],
+        "tournaments": [
+          "WCQ - North American Championship"
+        ],
+        "months": [
+          "July 2013"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/747"
+    ]
+  }
+}

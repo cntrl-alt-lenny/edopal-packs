@@ -1,0 +1,163 @@
+{
+  "id": "link-zoo",
+  "name": "Link Zoo",
+  "date": "2017-08-26",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "YCS Toronto in August 2017 placed Zoodiac under the newly introduced Link rules. A player could still stack successive Zoodiac Xyz Monsters in one Extra Monster Zone, but Link arrows mattered when putting a second Extra Deck monster beside the first.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/link-zoo",
+  "description_urls": [
+    "https://formatlibrary.com/formats/link-zoo",
+    "https://formatlibrary.com/events/YCSTOR17",
+    "https://www.yugiohtopdecks.org/deck/6674"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 48905153,
+      "name": "Zoodiac Drident",
+      "why": "Detaching a material let it destroy a face-up card on either player's turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6674",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6674"
+        ]
+      }
+    },
+    {
+      "id": 41375811,
+      "name": "Zoodiac Chakanine",
+      "why": "Reviving Zoodiac Ramram gave Drident a friendly monster to destroy, triggering Ramram to bring back another Zoodiac.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6674",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6674"
+        ]
+      }
+    },
+    {
+      "id": 85115440,
+      "name": "Zoodiac Broadbull",
+      "why": "A Zoodiac Xyz stack could search a Beast-Warrior before becoming Drident.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6674",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6674"
+        ]
+      }
+    },
+    {
+      "id": 46060017,
+      "name": "Zoodiac Barrage",
+      "why": "Destroying a face-up card the player controlled brought a Zoodiac straight out of the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6674",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6674"
+        ]
+      }
+    },
+    {
+      "id": 3987233,
+      "name": "Missus Radiant",
+      "why": "Two EARTH monsters made a Link Monster whose arrows opened zones for further Extra Deck summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/6674",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6674"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 14,
+    "fl_events": [
+      "MAMA05",
+      "YCSRIM17",
+      "YCSTOR17"
+    ],
+    "fl_deck_ids": [
+      40835,
+      40836,
+      40838,
+      40839,
+      40840,
+      40841,
+      64744,
+      64747,
+      65478,
+      65493,
+      65494,
+      65495,
+      65496,
+      65497
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/6674",
+        "deck_count": 3,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/6674",
+          "https://www.yugiohtopdecks.org/deck/6675",
+          "https://www.yugiohtopdecks.org/deck/6676"
+        ],
+        "tournaments": [
+          "YCS - Toronto Canada"
+        ],
+        "months": [
+          "August 2017"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/6674"
+    ]
+  }
+}

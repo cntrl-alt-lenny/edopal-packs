@@ -1,0 +1,112 @@
+{
+  "id": "cosmo",
+  "name": "Cosmo",
+  "date": "2013-02-02",
+  "region": "OCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Wind-Up Shark extended Wind-Up Magician plays into several Xyz ranks. Fire Fist offered a different route, using Bear and Gorilla to search Fire Formations and trade them for removal.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/cosmo",
+  "description_urls": [
+    "https://formatlibrary.com/formats/cosmo",
+    "https://roadoftheking.com/ocg-2012-09-metagame/",
+    "https://yugioh-history.com/environment/generation-eight-6",
+    "https://yugioh-history.com/environment/generation-eight-10"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 6353603,
+      "name": "Brotherhood of the Fire Fist - Bear",
+      "why": "Bear turned a Fire Formation into monster removal and could set another Formation after dealing battle damage.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-eight-10"
+        ]
+      }
+    },
+    {
+      "id": 57103969,
+      "name": "Fire Formation - Tenki",
+      "why": "Searching Bear or another low-Level Beast-Warrior left a Formation in play to pay for Fire Fist effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2012-09-metagame/"
+        ]
+      }
+    },
+    {
+      "id": 3534077,
+      "name": "Coach Soldier Wolfbark",
+      "why": "Its revival effect paired two Level 4 FIRE Beast-Warriors for an immediate Rank 4 Xyz Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-eight-10"
+        ]
+      }
+    },
+    {
+      "id": 23015896,
+      "name": "Fire King High Avatar Garunix",
+      "why": "After a card effect destroyed it, Garunix could return in the next Standby Phase and destroy the other monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5
+      }
+    },
+    {
+      "id": 21954587,
+      "name": "Mermail Abyssmegalo",
+      "why": "Its two WATER discards could trigger Atlanteans, search an Abyss Spell or Trap and set up a double attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2012-09-metagame/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 10,
+    "fl_events": [
+      "AI01",
+      "AI02",
+      "TBC01"
+    ],
+    "fl_deck_ids": [
+      84433,
+      84436,
+      86450,
+      86451,
+      86454,
+      86455,
+      88320,
+      88322,
+      88323,
+      88326
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://roadoftheking.com/ocg-2012-09-metagame/",
+      "https://yugioh-history.com/environment/generation-eight-6",
+      "https://yugioh-history.com/environment/generation-eight-10"
+    ]
+  }
+}

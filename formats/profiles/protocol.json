@@ -1,0 +1,127 @@
+{
+  "id": "protocol",
+  "name": "Protocol",
+  "date": "2026-02-15",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Protocol captures the February 2026 Richmond championship under the February TCG list. Branded Fusion and the Dracotail cards both appeared in published top-cut lists, alongside hand effects such as Mulcharmy Fuwalos that rewarded a player for an opponent's summons from the Deck or Extra Deck.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/protocol",
+  "description_urls": [
+    "https://formatlibrary.com/formats/protocol",
+    "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 87746184,
+      "name": "Albion the Branded Dragon",
+      "why": "Sending Albion from the Extra Deck to the Graveyard could find or Set a Branded Spell or Trap during the End Phase.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/",
+            "decks_with_card": 12
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/"
+        ]
+      }
+    },
+    {
+      "id": 44146295,
+      "name": "Mirrorjade the Iceblade Dragon",
+      "why": "Sending an Albaz Fusion such as Albion from the Extra Deck let Mirrorjade banish a monster and set up a Branded search in the End Phase.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/"
+        ]
+      }
+    },
+    {
+      "id": 44362883,
+      "name": "Branded Fusion",
+      "why": "Using materials from the Deck made Lubellion or Albion and set up a second Fusion Summon for Mirrorjade.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/"
+        ]
+      }
+    },
+    {
+      "id": 42141493,
+      "name": "Mulcharmy Fuwalos",
+      "why": "Discarding it with an empty field let the player draw as the opponent Special Summoned from the Deck or Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/",
+            "decks_with_card": 30
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/"
+        ]
+      }
+    },
+    {
+      "id": 29301450,
+      "name": "S:P Little Knight",
+      "why": "Two Effect Monsters could become a Link-2 that temporarily banished itself and another monster in response to an opposing activation.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/",
+            "decks_with_card": 27
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/",
+        "deck_count": 32
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2026/ycs/2026-02-300th-na/300th-ycs-in-virginia-top-32-deck-lists-advanced-format/"
+    ]
+  }
+}

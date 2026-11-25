@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2008",
+  "kind": "music",
+  "name": "World Championship 2008",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! World Championship 2008",
+  "series": "GX",
+  "year": 2007,
+  "platform": "Nintendo DS",
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! World Championship 2008 — Box - Front (North America)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/64885ce6-1e54-4b37-bc98-1c6d106f9d3e.jpg",
+    "original_resolution": [
+      798,
+      711
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! World Championship 2008 — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/20675"
+    }
+  ],
+  "files": {
+    "cover.webp": "c25d52e5480cfb95e91472b9978938809f399aebfee8df3a9fbccc6b77995bc0"
+  }
+}

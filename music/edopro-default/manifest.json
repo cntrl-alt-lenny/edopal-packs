@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "id": "music-edopro-default",
+  "kind": "music",
+  "name": "EDOPro default",
+  "version": "1.0.0",
+  "game": "Project Ignis: EDOPro",
+  "year": 2020,
+  "platform": "Windows, macOS, Linux, Android",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Android"
+  ],
+  "description": "The seven background tracks supplied with EDOPro 41.0.2, grouped by game scene.",
+  "tested_edopro": "41.0.2",
+  "builtin": true,
+  "audio": "builtin",
+  "cover": "cover.webp",
+  "cover_region": "Worldwide",
+  "tracks": [],
+  "builtin_tracks": {
+    "menu": [
+      {
+        "title": "Barefoot",
+        "artist": "Chad Crouch",
+        "path": "sound/BGM/menu/Chad_Crouch_Barefoot.mp3"
+      }
+    ],
+    "deck": [
+      {
+        "title": "Bon Journée",
+        "artist": "Chad Crouch",
+        "path": "sound/BGM/deck/Chad_Crouch_Bon_Journe.mp3"
+      }
+    ],
+    "duel": [
+      {
+        "title": "Algorithms",
+        "artist": "Chad Crouch",
+        "path": "sound/BGM/duel/Chad_Crouch_Algorithms.mp3"
+      }
+    ],
+    "advantage": [
+      {
+        "title": "Mission Ready",
+        "artist": "Ketsa",
+        "path": "sound/BGM/advantage/Ketsa_Mission_Ready.mp3"
+      }
+    ],
+    "disadvantage": [
+      {
+        "title": "Underneath the World",
+        "artist": "Mid-Air Machine",
+        "path": "sound/BGM/disadvantage/Mid-Air_Machine_Underneath_the_World.mp3"
+      }
+    ],
+    "win": [
+      {
+        "title": "Small Victory",
+        "artist": "Steve Combs",
+        "path": "sound/BGM/win/Steve_Combs_Small_Victory.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "title": "Jingle Lose 00",
+        "artist": "LittleRobotSoundFactory",
+        "path": "sound/BGM/lose/littlerobotsoundfactory_jingle-lose.wav"
+      }
+    ]
+  },
+  "credits": [
+    {
+      "what": "Stock soundtrack and artist credits",
+      "source": "Project Ignis, EDOPro sound credits",
+      "url": "https://github.com/ProjectIgnis/Distribution/blob/master/sound/CREDITS.md"
+    },
+    {
+      "what": "Stock background music inventory",
+      "source": "Project Ignis, EDOPro 41.0.2 distribution",
+      "url": "https://github.com/ProjectIgnis/edopro-assets/releases/tag/41.0.2"
+    },
+    {
+      "what": "Original catalogue artwork",
+      "source": "EDOPal",
+      "url": "https://github.com/cntrl-alt-lenny/edopal-packs"
+    }
+  ],
+  "files": {
+    "cover.webp": "ea9e2513d42da415019f303a6cc347dbd63414c6d311a496a1d269b81d7d2cf3"
+  }
+}

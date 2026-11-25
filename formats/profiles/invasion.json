@@ -1,0 +1,179 @@
+{
+  "id": "invasion",
+  "name": "Invasion",
+  "date": "2016-11-26",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "ABC and Paleozoic decks featured at YCS Anaheim in November 2016. ABC-Dragon Buster used three different Union Machines as materials, could banish a card, and could split back into its components on the opponent's turn.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/invasion",
+  "description_urls": [
+    "https://formatlibrary.com/formats/invasion",
+    "https://formatlibrary.com/events/YCSANA16",
+    "https://www.yugiohtopdecks.org/deck/5666"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 1561110,
+      "name": "ABC-Dragon Buster",
+      "why": "Banishing its three Union components made a boss that could discard a card to banish another card on the field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5666",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5657"
+        ]
+      }
+    },
+    {
+      "id": 66399653,
+      "name": "Union Hangar",
+      "why": "It searched a LIGHT Machine Union monster and equipped a differently named Union monster from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5666",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5657"
+        ]
+      }
+    },
+    {
+      "id": 83326048,
+      "name": "Dimensional Barrier",
+      "why": "Calling a monster type could cut off an opponent's Fusion, Synchro, Xyz, Ritual or Pendulum plays for the turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5666",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5656"
+        ]
+      }
+    },
+    {
+      "id": 77411244,
+      "name": "B-Buster Drake",
+      "why": "When sent from the field to the Graveyard, it found the next Union monster needed for ABC-Dragon Buster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5666",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5657"
+        ]
+      }
+    },
+    {
+      "id": 90809975,
+      "name": "Toadally Awesome",
+      "why": "Its effect could negate an activation and Set the destroyed card, giving Frog strategies both disruption and follow-up.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5666",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5655"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "II02",
+      "YCSANA16",
+      "YCSBOC16",
+      "YCSRIO16"
+    ],
+    "fl_deck_ids": [
+      28841,
+      28842,
+      28843,
+      28844,
+      29100,
+      29427,
+      29428,
+      29429,
+      29430,
+      29432,
+      29435,
+      64642,
+      64643,
+      64644,
+      64655,
+      64656,
+      64657,
+      64682,
+      86480
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/5666",
+        "deck_count": 13,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5655",
+          "https://www.yugiohtopdecks.org/deck/5656",
+          "https://www.yugiohtopdecks.org/deck/5657",
+          "https://www.yugiohtopdecks.org/deck/5658",
+          "https://www.yugiohtopdecks.org/deck/5659",
+          "https://www.yugiohtopdecks.org/deck/5660",
+          "https://www.yugiohtopdecks.org/deck/5661",
+          "https://www.yugiohtopdecks.org/deck/5662",
+          "https://www.yugiohtopdecks.org/deck/5663",
+          "https://www.yugiohtopdecks.org/deck/5664",
+          "https://www.yugiohtopdecks.org/deck/5665",
+          "https://www.yugiohtopdecks.org/deck/5666",
+          "https://www.yugiohtopdecks.org/deck/5720"
+        ],
+        "tournaments": [
+          "YCS - Anaheim California"
+        ],
+        "months": [
+          "November 2016"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/5666"
+    ]
+  }
+}

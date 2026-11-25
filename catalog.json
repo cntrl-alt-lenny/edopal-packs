@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "generated": "2026-11-25T13:05:24Z",
+  "generated": "2026-11-25T15:24:56Z",
   "packs": [
     {
       "id": "theme-abyss",
       "kind": "theme",
       "name": "Abyss",
       "version": "1.0.1",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/theme-abyss-1.0.1.zip",
+      "url": "themes/abyss",
       "size": 2954048,
       "sha256": "6a9b2dd60c481626744db81192014b9ae8cb8055b5ee4e896e5270523d62c5e0",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/theme-abyss.webp",
-      "preview": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-abyss-menu.webp",
+      "thumbnail": "thumbs/theme-abyss.webp",
+      "preview": "previews/theme-abyss-menu.webp",
       "meta": {
         "accent": "#98DBDF",
         "tagline": "Deep-sea blues and teal field lines",
         "previews": [
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-abyss-menu.webp",
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-abyss-deck.webp",
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-abyss-duel.webp"
+          "previews/theme-abyss-menu.webp",
+          "previews/theme-abyss-deck.webp",
+          "previews/theme-abyss-duel.webp"
         ]
       }
     },
@@ -27,18 +27,18 @@
       "kind": "theme",
       "name": "Moon",
       "version": "1.0.1",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/theme-moon-1.0.1.zip",
+      "url": "themes/moon",
       "size": 2485966,
       "sha256": "a5576831ae1e061c59b83b75206ecb99e4bcda76c794072e349d25bacfc2e3e1",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/theme-moon.webp",
-      "preview": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-moon-menu.webp",
+      "thumbnail": "thumbs/theme-moon.webp",
+      "preview": "previews/theme-moon-menu.webp",
       "meta": {
         "accent": "#DAE5F3",
         "tagline": "Lunar greys and cool silver accents",
         "previews": [
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-moon-menu.webp",
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-moon-deck.webp",
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-moon-duel.webp"
+          "previews/theme-moon-menu.webp",
+          "previews/theme-moon-deck.webp",
+          "previews/theme-moon-duel.webp"
         ]
       }
     },
@@ -47,18 +47,18 @@
       "kind": "theme",
       "name": "Nebula",
       "version": "1.0.1",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/theme-nebula-1.0.1.zip",
+      "url": "themes/nebula",
       "size": 3091171,
       "sha256": "692a2117c1a7e63af16331f4609a019cf954d74caae67c0a5ed7fc36455b2202",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/theme-nebula.webp",
-      "preview": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-nebula-menu.webp",
+      "thumbnail": "thumbs/theme-nebula.webp",
+      "preview": "previews/theme-nebula-menu.webp",
       "meta": {
         "accent": "#CCB9FF",
         "tagline": "Violet starlight and lavender controls",
         "previews": [
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-nebula-menu.webp",
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-nebula-deck.webp",
-          "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/theme-nebula-duel.webp"
+          "previews/theme-nebula-menu.webp",
+          "previews/theme-nebula-deck.webp",
+          "previews/theme-nebula-duel.webp"
         ]
       }
     },
@@ -67,10 +67,10 @@
       "kind": "cardback",
       "name": "ARC-V Action Card",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-arc-v-action-1.0.0.zip",
+      "url": "cardbacks/arc-v-action",
       "size": 5183668,
       "sha256": "1829f79031e4ab963b513cac77326077d3f884769cdc0755ba790b1e5a6099d1",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-arc-v-action.webp",
+      "thumbnail": "thumbs/cardback-arc-v-action.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! ARC-V Action Card back",
@@ -83,10 +83,10 @@
       "kind": "cardback",
       "name": "Bandai Carddass",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-ocg-1998-1.0.0.zip",
+      "url": "cardbacks/ocg-1998",
       "size": 5715205,
       "sha256": "a19d65357d21b88a35d4c35421a9a027b481ba5d961f80499a6284a8c49f7bc8",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-ocg-1998.webp",
+      "thumbnail": "thumbs/cardback-ocg-1998.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! Bandai Carddass card back",
@@ -100,10 +100,10 @@
       "kind": "cardback",
       "name": "Classic Vortex",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-vortex-classic-1.0.0.zip",
+      "url": "cardbacks/vortex-classic",
       "size": 6880486,
       "sha256": "ec8ebfd506c754119b41a1a87ec598a7957ac8a3237e95c4479dfc612ee9a241",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-vortex-classic.webp",
+      "thumbnail": "thumbs/cardback-vortex-classic.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! TCG classic Vortex",
@@ -117,10 +117,10 @@
       "kind": "cardback",
       "name": "Dark Magician",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-duel-links-dark-magician-1.0.0.zip",
+      "url": "cardbacks/duel-links-dark-magician",
       "size": 7162741,
       "sha256": "4204a69b09fd6ea784046a8ce05f563d15321b4fd92c171a918d0b5f8fcd3379",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-duel-links-dark-magician.webp",
+      "thumbnail": "thumbs/cardback-duel-links-dark-magician.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! Duel Links Dark Magician launch sleeve",
@@ -133,10 +133,10 @@
       "kind": "cardback",
       "name": "Duel Monsters · GX · 5D's",
       "version": "1.2.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-duel-monsters-1.2.0.zip",
+      "url": "cardbacks/duel-monsters",
       "size": 4429506,
       "sha256": "c93e285cb38aa46fca3ed5ac45d1aaac2760b1d6c7a4657d7f2e9d067c23ad08",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-duel-monsters.webp",
+      "thumbnail": "thumbs/cardback-duel-monsters.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! anime card back (Duel Monsters, GX, 5D's)",
@@ -149,10 +149,10 @@
       "kind": "cardback",
       "name": "Dungeon Dice Monsters",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-dungeon-dice-monsters-1.0.0.zip",
+      "url": "cardbacks/dungeon-dice-monsters",
       "size": 7372460,
       "sha256": "21ac5af51d6fbe50aa6c7ed972e76e5205878b36d4aaac88f1d5b79a7711054f",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-dungeon-dice-monsters.webp",
+      "thumbnail": "thumbs/cardback-dungeon-dice-monsters.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! Dungeon Dice Monsters · Japanese card back",
@@ -165,10 +165,10 @@
       "kind": "cardback",
       "name": "Forbidden Memories",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-forbidden-memories-1.0.0.zip",
+      "url": "cardbacks/forbidden-memories",
       "size": 6271679,
       "sha256": "2ee5262f69c75181869ee7416b6e847fe5bc98099c47222e15432dd17d96a36f",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-forbidden-memories.webp",
+      "thumbnail": "thumbs/cardback-forbidden-memories.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! Forbidden Memories card back",
@@ -181,10 +181,10 @@
       "kind": "cardback",
       "name": "Magic & Wizards",
       "version": "1.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-manga-original-1.1.0.zip",
+      "url": "cardbacks/manga-original",
       "size": 4874998,
       "sha256": "0cd7eed22436bee25de7df9069f435fe7546adf58dd4c3b84d63e4f2d8a8debe",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-manga-original.webp",
+      "thumbnail": "thumbs/cardback-manga-original.webp",
       "preview": "",
       "meta": {
         "label": "Magic & Wizards · Original Yu-Gi-Oh! manga",
@@ -197,10 +197,10 @@
       "kind": "cardback",
       "name": "Magic: The Gathering",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-magic-classic-1.0.0.zip",
+      "url": "cardbacks/magic-classic",
       "size": 6984467,
       "sha256": "45531934768da397449bb217d8b780b069dd16e61a8e30b91dcdeb2f0fac0fcc",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-magic-classic.webp",
+      "thumbnail": "thumbs/cardback-magic-classic.webp",
       "preview": "",
       "meta": {
         "label": "Magic: The Gathering classic card back",
@@ -213,10 +213,10 @@
       "kind": "cardback",
       "name": "Obelisk the Tormentor",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-obelisk-g4-1.0.0.zip",
+      "url": "cardbacks/obelisk-g4",
       "size": 6609326,
       "sha256": "2e99f5db245507578e250ff5a881c951847afdfdc319d1096bade875931c1155",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-obelisk-g4.webp",
+      "thumbnail": "thumbs/cardback-obelisk-g4.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! Obelisk G4 promo card back",
@@ -229,10 +229,10 @@
       "kind": "cardback",
       "name": "Pokémon TCG",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-pokemon-international-1.0.0.zip",
+      "url": "cardbacks/pokemon-international",
       "size": 6203358,
       "sha256": "7905eaa9f71729f8f9c201511eb8ada54e06b77ee7346cca9e053397dce214dd",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-pokemon-international.webp",
+      "thumbnail": "thumbs/cardback-pokemon-international.webp",
       "preview": "",
       "meta": {
         "label": "Pokémon TCG international card back",
@@ -245,10 +245,10 @@
       "kind": "cardback",
       "name": "Rush Duel Red",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-rush-duel-day-red-1.0.0.zip",
+      "url": "cardbacks/rush-duel-day-red",
       "size": 6875740,
       "sha256": "319be8a33d7ebc9870703b1b205aef01fa8c363e96128b72d224925b41e2c53b",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-rush-duel-day-red.webp",
+      "thumbnail": "thumbs/cardback-rush-duel-day-red.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! Rush Duel · Red event sleeve",
@@ -261,10 +261,10 @@
       "kind": "cardback",
       "name": "Yami Yugi",
       "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-skill-yami-yugi-1.0.0.zip",
+      "url": "cardbacks/skill-yami-yugi",
       "size": 5584046,
       "sha256": "7de6288d168cec31e7d0cadcde6c29db1a4268fe4019a8bf9cfe7cb3bdb427fe",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-skill-yami-yugi.webp",
+      "thumbnail": "thumbs/cardback-skill-yami-yugi.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! Speed Duel · Yami Yugi Skill card",
@@ -277,10 +277,10 @@
       "kind": "cardback",
       "name": "Yu-Gi-Oh! BAM",
       "version": "1.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-bam-circuit-1.1.0.zip",
+      "url": "cardbacks/bam-circuit",
       "size": 535227,
       "sha256": "8473a9c3c56babff52cea71419ef7f9f71bcac28cd697c0679e46baf3f4cbba0",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-bam-circuit.webp",
+      "thumbnail": "thumbs/cardback-bam-circuit.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! BAM · browser deck back",
@@ -293,10 +293,10 @@
       "kind": "cardback",
       "name": "ZEXAL · VRAINS",
       "version": "1.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/cardback-zexal-1.1.0.zip",
+      "url": "cardbacks/zexal",
       "size": 5520315,
       "sha256": "157ade0d4e390768f063c00f5468cd2aa982750c4d2fa40e2afff7ae08aa8bb5",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/cardback-zexal.webp",
+      "thumbnail": "thumbs/cardback-zexal.webp",
       "preview": "",
       "meta": {
         "label": "Yu-Gi-Oh! anime pinwheel back (ZEXAL, VRAINS)",
@@ -305,113 +305,489 @@
       }
     },
     {
-      "id": "music-sample-afterglow",
+      "id": "music-decade-duels",
       "kind": "music",
-      "name": "Afterglow",
-      "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-sample-afterglow-1.0.0.zip",
-      "size": 629631,
-      "sha256": "c8af4794d38008c41e5e2dfcaf380d59ff7a6670fb7fc74f1dd6b83fe6e33bbd",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-sample-afterglow.webp",
-      "preview": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/music-sample-afterglow.ogg",
+      "name": "5D's Decade Duels",
+      "version": "0.2.0",
+      "url": "music/decade-duels",
+      "size": 114835,
+      "sha256": "d65227e4d3c565c52cd845e863c00936005c08d270d70149c6aa46068c211828",
+      "thumbnail": "thumbs/music-decade-duels.webp",
+      "preview": "",
       "meta": {
-        "game": "Afterglow (sample)",
-        "year": 2026,
-        "platform": "EDOPal",
-        "tracks": [
-          {
-            "id": "first-light",
-            "title": "First Light",
-            "suggested_roles": [
-              "menu"
-            ],
-            "duration_seconds": 20.0,
-            "path": "audio/first-light.ogg"
-          },
-          {
-            "id": "copper-skies",
-            "title": "Copper Skies",
-            "suggested_roles": [
-              "duel"
-            ],
-            "duration_seconds": 17.778,
-            "path": "audio/copper-skies.ogg"
-          },
-          {
-            "id": "homeward",
-            "title": "Homeward",
-            "suggested_roles": [
-              "win"
-            ],
-            "duration_seconds": 21.333,
-            "path": "audio/homeward.ogg"
-          }
-        ],
-        "track_count": 3,
-        "duration_seconds": 59.111,
-        "preview_track": "first-light",
-        "preview_sha256": "2e6e662543aacec2c96b8601e9a44cbdc73ef7540e9383b229943055a2ac149f"
+        "game": "Yu-Gi-Oh! 5D's Decade Duels",
+        "year": 2010,
+        "platform": "Xbox 360, PlayStation 3",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
       }
     },
     {
-      "id": "music-sample-tideglass",
+      "id": "music-duel-terminal",
       "kind": "music",
-      "name": "Tideglass",
-      "version": "1.0.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-sample-tideglass-1.0.0.zip",
-      "size": 720934,
-      "sha256": "590e0c71ab90a00b3f9cbcf70b1fe13b152c4a6172323422f9b75d292b67168a",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-sample-tideglass.webp",
-      "preview": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/previews/music-sample-tideglass.ogg",
+      "name": "5D's Duel Terminal",
+      "version": "0.2.0",
+      "url": "music/duel-terminal",
+      "size": 268981,
+      "sha256": "b44f0549704ea3f5cf5f5403713b56e412f5f6d24e91b5bfb05f8fe932069049",
+      "thumbnail": "thumbs/music-duel-terminal.webp",
+      "preview": "",
       "meta": {
-        "game": "Tideglass (sample)",
-        "year": 2026,
-        "platform": "EDOPal",
-        "tracks": [
-          {
-            "id": "tidal-pool",
-            "title": "Tidal Pool",
-            "suggested_roles": [
-              "deck"
-            ],
-            "duration_seconds": 21.818,
-            "path": "audio/tidal-pool.ogg"
-          },
-          {
-            "id": "sea-of-glass",
-            "title": "Sea of Glass",
-            "suggested_roles": [
-              "menu",
-              "duel"
-            ],
-            "duration_seconds": 19.592,
-            "path": "audio/sea-of-glass.ogg"
-          },
-          {
-            "id": "low-water",
-            "title": "Low Water",
-            "suggested_roles": [
-              "lose"
-            ],
-            "duration_seconds": 22.857,
-            "path": "audio/low-water.ogg"
-          }
-        ],
-        "track_count": 3,
-        "duration_seconds": 64.267,
-        "preview_track": "tidal-pool",
-        "preview_sha256": "ac44eaee233d87de703a560d2c60ef2a8ef332fb7927cbde4ed7cb909b63924b"
+        "game": "Yu-Gi-Oh! 5D's Duel Terminal",
+        "year": 2008,
+        "platform": "Arcade",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-transer",
+      "kind": "music",
+      "name": "5D's Duel Transer",
+      "version": "0.2.0",
+      "url": "music/duel-transer",
+      "size": 206681,
+      "sha256": "4b0e80aa90b839ca8787049009d7a2ee2599e9e1dca65cf801c80710750caa86",
+      "thumbnail": "thumbs/music-duel-transer.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's Duel Transer",
+        "year": 2010,
+        "platform": "Wii",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-tag-force-4",
+      "kind": "music",
+      "name": "5D's Tag Force 4",
+      "version": "0.2.0",
+      "url": "music/tag-force-4",
+      "size": 202081,
+      "sha256": "3dd263b722c552409ba6eaf84a502a9609f29d6e3646dcf37eabbbb3d00d0f29",
+      "thumbnail": "thumbs/music-tag-force-4.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+        "year": 2009,
+        "platform": "PSP",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-tag-force-5",
+      "kind": "music",
+      "name": "5D's Tag Force 5",
+      "version": "0.2.0",
+      "url": "music/tag-force-5",
+      "size": 202049,
+      "sha256": "61114a82345d3a43bc7dbc7c739f2632d58e73f9d200607000374a2fa1e348ca",
+      "thumbnail": "thumbs/music-tag-force-5.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's Tag Force 5",
+        "year": 2010,
+        "platform": "PSP",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-tag-force-6",
+      "kind": "music",
+      "name": "5D's Tag Force 6",
+      "version": "0.2.0",
+      "url": "music/tag-force-6",
+      "size": 193344,
+      "sha256": "dc1799e69e1f41c8b454252e2aba4ebac3cd12d2870d775e9d5eccaa58a0f49c",
+      "thumbnail": "thumbs/music-tag-force-6.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's Tag Force 6",
+        "year": 2011,
+        "platform": "PSP",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-wheelie-breakers",
+      "kind": "music",
+      "name": "5D's Wheelie Breakers",
+      "version": "0.2.0",
+      "url": "music/wheelie-breakers",
+      "size": 178757,
+      "sha256": "57ca68c24241c276be75fae8d0905de5a848097b29a61659c95e24bf28e6e46e",
+      "thumbnail": "thumbs/music-wheelie-breakers.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's Wheelie Breakers",
+        "year": 2009,
+        "platform": "Wii",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-world-championship-2005",
+      "kind": "music",
+      "name": "7 Trials to Glory",
+      "version": "0.2.0",
+      "url": "music/world-championship-2005",
+      "size": 310048,
+      "sha256": "172e7f1e5dec623df97ccedf2f17522514010b2d42931fea0cbb0137afc57378",
+      "thumbnail": "thumbs/music-world-championship-2005.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005",
+        "year": 2004,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-arc-v-tag-force-special",
+      "kind": "music",
+      "name": "ARC-V Tag Force Special",
+      "version": "0.2.0",
+      "url": "music/arc-v-tag-force-special",
+      "size": 270425,
+      "sha256": "5f111185a64c990babb736f08e0add42cf28254a17338be024673480cece368d",
+      "thumbnail": "thumbs/music-arc-v-tag-force-special.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! ARC-V Tag Force Special",
+        "year": 2015,
+        "platform": "PSP, PlayStation Vita",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-bam",
+      "kind": "music",
+      "name": "BAM",
+      "version": "0.2.0",
+      "url": "music/bam",
+      "size": 216476,
+      "sha256": "efa48dabc2e569031e1396dd36015f87f49802ec071c76709b29102345734be9",
+      "thumbnail": "thumbs/music-bam.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! BAM",
+        "year": 2012,
+        "platform": "Web browser, iOS, Android",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-capsule-monster-coliseum",
+      "kind": "music",
+      "name": "Capsule Monster Coliseum",
+      "version": "0.2.0",
+      "url": "music/capsule-monster-coliseum",
+      "size": 277547,
+      "sha256": "b9eda97b5db884a3464b3e9c7dd6dc83b7baa7329d3b54f67336b489fb603610",
+      "thumbnail": "thumbs/music-capsule-monster-coliseum.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Capsule Monster Coliseum",
+        "year": 2004,
+        "platform": "PlayStation 2",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-cross-duel",
+      "kind": "music",
+      "name": "Cross Duel",
+      "version": "0.2.0",
+      "url": "music/cross-duel",
+      "size": 201941,
+      "sha256": "ca525b09743492cd2a2f713685cff198ecbcaa89dfbba04982d103caff735f7d",
+      "thumbnail": "thumbs/music-cross-duel.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Cross Duel",
+        "year": 2022,
+        "platform": "iOS, Android",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-dark-duel-stories",
+      "kind": "music",
+      "name": "Dark Duel Stories",
+      "version": "0.2.0",
+      "url": "music/dark-duel-stories",
+      "size": 278026,
+      "sha256": "6f0c647d7660c694717fd4605571b56326cb6c7ad623415db3d864a8c5b88cc1",
+      "thumbnail": "thumbs/music-dark-duel-stories.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Dark Duel Stories",
+        "year": 2000,
+        "platform": "Game Boy Color",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-rush-duel-dawn-of-the-battle-royale",
+      "kind": "music",
+      "name": "Dawn of the Battle Royale!!",
+      "version": "0.2.0",
+      "url": "music/rush-duel-dawn-of-the-battle-royale",
+      "size": 284435,
+      "sha256": "beea6d46f05ab627727b1ad30bcf70452f22bb2e37ed874a08e6e9f02d264e48",
+      "thumbnail": "thumbs/music-rush-duel-dawn-of-the-battle-royale.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale!!",
+        "year": 2021,
+        "platform": "Nintendo Switch",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-destiny-board-traveler",
+      "kind": "music",
+      "name": "Destiny Board Traveler",
+      "version": "0.2.0",
+      "url": "music/destiny-board-traveler",
+      "size": 275401,
+      "sha256": "22425b6bbd2677ac4fd14d371259827437dbc05b2aa32f21eeb4d934deb7c28b",
+      "thumbnail": "thumbs/music-destiny-board-traveler.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Destiny Board Traveler",
+        "year": 2004,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-arena",
+      "kind": "music",
+      "name": "Duel Arena",
+      "version": "0.2.0",
+      "url": "music/duel-arena",
+      "size": 154713,
+      "sha256": "d7620b28727b090f8a578d6eb754e90f43761bb6ee59d4c14867eeb0b4504a07",
+      "thumbnail": "thumbs/music-duel-arena.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Arena",
+        "year": 2014,
+        "platform": "Web browser",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-generation",
+      "kind": "music",
+      "name": "Duel Generation",
+      "version": "0.2.0",
+      "url": "music/duel-generation",
+      "size": 121349,
+      "sha256": "5d43cbdfe8d073ffea752d601621327b89f51f4ef303130a920fb86bcd7460a5",
+      "thumbnail": "thumbs/music-duel-generation.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Generation",
+        "year": 2014,
+        "platform": "iOS, Android, Fire OS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-links",
+      "kind": "music",
+      "name": "Duel Links",
+      "version": "0.2.0",
+      "url": "music/duel-links",
+      "size": 207239,
+      "sha256": "eb035b7328d974f3200f6a325fdda2ba90f5a8073fd56df99c8023845c772a2f",
+      "thumbnail": "thumbs/music-duel-links.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Links",
+        "year": 2016,
+        "platform": "iOS, Android, Windows",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-monsters",
+      "kind": "music",
+      "name": "Duel Monsters",
+      "version": "0.2.0",
+      "url": "music/duel-monsters",
+      "size": 245649,
+      "sha256": "47ea71f06f7a51c32738c88c9d13eaa13f0345d31e97eef7e962d22a219951f8",
+      "thumbnail": "thumbs/music-duel-monsters.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Monsters",
+        "year": 1998,
+        "platform": "Game Boy",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-monsters-4",
+      "kind": "music",
+      "name": "Duel Monsters 4: Battle of Great Duelist",
+      "version": "0.2.0",
+      "url": "music/duel-monsters-4",
+      "size": 254495,
+      "sha256": "7cb28bf1354c3006372f9978cad24e9a5b8966474c727b57daf79113446a0f82",
+      "thumbnail": "thumbs/music-duel-monsters-4.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist",
+        "year": 2000,
+        "platform": "Game Boy Color",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-monsters-6-expert-2",
+      "kind": "music",
+      "name": "Duel Monsters 6: Expert 2",
+      "version": "0.2.0",
+      "url": "music/duel-monsters-6-expert-2",
+      "size": 238556,
+      "sha256": "16117250b20244719637aabeabe3482555282f4a69964c3cc9e423bad59d4d94",
+      "thumbnail": "thumbs/music-duel-monsters-6-expert-2.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Monsters 6: Expert 2",
+        "year": 2001,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-duel-monsters-ii",
+      "kind": "music",
+      "name": "Duel Monsters II: Dark Duel Stories",
+      "version": "0.2.0",
+      "url": "music/duel-monsters-ii",
+      "size": 342208,
+      "sha256": "8375d0875cc77ef95e749a748400645aa643fcc4799311d0434589d1a5ca2d76",
+      "thumbnail": "thumbs/music-duel-monsters-ii.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories",
+        "year": 1999,
+        "platform": "Game Boy, Game Boy Color",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-dungeon-dice-monsters",
+      "kind": "music",
+      "name": "Dungeon Dice Monsters",
+      "version": "0.2.0",
+      "url": "music/dungeon-dice-monsters",
+      "size": 611877,
+      "sha256": "955ec4965dc222da45459b29f5a83dfa465962fc4c49a1aa41c5f29c730f4b39",
+      "thumbnail": "thumbs/music-dungeon-dice-monsters.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+        "year": 2001,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-early-days-collection",
+      "kind": "music",
+      "name": "Early Days Collection",
+      "version": "0.2.0",
+      "url": "music/early-days-collection",
+      "size": 305173,
+      "sha256": "2eb05d3558ae59346d2382be624561f66b82f32bdc1b0470cd995ed2ad5fb4c6",
+      "thumbnail": "thumbs/music-early-days-collection.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Early Days Collection",
+        "year": 2025,
+        "platform": "Nintendo Switch, Windows",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-edopro-default",
+      "kind": "music",
+      "name": "EDOPro default",
+      "version": "1.0.0",
+      "url": "music/edopro-default",
+      "size": 117007,
+      "sha256": "28a539c2d74ad71a1bad2f3ed5edd25f04a91b099ed40d1b0a32a0bc52fe376f",
+      "thumbnail": "thumbs/music-edopro-default.webp",
+      "preview": "",
+      "meta": {
+        "game": "Project Ignis: EDOPro",
+        "year": 2020,
+        "platform": "Windows, macOS, Linux, Android",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
       }
     },
     {
       "id": "music-forbidden-memories",
       "kind": "music",
       "name": "Forbidden Memories",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-forbidden-memories-0.1.0.zip",
-      "size": 64943,
-      "sha256": "ce3b35263985ecde520e6962f1278e4c099e7cba833c133bdb416fd8715d702b",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-forbidden-memories.webp",
+      "version": "0.2.0",
+      "url": "music/forbidden-memories",
+      "size": 273584,
+      "sha256": "2d48fb5eca66ac4b9d0df8c10825b7e53f729bc71f4db56b0d9c62a6f5cbb97f",
+      "thumbnail": "thumbs/music-forbidden-memories.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! Forbidden Memories",
@@ -423,14 +799,71 @@
       }
     },
     {
+      "id": "music-gx-card-almanac",
+      "kind": "music",
+      "name": "GX Card Almanac",
+      "version": "0.2.0",
+      "url": "music/gx-card-almanac",
+      "size": 239224,
+      "sha256": "1a4dad4b1d22c0f14394ca08f583f35a7d4742281b61be3f53d6a836f69b5d5b",
+      "thumbnail": "thumbs/music-gx-card-almanac.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! GX Card Almanac",
+        "year": 2007,
+        "platform": "Nintendo DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-gx-duel-academy",
+      "kind": "music",
+      "name": "GX Duel Academy",
+      "version": "0.2.0",
+      "url": "music/gx-duel-academy",
+      "size": 236252,
+      "sha256": "eaf15bdbf2c0f627a0aad22971161f6123bd74175d54c795cb30cee335b2b390",
+      "thumbnail": "thumbs/music-gx-duel-academy.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! GX Duel Academy",
+        "year": 2005,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-gx-spirit-caller",
+      "kind": "music",
+      "name": "GX Spirit Caller",
+      "version": "0.2.0",
+      "url": "music/gx-spirit-caller",
+      "size": 232781,
+      "sha256": "eacb2b89acee0ae1e3438eb76af1c4d084b0e609a74d3661a561c350dc4c9365",
+      "thumbnail": "thumbs/music-gx-spirit-caller.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! GX Spirit Caller",
+        "year": 2006,
+        "platform": "Nintendo DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
       "id": "music-gx-tag-force",
       "kind": "music",
       "name": "GX Tag Force",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-gx-tag-force-0.1.0.zip",
-      "size": 51582,
-      "sha256": "1a2bf74bed51d096cb2b1d18c09e24348d90c291ae6fd27df601f5b5b368c1b2",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-gx-tag-force.webp",
+      "version": "0.2.0",
+      "url": "music/gx-tag-force",
+      "size": 206893,
+      "sha256": "6509ae5a1c179b09249341daae4718348ff75285a7c48d01bb27eb7b32133995",
+      "thumbnail": "thumbs/music-gx-tag-force.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! GX Tag Force",
@@ -442,14 +875,90 @@
       }
     },
     {
+      "id": "music-gx-tag-force-2",
+      "kind": "music",
+      "name": "GX Tag Force 2",
+      "version": "0.2.0",
+      "url": "music/gx-tag-force-2",
+      "size": 211299,
+      "sha256": "e76d5c08b56f1e3c40aa06465b58ff26b75a9fbf5ec7c38e571fff21c57b2c02",
+      "thumbnail": "thumbs/music-gx-tag-force-2.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! GX Tag Force 2",
+        "year": 2007,
+        "platform": "PSP",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-gx-tag-force-3",
+      "kind": "music",
+      "name": "GX Tag Force 3",
+      "version": "0.2.0",
+      "url": "music/gx-tag-force-3",
+      "size": 186089,
+      "sha256": "9aa92d4186b5d8feaea46901be781054952d31f0d51c5b051c36a61cbe796e5b",
+      "thumbnail": "thumbs/music-gx-tag-force-3.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! GX Tag Force 3",
+        "year": 2008,
+        "platform": "PSP",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-gx-beginning-of-destiny",
+      "kind": "music",
+      "name": "GX The Beginning of Destiny",
+      "version": "0.2.0",
+      "url": "music/gx-beginning-of-destiny",
+      "size": 307430,
+      "sha256": "8a0278b96dd291757a4912f0fd4dd9f9a34e8f4b4ba412c5c45e0d1dee2c8f68",
+      "thumbnail": "thumbs/music-gx-beginning-of-destiny.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! GX The Beginning of Destiny",
+        "year": 2007,
+        "platform": "PlayStation 2",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-rush-duel-go-rush",
+      "kind": "music",
+      "name": "Ikuzo! Go Rush!!",
+      "version": "0.2.0",
+      "url": "music/rush-duel-go-rush",
+      "size": 275263,
+      "sha256": "934f5782848642d145b8631468d6a444e55c6731756002921bb568ada8e6cfa9",
+      "thumbnail": "thumbs/music-rush-duel-go-rush.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Rush Duel: Saikyo Battle Royale!! Ikuzo! Go Rush!!",
+        "year": 2022,
+        "platform": "Nintendo Switch",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
       "id": "music-power-of-chaos-joey",
       "kind": "music",
       "name": "Joey the Passion",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-power-of-chaos-joey-0.1.0.zip",
-      "size": 51951,
-      "sha256": "74a114f41e04fbb705025b8305b09e33580b8a1e6d9bac9089b43efeadca1bab",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-power-of-chaos-joey.webp",
+      "version": "0.2.0",
+      "url": "music/power-of-chaos-joey",
+      "size": 203001,
+      "sha256": "46fe5a5d12496d581218e7d2579a5d4a83391af5f6803672cd83174f61d10774",
+      "thumbnail": "thumbs/music-power-of-chaos-joey.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
@@ -464,11 +973,11 @@
       "id": "music-power-of-chaos-kaiba",
       "kind": "music",
       "name": "Kaiba the Revenge",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-power-of-chaos-kaiba-0.1.0.zip",
-      "size": 54871,
-      "sha256": "5a9fbe2aa5e96ab124ca1442154f5b0315f33bb0a3ae63740511033a7f9e5caa",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-power-of-chaos-kaiba.webp",
+      "version": "0.2.0",
+      "url": "music/power-of-chaos-kaiba",
+      "size": 238834,
+      "sha256": "422df5b4d360a2bd4d7c2c9220f8972b4ff54370a2c868f7e35f692d514e45a9",
+      "thumbnail": "thumbs/music-power-of-chaos-kaiba.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge",
@@ -480,14 +989,299 @@
       }
     },
     {
+      "id": "music-legacy-of-the-duelist",
+      "kind": "music",
+      "name": "Legacy of the Duelist",
+      "version": "0.2.0",
+      "url": "music/legacy-of-the-duelist",
+      "size": 223885,
+      "sha256": "385917d3cbb612acb2dc396bba1924812fe86893ba13e4a2defdba03fdb5d28c",
+      "thumbnail": "thumbs/music-legacy-of-the-duelist.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Legacy of the Duelist",
+        "year": 2015,
+        "platform": "PlayStation 4, Xbox One, Windows",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-link-evolution",
+      "kind": "music",
+      "name": "Link Evolution",
+      "version": "0.2.0",
+      "url": "music/link-evolution",
+      "size": 234842,
+      "sha256": "894ea85ef5eb319fdad20f0f25b7e06a5d7d3b82541d838181187de13a87f288",
+      "thumbnail": "thumbs/music-link-evolution.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+        "year": 2019,
+        "platform": "Nintendo Switch, PlayStation 4, Xbox One, Windows",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-master-duel",
+      "kind": "music",
+      "name": "Master Duel",
+      "version": "0.2.0",
+      "url": "music/master-duel",
+      "size": 128038,
+      "sha256": "8196040cb7d5fa349e0e5a17cfac4a4b834f1020e5b8ba999c93019e505f0c01",
+      "thumbnail": "thumbs/music-master-duel.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Master Duel",
+        "year": 2022,
+        "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S, Nintendo Switch, Windows, iOS, Android",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-millennium-duels",
+      "kind": "music",
+      "name": "Millennium Duels",
+      "version": "0.2.0",
+      "url": "music/millennium-duels",
+      "size": 142781,
+      "sha256": "08dde40c41efb470725edab151cbad12dbf48fe0e22570e8411bbc4f521b8de3",
+      "thumbnail": "thumbs/music-millennium-duels.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Millennium Duels",
+        "year": 2014,
+        "platform": "Xbox 360, PlayStation 3",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-monster-capsule-breed-and-battle",
+      "kind": "music",
+      "name": "Monster Capsule Breed & Battle",
+      "version": "0.2.0",
+      "url": "music/monster-capsule-breed-and-battle",
+      "size": 204707,
+      "sha256": "5f3b7ce33bad638545e69e076326654c9654ac6f3e6a5ee42255884c54e8a35f",
+      "thumbnail": "thumbs/music-monster-capsule-breed-and-battle.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Monster Capsule Breed & Battle",
+        "year": 1998,
+        "platform": "PlayStation",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-monster-capsule-gb",
+      "kind": "music",
+      "name": "Monster Capsule GB",
+      "version": "0.2.0",
+      "url": "music/monster-capsule-gb",
+      "size": 266760,
+      "sha256": "e7dd9853e48c2f3e728a4dc71fc5ef3e1ea4d203a6660821be5dc2c1e825b661",
+      "thumbnail": "thumbs/music-monster-capsule-gb.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Monster Capsule GB",
+        "year": 2000,
+        "platform": "Game Boy, Game Boy Color",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-nightmare-troubadour",
+      "kind": "music",
+      "name": "Nightmare Troubadour",
+      "version": "0.2.0",
+      "url": "music/nightmare-troubadour",
+      "size": 269826,
+      "sha256": "09c7c6e91f86ee594a251638e314e589a53fb1f04949acf11e9a97ee0818bde7",
+      "thumbnail": "thumbs/music-nightmare-troubadour.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Nightmare Troubadour",
+        "year": 2005,
+        "platform": "Nintendo DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-online",
+      "kind": "music",
+      "name": "Online",
+      "version": "0.2.0",
+      "url": "music/online",
+      "size": 131464,
+      "sha256": "c5181383266107c7e5c2141d9cbc10dceee530015c667ab02c70d1f6221f1c15",
+      "thumbnail": "thumbs/music-online.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Online",
+        "year": 2005,
+        "platform": "Windows",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-online-duel-accelerator",
+      "kind": "music",
+      "name": "Online: Duel Accelerator",
+      "version": "0.2.0",
+      "url": "music/online-duel-accelerator",
+      "size": 105397,
+      "sha256": "aac66fa797b642521c2298fd607d747956ad5f75ab9dd5b1a828c5f9718f311a",
+      "thumbnail": "thumbs/music-online-duel-accelerator.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Online: Duel Accelerator",
+        "year": 2010,
+        "platform": "Windows",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-online-duel-evolution",
+      "kind": "music",
+      "name": "Online: Duel Evolution",
+      "version": "0.2.0",
+      "url": "music/online-duel-evolution",
+      "size": 160537,
+      "sha256": "c7c4e4dda6d3853b00a0c26008a6e3fa3405f87b00fbe59eb901b8314d812d53",
+      "thumbnail": "thumbs/music-online-duel-evolution.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Online: Duel Evolution",
+        "year": 2007,
+        "platform": "Windows",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-world-championship-2011",
+      "kind": "music",
+      "name": "Over the Nexus",
+      "version": "0.2.0",
+      "url": "music/world-championship-2011",
+      "size": 280572,
+      "sha256": "0dd421d9a0385bce85552e08fe9afb405c5930164d0f5f296ccb300b5370a76e",
+      "thumbnail": "thumbs/music-world-championship-2011.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
+        "year": 2011,
+        "platform": "Nintendo DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-reshef-of-destruction",
+      "kind": "music",
+      "name": "Reshef of Destruction",
+      "version": "0.2.0",
+      "url": "music/reshef-of-destruction",
+      "size": 213296,
+      "sha256": "5d9e896c2819177ad1843ac604a75b96b2296712c0e39c83decb6dea598bc98e",
+      "thumbnail": "thumbs/music-reshef-of-destruction.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Reshef of Destruction",
+        "year": 2003,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-world-championship-2010",
+      "kind": "music",
+      "name": "Reverse of Arcadia",
+      "version": "0.2.0",
+      "url": "music/world-championship-2010",
+      "size": 342411,
+      "sha256": "d59c5cf4b5a3bdff8aea9501f3d1c0eaf8c3c15c191c27453c584cac3b4b0b88",
+      "thumbnail": "thumbs/music-world-championship-2010.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia",
+        "year": 2010,
+        "platform": "Nintendo DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-saikyo-card-battle",
+      "kind": "music",
+      "name": "Saikyo Card Battle!",
+      "version": "0.2.0",
+      "url": "music/saikyo-card-battle",
+      "size": 221513,
+      "sha256": "e83b0b893e256fb3c1fbe7a166e043a0f1187f71680523f953f4206804656875",
+      "thumbnail": "thumbs/music-saikyo-card-battle.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Duel Monsters Saikyo Card Battle!",
+        "year": 2016,
+        "platform": "Nintendo 3DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-world-championship-2009",
+      "kind": "music",
+      "name": "Stardust Accelerator",
+      "version": "0.2.0",
+      "url": "music/world-championship-2009",
+      "size": 253346,
+      "sha256": "d48291342fd5bc217edf0a31e870832627b7ff2d0fd9e4a964f7b5011e17c5c3",
+      "thumbnail": "thumbs/music-world-championship-2009.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! 5D's Stardust Accelerator: World Championship 2009",
+        "year": 2009,
+        "platform": "Nintendo DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
       "id": "music-dawn-of-destiny",
       "kind": "music",
       "name": "The Dawn of Destiny",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-dawn-of-destiny-0.1.0.zip",
-      "size": 22479,
-      "sha256": "b9514b7b85657b52c5ccba2cd7020a0991a53a37d7e545c88bc297122a10e817",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-dawn-of-destiny.webp",
+      "version": "0.2.0",
+      "url": "music/dawn-of-destiny",
+      "size": 342796,
+      "sha256": "31662827f2b38325efbee707e27aec18a848514001b11e7ae42d423ac40e6e0b",
+      "thumbnail": "thumbs/music-dawn-of-destiny.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! The Dawn of Destiny",
@@ -502,11 +1296,11 @@
       "id": "music-duelists-of-the-roses",
       "kind": "music",
       "name": "The Duelists of the Roses",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-duelists-of-the-roses-0.1.0.zip",
-      "size": 26191,
-      "sha256": "f1fed6a6ec67a296f4181360d6bf8caeace5f3a0e7346b3376ce53ffd585081e",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-duelists-of-the-roses.webp",
+      "version": "0.2.0",
+      "url": "music/duelists-of-the-roses",
+      "size": 293469,
+      "sha256": "c2eb55e2f33d7a59a77d1b4200451ea004dd8d25ef7856892fa4d782a76030e8",
+      "thumbnail": "thumbs/music-duelists-of-the-roses.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! The Duelists of the Roses",
@@ -518,14 +1312,90 @@
       }
     },
     {
+      "id": "music-eternal-duelist-soul",
+      "kind": "music",
+      "name": "The Eternal Duelist Soul",
+      "version": "0.2.0",
+      "url": "music/eternal-duelist-soul",
+      "size": 276796,
+      "sha256": "2e92445a4b2cd3ff102221d82c407810f58a0af5caffaa8551d6ecbb3584f14a",
+      "thumbnail": "thumbs/music-eternal-duelist-soul.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! The Eternal Duelist Soul",
+        "year": 2001,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-falsebound-kingdom",
+      "kind": "music",
+      "name": "The Falsebound Kingdom",
+      "version": "0.2.0",
+      "url": "music/falsebound-kingdom",
+      "size": 220685,
+      "sha256": "1aeb928b31b0d21c4c03d02fcc994e06743854687438611368d95c283e509120",
+      "thumbnail": "thumbs/music-falsebound-kingdom.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+        "year": 2002,
+        "platform": "GameCube",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-sacred-cards",
+      "kind": "music",
+      "name": "The Sacred Cards",
+      "version": "0.2.0",
+      "url": "music/sacred-cards",
+      "size": 203031,
+      "sha256": "6f6e529e63bf1d7945a90b063d3451c2f626d914d60716424d6bdfdb730b176a",
+      "thumbnail": "thumbs/music-sacred-cards.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! The Sacred Cards",
+        "year": 2002,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
+      "id": "music-world-championship-2006",
+      "kind": "music",
+      "name": "Ultimate Masters",
+      "version": "0.2.0",
+      "url": "music/world-championship-2006",
+      "size": 337654,
+      "sha256": "64447f35eb9c33717a80159dbcaad12422e2e2b02d070e98c3ad9f914465238e",
+      "thumbnail": "thumbs/music-world-championship-2006.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006",
+        "year": 2006,
+        "platform": "Game Boy Advance",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
       "id": "music-world-championship-2004",
       "kind": "music",
       "name": "World Championship 2004",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-world-championship-2004-0.1.0.zip",
-      "size": 67856,
-      "sha256": "ddeaeb0b7f542df036b336ca251e3ffd0d066a8b92a41657c0038556abc39496",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-world-championship-2004.webp",
+      "version": "0.2.0",
+      "url": "music/world-championship-2004",
+      "size": 505784,
+      "sha256": "efb419a70b03457c87e84bc4116df8499e4049eac304df4678f6f7209f4dde00",
+      "thumbnail": "thumbs/music-world-championship-2004.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! World Championship Tournament 2004",
@@ -540,11 +1410,11 @@
       "id": "music-world-championship-2007",
       "kind": "music",
       "name": "World Championship 2007",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-world-championship-2007-0.1.0.zip",
-      "size": 50346,
-      "sha256": "0a6e8ac8dc6b3c5a16f9f0f22d105d955ca486191b19427cfa54bc0e232f6789",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-world-championship-2007.webp",
+      "version": "0.2.0",
+      "url": "music/world-championship-2007",
+      "size": 197282,
+      "sha256": "48543168622b14e9af74777e9a62babd7e50ddc52086496986dbfb5b019acce4",
+      "thumbnail": "thumbs/music-world-championship-2007.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! World Championship 2007",
@@ -556,14 +1426,33 @@
       }
     },
     {
+      "id": "music-world-championship-2008",
+      "kind": "music",
+      "name": "World Championship 2008",
+      "version": "0.2.0",
+      "url": "music/world-championship-2008",
+      "size": 206291,
+      "sha256": "146b0a8e025a1198512b7e64c0e007f2de6224c7e7f52bf8c7f7b247d9a73772",
+      "thumbnail": "thumbs/music-world-championship-2008.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! World Championship 2008",
+        "year": 2007,
+        "platform": "Nintendo DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
       "id": "music-worldwide-edition",
       "kind": "music",
       "name": "Worldwide Edition",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-worldwide-edition-0.1.0.zip",
-      "size": 62926,
-      "sha256": "1c57b078d7a61203df3fa2e56008cc241210eeac1bb6c7cec075845f10e602d5",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-worldwide-edition.webp",
+      "version": "0.2.0",
+      "url": "music/worldwide-edition",
+      "size": 256407,
+      "sha256": "fd5b17dc9fc073dc829f8ce779081c63f38f42166607740bd28c846c40560786",
+      "thumbnail": "thumbs/music-worldwide-edition.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
@@ -578,11 +1467,11 @@
       "id": "music-power-of-chaos-yugi",
       "kind": "music",
       "name": "Yugi the Destiny",
-      "version": "0.1.0",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/music-power-of-chaos-yugi-0.1.0.zip",
-      "size": 54433,
-      "sha256": "1d80721362f352680a9e3e0f41dd439cdd8c4f384c910de09aec9907da7d5776",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/music-power-of-chaos-yugi.webp",
+      "version": "0.2.0",
+      "url": "music/power-of-chaos-yugi",
+      "size": 221684,
+      "sha256": "369d0c4497315588dc2633faed2e258551e01ae66da9f231d5357923c5cb802c",
+      "thumbnail": "thumbs/music-power-of-chaos-yugi.webp",
       "preview": "",
       "meta": {
         "game": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
@@ -594,14 +1483,33 @@
       }
     },
     {
+      "id": "music-zexal-world-duel-carnival",
+      "kind": "music",
+      "name": "ZEXAL World Duel Carnival",
+      "version": "0.2.0",
+      "url": "music/zexal-world-duel-carnival",
+      "size": 253108,
+      "sha256": "c2fc12da34dc4299762b0abd2704370998d458dafcdd374478f35a8b77bfadb5",
+      "thumbnail": "thumbs/music-zexal-world-duel-carnival.webp",
+      "preview": "",
+      "meta": {
+        "game": "Yu-Gi-Oh! ZEXAL World Duel Carnival",
+        "year": 2013,
+        "platform": "Nintendo 3DS",
+        "tracks": [],
+        "track_count": 0,
+        "duration_seconds": 0
+      }
+    },
+    {
       "id": "formats",
       "kind": "format",
       "name": "Classic formats",
       "version": "2026.11.25.2",
-      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/releases/download/packs-2026.11.25/formats-2026.11.25.2.zip",
-      "size": 3199668,
-      "sha256": "476ce9af8e607ca101ea50d5af706c1bc00970db8196412102cdbf1bdb6bd367",
-      "thumbnail": "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main/thumbs/formats.webp",
+      "url": "formats",
+      "size": 3380661,
+      "sha256": "1aabfb8f00b573b3ac81e0425a4d19e080f74572173874027c7b1bdcd0382a08",
+      "thumbnail": "thumbs/formats.webp",
       "preview": "",
       "meta": {
         "formats": 128

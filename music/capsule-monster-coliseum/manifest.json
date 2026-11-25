@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-capsule-monster-coliseum",
+  "kind": "music",
+  "name": "Capsule Monster Coliseum",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Capsule Monster Coliseum",
+  "series": "Duel Monsters",
+  "year": 2004,
+  "platform": "PlayStation 2",
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Capsule Monster Coliseum — Box - Front (North America)",
+    "platform": "Sony Playstation 2",
+    "source_url": "https://images.launchbox-app.com/df0ee011-0e91-41d1-9a3f-e57d0daaf804.jpg",
+    "original_resolution": [
+      1536,
+      2175
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Capsule Monster Coliseum — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/9846"
+    }
+  ],
+  "files": {
+    "cover.webp": "e9c8d2fb0aeba89e5314d60e4da65330462c1e0fa42384a0948c9270c08f31b1"
+  }
+}

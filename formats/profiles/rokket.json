@@ -1,0 +1,160 @@
+{
+  "id": "rokket",
+  "name": "Rokket",
+  "date": "2020-02-22",
+  "region": "TCG",
+  "era": "VRAINS",
+  "popular": false,
+  "description": "Dragon Link, Shaddoll and Dinosaur decks reached the top cut at Team YCS Las Vegas in February 2020. Rokket cards supplied Dragons for Link and Synchro Summons, with Quick Launch bringing a Rokket directly from the Deck.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/rokket",
+  "description_urls": [
+    "https://formatlibrary.com/formats/rokket",
+    "https://formatlibrary.com/events/TYCSLV20",
+    "https://yugiohblog.konami.com/2020/ycs/decks-in-the-top-16-of-team-ycs-las-vegas/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 68464358,
+      "name": "Rokket Tracer",
+      "why": "Destroying another friendly face-up card brought a different Rokket from the Deck and supplied Synchro or Link Material.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8492",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8492"
+        ]
+      }
+    },
+    {
+      "id": 31443476,
+      "name": "Quick Launch",
+      "why": "It summoned a Rokket from the Deck without spending the Normal Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8492",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8492"
+        ]
+      }
+    },
+    {
+      "id": 73539069,
+      "name": "Striker Dragon",
+      "why": "It found Boot Sector Launch, letting the Dragon deck turn Level 4 or lower Dragons into further summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8492",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8492"
+        ]
+      }
+    },
+    {
+      "id": 27548199,
+      "name": "Borreload Savage Dragon",
+      "why": "Equipping a Link Monster from the Graveyard gave this Synchro Monster counters to negate card activations.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8492",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8492"
+        ]
+      }
+    },
+    {
+      "id": 87871125,
+      "name": "Salamangreat Sunlight Wolf",
+      "why": "A summon to a zone it pointed to recovered a FIRE monster. A copy Link Summoned using another Sunlight Wolf could also recover a Salamangreat Spell or Trap.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 4,
+    "fl_events": [
+      "CFT01"
+    ],
+    "fl_deck_ids": [
+      82135,
+      82137,
+      82139,
+      82140
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8538",
+        "deck_count": 2,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8538",
+          "https://www.yugiohtopdecks.org/deck/8560"
+        ],
+        "tournaments": [
+          "YCS - Las Vegas Nevada"
+        ],
+        "months": [
+          "February 2020"
+        ]
+      },
+      {
+        "kind": "archetype_event_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8492",
+        "deck_count": 3,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8492",
+          "https://www.yugiohtopdecks.org/deck/8524",
+          "https://www.yugiohtopdecks.org/deck/8545"
+        ],
+        "tournaments": [
+          "Regional - Quito Ecuador",
+          "UDS Invitational - Tulsa",
+          "YCS - Utrecht Netherlands"
+        ],
+        "months": [
+          "February 2020"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8538",
+      "https://www.yugiohtopdecks.org/deck/8492"
+    ]
+  }
+}

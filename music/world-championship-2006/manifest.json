@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2006",
+  "kind": "music",
+  "name": "Ultimate Masters",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006",
+  "series": "Duel Monsters",
+  "year": 2006,
+  "platform": "Game Boy Advance",
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "aliases": [
+    "Duel Monsters Expert 2006"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Europe",
+  "cover_attribution": {
+    "region": "Europe",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 — Box - Front (Europe)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/272f3ee4-4c36-40a3-b6fb-5e080bd42b24.png",
+    "original_resolution": [
+      962,
+      1000
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 — Box - Front (Europe)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26242"
+    }
+  ],
+  "files": {
+    "cover.webp": "a2bcf54fc8af2d3727da506279082c1c361aad89a33285495f3436cebbed01cb"
+  }
+}

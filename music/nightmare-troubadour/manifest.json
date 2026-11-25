@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-nightmare-troubadour",
+  "kind": "music",
+  "name": "Nightmare Troubadour",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Nightmare Troubadour",
+  "series": "Duel Monsters",
+  "year": 2005,
+  "platform": "Nintendo DS",
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Europe",
+  "cover_attribution": {
+    "region": "Europe",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Nightmare Troubadour — Box - Front (Europe)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/38540252-ef86-4095-9bac-37b2a2294ee2.jpg",
+    "original_resolution": [
+      768,
+      680
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Nightmare Troubadour — Box - Front (Europe)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26230"
+    }
+  ],
+  "files": {
+    "cover.webp": "801519f7999c2daf94e377529ef6026fcc9dcea64a5b243205c8df9a793a3d43"
+  }
+}

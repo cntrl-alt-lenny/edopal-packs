@@ -1,0 +1,136 @@
+{
+  "id": "snake",
+  "name": "Snake",
+  "date": "2000-07-15",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Cyber Jar could clear the field and bring several new monsters into play at once. Sinister Serpent returned to its owner's hand and supplied repeatable discard material in this early OCG pool.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/snake",
+  "description_urls": [
+    "https://formatlibrary.com/formats/snake",
+    "https://yugioh-history.com/environment/generation-two-8",
+    "https://yugioh-history.com/environment/generation-two-9",
+    "https://yugioh-history.com/environment/generation-two-12"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 8131171,
+      "name": "Sinister Serpent",
+      "why": "Its original effect returned it to the hand in successive Standby Phases, providing a repeatable discard for cards such as Graceful Charity.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+          "https://yugioh-history.com/environment/generation-two-8"
+        ]
+      }
+    },
+    {
+      "id": 79571449,
+      "name": "Graceful Charity",
+      "why": "Drawing three and discarding two dug for specific cards while putting revival targets or Sinister Serpent into the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+          "https://yugioh-history.com/environment/generation-two-8"
+        ]
+      }
+    },
+    {
+      "id": 74191942,
+      "name": "Painful Choice",
+      "why": "Four of the five cards it revealed went to the Graveyard, letting a player set up revival or put Sinister Serpent within reach.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+          "https://yugioh-history.com/environment/generation-two-12"
+        ]
+      }
+    },
+    {
+      "id": 34124316,
+      "name": "Cyber Jar",
+      "why": "Flipping it cleared the monsters from the field and let each player excavate five cards, often putting several new attackers into play.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-8"
+        ]
+      }
+    },
+    {
+      "id": 26202165,
+      "name": "Sangan",
+      "why": "Sending it from the field to the Graveyard searched out a low-ATK monster, from a combo piece to another defensive play.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+          "https://yugioh-history.com/environment/generation-two-8"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_reconstructions",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two",
+        "deck_count": 1,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two"
+        ],
+        "sample_dates": [
+          "2000-07-15"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-two-8",
+      "https://yugioh-history.com/environment/generation-two-9",
+      "https://yugioh-history.com/environment/generation-two-12",
+      "https://yugioh-history.com/deck-list/historical/good-stuff-generation-two"
+    ]
+  }
+}

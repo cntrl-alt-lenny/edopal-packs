@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "music-duel-arena",
+  "kind": "music",
+  "name": "Duel Arena",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Arena",
+  "series": "Crossover",
+  "year": 2014,
+  "platform": "Web browser",
+  "platforms": [
+    "Web browser"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Official launch key art",
+    "description": "Official launch key art for Yu-Gi-Oh! Duel Arena",
+    "source_url": "https://uploads3.yugioh.com/news/53/original/2YGO_DA_4KM_1024_415_center.jpg?1403810806",
+    "original_resolution": [
+      1024,
+      415
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Official launch key art for Yu-Gi-Oh! Duel Arena",
+      "source": "Konami Cross Media NY / Yu-Gi-Oh! Official Site",
+      "url": "https://www.yugioh.com/news/duel-arena-launch"
+    }
+  ],
+  "files": {
+    "cover.webp": "6576400f23ae2793a4e6ba3d2fbce3f9163f78db51a21564196b92ecc6d9effb"
+  }
+}

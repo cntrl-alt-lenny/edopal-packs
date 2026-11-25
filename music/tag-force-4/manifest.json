@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-tag-force-4",
+  "kind": "music",
+  "name": "5D's Tag Force 4",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+  "series": "5D's",
+  "year": 2009,
+  "platform": "PSP",
+  "platforms": [
+    "PSP"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Germany",
+  "cover_attribution": {
+    "region": "Germany",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's Tag Force 4 — Box - Front (Germany)",
+    "platform": "Sony PSP",
+    "source_url": "https://images.launchbox-app.com/r2_3396ae1b-13bb-4889-940c-5a4a6d5a5ebc.jpg",
+    "original_resolution": [
+      1151,
+      1984
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's Tag Force 4 — Box - Front (Germany)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26226"
+    }
+  ],
+  "files": {
+    "cover.webp": "0e5a1e7301ac3bdc961e53344eabb07b230715aca08b28d320a7af2403a056b6"
+  }
+}

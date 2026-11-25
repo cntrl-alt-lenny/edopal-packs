@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-online",
+  "kind": "music",
+  "name": "Online",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Online",
+  "series": "Crossover",
+  "year": 2005,
+  "platform": "Windows",
+  "platforms": [
+    "Windows"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Europe",
+  "cover_attribution": {
+    "region": "Europe",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Online — Box - Front (Europe)",
+    "platform": "Windows",
+    "source_url": "https://images.launchbox-app.com/97e96bf3-2678-43fe-98dc-015cb7257f29.jpg",
+    "original_resolution": [
+      353,
+      500
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Online — Box - Front (Europe)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/9166"
+    }
+  ],
+  "files": {
+    "cover.webp": "4e4bd5629b0afad665107a7ce727cbc47635ab772383eaad7c1daf5dd0fe8bff"
+  }
+}

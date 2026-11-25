@@ -1,0 +1,104 @@
+{
+  "id": "scientist",
+  "name": "Scientist",
+  "date": "2003-11-17",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Scientist Format is a DM era format that predates the first ban list. The latest core set is Magician’s Force (MFC). Notable additions include Breaker the Magical Warrior, Magical Scientist, Tribe-Infecting Virus, and Royal Decree. This is the only format in the history of the TCG with 3 legal copies of Magical Scientist, and thus Scientist FTK is quite potent here.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/scientist",
+  "description_urls": [
+    "https://formatlibrary.com/formats/scientist"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 34206604,
+      "name": "Magical Scientist",
+      "why": "Repeated payments of 1000 LP supplied Fusion Monsters for combat or for Catapult Turtle to tribute before they returned to the Fusion Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Nov2003/KDR-13/M4A1_Batman_Scientific_Cheesiness_Collector%27s%20Corner_Oakland%2CCA.txt",
+          "https://formatlibrary.com/formats/scientist"
+        ]
+      }
+    },
+    {
+      "id": 80071763,
+      "name": "Dark Balter the Terrible",
+      "why": "This Level 5 Fusion could shut off effects of monsters it defeated in battle and negate a Normal Spell for 1000 LP.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8
+      }
+    },
+    {
+      "id": 511000228,
+      "name": "Catapult Turtle",
+      "why": "Its original effect could tribute several monsters in one turn, converting Magical Scientist's Fusion Monsters into lethal damage.",
+      "has_art": true,
+      "printing_name": "Catapult Turtle (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Nov2003/KDR-13/M4A1_Batman_Scientific_Cheesiness_Collector%27s%20Corner_Oakland%2CCA.txt"
+        ]
+      }
+    },
+    {
+      "id": 71413901,
+      "name": "Breaker the Magical Warrior",
+      "why": "Its Spell Counter gave it 1900 ATK or could be spent to destroy a Spell or Trap before committing another attacker.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 6,
+        "source_urls": [
+          "https://formatlibrary.com/formats/scientist"
+        ]
+      }
+    },
+    {
+      "id": 49868263,
+      "name": "Ryu Senshi",
+      "why": "Magical Scientist could call this Level 6 Fusion to negate a Normal Trap and protect a critical attack.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 8,
+    "fl_events": [
+      "SACK01",
+      "SACK04",
+      "YFZ09"
+    ],
+    "fl_deck_ids": [
+      32554,
+      32556,
+      32557,
+      32564,
+      46025,
+      46034,
+      68646,
+      68651
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Nov2003/KDR-13/M4A1_Batman_Scientific_Cheesiness_Collector%27s%20Corner_Oakland%2CCA.txt"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "burning-abyss",
+  "name": "Burning Abyss",
+  "date": "2014-11-24",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "Burning Abyss, Qliphort and Shaddoll lists reached the elimination rounds at YCS Anaheim in November 2014. Dante turned two Level 3 monsters into a Rank 3 Xyz Monster that could send cards from the Deck to the Graveyard, triggering Burning Abyss effects in the process.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/burning-abyss",
+  "description_urls": [
+    "https://formatlibrary.com/formats/burning-abyss",
+    "https://formatlibrary.com/events/YCSANA14",
+    "https://www.yugiohtopdecks.org/deck/344"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 83531441,
+      "name": "Dante, Traveler of the Burning Abyss",
+      "why": "Milling up to three cards fueled the Burning Abyss monsters whose effects activated in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/344",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/344"
+        ]
+      }
+    },
+    {
+      "id": 36006208,
+      "name": "Fire Lake of the Burning Abyss",
+      "why": "Sending two Burning Abyss monsters to the Graveyard could destroy up to three cards and trigger the monsters' own effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/344",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/344"
+        ]
+      }
+    },
+    {
+      "id": 601193,
+      "name": "Virgil, Rock Star of the Burning Abyss",
+      "why": "Rubic enabled this Synchro Monster, whose discard could shuffle an opposing card back into the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/344",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/344"
+        ]
+      }
+    },
+    {
+      "id": 65518099,
+      "name": "Qliphort Scout",
+      "why": "Searching a Qli card each turn gave the Pendulum deck a steady supply of scales and Tribute Summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/344",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/346"
+        ]
+      }
+    },
+    {
+      "id": 20366274,
+      "name": "El Shaddoll Construct",
+      "why": "Sending a Shaddoll card to the Graveyard on summon set up another effect while Construct threatened Special Summoned monsters in battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/344",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/347"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "ACFC04",
+      "YCSANA14",
+      "YCSMIL14",
+      "YCSSYDDEC14"
+    ],
+    "fl_deck_ids": [
+      40958,
+      40959,
+      40960,
+      40961,
+      40962,
+      40964,
+      40993,
+      40995,
+      40996,
+      40997,
+      40998,
+      40999,
+      41063,
+      41064,
+      41065,
+      41114,
+      41116,
+      81147
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/344",
+        "deck_count": 21,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/344",
+          "https://www.yugiohtopdecks.org/deck/345",
+          "https://www.yugiohtopdecks.org/deck/346",
+          "https://www.yugiohtopdecks.org/deck/347",
+          "https://www.yugiohtopdecks.org/deck/348",
+          "https://www.yugiohtopdecks.org/deck/349",
+          "https://www.yugiohtopdecks.org/deck/350",
+          "https://www.yugiohtopdecks.org/deck/351",
+          "https://www.yugiohtopdecks.org/deck/352",
+          "https://www.yugiohtopdecks.org/deck/353",
+          "https://www.yugiohtopdecks.org/deck/354",
+          "https://www.yugiohtopdecks.org/deck/358",
+          "https://www.yugiohtopdecks.org/deck/359",
+          "https://www.yugiohtopdecks.org/deck/360",
+          "https://www.yugiohtopdecks.org/deck/361",
+          "https://www.yugiohtopdecks.org/deck/362",
+          "https://www.yugiohtopdecks.org/deck/363",
+          "https://www.yugiohtopdecks.org/deck/364",
+          "https://www.yugiohtopdecks.org/deck/365",
+          "https://www.yugiohtopdecks.org/deck/366",
+          "https://www.yugiohtopdecks.org/deck/367"
+        ],
+        "tournaments": [
+          "YCS - Anaheim California"
+        ],
+        "months": [
+          "November 2014"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/344"
+    ]
+  }
+}

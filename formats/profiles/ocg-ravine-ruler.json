@@ -1,0 +1,128 @@
+{
+  "id": "ocg-ravine-ruler",
+  "name": "OCG Ravine Ruler",
+  "date": "2013-12-22",
+  "region": "OCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "Dragon Ruler remained a leading OCG strategy after the smaller Dragon Rulers were forbidden. Dragon Ravine loaded the Graveyard, while the Level 7 Dragons provided the materials for Rank 7 Xyz Summons.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-ravine-ruler",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-ravine-ruler",
+    "https://roadoftheking.com/ocg-2013-11-metagame/",
+    "https://yugioh-history.com/environment/generation-eight-21"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 62265044,
+      "name": "Dragon Ravine",
+      "why": "Dragon decks could discard a card to send a Dragon from the Deck to the Graveyard, setting up their next summon.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-eight-21"
+        ]
+      }
+    },
+    {
+      "id": 89399912,
+      "name": "Tempest, Dragon Ruler of Storms",
+      "why": "It supplied repeatable Level 7 material and could search a Dragon by discarding itself with another WIND monster.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2013-11-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2013-11-metagame/",
+          "https://yugioh-history.com/environment/generation-eight-21"
+        ]
+      }
+    },
+    {
+      "id": 53804307,
+      "name": "Blaster, Dragon Ruler of Infernos",
+      "why": "This Level 7 Dragon could return from the Graveyard as Xyz material or trade two FIRE cards for removal.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2013-11-metagame/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2013-11-metagame/",
+          "https://yugioh-history.com/environment/generation-eight-21"
+        ]
+      }
+    },
+    {
+      "id": 22110647,
+      "name": "Mecha Phantom Beast Dracossack",
+      "why": "Two Level 7 Dragon Rulers became a threat that generated Tokens for protection, removal and later summons.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-eight-21"
+        ]
+      }
+    },
+    {
+      "id": 26400609,
+      "name": "Tidal, Dragon Ruler of Waterfalls",
+      "why": "This Level 7 Dragon could revive itself as Xyz Material or discard with another WATER monster to send a monster from the Deck to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/ocg-2013-11-metagame/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/ocg-2013-11-metagame/",
+          "https://yugioh-history.com/environment/generation-eight-21"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_examples",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "same_banlist_community_examples",
+        "source_url": "https://roadoftheking.com/ocg-2013-11-metagame/",
+        "deck_count": 3,
+        "relationship": "Road of the King illustrates its 2013-11-01 to 2014-01-31 OCG tournament review with these decklists. The dates and placements of the individual examples are unspecified. Counts cover positively identified cards legal in the snapshot.",
+        "period_start": "2013-11-01",
+        "period_end": "2014-01-31",
+        "source_images": [
+          "OCG201311_DragonRuler",
+          "OCG201311_Evilswarm",
+          "OCG201311_AtlanteanMermail"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/ocg-2013-11-metagame/",
+      "https://yugioh-history.com/environment/generation-eight-21"
+    ]
+  }
+}

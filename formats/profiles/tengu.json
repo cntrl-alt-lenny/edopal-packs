@@ -1,0 +1,173 @@
+{
+  "id": "tengu",
+  "name": "Tengu",
+  "date": "2011-09-17",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": true,
+  "description": "Tengu Plant is the first Zexal era format and one of the more popular retro Yu-Gi-Oh! formats. The latest core set available is Generation Force (GENF). This format’s name comes from the iconic Synchro Plant deck that uses Reborn Tengu and Plant Tuners to make a variety of Synchro monsters, including the very powerful Trishula, Dragon of the Ice Barrier. While the Plant deck dominated historically, many other decks are extremely competitive in the modern metagame, including Agent, T.G. Stun, Hero Beat, and several Chaos variants.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/tengu",
+  "description_urls": [
+    "https://formatlibrary.com/formats/tengu"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 10028593,
+      "name": "Reborn Tengu",
+      "why": "A face-up Tengu that left the field fetched the next copy, replacing material spent on a Synchro Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2114",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2115",
+          "https://formatlibrary.com/formats/tengu"
+        ]
+      }
+    },
+    {
+      "id": 52687916,
+      "name": "Trishula, Dragon of the Ice Barrier",
+      "why": "Three or more monsters could become a Synchro that banished cards from the opponent's hand, field and Graveyard at once.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2114",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2114",
+          "https://formatlibrary.com/formats/tengu"
+        ]
+      }
+    },
+    {
+      "id": 10802915,
+      "name": "Tour Guide From the Underworld",
+      "why": "A Normal Summon fetched a Level 3 Fiend such as Sangan, giving the player immediate access to Rank 3 Xyz Monsters.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2114",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2114"
+        ]
+      }
+    },
+    {
+      "id": 95992081,
+      "name": "Leviair the Sea Dragon",
+      "why": "This Rank 3 could summon a banished Level 4 or lower monster, including a Lonefire Blossom banished to bring back Spore.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2114",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2114"
+        ]
+      }
+    },
+    {
+      "id": 26202165,
+      "name": "Sangan",
+      "why": "Sending it from the field to the Graveyard searched out a low-ATK monster, from a combo piece to another defensive play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2114",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2114"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 17,
+    "fl_events": [
+      "TETU07",
+      "TTC56",
+      "TTC57",
+      "YCSECU11",
+      "YCSTOR11"
+    ],
+    "fl_deck_ids": [
+      17833,
+      18136,
+      18137,
+      18138,
+      18139,
+      18140,
+      27272,
+      27275,
+      55555,
+      55558,
+      55560,
+      55563,
+      55568,
+      55577,
+      86714,
+      86718,
+      87586
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2114",
+        "deck_count": 5,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2114",
+          "https://www.yugiohtopdecks.org/deck/2115",
+          "https://www.yugiohtopdecks.org/deck/2118",
+          "https://www.yugiohtopdecks.org/deck/2119",
+          "https://www.yugiohtopdecks.org/deck/2143"
+        ],
+        "tournaments": [
+          "2011 YCS Toronto"
+        ],
+        "months": [
+          "September 2011"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      27273
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2114"
+    ]
+  }
+}

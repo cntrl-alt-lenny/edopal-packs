@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "id": "music-duel-monsters-4",
+  "kind": "music",
+  "name": "Duel Monsters 4: Battle of Great Duelist",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist",
+  "series": "Duel Monsters",
+  "year": 2000,
+  "platform": "Game Boy Color",
+  "platforms": [
+    "Game Boy Color"
+  ],
+  "editions": [
+    "Yugi Deck",
+    "Kaiba Deck",
+    "Joey Deck"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Kaiba Deck — Box - Front (Japan)",
+    "platform": "Nintendo Game Boy Color",
+    "source_url": "https://images.launchbox-app.com/r2_08ccb3f9-8fde-4134-8554-f957d1bbaae7.jpg",
+    "original_resolution": [
+      709,
+      995
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Kaiba Deck — Box - Front (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26239"
+    }
+  ],
+  "files": {
+    "cover.webp": "f396f991be8c8b02d321fd3a11d8cbe25d1b5ce7f3832a35b5c5cf302f4350ed"
+  }
+}

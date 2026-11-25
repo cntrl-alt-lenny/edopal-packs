@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-gx-duel-academy",
+  "kind": "music",
+  "name": "GX Duel Academy",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! GX Duel Academy",
+  "series": "GX",
+  "year": 2005,
+  "platform": "Game Boy Advance",
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! GX Duel Academy — Box - Front (North America)",
+    "platform": "Nintendo Game Boy Advance",
+    "source_url": "https://images.launchbox-app.com/e63112c3-c816-4bb7-abee-2555daa5fd08.jpg",
+    "original_resolution": [
+      640,
+      640
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! GX Duel Academy — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26200"
+    }
+  ],
+  "files": {
+    "cover.webp": "e1f53720439a83c460267bc7cdffc2a2a2250adb393475eaa1a2918131501dcf"
+  }
+}

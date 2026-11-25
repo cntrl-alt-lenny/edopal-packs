@@ -1,0 +1,184 @@
+{
+  "id": "vegas",
+  "name": "Vegas",
+  "date": "2014-04-14",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": false,
+  "description": "At YCS Las Vegas in April 2014, Geargia and Mermail both had tournament results. Flipping Geargiarmor searched a Geargia monster, letting its controller prepare a Rank 4 Xyz Summon without spending the rest of their hand.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/vegas",
+  "description_urls": [
+    "https://formatlibrary.com/formats/vegas",
+    "https://formatlibrary.com/events/YCSLV14",
+    "https://www.yugiohtopdecks.org/deck/448"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 923596,
+      "name": "Geargiarmor",
+      "why": "Turning it face-up searched a Geargia monster, and setting it again threatened another search on a later turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/447",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/448"
+        ]
+      }
+    },
+    {
+      "id": 46772449,
+      "name": "Evilswarm Exciton Knight",
+      "why": "A Rank 4 Xyz Summon could clear the rest of the field against an opponent holding more total cards.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/447",
+            "decks_with_card": 14
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/448"
+        ]
+      }
+    },
+    {
+      "id": 22446869,
+      "name": "Mermail Abyssteus",
+      "why": "Discarding one WATER monster put a Level 7 on the field and searched a smaller Mermail.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/447",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/452"
+        ]
+      }
+    },
+    {
+      "id": 28912357,
+      "name": "Gear Gigant X",
+      "why": "Two Level 4 Machines could search another small Machine, helping Geargia keep a follow-up play in hand.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/447",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/448"
+        ]
+      }
+    },
+    {
+      "id": 60202749,
+      "name": "Abyss-sphere",
+      "why": "Mermail players could fetch Abysslinde on the opponent's turn and turn its destruction into another Mermail.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/447",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/452"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "VEGAS31",
+      "YCSLV14",
+      "YCSMEX14",
+      "YCSPAR14"
+    ],
+    "fl_deck_ids": [
+      2960,
+      2961,
+      2966,
+      2967,
+      2969,
+      2998,
+      40297,
+      40298,
+      40300,
+      40322,
+      40323,
+      40326,
+      40327,
+      40328,
+      40351,
+      40357,
+      40366,
+      50597
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/447",
+        "deck_count": 16,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/447",
+          "https://www.yugiohtopdecks.org/deck/448",
+          "https://www.yugiohtopdecks.org/deck/449",
+          "https://www.yugiohtopdecks.org/deck/450",
+          "https://www.yugiohtopdecks.org/deck/451",
+          "https://www.yugiohtopdecks.org/deck/452",
+          "https://www.yugiohtopdecks.org/deck/453",
+          "https://www.yugiohtopdecks.org/deck/454",
+          "https://www.yugiohtopdecks.org/deck/455",
+          "https://www.yugiohtopdecks.org/deck/456",
+          "https://www.yugiohtopdecks.org/deck/457",
+          "https://www.yugiohtopdecks.org/deck/458",
+          "https://www.yugiohtopdecks.org/deck/459",
+          "https://www.yugiohtopdecks.org/deck/460",
+          "https://www.yugiohtopdecks.org/deck/461",
+          "https://www.yugiohtopdecks.org/deck/7774"
+        ],
+        "tournaments": [
+          "YCS - Las Vegas"
+        ],
+        "months": [
+          "April 2014"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      40296
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/447"
+    ]
+  }
+}

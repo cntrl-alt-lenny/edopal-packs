@@ -1,0 +1,133 @@
+{
+  "id": "ocg-goat",
+  "name": "OCG Goat",
+  "date": "2005-04-09",
+  "region": "OCG",
+  "era": "GX",
+  "popular": true,
+  "description": "A D.D. Beat deck won the 2005 Asia Championship ahead of three different Chaos builds. One of those decks used Metamorphosis to turn a Sheep Token into Thousand-Eyes Restrict and take an opposing monster.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-goat",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-goat",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2005/",
+    "https://yugioh-history.com/environment/generation-four-16"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 63519819,
+      "name": "Thousand-Eyes Restrict",
+      "why": "It absorbed an opposing monster and stopped other monsters from attacking, buying time to reuse Flip Effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-16"
+        ]
+      }
+    },
+    {
+      "id": 72989439,
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "why": "A spent LIGHT and DARK monster put 3000 ATK on the field, with a choice between banishing a monster and attacking twice.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-16"
+        ]
+      }
+    },
+    {
+      "id": 34853266,
+      "name": "Tsukuyomi",
+      "why": "It turned a used Flip monster face-down, then returned to the hand to repeat the play on a later turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-16"
+        ]
+      }
+    },
+    {
+      "id": 73915051,
+      "name": "Scapegoat",
+      "why": "Four Sheep Tokens could absorb a turn of attacks or leave a Level 1 monster for Metamorphosis on a later turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-16"
+        ]
+      }
+    },
+    {
+      "id": 70074904,
+      "name": "D.D. Assailant",
+      "why": "Destroying this 1700 ATK Warrior in battle also banished the attacker, making even a set Assailant awkward to challenge.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/no-chaos"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 7,
+    "fl_events": [
+      "ASC05",
+      "OMS01"
+    ],
+    "fl_deck_ids": [
+      49487,
+      67244,
+      67245,
+      68359,
+      68360,
+      68363,
+      68364
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+        "deck_count": 3,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+          "https://yugioh-history.com/deck-list/historical/deck-destruction-1kill",
+          "https://yugioh-history.com/deck-list/historical/no-chaos"
+        ],
+        "sample_dates": [
+          "2005-03-01"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      49486
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2005/",
+      "https://yugioh-history.com/environment/generation-four-16",
+      "https://yugioh-history.com/deck-list/historical/abyss-soldier-control"
+    ]
+  }
+}

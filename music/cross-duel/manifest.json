@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-cross-duel",
+  "kind": "music",
+  "name": "Cross Duel",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! Cross Duel",
+  "series": "Crossover",
+  "year": 2022,
+  "platform": "iOS, Android",
+  "platforms": [
+    "iOS",
+    "Android"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "App Store icon",
+    "description": "App Store icon for Yu-Gi-Oh! Cross Duel",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/c3/82/40c382fd-ca4e-f70e-ff01-ca8ba1689f79/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png",
+    "original_resolution": [
+      1024,
+      1024
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "App Store icon for Yu-Gi-Oh! Cross Duel",
+      "source": "Konami Digital Entertainment via Apple App Store",
+      "url": "https://www.konami.com/games/ca/en/topics/2033/"
+    }
+  ],
+  "files": {
+    "cover.webp": "fb912225d6d3ccb8e2409321bab1e50e64f333b95103b129a728e27200eaa821"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "dark-cat",
+  "name": "Dark Cat",
+  "date": "2008-04-06",
+  "region": "OCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "The 2008 Asia Championship ended with Gadget beating Dark Armed Dragon Beat. In the wider OCG pool, Rescue Cat could summon two Beasts at once, giving early Synchro decks a compact way to make their Extra Deck monsters.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/dark-cat",
+  "description_urls": [
+    "https://formatlibrary.com/formats/dark-cat",
+    "https://roadoftheking.com/yu-gi-oh-asia-championship-2008/",
+    "https://yugioh-history.com/environment/generation-six-3"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 65192027,
+      "name": "Dark Armed Dragon",
+      "why": "Exactly three DARK monsters in the Graveyard enabled its summon, then each DARK banished from there could destroy a field card.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2008/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://roadoftheking.com/yu-gi-oh-asia-championship-2008/",
+          "https://yugioh-history.com/environment/generation-six-3"
+        ]
+      }
+    },
+    {
+      "id": 14878871,
+      "name": "Rescue Cat",
+      "why": "Its original effect could summon two small Beasts such as Neo-Spacian Dark Panther and Ryko, putting both on the field with one card.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-3"
+        ]
+      }
+    },
+    {
+      "id": 423585,
+      "name": "Summoner Monk",
+      "why": "Discarding a Spell could fetch Rescue Cat, putting the Beast engine within reach of a Normal Summon.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-3"
+        ]
+      }
+    },
+    {
+      "id": 43237273,
+      "name": "Neo-Spacian Dark Panther",
+      "why": "Rescue Cat could bring out this Level 3 DARK Beast as material, and its effect could copy a face-up opposing monster.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-3"
+        ]
+      }
+    },
+    {
+      "id": 21502796,
+      "name": "Ryko, Lightsworn Hunter",
+      "why": "Its period Flip Effect answered a card on the field while putting three cards into the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-3"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "contemporaneous_community_tournament_decks",
+        "source_url": "https://roadoftheking.com/yu-gi-oh-asia-championship-2008/",
+        "deck_count": 1,
+        "tournaments": [
+          "Asia Championship 2008"
+        ],
+        "sample_date": "2008-04-06",
+        "source_images": [
+          "ACS2008_2nd"
+        ]
+      },
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/dogma-blade",
+        "deck_count": 1,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/dogma-blade"
+        ],
+        "sample_dates": [
+          "2008-03-01"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://roadoftheking.com/yu-gi-oh-asia-championship-2008/",
+      "https://yugioh-history.com/environment/generation-six-3",
+      "https://yugioh-history.com/deck-list/historical/dogma-blade"
+    ]
+  }
+}

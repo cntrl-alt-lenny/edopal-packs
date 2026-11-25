@@ -1,0 +1,190 @@
+{
+  "id": "nekroz",
+  "name": "Nekroz",
+  "date": "2015-06-27",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "Nekroz occupied 35 of the 64 elimination places at the 2015 North American World Championship Qualifier. Its Ritual Monsters could be useful even in hand. Brionac could be discarded to find a Nekroz monster, while a summoned Unicore negated the effects of face-up monsters summoned from the Extra Deck.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/nekroz",
+  "description_urls": [
+    "https://formatlibrary.com/formats/nekroz",
+    "https://formatlibrary.com/events/NAWCQ15",
+    "https://yugiohblog.konami.com/2015/championships/2015-north-american-wcq/north-american-wcq-top-64-deck-breakdown/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 52068432,
+      "name": "Nekroz of Trishula",
+      "why": "Its Ritual Summon could banish a card from each of the opponent's hand, field and Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4227",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4227"
+        ]
+      }
+    },
+    {
+      "id": 26674724,
+      "name": "Nekroz of Brionac",
+      "why": "Discarding Brionac searched the Nekroz monster needed for the next Ritual Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4227",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4227"
+        ]
+      }
+    },
+    {
+      "id": 89463537,
+      "name": "Nekroz of Unicore",
+      "why": "It negated the effects of face-up monsters Special Summoned from the Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4227",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4227"
+        ]
+      }
+    },
+    {
+      "id": 51124303,
+      "name": "Nekroz Kaleidoscope",
+      "why": "Sending Herald of the Arc Light from the Extra Deck paid for Unicore and triggered an additional Ritual search.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4227",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4227"
+        ]
+      }
+    },
+    {
+      "id": 90307777,
+      "name": "Shurit, Strategist of the Nekroz",
+      "why": "Shurit supplied the full Level requirement for one Nekroz Ritual Monster and could search a Warrior Nekroz Ritual Monster when Tributed by a card effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4227",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4227"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 17,
+    "fl_events": [
+      "NAWCQ15",
+      "NECA01",
+      "YCSCHI15",
+      "YCSCOL15"
+    ],
+    "fl_deck_ids": [
+      41316,
+      41343,
+      41344,
+      41411,
+      41412,
+      41518,
+      41519,
+      41520,
+      41521,
+      41522,
+      41539,
+      41712,
+      41713,
+      41714,
+      41715,
+      41861,
+      51244
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/4276",
+        "deck_count": 3,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4276",
+          "https://www.yugiohtopdecks.org/deck/4277",
+          "https://www.yugiohtopdecks.org/deck/4278"
+        ],
+        "tournaments": [
+          "WCQ - North America"
+        ],
+        "months": [
+          "June 2015"
+        ]
+      },
+      {
+        "kind": "archetype_event_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/4227",
+        "deck_count": 4,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4227",
+          "https://www.yugiohtopdecks.org/deck/4323",
+          "https://www.yugiohtopdecks.org/deck/4326",
+          "https://www.yugiohtopdecks.org/deck/4327"
+        ],
+        "tournaments": [
+          "2015 National Championships",
+          "WCQ - Central America"
+        ],
+        "months": [
+          "June 2015"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      41317,
+      41711
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/4276",
+      "https://www.yugiohtopdecks.org/deck/4227"
+    ]
+  }
+}

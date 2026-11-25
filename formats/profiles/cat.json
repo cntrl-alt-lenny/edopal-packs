@@ -1,0 +1,178 @@
+{
+  "id": "cat",
+  "name": "Cat",
+  "date": "2009-07-26",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Synchro Cat and Blackwing decks competed at the 2009 Shonen Jump Championship in Indianapolis. Rescue Cat could fetch X-Saber Airbellum and another Level 3 Beast, turning one monster into a Level 6 Synchro Summon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/cat",
+  "description_urls": [
+    "https://formatlibrary.com/formats/cat",
+    "https://formatlibrary.com/events/SJCIND09",
+    "https://www.yugiohtopdecks.org/deck/2459"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 511002992,
+      "name": "Rescue Cat",
+      "why": "It recruited X-Saber Airbellum with a second small Beast, letting one Normal Summon make a Synchro Monster.",
+      "has_art": true,
+      "printing_name": "Rescue Cat (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2458",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2459"
+        ]
+      }
+    },
+    {
+      "id": 511000229,
+      "name": "Dark Strike Fighter",
+      "why": "Its original effect converted a field of monsters into burn damage, even after those monsters had attacked.",
+      "has_art": true,
+      "printing_name": "Dark Strike Fighter (Pre-Errata)",
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2458",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2458"
+        ]
+      }
+    },
+    {
+      "id": 90508760,
+      "name": "X-Saber Airbellum",
+      "why": "This Level 3 Beast Tuner made Rescue Cat a Synchro starter and could strip a card from the hand on a direct hit.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2458",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2459"
+        ]
+      }
+    },
+    {
+      "id": 31924889,
+      "name": "Arcanite Magician",
+      "why": "Its two Spell Counters let a Synchro Summon remove two opposing cards before the Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2458",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2458"
+        ]
+      }
+    },
+    {
+      "id": 2009101,
+      "name": "Blackwing - Gale the Whirlwind",
+      "why": "It could join another Blackwing without using the Normal Summon, halve an opposing monster's stats and serve as a Tuner.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2458",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2458"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "EUC09",
+      "SJCANA09",
+      "SJCIND09",
+      "YFZ27",
+      "YRS71"
+    ],
+    "fl_deck_ids": [
+      3512,
+      3514,
+      3516,
+      3517,
+      3518,
+      25174,
+      25176,
+      25178,
+      25179,
+      25272,
+      25703,
+      25713,
+      25714,
+      25718,
+      25720,
+      25722,
+      39619,
+      56093,
+      56096
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2458",
+        "deck_count": 5,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2458",
+          "https://www.yugiohtopdecks.org/deck/2459",
+          "https://www.yugiohtopdecks.org/deck/2460",
+          "https://www.yugiohtopdecks.org/deck/2461",
+          "https://www.yugiohtopdecks.org/deck/2462"
+        ],
+        "tournaments": [
+          "2009 SJ Indianapolis"
+        ],
+        "months": [
+          "August 2009"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      3513,
+      25177
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2458"
+    ]
+  }
+}

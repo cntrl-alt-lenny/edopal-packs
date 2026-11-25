@@ -74,11 +74,11 @@ def track_list(source: Path) -> list[tuple[Path, dict]]:
 def cover_assets(source: Path, cover: Path, thumb: Path) -> None:
     with Image.open(source) as im:
         art = ImageOps.exif_transpose(im).convert("RGB")
-        art.thumbnail((900, 900), Image.Resampling.LANCZOS)
-        art.save(cover, "WEBP", quality=90, method=6)
-        art.thumbnail((480, 480), Image.Resampling.LANCZOS)
+        full = ImageOps.contain(art, (1200, 1200), Image.Resampling.LANCZOS)
+        full.save(cover, "WEBP", quality=88, method=6)
+        small = ImageOps.contain(art, (480, 480), Image.Resampling.LANCZOS)
         for quality in range(86, 5, -8):
-            art.save(thumb, "WEBP", quality=quality, method=6)
+            small.save(thumb, "WEBP", quality=quality, method=6)
             if thumb.stat().st_size < 60_000:
                 break
 
@@ -175,7 +175,7 @@ def build(
     version: str = "1.0.0",
 ) -> Path:
     if len(slug) > 90 or not re.fullmatch("[a-z0-9]+(?:-[a-z0-9]+)*", slug) or DEVICE_NAME.fullmatch(slug):
-        raise ValueError("Use a portable lowercase pack slug such as sample-afterglow")
+        raise ValueError("Use a portable lowercase pack slug such as evening-studies")
     tracks = track_list(source)
     pack_id = "music-" + slug
     executable = shutil.which("ffmpeg")

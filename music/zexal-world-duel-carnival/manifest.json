@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-zexal-world-duel-carnival",
+  "kind": "music",
+  "name": "ZEXAL World Duel Carnival",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! ZEXAL World Duel Carnival",
+  "series": "ZEXAL",
+  "year": 2013,
+  "platform": "Nintendo 3DS",
+  "platforms": [
+    "Nintendo 3DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Europe",
+  "cover_attribution": {
+    "region": "Europe",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! ZEXAL World Duel Carnival — Box - Front (Europe)",
+    "platform": "Nintendo 3DS",
+    "source_url": "https://images.launchbox-app.com/82308ccf-444a-4f2f-97fd-38f290ddd157.png",
+    "original_resolution": [
+      1000,
+      897
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! ZEXAL World Duel Carnival — Box - Front (Europe)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/34792"
+    }
+  ],
+  "files": {
+    "cover.webp": "80ae01e482aee850449356c3c88d37439de5ba205bb6ab06920e67f09e7b48db"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "goat",
+  "name": "Goat",
+  "date": "2005-08-20",
+  "region": "TCG",
+  "era": "GX",
+  "popular": true,
+  "description": "Goat Format is the first GX era format and one of the most popular retro Yu-Gi-Oh! TCG formats. The latest core sets are Flaming Eternity (FET) and The Lost Millennium (TLM). Notable additions include Rescue Cat, Brain Control, and Lightning Vortex. Confiscation and The Forceful Sentry are now Forbidden, while Delinquent Duo and Graceful Charity are unbanned. The format’s name comes from the historically successful Goat Control deck, however, the modern metagame revolves around Chaos Turbo. The format is simple and interactive, requiring players to use skills such as reading, bluffing, and resource management.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/goat",
+  "description_urls": [
+    "https://formatlibrary.com/formats/goat"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 504700102,
+      "name": "Thousand-Eyes Restrict",
+      "why": "It absorbed an opposing monster and stopped other monsters from attacking, buying time to reuse Flip Effects.",
+      "has_art": true,
+      "printing_name": "Thousand-Eyes Restrict (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3091",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3091"
+        ]
+      }
+    },
+    {
+      "id": 504700118,
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "why": "A spent LIGHT and DARK monster put 3000 ATK on the field, with a choice between banishing a monster and attacking twice.",
+      "has_art": true,
+      "printing_name": "Black Luster Soldier - Envoy of the Beginning (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 21,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3091",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3091"
+        ]
+      }
+    },
+    {
+      "id": 504700123,
+      "name": "Scapegoat",
+      "why": "Four Sheep Tokens could absorb a turn of attacks or leave a Level 1 monster for Metamorphosis on a later turn.",
+      "has_art": true,
+      "printing_name": "Scapegoat (GOAT)",
+      "evidence": {
+        "fl_decks_with_card": 17,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3091",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3091"
+        ]
+      }
+    },
+    {
+      "id": 34853266,
+      "name": "Tsukuyomi",
+      "why": "It turned a used Flip monster face-down, then returned to the hand to repeat the play on a later turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 14,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3091",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3091"
+        ]
+      }
+    },
+    {
+      "id": 9596126,
+      "name": "Chaos Sorcerer",
+      "why": "Banishing a LIGHT and a DARK from the Graveyard summoned a threat that could remove a face-up monster every turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3
+      }
+    },
+    {
+      "id": 44763025,
+      "name": "Delinquent Duo",
+      "why": "For 1000 LP it stripped two cards from a full opposing hand, including one chosen at random.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 22,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3091",
+            "decks_with_card": 7
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3091",
+          "https://formatlibrary.com/formats/goat"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 22,
+    "fl_events": [
+      "PWCQ93",
+      "SESB23",
+      "SJCIND05",
+      "SJCNJ05",
+      "USNC05"
+    ],
+    "fl_deck_ids": [
+      3015,
+      3016,
+      3017,
+      3018,
+      3019,
+      3021,
+      4091,
+      4092,
+      4093,
+      4094,
+      4095,
+      4096,
+      4123,
+      4124,
+      4125,
+      4126,
+      4127,
+      4128,
+      88443,
+      88459,
+      88815,
+      88837
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/3091",
+        "deck_count": 7,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3091",
+          "https://www.yugiohtopdecks.org/deck/3092",
+          "https://www.yugiohtopdecks.org/deck/3093",
+          "https://www.yugiohtopdecks.org/deck/3094",
+          "https://www.yugiohtopdecks.org/deck/3095",
+          "https://www.yugiohtopdecks.org/deck/3096",
+          "https://www.yugiohtopdecks.org/deck/3097"
+        ],
+        "tournaments": [
+          "2005 SJC Indianapolis"
+        ],
+        "months": [
+          "August 2005"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/3091"
+    ]
+  }
+}

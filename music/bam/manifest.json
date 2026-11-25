@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "music-bam",
+  "kind": "music",
+  "name": "BAM",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! BAM",
+  "series": "Crossover",
+  "year": 2012,
+  "platform": "Web browser, iOS, Android",
+  "platforms": [
+    "Web browser",
+    "iOS",
+    "Android"
+  ],
+  "aliases": [
+    "BAM Pocket"
+  ],
+  "editions": [
+    {
+      "name": "BAM",
+      "year": 2012,
+      "platforms": [
+        "Web browser"
+      ]
+    },
+    {
+      "name": "BAM Pocket",
+      "year": 2013,
+      "platforms": [
+        "iOS",
+        "Android"
+      ]
+    }
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Official game wallpaper",
+    "description": "Official game wallpaper for Yu-Gi-Oh! BAM",
+    "source_url": "https://web.archive.org/web/20121024172153id_/https://www.yugioh-bam.com/blog/wp-content/uploads/2012/06/wallpaper03_23.png",
+    "original_resolution": [
+      1280,
+      1024
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Official game wallpaper for Yu-Gi-Oh! BAM",
+      "source": "Konami Digital Entertainment / Frima Studio, archived Yu-Gi-Oh! BAM game site",
+      "url": "https://web.archive.org/web/20120921153515/https://www.yugioh-bam.com/blog/goodies/"
+    }
+  ],
+  "files": {
+    "cover.webp": "3c3f3789ee7dcfa0dfe89ba380b06c6a173c5e24584e80a6a81a2fcfb21a5085"
+  }
+}

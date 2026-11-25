@@ -1,0 +1,172 @@
+{
+  "id": "snake-eye",
+  "name": "Snake-Eye",
+  "date": "2024-06-02",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "YCS Indianapolis in June 2024 featured Snake-Eye alongside Labrynth and Melodious decks. Snake-Eyes Flamberge Dragon could place a monster in the Spell and Trap Zone and later return two Level 1 FIRE monsters from the Graveyard to the field.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/snake-eye",
+  "description_urls": [
+    "https://formatlibrary.com/formats/snake-eye",
+    "https://formatlibrary.com/events/YCSIND24",
+    "https://www.yugiohtopdecks.org/deck/9882"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 48452496,
+      "name": "Snake-Eyes Flamberge Dragon",
+      "why": "Sending Flamberge from the hand or field to the Graveyard could revive two Level 1 FIRE monsters for more Link Summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9882",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9882"
+        ]
+      }
+    },
+    {
+      "id": 9674034,
+      "name": "Snake-Eye Ash",
+      "why": "Its summon searched a Level 1 FIRE monster such as Poplar, connecting the Snake-Eye and Fire King engines.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9882",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9882"
+        ]
+      }
+    },
+    {
+      "id": 90241276,
+      "name": "Snake-Eyes Poplar",
+      "why": "Searching Poplar let it summon itself and find a Snake-Eye Spell or Trap without using the Normal Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9882",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9882"
+        ]
+      }
+    },
+    {
+      "id": 72270339,
+      "name": "Diabellstar the Black Witch",
+      "why": "It could send a card from hand or field for its own summon, then Set a Sinful Spoils Spell or Trap from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9882",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9882"
+        ]
+      }
+    },
+    {
+      "id": 89023486,
+      "name": "Original Sinful Spoils - Snake-Eye",
+      "why": "Sending another face-up card to the Graveyard summoned a Level 1 FIRE monster such as Snake-Eye Ash from the hand or Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/9882",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9882"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 17,
+    "fl_events": [
+      "DENC24",
+      "YCSIND24",
+      "YCSRAL24"
+    ],
+    "fl_deck_ids": [
+      38222,
+      38223,
+      38224,
+      38225,
+      38246,
+      38463,
+      40754,
+      40755,
+      40756,
+      40757,
+      40758,
+      48557,
+      48558,
+      48559,
+      48560,
+      48577,
+      48586
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9882",
+        "deck_count": 6,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9881",
+          "https://www.yugiohtopdecks.org/deck/9882",
+          "https://www.yugiohtopdecks.org/deck/9912",
+          "https://www.yugiohtopdecks.org/deck/9913",
+          "https://www.yugiohtopdecks.org/deck/9914",
+          "https://www.yugiohtopdecks.org/deck/9915"
+        ],
+        "tournaments": [
+          "YCS - Indianapolis Indiana"
+        ],
+        "months": [
+          "June 2024"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      62002
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9882"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2011",
+  "kind": "music",
+  "name": "Over the Nexus",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
+  "series": "5D's",
+  "year": 2011,
+  "platform": "Nintendo DS",
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus — Box - Front (North America)",
+    "platform": "Nintendo DS",
+    "source_url": "https://images.launchbox-app.com/18c60e4c-e84a-4a0f-88fd-42a2bcee6c23.png",
+    "original_resolution": [
+      1500,
+      1346
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus — Box - Front (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/22137"
+    }
+  ],
+  "files": {
+    "cover.webp": "c2023c268eda557a27811dbcb4ad4e64956151744f1a5c103d44da9feb445cb3"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "charleston",
+  "name": "Charleston",
+  "date": "2015-02-01",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "At the start of February 2015, YCS Charleston featured Burning Abyss, Qliphort and Satellarknight decks. Satellarknights repeatedly summoned Level 4 monsters to make Stellarknight Triverr, which could return the rest of the field to the hand.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/charleston",
+  "description_urls": [
+    "https://formatlibrary.com/formats/charleston",
+    "https://formatlibrary.com/events/YCSCHA15",
+    "https://www.yugiohtopdecks.org/deck/3997"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 42589641,
+      "name": "Stellarknight Triverr",
+      "why": "Returning every other card on the field to the hand cleared opposing boards and let Tellarknights reuse their revival Traps.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3992",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3997"
+        ]
+      }
+    },
+    {
+      "id": 83531441,
+      "name": "Dante, Traveler of the Burning Abyss",
+      "why": "Milling up to three cards fueled the Burning Abyss monsters whose effects activated in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3992",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3992"
+        ]
+      }
+    },
+    {
+      "id": 75878039,
+      "name": "Satellarknight Deneb",
+      "why": "Any summon of Deneb could search another Tellarknight, including Altair for the following turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3992",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3997"
+        ]
+      }
+    },
+    {
+      "id": 5318639,
+      "name": "Mystical Space Typhoon",
+      "why": "As a Quick-Play Spell it could remove a set Trap in the End Phase or break a Continuous Spell or Trap during a combo.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3992",
+            "decks_with_card": 14
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3885"
+        ]
+      }
+    },
+    {
+      "id": 2273734,
+      "name": "Satellarknight Altair",
+      "why": "Reviving Deneb both searched a card and put two Level 4 monsters on the field for a Rank 4 play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/3992",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3997"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 15,
+    "fl_events": [
+      "COOK01",
+      "COOK07",
+      "KGP08",
+      "YCSCHA15"
+    ],
+    "fl_deck_ids": [
+      21811,
+      21812,
+      21813,
+      21814,
+      21815,
+      23398,
+      23411,
+      23414,
+      23415,
+      33588,
+      33589,
+      33593,
+      33603,
+      41159,
+      87433
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/3992",
+        "deck_count": 14,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/3885",
+          "https://www.yugiohtopdecks.org/deck/3992",
+          "https://www.yugiohtopdecks.org/deck/3993",
+          "https://www.yugiohtopdecks.org/deck/3994",
+          "https://www.yugiohtopdecks.org/deck/3995",
+          "https://www.yugiohtopdecks.org/deck/3996",
+          "https://www.yugiohtopdecks.org/deck/3997",
+          "https://www.yugiohtopdecks.org/deck/3998",
+          "https://www.yugiohtopdecks.org/deck/3999",
+          "https://www.yugiohtopdecks.org/deck/4000",
+          "https://www.yugiohtopdecks.org/deck/4001",
+          "https://www.yugiohtopdecks.org/deck/4002",
+          "https://www.yugiohtopdecks.org/deck/4003",
+          "https://www.yugiohtopdecks.org/deck/4004"
+        ],
+        "tournaments": [
+          "YCS - Charleston South Carolina"
+        ],
+        "months": [
+          "February 2015"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/3992"
+    ]
+  }
+}

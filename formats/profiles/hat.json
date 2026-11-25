@@ -1,0 +1,209 @@
+{
+  "id": "hat",
+  "name": "HAT",
+  "date": "2014-07-12",
+  "region": "TCG",
+  "era": "ZEXAL",
+  "popular": true,
+  "description": "HAT Format is the final Zexal era format and one of the more popular retro Yu-Gi-Oh! TCG formats, backed by strong community support. The format’s name comes from the Hand, Artifact, and Traptrix engines. Since Vegas Format, Dragons of Legend (DRLG) and Primal Origin (PRIO) were introduced. Notable additions include Traptrix Dionaea, Soul Charge, Sylvan support, and the Artifact and Hand archetypes. The modern metagame features diverse decks including Artifact Traptrix, Bujin, Geargia, Mermail, and Spellbook. This was the last format before Pendulum Monsters and the removal of First Turn Draw.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/hat",
+  "description_urls": [
+    "https://formatlibrary.com/formats/hat"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 2"
+  },
+  "defining_cards": [
+    {
+      "id": 85103922,
+      "name": "Artifact Moralltach",
+      "why": "Artifact Sanctum could summon it during the opponent's turn to destroy a face-up card without targeting.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/714",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/714"
+        ]
+      }
+    },
+    {
+      "id": 68535320,
+      "name": "Fire Hand",
+      "why": "Destroying it could cost the opponent a monster and bring Ice Hand straight from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/714",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/714"
+        ]
+      }
+    },
+    {
+      "id": 91812341,
+      "name": "Traptrix Myrmeleo",
+      "why": "Its Normal Summon searched a Hole Trap, and reviving it gave Traptrix another way to break opposing back rows.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/714",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/714"
+        ]
+      }
+    },
+    {
+      "id": 54447022,
+      "name": "Soul Charge",
+      "why": "It revived several monsters at once, letting decks rebuild an Extra Deck board at the cost of life points and their Battle Phase.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/714",
+            "decks_with_card": 16
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/714",
+          "https://formatlibrary.com/formats/hat"
+        ]
+      }
+    },
+    {
+      "id": 46772449,
+      "name": "Evilswarm Exciton Knight",
+      "why": "A Rank 4 Xyz Summon could clear the rest of the field against an opponent holding more total cards.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 18,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/714",
+            "decks_with_card": 14
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/714"
+        ]
+      }
+    },
+    {
+      "id": 923596,
+      "name": "Geargiarmor",
+      "why": "Turning it face-up searched a Geargia monster, and setting it again threatened another search on a later turn.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/714",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/728"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 20,
+    "fl_events": [
+      "EUWCQ14",
+      "MOMO55",
+      "NAWCQ14",
+      "PPAY25",
+      "YCSPHI14"
+    ],
+    "fl_deck_ids": [
+      5937,
+      5966,
+      5972,
+      5974,
+      5975,
+      5976,
+      40370,
+      40371,
+      40372,
+      40394,
+      49321,
+      49322,
+      49323,
+      49325,
+      49327,
+      49336,
+      88053,
+      88064,
+      88767,
+      88769
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/714",
+        "deck_count": 20,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/714",
+          "https://www.yugiohtopdecks.org/deck/715",
+          "https://www.yugiohtopdecks.org/deck/716",
+          "https://www.yugiohtopdecks.org/deck/717",
+          "https://www.yugiohtopdecks.org/deck/718",
+          "https://www.yugiohtopdecks.org/deck/719",
+          "https://www.yugiohtopdecks.org/deck/720",
+          "https://www.yugiohtopdecks.org/deck/721",
+          "https://www.yugiohtopdecks.org/deck/722",
+          "https://www.yugiohtopdecks.org/deck/723",
+          "https://www.yugiohtopdecks.org/deck/724",
+          "https://www.yugiohtopdecks.org/deck/725",
+          "https://www.yugiohtopdecks.org/deck/726",
+          "https://www.yugiohtopdecks.org/deck/727",
+          "https://www.yugiohtopdecks.org/deck/728",
+          "https://www.yugiohtopdecks.org/deck/729",
+          "https://www.yugiohtopdecks.org/deck/730",
+          "https://www.yugiohtopdecks.org/deck/731",
+          "https://www.yugiohtopdecks.org/deck/732",
+          "https://www.yugiohtopdecks.org/deck/6764"
+        ],
+        "tournaments": [
+          "WCQ - North America"
+        ],
+        "months": [
+          "July 2014"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      40373,
+      40374
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/714"
+    ]
+  }
+}

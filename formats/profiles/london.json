@@ -1,0 +1,121 @@
+{
+  "id": "london",
+  "name": "London",
+  "date": "2014-10-25",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "London preserves the October 2014 TCG pool, with Satellarknight, Shaddoll and Burning Abyss available. Shaddoll and Burning Abyss could share an engine because one Fusion Summon could send monsters from both families to the Graveyard and trigger their effects.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/london",
+  "description_urls": [
+    "https://formatlibrary.com/formats/london",
+    "https://formatlibrary.com/events/YCSLON14",
+    "https://formatlibrary.com/decks/88875",
+    "https://www.yugiohtopdecks.org/deck/8613"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 83531441,
+      "name": "Dante, Traveler of the Burning Abyss",
+      "why": "Milling up to three cards fueled the Burning Abyss monsters whose effects activated in the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5
+      }
+    },
+    {
+      "id": 57143342,
+      "name": "Cir, Malebranche of the Burning Abyss",
+      "why": "Cir could revive Dante, and Dante could return Cir to hand when sent to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5
+      }
+    },
+    {
+      "id": 20758643,
+      "name": "Graff, Malebranche of the Burning Abyss",
+      "why": "Sending Graff to the Graveyard brought a different Burning Abyss monster directly out of the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5
+      }
+    },
+    {
+      "id": 20366274,
+      "name": "El Shaddoll Construct",
+      "why": "Sending a Shaddoll card to the Graveyard on summon set up another effect while Construct threatened Special Summoned monsters in battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9
+      }
+    },
+    {
+      "id": 44394295,
+      "name": "Shaddoll Fusion",
+      "why": "An opposing monster summoned from the Extra Deck let this Fusion Spell use Shaddolls straight from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 14,
+    "fl_events": [
+      "LOLE01",
+      "LOLE07",
+      "LOLE08",
+      "YCSLON14"
+    ],
+    "fl_deck_ids": [
+      40917,
+      40918,
+      40919,
+      40920,
+      40922,
+      62162,
+      62173,
+      62176,
+      62177,
+      84045,
+      84046,
+      84051,
+      84056,
+      88875
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8613",
+        "deck_count": 1,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8613"
+        ],
+        "tournaments": [
+          "YCS - London England"
+        ],
+        "months": [
+          "October 2014"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      40921
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8613"
+    ]
+  }
+}

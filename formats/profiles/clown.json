@@ -1,0 +1,151 @@
+{
+  "id": "clown",
+  "name": "Clown",
+  "date": "2015-08-07",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "Clown captures the August 2015 YCS Rimini card pool, where Performage monsters could supply material for both Fusions and Rank 4 Xyz Summons. Trick Clown could revive itself after reaching the Graveyard, allowing a Shaddoll player to keep a monster after using it as Fusion Material.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/clown",
+  "description_urls": [
+    "https://formatlibrary.com/formats/clown",
+    "https://formatlibrary.com/events/YCSRIM15",
+    "https://www.yugiohtopdecks.org/deck/8514"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 67696066,
+      "name": "Performage Trick Clown",
+      "why": "Sending Trick Clown to the Graveyard let it revive a Performage, often itself, to supply another Rank 4 material.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 3,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8514",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8514"
+        ]
+      }
+    },
+    {
+      "id": 68819554,
+      "name": "Performage Damage Juggler",
+      "why": "Banishing Damage Juggler from the Graveyard searched a Performage such as Trick Clown or Hat Tricker.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8514",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8514"
+        ]
+      }
+    },
+    {
+      "id": 31292357,
+      "name": "Performage Hat Tricker",
+      "why": "Two monsters on the field let Hat Tricker Special Summon itself and extend a Rank 4 play.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/8514",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8514"
+        ]
+      }
+    },
+    {
+      "id": 89463537,
+      "name": "Nekroz of Unicore",
+      "why": "It negated the effects of face-up monsters Special Summoned from the Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7
+      }
+    },
+    {
+      "id": 65518099,
+      "name": "Qliphort Scout",
+      "why": "Searching a Qli card each turn gave the Pendulum deck a steady supply of scales and Tribute Summons.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 17,
+    "fl_events": [
+      "CLAR18",
+      "YCSDAL15",
+      "YCSRIM15",
+      "YCSTOR15"
+    ],
+    "fl_deck_ids": [
+      3900,
+      3906,
+      3919,
+      3920,
+      41899,
+      41900,
+      41901,
+      41902,
+      41903,
+      41904,
+      41934,
+      61569,
+      61570,
+      61572,
+      61573,
+      61574,
+      86847
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8514",
+        "deck_count": 1,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8514"
+        ],
+        "tournaments": [
+          "YCS - Rimini Italy"
+        ],
+        "months": [
+          "August 2015"
+        ]
+      }
+    ],
+    "fl_deck_ids_excluded_by_pool": [
+      3899,
+      3908
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8514"
+    ]
+  }
+}

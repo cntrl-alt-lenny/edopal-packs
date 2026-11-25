@@ -1,0 +1,177 @@
+{
+  "id": "performapal",
+  "name": "Performapal",
+  "date": "2016-02-06",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "Performapal Pendulum decks were a fixture of YCS Atlanta in February 2016. Monkeyboard searched another Performapal, while cards such as Luster Pendulum could destroy a scale and turn it into a resource for a later Pendulum Summon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/performapal",
+  "description_urls": [
+    "https://formatlibrary.com/formats/performapal",
+    "https://formatlibrary.com/events/YCSATL16",
+    "https://www.yugiohtopdecks.org/deck/4857"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 17330916,
+      "name": "Performapal Monkeyboard",
+      "why": "Placing Monkeyboard in a Pendulum Zone could find a low-Level Performapal to complete the scales.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4857",
+            "decks_with_card": 13
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4779"
+        ]
+      }
+    },
+    {
+      "id": 40318957,
+      "name": "Performapal Skullcrobat Joker",
+      "why": "Its Normal Summon searched a Performapal, Magician Pendulum Monster or Odd-Eyes monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 12,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4857",
+            "decks_with_card": 13
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4779"
+        ]
+      }
+    },
+    {
+      "id": 7563579,
+      "name": "Performage Plushfire",
+      "why": "Destroying Plushfire in a Pendulum Zone let it summon a different Performage straight from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4857",
+            "decks_with_card": 12
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4779"
+        ]
+      }
+    },
+    {
+      "id": 47075569,
+      "name": "Performapal Pendulum Sorcerer",
+      "why": "Its Special Summon converted cards on its own field into Performapal searches, including by destroying useful scales.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4857",
+            "decks_with_card": 13
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4779"
+        ]
+      }
+    },
+    {
+      "id": 92746535,
+      "name": "Luster Pendulum, the Dracoslayer",
+      "why": "Destroying the other scale fetched a second copy and helped stock the face-up Extra Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 11,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/4857",
+            "decks_with_card": 13
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4779"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 16,
+    "fl_events": [
+      "EC01",
+      "YCSATL16",
+      "YCSSYD16"
+    ],
+    "fl_deck_ids": [
+      38812,
+      38813,
+      38814,
+      38815,
+      38816,
+      42191,
+      42192,
+      42193,
+      42194,
+      42195,
+      42236,
+      42248,
+      73602,
+      73605,
+      73607,
+      73609
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/4857",
+        "deck_count": 15,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/4779",
+          "https://www.yugiohtopdecks.org/deck/4780",
+          "https://www.yugiohtopdecks.org/deck/4781",
+          "https://www.yugiohtopdecks.org/deck/4782",
+          "https://www.yugiohtopdecks.org/deck/4783",
+          "https://www.yugiohtopdecks.org/deck/4784",
+          "https://www.yugiohtopdecks.org/deck/4785",
+          "https://www.yugiohtopdecks.org/deck/4786",
+          "https://www.yugiohtopdecks.org/deck/4787",
+          "https://www.yugiohtopdecks.org/deck/4788",
+          "https://www.yugiohtopdecks.org/deck/4789",
+          "https://www.yugiohtopdecks.org/deck/4790",
+          "https://www.yugiohtopdecks.org/deck/4791",
+          "https://www.yugiohtopdecks.org/deck/4857",
+          "https://www.yugiohtopdecks.org/deck/4858"
+        ],
+        "tournaments": [
+          "YCS - Atlanta Georgia"
+        ],
+        "months": [
+          "February 2016"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/4857"
+    ]
+  }
+}

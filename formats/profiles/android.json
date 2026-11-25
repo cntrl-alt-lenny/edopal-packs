@@ -1,0 +1,121 @@
+{
+  "id": "android",
+  "name": "Android",
+  "date": "2003-04-01",
+  "region": "TCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Android Format, named after the OCG's Jinzo, is a DM era format that predates the first banlist. The latest core set is Labyrinth of Nightmare (LON). Notable additions include Gemini Elf, Bazoo the Soul-Eater, Kycoo the Ghost Destroyer, Skull Lair, and Torrential Tribute. Due to mistranslations, cards such as Skull Lair can banish any card from the Graveyard.",
+  "description_source": "formatlibrary",
+  "source_url": "https://formatlibrary.com/formats/android",
+  "description_urls": [
+    "https://formatlibrary.com/formats/android"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "GOAT"
+  },
+  "defining_cards": [
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "why": "Its 2400 ATK and continuous suppression of Traps made a single tribute enough to attack through a defended field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Decks_2003/April2003/KDR-10/Any%20Given%20Sunday%20--%20Michael%20Lucas%20--%204-6-2003%20--%20Jahinie%20Productions%20Munhall%20PA.htm",
+          "https://formatlibrary.com/formats/android"
+        ]
+      }
+    },
+    {
+      "id": 69140098,
+      "name": "Gemini Elf",
+      "why": "Its 1900 ATK raised the bar for tribute-free attackers, clearing La Jinn and Mechanicalchaser in battle.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 15,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Decks_2003/April2003/KDR-10/Any%20Given%20Sunday%20--%20Michael%20Lucas%20--%204-6-2003%20--%20Jahinie%20Productions%20Munhall%20PA.htm",
+          "https://formatlibrary.com/formats/android"
+        ]
+      }
+    },
+    {
+      "id": 40133511,
+      "name": "Bazoo the Soul-Eater",
+      "why": "Banishing spent cards raised it as high as 2500 ATK, enough to run over Jinzo without a tribute.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Decks_2003/April2003/KDR-10/Any%20Given%20Sunday%20--%20Michael%20Lucas%20--%204-6-2003%20--%20Jahinie%20Productions%20Munhall%20PA.htm",
+          "https://formatlibrary.com/formats/android"
+        ]
+      }
+    },
+    {
+      "id": 88240808,
+      "name": "Kycoo the Ghost Destroyer",
+      "why": "It blocked opposing Graveyard banishes and could banish up to two of the opponent's monsters after inflicting battle damage.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "source_urls": [
+          "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Decks_2003/April2003/KDR-10/Any%20Given%20Sunday%20--%20Michael%20Lucas%20--%204-6-2003%20--%20Jahinie%20Productions%20Munhall%20PA.htm",
+          "https://formatlibrary.com/formats/android"
+        ]
+      }
+    },
+    {
+      "id": 6733059,
+      "name": "Skull Lair",
+      "why": "Under the contemporary TCG wording, even spent Spells and Traps could be banished to destroy a monster of the matching Level.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 16,
+        "source_urls": [
+          "https://formatlibrary.com/formats/android"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 16,
+    "fl_events": [
+      "DUMP01",
+      "JACK03",
+      "YFZ04",
+      "YFZ12"
+    ],
+    "fl_deck_ids": [
+      25679,
+      25685,
+      25688,
+      35851,
+      35853,
+      35859,
+      35861,
+      35867,
+      35868,
+      40475,
+      40477,
+      40479,
+      40480,
+      40484,
+      40489,
+      72489
+    ],
+    "other_deck_samples": [],
+    "cross_check_urls": [
+      "https://www.pojo.com/yu-gi-oh/KillerDecks/2003/Decks_2003/April2003/KDR-10/Any%20Given%20Sunday%20--%20Michael%20Lucas%20--%204-6-2003%20--%20Jahinie%20Productions%20Munhall%20PA.htm"
+    ]
+  }
+}

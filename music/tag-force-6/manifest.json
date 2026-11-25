@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "music-tag-force-6",
+  "kind": "music",
+  "name": "5D's Tag Force 6",
+  "version": "0.2.0",
+  "game": "Yu-Gi-Oh! 5D's Tag Force 6",
+  "series": "5D's",
+  "year": 2011,
+  "platform": "PSP",
+  "platforms": [
+    "PSP"
+  ],
+  "cover": "cover.webp",
+  "cover_region": "Japan",
+  "cover_attribution": {
+    "region": "Japan",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! 5D's: Tag Force 6 — Box - Front (Japan)",
+    "platform": "Sony PSP",
+    "source_url": "https://images.launchbox-app.com/bafdbe12-e599-4517-acc6-5b5efce8ca4c.jpg",
+    "original_resolution": [
+      500,
+      857
+    ]
+  },
+  "audio": "pending",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! 5D's: Tag Force 6 — Box - Front (Japan)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/26227"
+    }
+  ],
+  "files": {
+    "cover.webp": "d2714c89cd8fe3a29bbac98eee91d170ba2ec8f29604266d1c5c25bce4bd8bd6"
+  }
+}

@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "goat",
+    "name": "Goat",
+    "date": "2005-08-20",
+    "region": "TCG",
+    "era": "GX",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 504700102
+  },
+  {
+    "id": "edison",
+    "name": "Edison",
+    "date": "2010-04-24",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 20932152
+  },
+  {
+    "id": "tengu",
+    "name": "Tengu",
+    "date": "2011-09-17",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 10028593
+  },
+  {
+    "id": "wind-up",
+    "name": "Wind-Up",
+    "date": "2012-10-21",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 81122844
+  },
+  {
+    "id": "hat",
+    "name": "HAT",
+    "date": "2014-07-12",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 85103922
+  },
+  {
+    "id": "ocg-goat",
+    "name": "OCG Goat",
+    "date": "2005-04-09",
+    "region": "OCG",
+    "era": "GX",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 63519819
+  },
+  {
+    "id": "destiny",
+    "name": "Destiny",
+    "date": "2007-04-06",
+    "region": "OCG",
+    "era": "GX",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 56570271
+  },
+  {
+    "id": "nexus",
+    "name": "Nexus",
+    "date": "2011-08-31",
+    "region": "OCG",
+    "era": "5D's",
+    "popular": true,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 52687916
+  },
+  {
+    "id": "yugi-kaiba",
+    "name": "Yugi-Kaiba",
+    "date": "2002-05-15",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": false,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 70781052
+  },
+  {
+    "id": "critter",
+    "name": "Critter",
+    "date": "2002-07-01",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": false,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 504700178
+  },
+  {
+    "id": "treasure",
+    "name": "Treasure",
+    "date": "2002-10-01",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 83011277
+  },
+  {
+    "id": "imperial",
+    "name": "Imperial",
+    "date": "2003-02-16",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 77585513
+  },
+  {
+    "id": "android",
+    "name": "Android",
+    "date": "2003-04-01",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 77585513
+  },
+  {
+    "id": "joey-pegasus",
+    "name": "Joey-Pegasus",
+    "date": "2003-05-08",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 511000818
+  },
+  {
+    "id": "fiber",
+    "name": "Fiber",
+    "date": "2003-07-08",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 78706415
+  },
+  {
+    "id": "yata",
+    "name": "Yata",
+    "date": "2003-08-10",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 3078576
+  },
+  {
+    "id": "scientist",
+    "name": "Scientist",
+    "date": "2003-11-17",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 34206604
+  },
+  {
+    "id": "vampire",
+    "name": "Vampire",
+    "date": "2004-02-28",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 7572887
+  },
+  {
+    "id": "chaos",
+    "name": "Chaos",
+    "date": "2004-06-26",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 511000819
+  },
+  {
+    "id": "warrior",
+    "name": "Warrior",
+    "date": "2005-02-13",
+    "region": "TCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 70074904
+  },
+  {
+    "id": "cyber",
+    "name": "Cyber",
+    "date": "2005-09-10",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 70095154
+  },
+  {
+    "id": "reaper",
+    "name": "Reaper",
+    "date": "2006-03-25",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 23205979
+  },
+  {
+    "id": "chaos-return",
+    "name": "Chaos Return",
+    "date": "2006-08-12",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 9596126
+  },
+  {
+    "id": "stein",
+    "name": "Stein",
+    "date": "2006-12-09",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 69015963
+  },
+  {
+    "id": "chimeratech",
+    "name": "Chimeratech",
+    "date": "2007-01-27",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 64599569
+  },
+  {
+    "id": "demise",
+    "name": "Demise",
+    "date": "2007-04-28",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 72426662
+  },
+  {
+    "id": "trooper",
+    "name": "Trooper",
+    "date": "2007-08-18",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 85087012
+  },
+  {
+    "id": "zombie",
+    "name": "Zombie",
+    "date": "2007-10-13",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 17259470
+  },
+  {
+    "id": "perfect-circle",
+    "name": "Perfect Circle",
+    "date": "2008-01-26",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 47297616
+  },
+  {
+    "id": "dad-return",
+    "name": "DAD Return",
+    "date": "2008-04-12",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 65192027
+  },
+  {
+    "id": "gladiator",
+    "name": "Gladiator",
+    "date": "2008-07-26",
+    "region": "TCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "GOAT"
+    },
+    "hero_card_id": 48156348
+  },
+  {
+    "id": "teledad",
+    "name": "TeleDAD",
+    "date": "2009-01-17",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 65192027
+  },
+  {
+    "id": "cat",
+    "name": "Cat",
+    "date": "2009-07-26",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 511002992
+  },
+  {
+    "id": "lightsworn",
+    "name": "Lightsworn",
+    "date": "2010-02-27",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 57774843
+  },
+  {
+    "id": "frog",
+    "name": "Frog",
+    "date": "2010-08-07",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 20663556
+  },
+  {
+    "id": "x-saber",
+    "name": "X-Saber",
+    "date": "2010-10-09",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 51808422
+  },
+  {
+    "id": "starstrike",
+    "name": "Starstrike",
+    "date": "2011-01-08",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 50091196
+  },
+  {
+    "id": "trishula",
+    "name": "Trishula",
+    "date": "2011-06-18",
+    "region": "TCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 52687916
+  },
+  {
+    "id": "dino-rabbit",
+    "name": "Dino Rabbit",
+    "date": "2012-06-30",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 85138716
+  },
+  {
+    "id": "miami",
+    "name": "Miami",
+    "date": "2013-02-17",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 21954587
+  },
+  {
+    "id": "meadowlands",
+    "name": "Meadowlands",
+    "date": "2013-05-11",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 6353603
+  },
+  {
+    "id": "baby-ruler",
+    "name": "Baby Ruler",
+    "date": "2013-07-13",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 53804307
+  },
+  {
+    "id": "ravine-ruler",
+    "name": "Ravine Ruler",
+    "date": "2013-10-05",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 62265044
+  },
+  {
+    "id": "fire-water",
+    "name": "Fire-Water",
+    "date": "2014-03-22",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 6353603
+  },
+  {
+    "id": "vegas",
+    "name": "Vegas",
+    "date": "2014-04-14",
+    "region": "TCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 923596
+  },
+  {
+    "id": "shaddoll",
+    "name": "Shaddoll",
+    "date": "2014-09-06",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 20366274
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "date": "2014-10-25",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 83531441
+  },
+  {
+    "id": "burning-abyss",
+    "name": "Burning Abyss",
+    "date": "2014-11-24",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 83531441
+  },
+  {
+    "id": "charleston",
+    "name": "Charleston",
+    "date": "2015-02-01",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 42589641
+  },
+  {
+    "id": "nekroz",
+    "name": "Nekroz",
+    "date": "2015-06-27",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 52068432
+  },
+  {
+    "id": "clown",
+    "name": "Clown",
+    "date": "2015-08-07",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 67696066
+  },
+  {
+    "id": "performapal",
+    "name": "Performapal",
+    "date": "2016-02-06",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 17330916
+  },
+  {
+    "id": "dracoslayer",
+    "name": "Dracoslayer",
+    "date": "2016-04-09",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 18239909
+  },
+  {
+    "id": "monarch",
+    "name": "Monarch",
+    "date": "2016-07-09",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 96570609
+  },
+  {
+    "id": "invasion",
+    "name": "Invasion",
+    "date": "2016-11-26",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 1561110
+  },
+  {
+    "id": "grass-zoo",
+    "name": "Grass Zoo",
+    "date": "2017-04-08",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 78872731
+  },
+  {
+    "id": "draco-zoo",
+    "name": "Draco Zoo",
+    "date": "2017-07-08",
+    "region": "TCG",
+    "era": "ARC-V",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": false,
+      "master_rule": "Master Rule 3"
+    },
+    "hero_card_id": 48905153
+  },
+  {
+    "id": "link-zoo",
+    "name": "Link Zoo",
+    "date": "2017-08-26",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 48905153
+  },
+  {
+    "id": "decode",
+    "name": "Decode",
+    "date": "2017-10-07",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 86120751
+  },
+  {
+    "id": "spyral",
+    "name": "SPYRAL",
+    "date": "2017-11-18",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 1322368
+  },
+  {
+    "id": "magician",
+    "name": "Magician",
+    "date": "2018-04-21",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 24094258
+  },
+  {
+    "id": "secaucus",
+    "name": "Secaucus",
+    "date": "2018-06-02",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 24073068
+  },
+  {
+    "id": "danger-1",
+    "name": "Danger 1",
+    "date": "2018-11-17",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 70711847
+  },
+  {
+    "id": "danger-2",
+    "name": "Danger 2",
+    "date": "2018-12-08",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 70711847
+  },
+  {
+    "id": "sky-striker",
+    "name": "Sky Striker",
+    "date": "2019-03-16",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 26077387
+  },
+  {
+    "id": "thunder-dragon",
+    "name": "Thunder Dragon",
+    "date": "2019-06-23",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 15291624
+  },
+  {
+    "id": "lunalight",
+    "name": "Lunalight",
+    "date": "2019-10-05",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 35618217
+  },
+  {
+    "id": "toss",
+    "name": "TOSS",
+    "date": "2019-11-23",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 30741503
+  },
+  {
+    "id": "rokket",
+    "name": "Rokket",
+    "date": "2020-02-22",
+    "region": "TCG",
+    "era": "VRAINS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 68464358
+  },
+  {
+    "id": "adamancipator",
+    "name": "Adamancipator",
+    "date": "2020-08-22",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 85914562
+  },
+  {
+    "id": "infernoble",
+    "name": "Infernoble",
+    "date": "2020-11-21",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 77656797
+  },
+  {
+    "id": "virtual-world",
+    "name": "Virtual World",
+    "date": "2021-02-13",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 49088914
+  },
+  {
+    "id": "dragon-link",
+    "name": "Dragon Link",
+    "date": "2021-04-11",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 68464358
+  },
+  {
+    "id": "tri-brigade",
+    "name": "Tri-Brigade",
+    "date": "2021-07-10",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rule 4"
+    },
+    "hero_card_id": 87209160
+  },
+  {
+    "id": "bird-up",
+    "name": "Bird-Up",
+    "date": "2022-01-15",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 8491961
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "date": "2022-04-09",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 60461804
+  },
+  {
+    "id": "despia",
+    "name": "Despia",
+    "date": "2022-07-17",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 44146295
+  },
+  {
+    "id": "elements",
+    "name": "Elements",
+    "date": "2022-09-10",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 76145933
+  },
+  {
+    "id": "darkwing",
+    "name": "Darkwing",
+    "date": "2022-10-22",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 33854624
+  },
+  {
+    "id": "tearlaments",
+    "name": "Tearlaments",
+    "date": "2022-12-10",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 92731385
+  },
+  {
+    "id": "hypernova",
+    "name": "Hypernova",
+    "date": "2023-02-12",
+    "region": "TCG",
+    "era": "SEVENS",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 4928565
+  },
+  {
+    "id": "kashtira",
+    "name": "Kashtira",
+    "date": "2023-07-08",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 48626373
+  },
+  {
+    "id": "overlord",
+    "name": "Overlord",
+    "date": "2023-12-10",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 29301450
+  },
+  {
+    "id": "fire-king",
+    "name": "Fire King",
+    "date": "2024-03-30",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 90681088
+  },
+  {
+    "id": "snake-eye",
+    "name": "Snake-Eye",
+    "date": "2024-06-02",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 48452496
+  },
+  {
+    "id": "fiendsmith",
+    "name": "Fiendsmith",
+    "date": "2024-07-19",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 60764609
+  },
+  {
+    "id": "lacrima",
+    "name": "Lacrima",
+    "date": "2024-11-24",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 28803166
+  },
+  {
+    "id": "ryzeal",
+    "name": "Ryzeal",
+    "date": "2025-04-05",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 34909328
+  },
+  {
+    "id": "maliss",
+    "name": "Maliss",
+    "date": "2025-07-11",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 32061192
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "date": "2025-08-17",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 29302858
+  },
+  {
+    "id": "mjollnir",
+    "name": "Mjollnir",
+    "date": "2025-10-05",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 80237445
+  },
+  {
+    "id": "doom",
+    "name": "Doom",
+    "date": "2025-11-23",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 29302858
+  },
+  {
+    "id": "protocol",
+    "name": "Protocol",
+    "date": "2026-02-15",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 87746184
+  },
+  {
+    "id": "advanced",
+    "name": "Advanced",
+    "date": "Rolling",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 14558127
+  },
+  {
+    "id": "traditional",
+    "name": "Traditional",
+    "date": "Rolling",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": true,
+      "link": true,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 55144522
+  },
+  {
+    "id": "genesys",
+    "name": "Genesys",
+    "date": "Rolling",
+    "region": "TCG",
+    "era": "GO RUSH!!",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rules (2020)"
+    },
+    "hero_card_id": 59438930
+  },
+  {
+    "id": "tokyo-dome",
+    "name": "Tokyo Dome",
+    "date": "1999-08-25",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 70781052
+  },
+  {
+    "id": "exodia",
+    "name": "Exodia",
+    "date": "2000-04-10",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 33396948
+  },
+  {
+    "id": "ocg-treasure",
+    "name": "OCG Treasure",
+    "date": "2000-05-15",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 17375316
+  },
+  {
+    "id": "snake",
+    "name": "Snake",
+    "date": "2000-07-15",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 8131171
+  },
+  {
+    "id": "cannon",
+    "name": "Cannon",
+    "date": "2000-08-20",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 11384280
+  },
+  {
+    "id": "ocg-imperial",
+    "name": "OCG Imperial",
+    "date": "2000-12-14",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 77585513
+  },
+  {
+    "id": "mirror",
+    "name": "Mirror",
+    "date": "2001-04-19",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 35563539
+  },
+  {
+    "id": "ocg-android",
+    "name": "OCG Android",
+    "date": "2001-08-12",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 77585513
+  },
+  {
+    "id": "makyura",
+    "name": "Makyura",
+    "date": "2002-01-01",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 21593977
+  },
+  {
+    "id": "ocg-yata",
+    "name": "OCG Yata",
+    "date": "2002-08-18",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 3078576
+  },
+  {
+    "id": "demon",
+    "name": "Demon",
+    "date": "2003-02-20",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 34206604
+  },
+  {
+    "id": "goblin",
+    "name": "Goblin",
+    "date": "2003-04-22",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 34853266
+  },
+  {
+    "id": "envoy",
+    "name": "Envoy",
+    "date": "2003-07-17",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 72989439
+  },
+  {
+    "id": "ocg-chaos",
+    "name": "OCG Chaos",
+    "date": "2004-02-26",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 82301904
+  },
+  {
+    "id": "catapult",
+    "name": "Catapult",
+    "date": "2004-04-10",
+    "region": "OCG",
+    "era": "DM",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 34206604
+  },
+  {
+    "id": "whale",
+    "name": "Whale",
+    "date": "2005-02-24",
+    "region": "OCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 18318842
+  },
+  {
+    "id": "victory",
+    "name": "Victory",
+    "date": "2006-02-28",
+    "region": "OCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 44910027
+  },
+  {
+    "id": "baboon",
+    "name": "Baboon",
+    "date": "2006-03-20",
+    "region": "OCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 46668237
+  },
+  {
+    "id": "ocg-airblade",
+    "name": "OCG Airblade",
+    "date": "2006-09-01",
+    "region": "OCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 40044918
+  },
+  {
+    "id": "armageddon",
+    "name": "Armageddon",
+    "date": "2007-09-01",
+    "region": "OCG",
+    "era": "GX",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": false,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 73125233
+  },
+  {
+    "id": "dark-cat",
+    "name": "Dark Cat",
+    "date": "2008-04-06",
+    "region": "OCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 65192027
+  },
+  {
+    "id": "ocg-teledad",
+    "name": "OCG TeleDAD",
+    "date": "2008-11-10",
+    "region": "OCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 65192027
+  },
+  {
+    "id": "dark-strike",
+    "name": "Dark Strike",
+    "date": "2009-03-01",
+    "region": "OCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 32646477
+  },
+  {
+    "id": "lightlord",
+    "name": "Lightlord",
+    "date": "2009-09-01",
+    "region": "OCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 57774843
+  },
+  {
+    "id": "infernity",
+    "name": "Infernity",
+    "date": "2010-03-01",
+    "region": "OCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 99177923
+  },
+  {
+    "id": "crow",
+    "name": "Crow",
+    "date": "2010-11-01",
+    "region": "OCG",
+    "era": "5D's",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": false,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 1"
+    },
+    "hero_card_id": 58820853
+  },
+  {
+    "id": "agent",
+    "name": "Agent",
+    "date": "2011-11-01",
+    "region": "OCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 55794644
+  },
+  {
+    "id": "inzektor",
+    "name": "Inzektor",
+    "date": "2012-04-15",
+    "region": "OCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 68184115
+  },
+  {
+    "id": "cosmo",
+    "name": "Cosmo",
+    "date": "2013-02-02",
+    "region": "OCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 6353603
+  },
+  {
+    "id": "ocg-baby-ruler",
+    "name": "OCG Baby Ruler",
+    "date": "2013-04-28",
+    "region": "OCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 53804307
+  },
+  {
+    "id": "ocg-ravine-ruler",
+    "name": "OCG Ravine Ruler",
+    "date": "2013-12-22",
+    "region": "OCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 62265044
+  },
+  {
+    "id": "incarnate",
+    "name": "Incarnate",
+    "date": "2014-03-20",
+    "region": "OCG",
+    "era": "ZEXAL",
+    "popular": false,
+    "mechanics": {
+      "fusion": true,
+      "ritual": true,
+      "synchro": true,
+      "xyz": true,
+      "pendulum": false,
+      "link": false,
+      "master_rule": "Master Rule 2"
+    },
+    "hero_card_id": 89399912
+  }
+]

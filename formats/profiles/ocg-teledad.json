@@ -1,0 +1,158 @@
+{
+  "id": "ocg-teledad",
+  "name": "OCG TeleDAD",
+  "date": "2008-11-10",
+  "region": "OCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Emergency Teleport put a Psychic Tuner such as Krebons straight onto the field. DARK monsters used for Synchro Summons also helped set up the precise Graveyard count required by Dark Armed Dragon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-teledad",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-teledad",
+    "https://yugioh-history.com/environment/generation-six-4",
+    "https://yugioh-history.com/environment/generation-six-10",
+    "https://yugioh-history.com/environment/generation-six-11"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 65192027,
+      "name": "Dark Armed Dragon",
+      "why": "Exactly three DARK monsters in the Graveyard enabled its summon, then each DARK banished from there could destroy a field card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 8,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+          "https://yugioh-history.com/environment/generation-six-4"
+        ]
+      }
+    },
+    {
+      "id": 44508094,
+      "name": "Stardust Dragon",
+      "why": "Its threat to negate a destruction effect made it a common Level 8 option for protecting a developed field.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+          "https://yugioh-history.com/environment/generation-six-4"
+        ]
+      }
+    },
+    {
+      "id": 9411399,
+      "name": "Destiny HERO - Malicious",
+      "why": "Once discarded or milled, it could banish itself to summon another copy from the Deck for a tribute or other summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/super-draw-light-dark",
+          "https://yugioh-history.com/environment/generation-six-10"
+        ]
+      }
+    },
+    {
+      "id": 50321796,
+      "name": "Brionac, Dragon of the Ice Barrier",
+      "why": "The period printing discarded cards to return cards on the field to the hand, clearing blockers or reusing friendly cards.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 10,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro"
+        ]
+      }
+    },
+    {
+      "id": 67723438,
+      "name": "Emergency Teleport",
+      "why": "It placed Krebons or another small Psychic Tuner on the field without using the Normal Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 7,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-six-4"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 10,
+    "fl_events": [
+      "BB01",
+      "OMS09"
+    ],
+    "fl_deck_ids": [
+      85686,
+      85688,
+      85690,
+      85691,
+      85692,
+      85696,
+      88544,
+      88553,
+      88554,
+      88555
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+        "deck_count": 3,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/gladiator-beast",
+          "https://yugioh-history.com/deck-list/historical/rescue-synchro",
+          "https://yugioh-history.com/deck-list/historical/super-draw-light-dark"
+        ],
+        "sample_dates": [
+          "2008-09-01",
+          "2008-09-13",
+          "2008-09-22"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-six-4",
+      "https://yugioh-history.com/environment/generation-six-10",
+      "https://yugioh-history.com/environment/generation-six-11",
+      "https://yugioh-history.com/deck-list/historical/gladiator-beast"
+    ]
+  }
+}

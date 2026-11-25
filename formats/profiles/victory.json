@@ -1,0 +1,152 @@
+{
+  "id": "victory",
+  "name": "Victory",
+  "date": "2006-02-28",
+  "region": "OCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Victory Dragon could win the entire match by reducing the opponent’s Life Points to zero with a direct attack. Decks built around it used control cards and repeatable Flip Effects to prepare its three-Dragon Tribute Summon.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/victory",
+  "description_urls": [
+    "https://formatlibrary.com/formats/victory",
+    "https://yugioh-history.com/environment/generation-four-23",
+    "https://yugioh-history.com/environment/generation-four-22"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 44910027,
+      "name": "Victory Dragon",
+      "why": "A direct attack that reduced the opponent to zero LP won the entire match, rewarding decks able to protect its three-Dragon Tribute Summon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/avarice-merchant",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/morphing-cyber-victory",
+          "https://yugioh-history.com/environment/generation-four-23"
+        ]
+      }
+    },
+    {
+      "id": 70095154,
+      "name": "Cyber Dragon",
+      "why": "It put 2100 ATK on the field without using the Normal Summon when only the opponent controlled a monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/avarice-merchant",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/avarice-merchant"
+        ]
+      }
+    },
+    {
+      "id": 69015963,
+      "name": "Cyber-Stein",
+      "why": "A 5000 LP payment summoned a Fusion Monster immediately, enabling sudden finishes with Cyber Twin Dragon or Cyber End Dragon.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-four-22"
+        ]
+      }
+    },
+    {
+      "id": 7572887,
+      "name": "D.D. Warrior Lady",
+      "why": "She could banish herself and the monster she battled, removing threats such as Vampire Lord without sending them to the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/avarice-merchant",
+            "decks_with_card": 4
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/decree-horus"
+        ]
+      }
+    },
+    {
+      "id": 23205979,
+      "name": "Spirit Reaper",
+      "why": "It survived battles as a defender and discarded a random card when it landed a direct hit.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/avarice-merchant",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/avarice-merchant",
+          "https://yugioh-history.com/environment/generation-four-23"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 4,
+    "fl_events": [
+      "OMS04"
+    ],
+    "fl_deck_ids": [
+      71683,
+      71684,
+      71685,
+      71686
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/avarice-merchant",
+        "deck_count": 9,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/avarice-merchant",
+          "https://yugioh-history.com/deck-list/historical/decree-horus",
+          "https://yugioh-history.com/deck-list/historical/last-turn",
+          "https://yugioh-history.com/deck-list/historical/meanae-virus",
+          "https://yugioh-history.com/deck-list/historical/morphing-cyber-victory",
+          "https://yugioh-history.com/deck-list/historical/treeborn-monarch",
+          "https://yugioh-history.com/deck-list/historical/victory-dragon-control"
+        ],
+        "sample_dates": [
+          "2005-09-01",
+          "2005-11-17",
+          "2005-12-17"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-four-23",
+      "https://yugioh-history.com/environment/generation-four-22",
+      "https://yugioh-history.com/deck-list/historical/avarice-merchant"
+    ]
+  }
+}

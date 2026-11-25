@@ -3,28 +3,37 @@
   "id": "music-gx-tag-force",
   "kind": "music",
   "name": "GX Tag Force",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "game": "Yu-Gi-Oh! GX Tag Force",
+  "series": "GX",
   "year": 2006,
   "platform": "PSP",
+  "platforms": [
+    "PSP"
+  ],
   "cover": "cover.webp",
+  "cover_region": "North America",
+  "cover_attribution": {
+    "region": "North America",
+    "type": "Box - Front",
+    "description": "Yu-Gi-Oh! GX: Tag Force — Box - Front (North America)",
+    "platform": "Sony PSP",
+    "source_url": "https://images.launchbox-app.com/6c0be49f-d2b4-4aeb-b261-d72740181254.jpg",
+    "original_resolution": [
+      640,
+      1103
+    ]
+  },
+  "audio": "pending",
   "tracks": [],
   "credits": [
     {
-      "what": "Yu-Gi-Oh! GX: Tag Force - Box - Front Image (Europe)",
+      "what": "Yu-Gi-Oh! GX: Tag Force — Box - Front (North America)",
       "source": "LaunchBox Games Database",
-      "url": "https://gamesdb.launchbox-app.com/games/images/27703-yu-gi-oh-gx-tag-force"
+      "url": "https://gamesdb.launchbox-app.com/games/dbid/27472"
     }
   ],
   "files": {
-    "cover.webp": "3a93f9fcb78f639067143c43548b674e27f5187ced972f515d5e114280eb92fc"
-  },
-  "cover_attribution": {
-    "source_url": "https://images.launchbox-app.com/51830f37-17a5-4923-80ce-7a9d9ebe0e4b.jpg",
-    "region": "Europe",
-    "original_resolution": [
-      640,
-      1104
-    ]
+    "cover.webp": "c3d1b12de3beb9d90bb5f151b1aeae55f83964ba8363a6e1932aeba30f35ac05"
   }
 }

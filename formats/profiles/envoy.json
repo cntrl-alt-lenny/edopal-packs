@@ -1,0 +1,143 @@
+{
+  "id": "envoy",
+  "name": "Envoy",
+  "date": "2003-07-17",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Black Luster Soldier and Chaos Emperor Dragon could enter play by banishing a LIGHT and a DARK monster from the Graveyard. Their effects rewarded decks that could fill the Graveyard while trading cards with the opponent.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/envoy",
+  "description_urls": [
+    "https://formatlibrary.com/formats/envoy",
+    "https://yugioh-history.com/environment/generation-three-20",
+    "https://yugioh-history.com/environment/generation-three-24"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 72989439,
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "why": "A spent LIGHT and DARK monster put 3000 ATK on the field, with a choice between banishing a monster and attacking twice.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/environment/generation-three-20"
+        ]
+      }
+    },
+    {
+      "id": 82301904,
+      "name": "Chaos Emperor Dragon - Envoy of the End",
+      "why": "Its original effect emptied both hands and fields, often letting Sangan search Yata-Garasu against an opponent with no cards left.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/environment/generation-three-24"
+        ]
+      }
+    },
+    {
+      "id": 3078576,
+      "name": "Yata-Garasu",
+      "why": "A successful hit skipped the opponent's next draw, letting an empty-hand opponent be locked out by repeated attacks.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/no-chaos",
+          "https://yugioh-history.com/environment/generation-three-24"
+        ]
+      }
+    },
+    {
+      "id": 26202165,
+      "name": "Sangan",
+      "why": "Sending it from the field to the Graveyard searched out a low-ATK monster, from a combo piece to another defensive play.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/environment/generation-three-20"
+        ]
+      }
+    },
+    {
+      "id": 34206604,
+      "name": "Magical Scientist",
+      "why": "Repeated payments of 1000 LP supplied Fusion Monsters for combat or for Catapult Turtle to tribute before they returned to the Fusion Deck.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_reconstructions",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/chaos",
+        "deck_count": 3,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/chaos",
+          "https://yugioh-history.com/deck-list/historical/no-chaos",
+          "https://yugioh-history.com/deck-list/historical/scientist-catapult"
+        ],
+        "sample_dates": [
+          "2003-07-01",
+          "2003-07-17"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-three-20",
+      "https://yugioh-history.com/environment/generation-three-24",
+      "https://yugioh-history.com/deck-list/historical/chaos"
+    ]
+  }
+}

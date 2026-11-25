@@ -1,0 +1,123 @@
+{
+  "id": "ocg-imperial",
+  "name": "OCG Imperial",
+  "date": "2000-12-14",
+  "region": "OCG",
+  "era": "DM",
+  "popular": false,
+  "description": "Jinzo shut off Traps while it stayed on the field. Call of the Haunted could revive it in response to an opposing Trap, turning a defensive play into an attack with a 2400 ATK monster.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ocg-imperial",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ocg-imperial",
+    "https://yugioh-history.com/environment/generation-two-14",
+    "https://yugioh-history.com/environment/generation-two-16",
+    "https://yugioh-history.com/environment/generation-two-17"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "why": "Its 2400 ATK and continuous suppression of Traps made a single tribute enough to attack through a defended field.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-14"
+        ]
+      }
+    },
+    {
+      "id": 61740673,
+      "name": "Imperial Order",
+      "why": "Flipping it in response to a power Spell could negate that play and leave the opponent's other Spells ineffective while Order stayed face-up.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/deck-destruction-generation-two",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/deck-destruction-generation-two",
+          "https://yugioh-history.com/environment/generation-two-14"
+        ]
+      }
+    },
+    {
+      "id": 97077563,
+      "name": "Call of the Haunted",
+      "why": "Reviving a monster during the opponent's turn provided a surprise defender or an attacker ready for the next turn.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-14"
+        ]
+      }
+    },
+    {
+      "id": 34124316,
+      "name": "Cyber Jar",
+      "why": "Flipping it cleared the monsters from the field and let each player excavate five cards, often putting several new attackers into play.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/deck-destruction-generation-two",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/deck-destruction-generation-two",
+          "https://yugioh-history.com/environment/generation-two-17"
+        ]
+      }
+    },
+    {
+      "id": 74191942,
+      "name": "Painful Choice",
+      "why": "It sent four of five selected cards to the Graveyard, setting up revival and Graveyard effects even when the opponent chose the weakest card to keep.",
+      "has_art": true,
+      "evidence": {
+        "source_urls": [
+          "https://yugioh-history.com/environment/generation-two-16"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "period_deck_reconstructions",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/deck-destruction-generation-two",
+        "deck_count": 2,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/deck-destruction-generation-two"
+        ],
+        "sample_dates": [
+          "2000-11-01",
+          "2000-11-23"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-two-14",
+      "https://yugioh-history.com/environment/generation-two-16",
+      "https://yugioh-history.com/environment/generation-two-17",
+      "https://yugioh-history.com/deck-list/historical/deck-destruction-generation-two"
+    ]
+  }
+}

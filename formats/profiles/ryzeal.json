@@ -1,0 +1,155 @@
+{
+  "id": "ryzeal",
+  "name": "Ryzeal",
+  "date": "2025-04-05",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Two of the four published top-four lists at YCS Houston in April 2025 used Ryzeal Detonator. Both decks turned Level 4 monsters into Rank 4 Xyz Monsters and used Detonator's materials to destroy cards in response to opposing activations.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/ryzeal",
+  "description_urls": [
+    "https://formatlibrary.com/formats/ryzeal",
+    "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 34909328,
+      "name": "Ryzeal Detonator",
+      "why": "Its Xyz Materials paid for repeatable destruction in response to an opponent's card or effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 13,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 34022970,
+      "name": "Ext Ryzeal",
+      "why": "Sending an Xyz Monster from the Extra Deck summoned Ext, which could then search a FIRE Thunder monster.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 7511613,
+      "name": "Ryzeal Duo Drive",
+      "why": "Detaching two materials could search two different Ryzeal cards, often lining up both extension and disruption.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 8633261,
+      "name": "Ice Ryzeal",
+      "why": "A Normal Summoned Ice brought another Ryzeal directly from the Deck and supplied both bodies for a Rank 4.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 6798031,
+      "name": "Ryzeal Cross",
+      "why": "It recycled Ryzeal cards to draw and could detach material to negate a resolving opposing monster effect.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 9,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/",
+            "decks_with_card": 2
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 18,
+    "fl_events": [
+      "YCSBIR25",
+      "YCSHOU25",
+      "YCSORL25"
+    ],
+    "fl_deck_ids": [
+      50316,
+      50363,
+      50364,
+      50365,
+      50366,
+      50505,
+      51331,
+      51332,
+      51333,
+      51334,
+      51335,
+      51336,
+      53051,
+      53052,
+      53053,
+      53054,
+      53055,
+      53057
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/",
+        "deck_count": 4
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2025/ycs/ycs-houston-top-4-deck-lists/"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "dragon-link",
+  "name": "Dragon Link",
+  "date": "2021-04-11",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "Dragon Link won the April 2021 Remote Duel Invitational. Rokket and other Dragon engines converted small monsters into Link and Synchro threats, with Striker Dragon finding Boot Sector Launch to extend a sequence of summons.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/dragon-link",
+  "description_urls": [
+    "https://formatlibrary.com/formats/dragon-link",
+    "https://www.youtube.com/watch?v=pVXtfCL1mXE",
+    "https://ygoprodeck.com/deck/dragon-link-165041"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 68464358,
+      "name": "Rokket Tracer",
+      "why": "Destroying another friendly face-up card brought a different Rokket from the Deck and supplied Synchro or Link Material.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/dragon-link-163877",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/dragon-link-163877"
+        ]
+      }
+    },
+    {
+      "id": 73539069,
+      "name": "Striker Dragon",
+      "why": "It found Boot Sector Launch, letting the Dragon deck turn Level 4 or lower Dragons into further summons.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/dragon-link-163877",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/dragon-link-163877"
+        ]
+      }
+    },
+    {
+      "id": 3040496,
+      "name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "why": "Excavating five cards could add a LIGHT or DARK monster to hand and load Dragon extenders into the Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/dragon-link-163877",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/dragon-link-163877"
+        ]
+      }
+    },
+    {
+      "id": 24361622,
+      "name": "Hieratic Seal of the Heavenly Spheres",
+      "why": "Tributing itself returned a face-up card to hand and summoned a Dragon from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/dragon-link-163877",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/dragon-link-163877"
+        ]
+      }
+    },
+    {
+      "id": 99266988,
+      "name": "Chaos Space",
+      "why": "It searched a suitable Chaos monster and later returned a banished LIGHT or DARK monster to the Deck to draw a card.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/dragon-link-163877",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/dragon-link-163877"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/9070",
+        "deck_count": 4,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/9021",
+          "https://www.yugiohtopdecks.org/deck/9022",
+          "https://www.yugiohtopdecks.org/deck/9070",
+          "https://www.yugiohtopdecks.org/deck/9071"
+        ],
+        "tournaments": [
+          "Remote Duel Extravaganza",
+          "Germany Remote Duel Extravaganza",
+          "Germany Remote Duel Extravaganza-Main Event"
+        ],
+        "months": [
+          "April 2021"
+        ]
+      },
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://ygoprodeck.com/deck/dragon-link-163877",
+        "deck_count": 1,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/dragon-link-163877"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/9070",
+      "https://ygoprodeck.com/deck/dragon-link-163877"
+    ]
+  }
+}

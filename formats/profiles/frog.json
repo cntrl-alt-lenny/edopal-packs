@@ -1,0 +1,182 @@
+{
+  "id": "frog",
+  "name": "Frog",
+  "date": "2010-08-07",
+  "region": "TCG",
+  "era": "5D's",
+  "popular": false,
+  "description": "Frog decks at YCS Indianapolis in 2010 could win before their opponent took a turn. Substitoad filled the Graveyard with Frogs, allowing Ronintoadin to return repeatedly as tribute material for Mass Driver.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/frog",
+  "description_urls": [
+    "https://formatlibrary.com/formats/frog",
+    "https://formatlibrary.com/events/YCSIND10",
+    "https://www.yugiohtopdecks.org/deck/2352"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 20663556,
+      "name": "Substitoad",
+      "why": "Its repeatable tribute effect pulled Frogs from the Deck and stocked the Graveyard for Ronintoadin.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2350",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2352"
+        ]
+      }
+    },
+    {
+      "id": 9126351,
+      "name": "Swap Frog",
+      "why": "Its summon sent a low-Level WATER Aqua to the Graveyard, setting up Treeborn Frog or Ronintoadin.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2350",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2352"
+        ]
+      }
+    },
+    {
+      "id": 1357146,
+      "name": "Ronintoadin",
+      "why": "Banishing a Frog revived it repeatedly, providing material for tribute effects such as Mass Driver.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2350",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2352"
+        ]
+      }
+    },
+    {
+      "id": 34906152,
+      "name": "Mass Driver",
+      "why": "Each Frog tributed dealt 400 damage, giving the Ronintoadin revival sequence a way to win without attacking.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 2,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2350",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2352"
+        ]
+      }
+    },
+    {
+      "id": 12538374,
+      "name": "Treeborn Frog",
+      "why": "With an empty Spell and Trap Zone, it could return each Standby Phase to supply a fresh tribute for a Monarch.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/2350",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2352"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "CFT03",
+      "USWCQ10",
+      "YCSDC10",
+      "YCSIND10"
+    ],
+    "fl_deck_ids": [
+      25767,
+      25768,
+      25769,
+      25770,
+      25772,
+      25774,
+      25962,
+      25963,
+      25964,
+      25966,
+      25967,
+      25968,
+      25995,
+      25996,
+      25997,
+      25998,
+      25999,
+      26000,
+      85287
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/2350",
+        "deck_count": 16,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/2350",
+          "https://www.yugiohtopdecks.org/deck/2351",
+          "https://www.yugiohtopdecks.org/deck/2352",
+          "https://www.yugiohtopdecks.org/deck/2353",
+          "https://www.yugiohtopdecks.org/deck/2354",
+          "https://www.yugiohtopdecks.org/deck/2355",
+          "https://www.yugiohtopdecks.org/deck/2357",
+          "https://www.yugiohtopdecks.org/deck/2359",
+          "https://www.yugiohtopdecks.org/deck/2360",
+          "https://www.yugiohtopdecks.org/deck/2361",
+          "https://www.yugiohtopdecks.org/deck/2362",
+          "https://www.yugiohtopdecks.org/deck/2363",
+          "https://www.yugiohtopdecks.org/deck/2364",
+          "https://www.yugiohtopdecks.org/deck/2365",
+          "https://www.yugiohtopdecks.org/deck/2366",
+          "https://www.yugiohtopdecks.org/deck/2367"
+        ],
+        "tournaments": [
+          "2010 Championship Series - Indianapolis"
+        ],
+        "months": [
+          "August 2010"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/2350"
+    ]
+  }
+}

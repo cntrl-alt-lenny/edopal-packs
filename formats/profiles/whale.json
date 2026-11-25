@@ -1,0 +1,147 @@
+{
+  "id": "whale",
+  "name": "Whale",
+  "date": "2005-02-24",
+  "region": "OCG",
+  "era": "GX",
+  "popular": false,
+  "description": "Abyss Soldier could discard a WATER monster to return a card on the field to its owner's hand. Sinister Serpent gave that effect a renewable cost, letting the same pair of cards answer successive threats.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/whale",
+  "description_urls": [
+    "https://formatlibrary.com/formats/whale",
+    "https://yugioh-history.com/environment/generation-four-5",
+    "https://yugioh-history.com/environment/generation-four-9"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": false,
+    "xyz": false,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rule 1"
+  },
+  "defining_cards": [
+    {
+      "id": 18318842,
+      "name": "Abyss Soldier",
+      "why": "Discarding a WATER monster returned a card on the field to the hand, and the period version of Sinister Serpent supplied a reusable discard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+          "https://yugioh-history.com/environment/generation-four-5"
+        ]
+      }
+    },
+    {
+      "id": 8131171,
+      "name": "Sinister Serpent",
+      "why": "Its period effect returned it to the hand in successive Standby Phases, giving Abyss Soldier another WATER monster to discard.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 0,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+          "https://yugioh-history.com/environment/generation-four-5"
+        ]
+      }
+    },
+    {
+      "id": 69015963,
+      "name": "Cyber-Stein",
+      "why": "Paying 5000 LP could summon Blue-Eyes Ultimate Dragon from the Fusion Deck, putting a 4500 ATK attacker on the field immediately.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 1
+      }
+    },
+    {
+      "id": 63519819,
+      "name": "Thousand-Eyes Restrict",
+      "why": "It absorbed an opposing monster and stopped other monsters from attacking, buying time to reuse Flip Effects.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+            "decks_with_card": 3
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/d-d-slash"
+        ]
+      }
+    },
+    {
+      "id": 55144522,
+      "name": "Pot of Greed",
+      "why": "Two draws from one Spell helped assemble a combo or rebuild a hand after exchanging removal.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+            "decks_with_card": 6
+          }
+        ],
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+          "https://yugioh-history.com/environment/generation-four-9"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 4,
+    "fl_events": [
+      "OMS07"
+    ],
+    "fl_deck_ids": [
+      76940,
+      76945,
+      76947,
+      76948
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_period_reconstructions",
+        "source_url": "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+        "deck_count": 6,
+        "source_urls": [
+          "https://yugioh-history.com/deck-list/historical/abyss-soldier-control",
+          "https://yugioh-history.com/deck-list/historical/d-d-slash",
+          "https://yugioh-history.com/deck-list/historical/deck-destruction-1kill",
+          "https://yugioh-history.com/deck-list/historical/night-assailant-1kill",
+          "https://yugioh-history.com/deck-list/historical/no-chaos"
+        ],
+        "sample_dates": [
+          "2004-09-01",
+          "2004-11-25"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://yugioh-history.com/environment/generation-four-5",
+      "https://yugioh-history.com/environment/generation-four-9",
+      "https://yugioh-history.com/deck-list/historical/abyss-soldier-control"
+    ]
+  }
+}

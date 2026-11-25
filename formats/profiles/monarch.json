@@ -1,0 +1,201 @@
+{
+  "id": "monarch",
+  "name": "Monarch",
+  "date": "2016-07-09",
+  "region": "TCG",
+  "era": "ARC-V",
+  "popular": false,
+  "description": "The July 2016 North American World Championship Qualifier included Monarch, Burning Abyss and Kozmo decks. Monarch players could forgo an Extra Deck and use Domain of the True Monarchs to lock the opponent out of theirs when only the Monarch player controlled a Tribute Summoned monster.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/monarch",
+  "description_urls": [
+    "https://formatlibrary.com/formats/monarch",
+    "https://formatlibrary.com/events/NAWCQ16",
+    "https://www.yugiohtopdecks.org/deck/5253"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": false,
+    "master_rule": "Master Rule 3"
+  },
+  "defining_cards": [
+    {
+      "id": 96570609,
+      "name": "Ehther the Heavenly Monarch",
+      "why": "A Tribute Summon during the opponent's Main Phase could bring out Kuraz and disrupt the board.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5253",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5253"
+        ]
+      }
+    },
+    {
+      "id": 23064604,
+      "name": "Erebus the Underworld Monarch",
+      "why": "Its Tribute Summon loaded Monarch Spells and Traps into the Graveyard while shuffling away an opposing card.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5253",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5253"
+        ]
+      }
+    },
+    {
+      "id": 22842126,
+      "name": "Pantheism of the Monarchs",
+      "why": "Sending a Monarch Spell or Trap from hand drew two cards. Banishing Pantheism from the Graveyard then gave the opponent three Monarch Spells or Traps from which to choose one for the player's hand.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5253",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5253"
+        ]
+      }
+    },
+    {
+      "id": 79844764,
+      "name": "The Monarchs Stormforth",
+      "why": "Using an opposing monster for a Tribute Summon let Monarchs remove a threat without targeting it.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 4,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5253",
+            "decks_with_card": 8
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5253"
+        ]
+      }
+    },
+    {
+      "id": 55885348,
+      "name": "Kozmo Dark Destroyer",
+      "why": "Its summon could destroy a monster, and its destruction could replace it with a lower-Level Kozmo from the Deck.",
+      "has_art": true,
+      "evidence": {
+        "fl_decks_with_card": 5,
+        "other_deck_samples": [
+          {
+            "source_url": "https://www.yugiohtopdecks.org/deck/5253",
+            "decks_with_card": 5
+          }
+        ],
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5257"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "format_library_event_decks",
+    "fl_deck_count": 19,
+    "fl_events": [
+      "EUWCQ16",
+      "MMAD14",
+      "NAWCQ16",
+      "YCSPROV16"
+    ],
+    "fl_deck_ids": [
+      34504,
+      34505,
+      34506,
+      34507,
+      34508,
+      34509,
+      49291,
+      49292,
+      49293,
+      49296,
+      49297,
+      64004,
+      64005,
+      64006,
+      64007,
+      64008,
+      64047,
+      64197,
+      88867
+    ],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/5253",
+        "deck_count": 35,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/5253",
+          "https://www.yugiohtopdecks.org/deck/5254",
+          "https://www.yugiohtopdecks.org/deck/5255",
+          "https://www.yugiohtopdecks.org/deck/5256",
+          "https://www.yugiohtopdecks.org/deck/5257",
+          "https://www.yugiohtopdecks.org/deck/5258",
+          "https://www.yugiohtopdecks.org/deck/5259",
+          "https://www.yugiohtopdecks.org/deck/5260",
+          "https://www.yugiohtopdecks.org/deck/5261",
+          "https://www.yugiohtopdecks.org/deck/5262",
+          "https://www.yugiohtopdecks.org/deck/5263",
+          "https://www.yugiohtopdecks.org/deck/5264",
+          "https://www.yugiohtopdecks.org/deck/5265",
+          "https://www.yugiohtopdecks.org/deck/5266",
+          "https://www.yugiohtopdecks.org/deck/5267",
+          "https://www.yugiohtopdecks.org/deck/5268",
+          "https://www.yugiohtopdecks.org/deck/5269",
+          "https://www.yugiohtopdecks.org/deck/5270",
+          "https://www.yugiohtopdecks.org/deck/5271",
+          "https://www.yugiohtopdecks.org/deck/5272",
+          "https://www.yugiohtopdecks.org/deck/5273",
+          "https://www.yugiohtopdecks.org/deck/5274",
+          "https://www.yugiohtopdecks.org/deck/5275",
+          "https://www.yugiohtopdecks.org/deck/5276",
+          "https://www.yugiohtopdecks.org/deck/5277",
+          "https://www.yugiohtopdecks.org/deck/5278",
+          "https://www.yugiohtopdecks.org/deck/5279",
+          "https://www.yugiohtopdecks.org/deck/5280",
+          "https://www.yugiohtopdecks.org/deck/5281",
+          "https://www.yugiohtopdecks.org/deck/5282",
+          "https://www.yugiohtopdecks.org/deck/5283",
+          "https://www.yugiohtopdecks.org/deck/5383",
+          "https://www.yugiohtopdecks.org/deck/5384",
+          "https://www.yugiohtopdecks.org/deck/5385",
+          "https://www.yugiohtopdecks.org/deck/5386"
+        ],
+        "tournaments": [
+          "WCQ - North America"
+        ],
+        "months": [
+          "July 2016"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/5253"
+    ]
+  }
+}

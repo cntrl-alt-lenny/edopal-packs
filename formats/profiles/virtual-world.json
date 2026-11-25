@@ -1,0 +1,145 @@
+{
+  "id": "virtual-world",
+  "name": "Virtual World",
+  "date": "2021-02-13",
+  "region": "TCG",
+  "era": "SEVENS",
+  "popular": false,
+  "description": "At the February 2021 Remote Duel Invitational, Virtual World could build Synchro and Xyz plays from Level 3 and Level 6 monsters. Two Level 9s gave it access to True King of All Calamities, which could prevent opposing monsters from activating effects of a declared Attribute.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/virtual-world",
+  "description_urls": [
+    "https://formatlibrary.com/formats/virtual-world",
+    "https://www.youtube.com/watch?v=CjiCv9EW2kY"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": true,
+    "link": true,
+    "master_rule": "Master Rule 4"
+  },
+  "defining_cards": [
+    {
+      "id": 49088914,
+      "name": "Virtual World Mai-Hime - Lulu",
+      "why": "Lulu's hand effect could put a Virtual World card in the Graveyard, summon a Tuner and find another piece.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/virtual-world-150164",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/virtual-world-150164"
+        ]
+      }
+    },
+    {
+      "id": 88581108,
+      "name": "True King of All Calamities",
+      "why": "Virtual World converted two Level 9 monsters into this Rank 9, which could shut off attacks and monster effects of the declared Attribute.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/virtual-world-150164",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/virtual-world-150164"
+        ]
+      }
+    },
+    {
+      "id": 13364097,
+      "name": "Virtual World Gate - Chuche",
+      "why": "Recycling two differently named banished Virtual World cards let this Trap destroy a face-up card.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/virtual-world-150164",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/virtual-world-150164"
+        ]
+      }
+    },
+    {
+      "id": 92519087,
+      "name": "Virtual World Kyubi - Shenshen",
+      "why": "Shenshen banished cards sent from the field to the Graveyard, and its Level 9 made it material for True King of All Calamities.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/virtual-world-150164",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/virtual-world-150164"
+        ]
+      }
+    },
+    {
+      "id": 86483512,
+      "name": "Virtual World Roshi - Laolao",
+      "why": "Summoning this Level 6 Tuner could also revive another Virtual World monster, assembling levels for a Synchro or Xyz play.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://ygoprodeck.com/deck/virtual-world-150164",
+            "decks_with_card": 1
+          }
+        ],
+        "source_urls": [
+          "https://ygoprodeck.com/deck/virtual-world-150164"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://www.yugiohtopdecks.org/deck/8747",
+        "deck_count": 1,
+        "source_urls": [
+          "https://www.yugiohtopdecks.org/deck/8747"
+        ],
+        "tournaments": [
+          "One Up TCG Blazing Vortex 3v3 Case Tournament"
+        ],
+        "months": [
+          "February 2021"
+        ]
+      },
+      {
+        "kind": "community_ranked_decks",
+        "source_url": "https://ygoprodeck.com/deck/virtual-world-150164",
+        "deck_count": 1,
+        "source_urls": [
+          "https://ygoprodeck.com/deck/virtual-world-150164"
+        ]
+      }
+    ],
+    "cross_check_urls": [
+      "https://www.yugiohtopdecks.org/deck/8747",
+      "https://ygoprodeck.com/deck/virtual-world-150164"
+    ]
+  }
+}

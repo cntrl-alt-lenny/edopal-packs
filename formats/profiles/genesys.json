@@ -1,0 +1,128 @@
+{
+  "id": "genesys",
+  "name": "Genesys",
+  "date": "Rolling",
+  "region": "TCG",
+  "era": "GO RUSH!!",
+  "popular": false,
+  "description": "Genesys uses the original field layout and excludes Link and Pendulum Monsters. Players build to a shared point budget across the Main, Extra and Side Decks, usually 100 points, so each copy of a high-cost card limits what else can fit.",
+  "description_source": "edopal",
+  "source_url": "https://formatlibrary.com/formats/genesys",
+  "description_urls": [
+    "https://formatlibrary.com/formats/genesys",
+    "https://www.yugioh-card.com/en/genesys/"
+  ],
+  "mechanics": {
+    "fusion": true,
+    "ritual": true,
+    "synchro": true,
+    "xyz": true,
+    "pendulum": false,
+    "link": false,
+    "master_rule": "Master Rules (2020)"
+  },
+  "defining_cards": [
+    {
+      "id": 59438930,
+      "name": "Ghost Ogre & Snow Rabbit",
+      "why": "It could destroy a monster activating on the field or an already face-up Spell or Trap activating an effect.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/",
+            "decks_with_card": 22
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 7736719,
+      "name": "Vortex Trooper",
+      "why": "Its Normal Summon replaced two cards in hand, and destroying it could provide another draw.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 67750322,
+      "name": "Skull Meister",
+      "why": "Sending Skull Meister from the hand to the Graveyard could negate an effect that activated in the opponent's Graveyard.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/",
+            "decks_with_card": 19
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 15982593,
+      "name": "Centur-Ion Legatia",
+      "why": "This Level 12 Synchro could draw a card and destroy the opponent's highest-ATK monster when Special Summoned.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/",
+            "decks_with_card": 10
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/"
+        ]
+      }
+    },
+    {
+      "id": 46772449,
+      "name": "Evilswarm Exciton Knight",
+      "why": "When behind on total cards in hand and on the field, this Rank 4 could destroy the rest of the field.",
+      "has_art": true,
+      "evidence": {
+        "other_deck_samples": [
+          {
+            "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/",
+            "decks_with_card": 9
+          }
+        ],
+        "source_urls": [
+          "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/"
+        ]
+      }
+    }
+  ],
+  "selection_evidence": {
+    "basis": "independent_event_decks",
+    "fl_deck_count": 0,
+    "fl_events": [],
+    "fl_deck_ids": [],
+    "other_deck_samples": [
+      {
+        "kind": "organizer_ranked_decks",
+        "source_url": "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/",
+        "deck_count": 32
+      }
+    ],
+    "as_of": "2026-11-25",
+    "cross_check_urls": [
+      "https://yugiohblog.konami.com/2026/ycs/ycs-orlando-genesys-main-event-top-32-deck-lists/"
+    ]
+  }
+}
