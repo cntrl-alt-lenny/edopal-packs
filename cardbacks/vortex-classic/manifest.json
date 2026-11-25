@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "id": "cardback-vortex-classic",
+  "kind": "cardback",
+  "name": "Classic Vortex",
+  "version": "1.0.0",
+  "label": "Yu-Gi-Oh! TCG classic Vortex",
+  "era": "2002",
+  "group": "tcg-ocg",
+  "image": "back.png",
+  "master": "master.png",
+  "default_for": "you",
+  "credits": [
+    {
+      "what": "Original printed TCG back",
+      "source": "Konami, archived by Yugipedia",
+      "url": "https://img.yugipedia.com/e/e5/Back-EN.png"
+    },
+    {
+      "what": "Unlettered plate reference for the lower-right strands",
+      "source": "Konami, The Winged Dragon of Ra GBI reverse",
+      "url": "https://img.yugipedia.com/8/85/TheWingedDragonofRa-GBI-AE-Back.png"
+    }
+  ],
+  "files": {
+    "back.png": "201b21e01cb4052f5724bf343c5054cfce7505c35d8be3a5127f5f25b66461b0",
+    "master.png": "29edc7740deb76525d335c08862c072ff70c75e61599482164c9f5a1d5e971fc"
+  }
+}

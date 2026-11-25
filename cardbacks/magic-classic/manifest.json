@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "cardback-magic-classic",
+  "kind": "cardback",
+  "name": "Magic: The Gathering",
+  "version": "1.0.0",
+  "label": "Magic: The Gathering classic card back",
+  "era": "1993",
+  "group": "other-tcgs",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Original back design and lettering",
+      "source": "Jesper Myrfors and Christopher Rush for Wizards of the Coast",
+      "url": "https://casualhornan.blogspot.com/2015/08/interview-with-jesper-myrfors.html"
+    },
+    {
+      "what": "Sol Ring reverse scan",
+      "source": "Wizards of the Coast, via ABUGames",
+      "url": "https://content.abugames.com/img/upload/Sol-Ring-Back-MINT.jpg"
+    },
+    {
+      "what": "Standard reverse reference",
+      "source": "Wizards of the Coast, via Scryfall",
+      "url": "https://backs.scryfall.io/png/0/a/0aeebaf5-8c7d-4636-9e82-8c27447861f7.png"
+    }
+  ],
+  "files": {
+    "back.png": "7f06e1b1423805a422b3e0b0517b11f0e45b87ea407dbf6fc56fbdd209922ecf",
+    "master.png": "5a2cb62f911c81da7186c5529127b80951fe338bf3f2dbc856c7a6d32db34109"
+  }
+}

@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Skin>
+  <Properties>
+    <Name data="Moon" />
+    <Version data="1.0.0" />
+  </Properties>
+  <Global guialpha="255">
+    <EGDC_3D_DARK_SHADOW a="255" r="18" g="18" b="18" />
+    <EGDC_APP_WORKSPACE a="255" r="18" g="18" b="18" />
+    <EGDC_GRAY_EDITABLE a="255" r="18" g="18" b="18" />
+    <EGDC_3D_HIGH_LIGHT a="255" r="25" g="25" b="26" />
+    <EGDC_WINDOW a="255" r="25" g="25" b="26" />
+    <EGDC_EDITABLE a="255" r="25" g="25" b="26" />
+    <EGDC_FOCUSED_EDITABLE a="255" r="56" g="63" b="74" />
+    <EGDC_SCROLLBAR a="255" r="15" g="15" b="16" />
+    <EGDC_3D_SHADOW a="255" r="82" g="82" b="84" />
+    <EGDC_ACTIVE_BORDER a="255" r="218" g="229" b="243" />
+    <EGDC_INACTIVE_BORDER a="255" r="82" g="82" b="84" />
+    <EGDC_3D_LIGHT a="255" r="82" g="82" b="84" />
+    <EGDC_BUTTON_TEXT a="255" r="243" g="241" b="246" />
+    <EGDC_HIGH_LIGHT_TEXT a="255" r="243" g="241" b="246" />
+    <EGDC_TOOLTIP a="255" r="243" g="241" b="246" />
+    <EGDC_ACTIVE_CAPTION a="255" r="243" g="241" b="246" />
+    <EGDC_INACTIVE_CAPTION a="255" r="243" g="241" b="246" />
+    <EGDC_GRAY_TEXT a="255" r="183" g="190" b="201" />
+    <EGDC_ICON a="255" r="183" g="190" b="201" />
+    <EGDC_WINDOW_SYMBOL a="255" r="183" g="190" b="201" />
+    <EGDC_GRAY_WINDOW_SYMBOL a="255" r="90" g="94" b="104" />
+    <EGDC_ICON_HIGH_LIGHT a="255" r="218" g="229" b="243" />
+    <EGDC_HIGH_LIGHT a="255" r="72" g="84" b="97" />
+    <EGDC_TOOLTIP_BACKGROUND a="255" r="51" g="54" b="31" />
+    <EGDC_3D_FACE a="255" r="255" g="255" b="255" />
+    <CheckBoxColor a="255" r="218" g="229" b="243" />
+    <Caption tbardistancex="9" tbardistancey="2" />
+    <WindowButton width="20" />
+  </Global>
+  <Custom>
+    <DUELFIELD_LP_1 a="255" r="243" g="241" b="246" />
+    <DUELFIELD_LP_2 a="255" r="243" g="241" b="246" />
+    <DUELFIELD_STACK a="255" r="243" g="241" b="246" />
+    <DUELFIELD_TURN_COUNT a="255" r="154" g="152" b="158" />
+    <DUELFIELD_SELECTABLE_CARD_OUTLINE a="255" r="218" g="229" b="243" />
+    <DUELFIELD_HIGHLIGHTING_CARD_OUTLINE a="255" r="255" g="216" b="102" />
+    <DUELFIELD_SELECTABLE_FIELD_OUTLINE a="255" r="218" g="229" b="243" />
+    <DUELFIELD_ATTACK_ARROW a="255" r="255" g="216" b="102" />
+    <DUELFIELD_CHAIN_COLOR a="255" r="255" g="216" b="102" />
+    <DUELFIELD_TURNPLAYER_OUTLINE_COLOR a="0" r="82" g="82" b="84" />
+    <DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="243" g="241" b="246" />
+    <DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR a="255" r="25" g="25" b="26" />
+    <DUELFIELD_ANNOUNCE_TEXT_COLOR a="255" r="243" g="241" b="246" />
+    <DUELFIELD_ANNOUNCE_TEXT_BACKGROUND_COLOR a="255" r="25" g="25" b="26" />
+    <DUELFIELD_CARD_SELF_WINDOW_BACKGROUND a="255" r="25" g="25" b="26" />
+    <DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND a="255" r="33" g="33" b="34" />
+    <DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND a="255" r="72" g="84" b="97" />
+    <DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT a="255" r="243" g="241" b="246" />
+    <DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="183" g="190" b="201" />
+    <DUELFIELD_HIGHER_CARD_ATK a="255" r="169" g="220" b="118" />
+    <DUELFIELD_HIGHER_CARD_DEF a="255" r="169" g="220" b="118" />
+    <DUELFIELD_LOWER_CARD_ATK a="255" r="255" g="97" b="136" />
+    <DUELFIELD_LOWER_CARD_DEF a="255" r="255" g="97" b="136" />
+    <DUELFIELD_UNCHANGED_CARD_ATK a="255" r="243" g="241" b="246" />
+    <DUELFIELD_UNCHANGED_CARD_DEF a="255" r="243" g="241" b="246" />
+    <DUELFIELD_CARD_LEVEL a="255" r="183" g="190" b="201" />
+    <DUELFIELD_LINKED a="70" r="218" g="229" b="243" />
+    <DUELFIELD_MUTUAL_LINKED a="70" r="255" g="216" b="102" />
+    <DUELFIELD_HOVERED a="70" r="218" g="229" b="243" />
+    <DUELFIELD_TURNPLAYER_COLOR a="0" r="25" g="25" b="26" />
+    <CARDINFO_IMAGE_BACKGROUND a="255" r="18" g="18" b="18" />
+    <CARDINFO_ARCHETYPE_TEXT_COLOR a="255" r="218" g="229" b="243" />
+    <CARDINFO_TYPES_COLOR a="255" r="183" g="190" b="201" />
+    <CARDINFO_STATS_COLOR a="255" r="243" g="241" b="246" />
+    <CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="255" r="183" g="190" b="201" />
+    <ROOMLIST_TEXTS_COLOR a="255" r="243" g="241" b="246" />
+    <ROOMLIST_NORMAL_ROOM a="255" r="243" g="241" b="246" />
+    <ROOMLIST_CUSTOM_ROOM a="255" r="218" g="229" b="243" />
+    <ROOMLIST_STARTED_ROOM a="255" r="154" g="152" b="158" />
+    <DECK_WINDOW_MAIN_TOP_LEFT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_MAIN_INFO_TOP_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_MAIN_TOP_RIGHT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_MAIN_INFO_TOP_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_MAIN_BOTTOM_LEFT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_MAIN_INFO_BOTTOM_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_MAIN_BOTTOM_RIGHT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_MAIN_INFO_BOTTOM_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_MAIN_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_MAIN_INFO_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_EXTRA_TOP_LEFT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_EXTRA_INFO_TOP_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_EXTRA_TOP_RIGHT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_EXTRA_INFO_TOP_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_EXTRA_BOTTOM_LEFT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_EXTRA_INFO_BOTTOM_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_EXTRA_BOTTOM_RIGHT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_EXTRA_INFO_BOTTOM_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_EXTRA_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_EXTRA_INFO_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_SIDE_TOP_LEFT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_SIDE_INFO_TOP_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SIDE_TOP_RIGHT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_SIDE_INFO_TOP_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SIDE_BOTTOM_LEFT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_SIDE_INFO_BOTTOM_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SIDE_BOTTOM_RIGHT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_SIDE_INFO_BOTTOM_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SIDE_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_SIDE_INFO_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_SEARCH_RESULT_TOP_LEFT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_SEARCH_RESULT_INFO_TOP_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SEARCH_RESULT_TOP_RIGHT a="232" r="28" g="28" b="29" />
+    <DECK_WINDOW_SEARCH_RESULT_INFO_TOP_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SEARCH_RESULT_BOTTOM_LEFT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_LEFT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SEARCH_RESULT_BOTTOM_RIGHT a="232" r="25" g="25" b="26" />
+    <DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_RIGHT a="242" r="33" g="33" b="34" />
+    <DECK_WINDOW_SEARCH_RESULT_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_SEARCH_RESULT_INFO_OUTLINE a="255" r="84" g="90" b="101" />
+    <DECK_WINDOW_HOVERED_CARD_OUTLINE a="255" r="218" g="229" b="243" />
+    <DECK_WINDOW_HOVERED_CARD_RESULT a="255" r="72" g="84" b="97" />
+    <LPBAR_1_TOP_LEFT a="255" r="82" g="88" b="99" />
+    <LPBAR_1_BOTTOM_LEFT a="255" r="66" g="73" b="84" />
+    <LPBAR_1_TOP_RIGHT a="255" r="82" g="88" b="99" />
+    <LPBAR_1_BOTTOM_RIGHT a="255" r="66" g="73" b="84" />
+    <LPBAR_2_TOP_LEFT a="255" r="82" g="88" b="99" />
+    <LPBAR_2_BOTTOM_LEFT a="255" r="66" g="73" b="84" />
+    <LPBAR_2_TOP_RIGHT a="255" r="82" g="88" b="99" />
+    <LPBAR_2_BOTTOM_RIGHT a="255" r="66" g="73" b="84" />
+    <TIMEBAR_1_TOP_LEFT a="255" r="82" g="88" b="99" />
+    <TIMEBAR_1_BOTTOM_LEFT a="255" r="66" g="73" b="84" />
+    <TIMEBAR_1_TOP_RIGHT a="255" r="82" g="88" b="99" />
+    <TIMEBAR_1_BOTTOM_RIGHT a="255" r="66" g="73" b="84" />
+    <TIMEBAR_1_OUTLINE a="255" r="49" g="49" b="51" />
+    <TIMEBAR_2_TOP_LEFT a="255" r="82" g="88" b="99" />
+    <TIMEBAR_2_BOTTOM_LEFT a="255" r="66" g="73" b="84" />
+    <TIMEBAR_2_TOP_RIGHT a="255" r="82" g="88" b="99" />
+    <TIMEBAR_2_BOTTOM_RIGHT a="255" r="66" g="73" b="84" />
+    <TIMEBAR_2_OUTLINE a="255" r="49" g="49" b="51" />
+  </Custom>
+  <Button texture="Button.png">
+    <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+    <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+    <Color a="255" r="255" g="255" b="255" />
+    <Pressed texture="Pressed.png">
+      <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+      <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+      <Color a="255" r="255" g="255" b="255" />
+    </Pressed>
+    <ButtonDisabled texture="ButtonDisabled.png">
+      <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+      <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+      <Color a="255" r="255" g="255" b="255" />
+    </ButtonDisabled>
+  </Button>
+  <MenuBar texture="MenuBar.png">
+    <SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+    <DstBorder tlx="3" tly="3" brx="3" bry="3" />
+    <Color a="255" r="255" g="255" b="255" />
+    <MenuPane texture="MenuPane.png">
+      <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+      <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+      <Color a="255" r="255" g="255" b="255" />
+    </MenuPane>
+    <MenuPressed texture="MenuPressed.png">
+      <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+      <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+      <Color a="255" r="255" g="255" b="255" />
+    </MenuPressed>
+  </MenuBar>
+  <CheckBox texture="CheckBox.png">
+    <SrcBorder tlx="4" tly="4" brx="4" bry="4" />
+    <DstBorder tlx="4" tly="4" brx="4" bry="4" />
+    <Color a="255" r="255" g="255" b="255" />
+    <CheckBoxDisabled texture="CheckBoxDisabled.png">
+      <SrcBorder tlx="4" tly="4" brx="4" bry="4" />
+      <DstBorder tlx="4" tly="4" brx="4" bry="4" />
+      <Color a="255" r="255" g="255" b="255" />
+    </CheckBoxDisabled>
+  </CheckBox>
+  <ComboBox texture="ComboBox.png">
+    <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+    <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+    <Color a="255" r="255" g="255" b="255" />
+    <ComboBoxDisabled texture="ComboBoxDisabled.png">
+      <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+      <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+      <Color a="255" r="255" g="255" b="255" />
+    </ComboBoxDisabled>
+  </ComboBox>
+  <SunkenPane texture="SunkenPane.png">
+    <SrcBorder tlx="2" tly="2" brx="2" bry="2" />
+    <DstBorder tlx="2" tly="2" brx="2" bry="2" />
+    <Color a="255" r="255" g="255" b="255" />
+  </SunkenPane>
+  <TabControl texture="TabControl.png">
+    <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+    <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+    <Color a="255" r="255" g="255" b="255" />
+    <TabButton texture="TabButton.png">
+      <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+      <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+      <Color a="255" r="255" g="255" b="255" />
+    </TabButton>
+    <TabButtonPressed texture="TabButtonPressed.png">
+      <SrcBorder tlx="8" tly="8" brx="8" bry="8" />
+      <DstBorder tlx="8" tly="8" brx="8" bry="8" />
+      <Color a="255" r="255" g="255" b="255" />
+    </TabButtonPressed>
+  </TabControl>
+  <Window texture="Window.png">
+    <SrcBorder tlx="30" tly="13" brx="13" bry="13" />
+    <DstBorder tlx="30" tly="13" brx="13" bry="13" />
+    <Color a="255" r="255" g="255" b="255" />
+  </Window>
+</Skin>

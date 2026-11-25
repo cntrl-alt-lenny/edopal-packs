@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "cardback-pokemon-international",
+  "kind": "cardback",
+  "name": "Pokémon TCG",
+  "version": "1.0.0",
+  "label": "Pokémon TCG international card back",
+  "era": "1999",
+  "group": "other-tcgs",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "1999 press artwork from the GamePro marketing CD",
+      "source": "Wizards of the Coast, preserved by Video Game History Foundation",
+      "url": "https://archive.gamehistory.org/folder/311783c2-da3e-454f-bffc-07aa54dfb13c"
+    },
+    {
+      "what": "Digital rendition of the period press file",
+      "source": "Pokémon Aaah!",
+      "url": "https://pokemonaaah.net/wp-content/uploads/2026/05/gamepro-card-back-for-quark.png"
+    },
+    {
+      "what": "International Poké Ball reverse",
+      "source": "The Pokémon Company International",
+      "url": "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg"
+    },
+    {
+      "what": "International TCG release history",
+      "source": "The Pokémon Company International",
+      "url": "https://corporate.pokemon.com/en-us/about/"
+    }
+  ],
+  "files": {
+    "back.png": "8a38318c9124e86ee35c5c6aa62f1fd7e8f8a051826a86afc4c56fa6fe0803ed",
+    "master.png": "3696d2e158bf703cd24a8173e829648210e27ebccc5c1558acc6d5d4b2446f60"
+  }
+}

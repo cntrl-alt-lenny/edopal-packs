@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "cardback-skill-yami-yugi",
+  "kind": "cardback",
+  "name": "Yami Yugi",
+  "version": "1.0.0",
+  "label": "Yu-Gi-Oh! Speed Duel · Yami Yugi Skill card",
+  "era": "2019",
+  "group": "tcg-ocg",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Skill card artwork",
+      "source": "Konami, English Speed Duel guide",
+      "url": "https://img.yugioh-card.com/eu/wp-content/uploads/2022/07/Speed_Duel_Guide_EN.pdf"
+    },
+    {
+      "what": "Character-side print reference",
+      "source": "Yugipedia collection",
+      "url": "https://img.yugipedia.com/5/53/YamiYugi-SkillCard-EN-Back.png"
+    },
+    {
+      "what": "Release",
+      "source": "Konami, Destiny Masters",
+      "url": "https://www.yugioh-card.com/en/products/sd_ss01_ss02/"
+    }
+  ],
+  "files": {
+    "back.png": "2135bea458a1799ee22587585f739365c7edad91c6f3e26cb1011118e7ef0af7",
+    "master.png": "05470a03cada9b71065b1bf67b582ba0b720170aa38fd4039846f6550b5088da"
+  }
+}

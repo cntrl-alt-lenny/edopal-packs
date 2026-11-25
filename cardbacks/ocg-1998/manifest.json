@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "id": "cardback-ocg-1998",
+  "kind": "cardback",
+  "name": "Bandai Carddass",
+  "version": "1.0.0",
+  "label": "Yu-Gi-Oh! Bandai Carddass card back",
+  "era": "1998",
+  "group": "tcg-ocg",
+  "image": "back.png",
+  "master": "master.png",
+  "default_for": "opponent",
+  "credits": [
+    {
+      "what": "1998 print and backing family",
+      "source": "Bandai, Carddass archive at Henjin Retro",
+      "url": "https://henjin-retro.jp/zukan-yugioh-carddass-1"
+    },
+    {
+      "what": "Card reverse from the first printing",
+      "source": "Bandai, archived by Yugipedia",
+      "url": "https://img.yugipedia.com/3/32/Back-BAN-JP-1998v1.png"
+    }
+  ],
+  "files": {
+    "back.png": "d1ee5f2b8f15b7ce25c54468391b9b36142980907fe3563adad9eea0e80679f5",
+    "master.png": "bbec0a3751a64c5bbcb93b6130e6739b966c1c90f8719e6dcb6ef503bbf2f21a"
+  }
+}

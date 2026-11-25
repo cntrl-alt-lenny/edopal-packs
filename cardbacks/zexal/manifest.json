@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "id": "cardback-zexal",
+  "kind": "cardback",
+  "name": "ZEXAL · VRAINS",
+  "version": "1.1.0",
+  "label": "Yu-Gi-Oh! anime pinwheel back (ZEXAL, VRAINS)",
+  "era": "2011–2019",
+  "group": "anime",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Original design and visual reference for this HD reconstruction",
+      "source": "Studio Gallop / NAS / TV Tokyo · image archived by Yugipedia",
+      "url": "https://yugipedia.com/wiki/File:Back-Anime-ZX-2.png"
+    }
+  ],
+  "files": {
+    "back.png": "2838af5608aed9166cc4fde7b5e940c1d4c25c2ce55711c40db5621e94303c09",
+    "master.png": "3aa880cd28af6184f0fd890332f47c10eb56050452ea430162ae7ec8525dd4e0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "id": "music-sample-tideglass",
+  "kind": "music",
+  "name": "Tideglass",
+  "version": "1.0.0",
+  "game": "Tideglass (sample)",
+  "year": 2026,
+  "platform": "EDOPal",
+  "cover": "cover.webp",
+  "tracks": [
+    {
+      "id": "tidal-pool",
+      "title": "Tidal Pool",
+      "suggested_roles": [
+        "deck"
+      ],
+      "duration_seconds": 21.818,
+      "path": "audio/tidal-pool.ogg"
+    },
+    {
+      "id": "sea-of-glass",
+      "title": "Sea of Glass",
+      "suggested_roles": [
+        "menu",
+        "duel"
+      ],
+      "duration_seconds": 19.592,
+      "path": "audio/sea-of-glass.ogg"
+    },
+    {
+      "id": "low-water",
+      "title": "Low Water",
+      "suggested_roles": [
+        "lose"
+      ],
+      "duration_seconds": 22.857,
+      "path": "audio/low-water.ogg"
+    }
+  ],
+  "credits": [
+    {
+      "what": "Original synthesized music and illustrated sample cover",
+      "source": "EDOPal",
+      "url": "https://github.com/cntrl-alt-lenny/edopal-packs/blob/main/music/make_samples.py"
+    }
+  ],
+  "files": {
+    "audio/low-water.ogg": "e6184835f61c480c558aca9c2f8dd953852b5e9061cdc69469fbd0ee5e0a1667",
+    "audio/sea-of-glass.ogg": "63f0b4522d6b4d30e778f778ed252daac75af41ed3e48c070925c9fc1f0d132a",
+    "audio/tidal-pool.ogg": "f9bb899bbf42174bdd3c388ae94afec7ed59af958d447039576a00aeec737475",
+    "cover.webp": "6bec3dcbf7d6e0c6c7bc7646212c01980b233f23133090e77e4bbbeb28ccf04b"
+  }
+}

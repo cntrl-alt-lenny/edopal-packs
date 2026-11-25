@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "music-dawn-of-destiny",
+  "kind": "music",
+  "name": "The Dawn of Destiny",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! The Dawn of Destiny",
+  "year": 2004,
+  "platform": "Xbox",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Original illustrated concept cover",
+      "source": "EDOPal",
+      "url": "https://github.com/cntrl-alt-lenny/edopal-packs"
+    }
+  ],
+  "files": {
+    "cover.webp": "c4e5f817e789300248658cbaa942cbfda6a03aa58cbbb3321400a39015fe4882"
+  }
+}

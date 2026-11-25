@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "cardback-manga-original",
+  "kind": "cardback",
+  "name": "Magic & Wizards",
+  "version": "1.1.0",
+  "label": "Magic & Wizards · Original Yu-Gi-Oh! manga",
+  "era": "1996",
+  "group": "manga",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Unobstructed Death-T deck, perspective-corrected source for the ink pattern and oval",
+      "source": "Kazuki Takahashi / Shueisha · monochrome panel reproduced in Thoughts & Observations",
+      "url": "https://i.postimg.cc/TPrbCBQ9/17.png"
+    },
+    {
+      "what": "Monochrome ink field and white frame",
+      "source": "Kazuki Takahashi / Shueisha · manga reverse archived by Yugipedia",
+      "url": "https://img.yugipedia.com/d/d7/Back-JP-Manga.png"
+    },
+    {
+      "what": "Additional comparison of the early manga outline · chapter 37",
+      "source": "Kazuki Takahashi / Shueisha · color-edition panel",
+      "url": "https://64.media.tumblr.com/47dc77cd641fd0f0951451c870820155/40bc7299fae0b155-69/s640x960/fc9a99923fcc1b8f9e9241256a17e3aa0ea2cff4.jpg"
+    }
+  ],
+  "files": {
+    "back.png": "d8be1b3af36b1322f03b17bb30ce7e28f8a809932e16c3667502d73adee618d2",
+    "master.png": "7191b15b5fae4643b53a96697eabca8fbb8488da7a47bcbf9c2649008f54672a"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "cardback-rush-duel-day-red",
+  "kind": "cardback",
+  "name": "Rush Duel Red",
+  "version": "1.0.0",
+  "label": "Yu-Gi-Oh! Rush Duel · Red event sleeve",
+  "era": "2024",
+  "group": "tcg-ocg",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "April–June 2024 participation prize artwork",
+      "source": "Konami, Yu-Gi-Oh! Day",
+      "url": "https://www.konami.com/yugioh/rushduel/event/yugioh_day/images/prize-protector_2024_4_5_6.png"
+    },
+    {
+      "what": "Prize announcement",
+      "source": "Official Yu-Gi-Oh! Rush Duel",
+      "url": "https://x.com/YuGiOh_RUSHDUEL/status/1767128336294158378"
+    },
+    {
+      "what": "Physical sleeve for comparison",
+      "source": "Mercard Akihabara",
+      "url": "https://www.mercardyg.jp/product/22210"
+    }
+  ],
+  "files": {
+    "back.png": "ee4b5284972b11bc6d44ba44dfc9ead99ca4ae179e39d5542a18db3471b51014",
+    "master.png": "a38285963d03b00551e408821ef9ce3d1664b25472b442532723b6da54eb8192"
+  }
+}

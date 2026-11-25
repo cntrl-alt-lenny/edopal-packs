@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "id": "cardback-forbidden-memories",
+  "kind": "cardback",
+  "name": "Forbidden Memories",
+  "label": "Yu-Gi-Oh! Forbidden Memories card back",
+  "era": "1999",
+  "credits": [
+    {
+      "what": "PlayStation game and release date",
+      "source": "Konami",
+      "url": "https://www.konami.com/games/jp/ja/products/yugioh_s1_ps/"
+    },
+    {
+      "what": "Original 140 × 196 card back used for the HD reconstruction",
+      "source": "Konami game graphic archived by Yugipedia",
+      "url": "https://yugipedia.com/wiki/File:Back-FMR-EN-VG.png"
+    }
+  ],
+  "group": "video-games",
+  "version": "1.0.0",
+  "image": "back.png",
+  "master": "master.png",
+  "files": {
+    "back.png": "7ac45f21ee74e41a2172e55a8f13b105e397d99c1b348f3c742fddd0406b1aae",
+    "master.png": "28fca04b56369635de98d9fb355ce1e72588ab86e816804807d18db1008d903f"
+  }
+}

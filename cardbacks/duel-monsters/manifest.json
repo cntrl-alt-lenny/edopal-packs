@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "cardback-duel-monsters",
+  "kind": "cardback",
+  "name": "Duel Monsters · GX · 5D's",
+  "version": "1.2.0",
+  "label": "Yu-Gi-Oh! anime card back (Duel Monsters, GX, 5D's)",
+  "era": "2000–2011",
+  "group": "anime",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Pegasus holding the band-lit card, Champion Vs. Creator, Part 2",
+      "source": "Konami Cross Media NY • official episode still",
+      "url": "https://uploads1.yugioh.com/huluim_images/episode/50115367/180.jpeg"
+    },
+    {
+      "what": "Unobstructed card and warm cel palette in the Japanese episode 27 remaster",
+      "source": "Studio Gallop / TV Tokyo • broadcast frame archived by Starlight",
+      "url": "https://livedoor.blogimg.jp/maxut/imgs/1/d/1d1ba6b3.jpg"
+    },
+    {
+      "what": "Duelist Kingdom episode identification",
+      "source": "Official Yu-Gi-Oh! episode guide",
+      "url": "https://www.yugioh.com/yu-gi-oh/champion-vs-creator-part-2/182"
+    }
+  ],
+  "files": {
+    "back.png": "c2331e1f1018956206f9bb1d160159ebb44a7aec0f033861d46c53f3c963cd84",
+    "master.png": "9a388d5ff9ba453e291be7f6651b345063c419e2fbdf3d641c5173690b727412"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "id": "cardback-bam-circuit",
+  "kind": "cardback",
+  "name": "Yu-Gi-Oh! BAM",
+  "label": "Yu-Gi-Oh! BAM · browser deck back",
+  "era": "2012",
+  "group": "video-games",
+  "version": "1.1.0",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Contemporary map and duel screenshots",
+      "source": "VIZ Media",
+      "url": "https://www.viz.com/blog/posts/cards-yu-gi-oh-bam-979"
+    },
+    {
+      "what": "Portrait deck artwork used to trace circuit paths, colors and reflections",
+      "source": "Frima Studio / Konami game graphic archived by Yugipedia",
+      "url": "https://yugipedia.com/wiki/File:Back-BAM-EN-VG.png"
+    }
+  ],
+  "files": {
+    "back.png": "4612e30df199c9bd087f424862b42e36411608d586858d2d866406c684d2457e",
+    "master.png": "7162782da9cdf9efed561b4d06f5ee2b075fedc32fc2a5afec2ceb68253819f4"
+  }
+}

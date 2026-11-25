@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-power-of-chaos-joey",
+  "kind": "music",
+  "name": "Joey the Passion",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
+  "year": 2004,
+  "platform": "Windows",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Power of Chaos: Joey the Passion - Box - Front Image (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/16759-yu-gi-oh-power-of-chaos-joey-the-passion"
+    }
+  ],
+  "files": {
+    "cover.webp": "3afaa89d45fdcedb10c880ea62a1040dfa2b0b835b1957f2c410d06b7617dd7d"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/a69a3502-5576-4844-b651-83cb23707610.jpg",
+    "region": "North America",
+    "original_resolution": [
+      640,
+      909
+    ]
+  }
+}

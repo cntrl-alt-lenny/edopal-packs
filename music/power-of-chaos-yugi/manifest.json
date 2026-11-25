@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-power-of-chaos-yugi",
+  "kind": "music",
+  "name": "Yugi the Destiny",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
+  "year": 2003,
+  "platform": "Windows",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny - Box - Front Image (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/16757-yu-gi-oh-power-of-chaos-yugi-the-destiny"
+    }
+  ],
+  "files": {
+    "cover.webp": "f6c5ef8e9fc690bb224e51735ca334ae80746e1fea5db52bfed6803f4e7d6fc2"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/cd27932a-3651-4098-b7ff-213c76b8e87f.jpg",
+    "region": "North America",
+    "original_resolution": [
+      434,
+      617
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "id": "cardback-arc-v-action",
+  "kind": "cardback",
+  "name": "ARC-V Action Card",
+  "version": "1.0.0",
+  "label": "Yu-Gi-Oh! ARC-V Action Card back",
+  "era": "2014",
+  "group": "anime",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Original design and visual reference for this HD reconstruction",
+      "source": "Studio Gallop / NAS / TV Tokyo · image archived by Yugipedia",
+      "url": "https://yugipedia.com/wiki/File:ActionCardBacking.png"
+    }
+  ],
+  "files": {
+    "back.png": "7c3831ca81ce32085c9152b2ecb9a525f5d4c0b056771cc7f8bb714cd3df3c36",
+    "master.png": "1a360886a3fd7cd5382fc5711411b5911227c7866d4839015f04c7e9a41ade5d"
+  }
+}

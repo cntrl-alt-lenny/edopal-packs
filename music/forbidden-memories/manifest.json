@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-forbidden-memories",
+  "kind": "music",
+  "name": "Forbidden Memories",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! Forbidden Memories",
+  "year": 1999,
+  "platform": "PlayStation",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Forbidden Memories - Box - Front Image (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/9490-yu-gi-oh-forbidden-memories"
+    }
+  ],
+  "files": {
+    "cover.webp": "59966458f19e8f8a29b43a242b033001fed7989adfc9529e240117ac7c90edb9"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/r2_52fbcfee-4ae4-4f9f-96bf-9889e615ca90.png",
+    "region": "North America",
+    "original_resolution": [
+      1500,
+      1500
+    ]
+  }
+}

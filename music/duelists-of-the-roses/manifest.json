@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "music-duelists-of-the-roses",
+  "kind": "music",
+  "name": "The Duelists of the Roses",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! The Duelists of the Roses",
+  "year": 2001,
+  "platform": "PlayStation 2",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Original illustrated concept cover",
+      "source": "EDOPal",
+      "url": "https://github.com/cntrl-alt-lenny/edopal-packs"
+    }
+  ],
+  "files": {
+    "cover.webp": "725324d5ff40247532d0d2c75424211411d315b5cd91bf8f0a51f5540614be87"
+  }
+}

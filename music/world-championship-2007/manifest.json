@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2007",
+  "kind": "music",
+  "name": "World Championship 2007",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! World Championship 2007",
+  "year": 2007,
+  "platform": "Nintendo DS",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! World Championship 2007 - Box - Front Image (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/26507-yu-gi-oh-world-championship-2007"
+    }
+  ],
+  "files": {
+    "cover.webp": "aac009ca94d1d3e1a7d76b4b5a9861b5648f2fde5ddfece0159dd9c3409ed1bf"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/ff8715c5-a336-4172-beda-547a1672a73a.jpg",
+    "region": "North America",
+    "original_resolution": [
+      789,
+      703
+    ]
+  }
+}

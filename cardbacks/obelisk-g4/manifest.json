@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "id": "cardback-obelisk-g4",
+  "kind": "cardback",
+  "name": "Obelisk the Tormentor",
+  "version": "1.0.0",
+  "label": "Yu-Gi-Oh! Obelisk G4 promo card back",
+  "era": "2000",
+  "group": "tcg-ocg",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "G4-02 reverse and color reference",
+      "source": "Konami, Japanese collector’s photograph",
+      "url": "https://jp.mercari.com/item/m13627513087"
+    },
+    {
+      "what": "GBI print of the unlettered blue card-back plate",
+      "source": "Konami, archived by Yugipedia",
+      "url": "https://img.yugipedia.com/b/b4/ObelisktheTormentor-GBI-AE-Back.png"
+    }
+  ],
+  "files": {
+    "back.png": "82267bc088b6ea20db18ef53cf1fd3e3b2163919261b1e13c27ca34720b3fecf",
+    "master.png": "e707764026b9a935d28ba75382a8a2270396e77f5e56059397c36b1837fb1f61"
+  }
+}

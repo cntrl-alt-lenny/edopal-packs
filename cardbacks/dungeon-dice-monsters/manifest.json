@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "cardback-dungeon-dice-monsters",
+  "kind": "cardback",
+  "name": "Dungeon Dice Monsters",
+  "version": "1.0.0",
+  "label": "Yu-Gi-Oh! Dungeon Dice Monsters · Japanese card back",
+  "era": "2000",
+  "group": "tcg-ocg",
+  "image": "back.png",
+  "master": "master.png",
+  "credits": [
+    {
+      "what": "Japanese tabletop card backing",
+      "source": "Konami artwork, Yugipedia scan",
+      "url": "https://img.yugipedia.com/4/43/Back-DDM-JP.png"
+    },
+    {
+      "what": "Title detail",
+      "source": "Konami game promo print, Yugipedia scan",
+      "url": "https://img.yugipedia.com/0/0f/DarkMagicianGirl-DDM-JP-Back.png"
+    },
+    {
+      "what": "Japanese physical starter box",
+      "source": "Suruga-ya",
+      "url": "https://www.suruga-ya.com/en/product/607512787"
+    }
+  ],
+  "files": {
+    "back.png": "29c1a4e25924e9679043f2419ba8019fa8852cebbc1757010549a9cd75e02a7b",
+    "master.png": "6be5d4f2ba7f3595e25e2b27c5b1f0d99c187e0cf41fd1622473866c5f35b655"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema": 1,
+  "id": "theme-moon",
+  "kind": "theme",
+  "name": "Moon",
+  "version": "1.0.1",
+  "tested_edopro": "41.0.2",
+  "skin_dir": "skin",
+  "font": {
+    "text": "fonts/Inter-Regular.ttf",
+    "size": 12,
+    "num": "fonts/Inter-Medium.ttf"
+  },
+  "default_cardbacks": {
+    "you": "cardback-vortex-classic",
+    "opponent": "cardback-ocg-1998"
+  },
+  "previews": {
+    "menu": "previews/menu.webp",
+    "deck": "previews/deck.webp",
+    "duel": "previews/duel.webp",
+    "tile": "previews/tile.webp"
+  },
+  "accent": "#DAE5F3",
+  "tagline": "Lunar greys and cool silver accents",
+  "credits": [
+    {
+      "what": "Skin, controls, zone textures and wallpaper treatment",
+      "source": "EDOPal, based on Monokai Moon from the OLED Deck EDOPro skin lab",
+      "url": "https://github.com/cntrl-alt-lenny/edopal/blob/a6c6601769b89ead05280b8c654a2afa80fa0338/assets/appearance/README.md"
+    },
+    {
+      "what": "Wallpaper — Moon UHD Wallpaper.jpg",
+      "source": "OLED Deck EDOPro wallpaper collection. Public redistribution permission is unverified.",
+      "url": "https://github.com/cntrl-alt-lenny/edopal/blob/a6c6601769b89ead05280b8c654a2afa80fa0338/assets/appearance/README.md"
+    },
+    {
+      "what": "Inter Regular and Medium",
+      "source": "The Inter Project Authors. SIL Open Font License 1.1, included in fonts/Inter-OFL.txt.",
+      "url": "https://github.com/rsms/inter"
+    },
+    {
+      "what": "Engine screenshots and depicted cards",
+      "source": "Captured in Project Ignis EDOPro 41.0.2. Yu-Gi-Oh! card art belongs to its respective rights holders.",
+      "url": "https://projectignis.github.io/"
+    }
+  ],
+  "files": {
+    "fonts/Inter-Medium.ttf": "97ad806f526e41546d46365bb3a393145f75b7b1568913db74549ad8b8dba872",
+    "fonts/Inter-OFL.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "fonts/Inter-Regular.ttf": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+    "previews/deck.webp": "512642a4d50da5c1f5e6fc81b28aa8f4c7925837aceb541efa6142f20dae1434",
+    "previews/duel.webp": "2b2af7052e8814470a8f7fbe5869c31133abf96b0ab8e9936639b03bdc2716f3",
+    "previews/menu.webp": "1b6e76196f883fd257512e28a9ab94d3e1e32a0b635c85f7722592bae76ecd96",
+    "previews/tile.webp": "8abe1b704a338bbde1470c5779ab8992aa306efc321f8e97526a9513d648dac0",
+    "skin/Button.png": "668b9bea305c9e0b8a9226749985935841439536f623668abe31c1420d9f829d",
+    "skin/ButtonDisabled.png": "2c81b4344938f71af121676b17403b23262e30beb546a49ed796ab579b4611b0",
+    "skin/CheckBox.png": "db1f22848200b9f39fc01b2cbbe34210ba478a2559407129f1d85c07e2ba1732",
+    "skin/CheckBoxDisabled.png": "0d1d4ba621ad3b2c9abc4a9a69aab8967af40050065df37abedc99c7ce003450",
+    "skin/ComboBox.png": "c9b5409d833e71d20a831b28943759978af2c95cf7bce98a4eab3aafc6af1f5f",
+    "skin/ComboBoxDisabled.png": "f97e63688c11a88dc8b7010a589625a6e8c7dce4908128e9fe5ad9e25102d0f8",
+    "skin/MenuBar.png": "57efb8802b6bb855086cb349cacab46d5b51c8cdb0d1e58876b7625546975e15",
+    "skin/MenuPane.png": "990edf6607dba1b4ea1c1cc52901315d29e9874bca56f90bb14b84d694f07a4f",
+    "skin/MenuPressed.png": "61d4b731d792f2f4a714903a227e6dbbb5b9bc5b2a363060a7b8f191e449a2c0",
+    "skin/Pressed.png": "63c684ec1f96438ed01de935abf412d4a0d7ddd5418e345d18e77662404038e8",
+    "skin/SunkenPane.png": "8ef9d5a9b9ba4bc1d6a3b30ae13b73d51bd30971ec6b85a93ab7dad46afe91ce",
+    "skin/TabButton.png": "8dc4e63328b93d174805cbb362d401619bcd9d718eae4eb332321e614970ae98",
+    "skin/TabButtonPressed.png": "8339b864e2c5e184cf1f57358d5e23a4d453ba5753c83b48d82b75e23256c830",
+    "skin/TabControl.png": "76cbe301f8c00f108565cd8c0d9278b14612b527995344342b1f0a6b072fdd38",
+    "skin/Window.png": "1f1f307b6ba21c5c405749ab8d0c074504eadff47975fb165ae57990a3626be4",
+    "skin/skin.xml": "3e3376306df2393cc44bb44b608bf9e43f118cfd8fc12eec99fec89f61ed387a",
+    "skin/textures/act.png": "4ca3ca787263b1e9da5549317b271884093831e00b541cc567b7138244f695f7",
+    "skin/textures/attack.png": "cab091d0a2fbcb69d3d8b378bb89c893197f10af306d676f208ad95b21d6ed84",
+    "skin/textures/bg.jpg": "929f82c74d77aec53232fb36bb93fb0b0797703a61d941bf9403ce6bc5ac73e1",
+    "skin/textures/bg_deck.jpg": "4375c55a5f180d3ca795ff4b93d1438a8707041994901ab6a92cb629bfbf19e8",
+    "skin/textures/bg_duel_topdown.jpg": "469f3fe1e5ad3474fb7ce540c8d8486134b321af82b5d9f7b7dbd18261c39929",
+    "skin/textures/bg_menu.jpg": "dd69d856581600adfe2eef0d7e06fd9a3b221e936a057570bd160f9b77daf7a4",
+    "skin/textures/chain.png": "f2c7de56c42e900b968b86d0a8efcba3178b1b5f494785425e92b2a456a53f02",
+    "skin/textures/chaintarget.png": "e4c9f190cc83e02a616cc098c36011102c63de3c10b506b2d447da64f3735dfb",
+    "skin/textures/equip.png": "73b54dbf908333529e695bade2151cb274f6bf86792973703ac4bdebde0c8e6f",
+    "skin/textures/field-transparent.png": "3e33306597095c33983734f02dd890032c45efa80411243f5027c54738ae4b97",
+    "skin/textures/field-transparent2.png": "852151e0ee5978ec4efbf73729e52a3cb21cd8be738a3fc8371cff10a1275369",
+    "skin/textures/field-transparent3.png": "04837e2fbff0a4825d10a2a0b769343cd7a77cb00ce22448dc1440c9e8b9f47a",
+    "skin/textures/field-transparent4.png": "b64df5fe492a8c866cb7d0558849b8fc53f6c7930822eb243a11faafdef58151",
+    "skin/textures/field-transparentSP.png": "e9c97e911c7a246903c5b3f78d0d5ac70a15d0fa7d3e84fb60b9a65458f13855",
+    "skin/textures/field-transparentSP2.png": "9c5678591c6eed7f76a2add7d4cad8086c3258467f2973afef07640783ce36f6",
+    "skin/textures/field-transparentSP3.png": "44e593bd25081dfe2eb86d02cdd3dafc0f2e19244c6a045282943b393f5bef60",
+    "skin/textures/field-transparentSP4.png": "09edbc2e44aec5c5789514b351f84f224872f6d2b0d2d04b0c6a9dd2f8980d67",
+    "skin/textures/field.png": "8a3d5a01525a5d0daba4cb8ec33440efb3dc81487912fc6af7e1455a1864198d",
+    "skin/textures/field2.png": "e3e5925b57dfdae5c46476f63bfb8d033b2f9d91e04c4e1bc92a3f156eee2358",
+    "skin/textures/field3.png": "7d5c3fe1bff3629468088ef7d48bc7c1210bd5a7944b4f1cdb32566685a1e1b2",
+    "skin/textures/field4.png": "fdb9d027b34c95f09e34330ad83f1fdc3d4a12407c2c485c70087a80bc96b6be",
+    "skin/textures/fieldSP.png": "55b9f8ccf15a0664d124159a52eb36c219686ff4e1681d453fe75d9431a9e3e9",
+    "skin/textures/fieldSP2.png": "fdc3db17d86ed7021f65b3af6f7adde27cd48c2e2acd8a780bff252c8166ce9b",
+    "skin/textures/fieldSP3.png": "bdf3235512d7e3ecc2ee5acae56eaa492c5821446f56d5aee137c142b7036f01",
+    "skin/textures/fieldSP4.png": "cb87970cd8a659b31bb03d86faa5353005666380c526b6d56f1b386304c56fef",
+    "skin/textures/lim.png": "0efc677bd0501a0068c7540756870da8797efe48e4cd87f9a757be50d001dc6d",
+    "skin/textures/lpf.png": "96bf47b54c7bd347e5290a8be6910e294282c583dc319b584014f6298227c79c",
+    "skin/textures/negated.png": "3b83155228a0c2996f5f94ae0fc0c5cd666df72a11fcf2a689bd453f93c28ead",
+    "skin/textures/number.png": "d9a974d3be569b10f5ec00d3c13acecb77e47da5737e4f9ad3f996e0b4ac3882",
+    "skin/textures/settings.png": "277a026cdf96fd4bc12b5d773a9cac2dc3fc5ffad24befe5ad67f741f5e6cd0d",
+    "skin/textures/target.png": "2dd4418bd24826845b024fd7f6f018cb20e1ce4ed584568b78883c6979f0b617"
+  }
+}

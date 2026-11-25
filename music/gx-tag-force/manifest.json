@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-gx-tag-force",
+  "kind": "music",
+  "name": "GX Tag Force",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! GX Tag Force",
+  "year": 2006,
+  "platform": "PSP",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! GX: Tag Force - Box - Front Image (Europe)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/27703-yu-gi-oh-gx-tag-force"
+    }
+  ],
+  "files": {
+    "cover.webp": "3a93f9fcb78f639067143c43548b674e27f5187ced972f515d5e114280eb92fc"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/51830f37-17a5-4923-80ce-7a9d9ebe0e4b.jpg",
+    "region": "Europe",
+    "original_resolution": [
+      640,
+      1104
+    ]
+  }
+}

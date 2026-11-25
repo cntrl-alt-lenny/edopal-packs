@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "id": "theme-abyss",
+  "kind": "theme",
+  "name": "Abyss",
+  "version": "1.0.1",
+  "tested_edopro": "41.0.2",
+  "skin_dir": "skin",
+  "font": {
+    "text": "fonts/Inter-Regular.ttf",
+    "size": 12,
+    "num": "fonts/Inter-Medium.ttf"
+  },
+  "default_cardbacks": {
+    "you": "cardback-vortex-classic",
+    "opponent": "cardback-ocg-1998"
+  },
+  "previews": {
+    "menu": "previews/menu.webp",
+    "deck": "previews/deck.webp",
+    "duel": "previews/duel.webp",
+    "tile": "previews/tile.webp"
+  },
+  "accent": "#98DBDF",
+  "tagline": "Deep-sea blues and teal field lines",
+  "credits": [
+    {
+      "what": "Skin, controls, zone textures and wallpaper treatment",
+      "source": "EDOPal, based on Monokai Abyss from the OLED Deck EDOPro skin lab",
+      "url": "https://github.com/cntrl-alt-lenny/edopal/blob/a6c6601769b89ead05280b8c654a2afa80fa0338/assets/appearance/README.md"
+    },
+    {
+      "what": "Water and skin textures sampled from Pokemon Kyogre UHD Wallpaper.png",
+      "source": "あすてろid. The source lists private, personal use. Public redistribution permission is unverified.",
+      "url": "https://wall.alphacoders.com/big.php?i=1041833"
+    },
+    {
+      "what": "Kyogre pose",
+      "source": "Pokémon HOME artwork, via PokéAPI. Pokémon belongs to its respective rights holders. Public redistribution permission is unverified.",
+      "url": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/home/382.png"
+    },
+    {
+      "what": "Underwater ruins, lighting and wallpaper composition",
+      "source": "EDOPal. The underwater environment was generated with OpenAI ImageGen.",
+      "url": "https://github.com/cntrl-alt-lenny/edopal"
+    },
+    {
+      "what": "Inter Regular and Medium",
+      "source": "The Inter Project Authors. SIL Open Font License 1.1, included in fonts/Inter-OFL.txt.",
+      "url": "https://github.com/rsms/inter"
+    },
+    {
+      "what": "Engine screenshots and depicted cards",
+      "source": "Captured in Project Ignis EDOPro 41.0.2. Yu-Gi-Oh! card art belongs to its respective rights holders.",
+      "url": "https://projectignis.github.io/"
+    }
+  ],
+  "files": {
+    "fonts/Inter-Medium.ttf": "97ad806f526e41546d46365bb3a393145f75b7b1568913db74549ad8b8dba872",
+    "fonts/Inter-OFL.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "fonts/Inter-Regular.ttf": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+    "previews/deck.webp": "03cb3b51671e5ab184888f4e02e262f5b2c2654399c5c4f2b447ff3f2de60ab9",
+    "previews/duel.webp": "93f84791198d540b4908083af2eab21ff7078fec126920e522ac5db790ced1fa",
+    "previews/menu.webp": "4207046c87c2c88e77c1d5266657292009da692f9fdc6e8c3266f40a26791107",
+    "previews/tile.webp": "83187a20a81b14a0088f1def33c58c788a0a30cbba5e49c24a5e20da5e72f4ce",
+    "skin/Button.png": "8cd46b6117dd3c8ac1c829391f534fbf18e095dfd349a656c153d9753568ef7c",
+    "skin/ButtonDisabled.png": "47a4e869a3fc7b4f5bf297e83d2c0b4fbef90a05928c6f5270f8b8fc9ecc159c",
+    "skin/CheckBox.png": "31b20858ecdd5639baca494b013c3897f66ba4040f6f5118d9419c6e80d402f0",
+    "skin/CheckBoxDisabled.png": "fa8bd3218a67cc0c569c0a2fa55f0fab32189d07cfee2e145f75bcb63e66c2e8",
+    "skin/ComboBox.png": "cd00520d3df91d45d74fda309b032cbb3ed024da2e6dfd9b2a80f26e61a658fe",
+    "skin/ComboBoxDisabled.png": "76e0c714b2b964339225987fae251084281c90714f5d98e2e33c5e640d6d8260",
+    "skin/MenuBar.png": "3d1b1c750442fb32683457bd78399baac3df8976a9baea377a8c683cfa416d97",
+    "skin/MenuPane.png": "6320b8b290f046fc745cff4d122e6b8e2f885a87b409970817892946bb4b54c4",
+    "skin/MenuPressed.png": "87e99fe5755e50db4d5b95dd58038c86c224cf143b981538b2b3c14e565c231a",
+    "skin/Pressed.png": "0e09884529d98632508ebe19ffefee1c29242481b28f1dfdb1285558288c5b92",
+    "skin/SunkenPane.png": "c57d49b847e1ce37b73093631672793f0bb4de8800f38e11927cc3c17d1f2be8",
+    "skin/TabButton.png": "4810db1b3cb6f813def40438cc1c9854dfcea7d3e12f384b1d7c869ab8e98580",
+    "skin/TabButtonPressed.png": "b1a3d555bf9ec292dad3e37ef7c07edbfd968a9a1793a75ce2e927c667524ed2",
+    "skin/TabControl.png": "906e3afa48c5be9e65eaf11ae60b2c1dbb8d592b7bb726b0a85d15220abd375b",
+    "skin/Window.png": "67ff6101dde650a3fdae4e129f79bb8d4d4a825e87f783a8dc888fec8bb4c871",
+    "skin/skin.xml": "4a19166290d7f929683645ec43b2356dec2dc118affd59fe8394659269789dfc",
+    "skin/textures/act.png": "4ca3ca787263b1e9da5549317b271884093831e00b541cc567b7138244f695f7",
+    "skin/textures/attack.png": "cab091d0a2fbcb69d3d8b378bb89c893197f10af306d676f208ad95b21d6ed84",
+    "skin/textures/bg.jpg": "9597bf459bdb1606aee73a370d5289010b71f87aaba31f7677b6d252d185613e",
+    "skin/textures/bg_deck.jpg": "0898cfdaede87cf7c4f8b84a5d1544765f027fd0e03f04d13aa398b7e42dfb14",
+    "skin/textures/bg_duel_topdown.jpg": "877a16bd6a46754dcef5b49777e06ac99286d57833e093cecd6e39b99b902ccc",
+    "skin/textures/bg_menu.jpg": "38b24ddcb251c6911722c32def011fd32f12b5646be524573a7ef4a56220723a",
+    "skin/textures/chain.png": "c8c8470531cad647ca92e219f1c324da9c860e7e1148b6b8e984f3700b870a05",
+    "skin/textures/chaintarget.png": "e4c9f190cc83e02a616cc098c36011102c63de3c10b506b2d447da64f3735dfb",
+    "skin/textures/equip.png": "73b54dbf908333529e695bade2151cb274f6bf86792973703ac4bdebde0c8e6f",
+    "skin/textures/field-transparent.png": "5830da6dae4e8d34e6437ade7eb7ed0ca7e10801f3fa694622ee8df626ae3fbe",
+    "skin/textures/field-transparent2.png": "af27af4167e4db542c88f1ebd3e28141af4cb96afc7e75ef9d4d2e8d89528842",
+    "skin/textures/field-transparent3.png": "20684495126aacd66d8885a9ee1e47d0566e84eeb244132fcfd06bea6a581bca",
+    "skin/textures/field-transparent4.png": "56b4da981515f5e5545c19165300d2be4c0b2634dd1577d6a26a57c8e8d8c776",
+    "skin/textures/field-transparentSP.png": "ed81e00b2cb4bf7f60178716059da3252e8f5b982d90774dac07721c87b5eb58",
+    "skin/textures/field-transparentSP2.png": "3016e9569b83c9d24bf56a5432b76f4d26246684b76fc4dfbfc9f9c1da88482f",
+    "skin/textures/field-transparentSP3.png": "2550b43cf7da3368458e822012e447b6d14af2fcc39a918df0eae70b0085e4fb",
+    "skin/textures/field-transparentSP4.png": "231374a4cfcacc2984d425af60f4ab907a41acb3be430063d35d2ddf470e1f2c",
+    "skin/textures/field.png": "da59534b37b5af379f77ae591872f3b08c6d3fb5e4f0554ab5ff131d5a045d36",
+    "skin/textures/field2.png": "42860757c88e24338e0dcdaad5e647fe385adeb4349906ecd417964c126f794c",
+    "skin/textures/field3.png": "b1bfbc82989f9dceeb98cf24b84ce5e002bed3ad6aeac487914345764e7dbbc0",
+    "skin/textures/field4.png": "470a07cc56941952f1f7e3f0598c094a5e8d5e1d778d8bd613c741f29f38c495",
+    "skin/textures/fieldSP.png": "a133bb665163f462860ef2a53b7b5de686d1e869ce9217de0fe8c5ed38161fdf",
+    "skin/textures/fieldSP2.png": "57a38608b61e08c53d29e9bb5dd7abfefd04d48bad84a79bb72bba48ca5b1a4b",
+    "skin/textures/fieldSP3.png": "8ef87d234ee5d43ecd0d9f182513793d2cab84c4dba956f5c49982bf37d45365",
+    "skin/textures/fieldSP4.png": "e4b83024d808a4dc9e455589e9f8a20f04c14526394e664a2c8cddde057c5c57",
+    "skin/textures/lim.png": "08846dd579eca20d6df451215e7c8dcca08093c301c97db045a2c8ec6e7e6a01",
+    "skin/textures/lpf.png": "15903dce7b4918461245a119fba8287acb193742aa915a7cfc10b33c30f7cf59",
+    "skin/textures/negated.png": "3b83155228a0c2996f5f94ae0fc0c5cd666df72a11fcf2a689bd453f93c28ead",
+    "skin/textures/number.png": "c4fa59a389b177dd864641a703e88822e2a0939bf7d3ec9d470f8cbf89f2e311",
+    "skin/textures/settings.png": "b191197f52b890e7672e6498602e50669f9fe4c60f8dcab4db1c1ebe3865ab74",
+    "skin/textures/target.png": "2dd4418bd24826845b024fd7f6f018cb20e1ce4ed584568b78883c6979f0b617"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-worldwide-edition",
+  "kind": "music",
+  "name": "Worldwide Edition",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+  "year": 2003,
+  "platform": "Game Boy Advance",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel - Box - Front Image (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/2233-yu-gi-oh-worldwide-edition-stairway-to-the-destined-duel"
+    }
+  ],
+  "files": {
+    "cover.webp": "4cc6b85176a4358c2e8afb7b4e7218081d1c26112e9b3cb6ceb028704a29ec35"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/8c7b12b3-1865-4710-8dd1-55bbfc98cf8f.jpg",
+    "region": "North America",
+    "original_resolution": [
+      640,
+      640
+    ]
+  }
+}

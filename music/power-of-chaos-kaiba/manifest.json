@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-power-of-chaos-kaiba",
+  "kind": "music",
+  "name": "Kaiba the Revenge",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge",
+  "year": 2004,
+  "platform": "Windows",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge - Box - Front Image (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/16758-yu-gi-oh-power-of-chaos-kaiba-the-revenge"
+    }
+  ],
+  "files": {
+    "cover.webp": "f507f8cac0b247d720b8cee7621959136e47349b273d0e0e4901698b0c5e7429"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/b2a8463c-c123-4129-8aec-9008fe1f989e.jpg",
+    "region": "North America",
+    "original_resolution": [
+      640,
+      908
+    ]
+  }
+}

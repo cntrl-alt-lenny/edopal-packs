@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "id": "music-world-championship-2004",
+  "kind": "music",
+  "name": "World Championship 2004",
+  "version": "0.1.0",
+  "game": "Yu-Gi-Oh! World Championship Tournament 2004",
+  "year": 2004,
+  "platform": "Game Boy Advance",
+  "cover": "cover.webp",
+  "tracks": [],
+  "credits": [
+    {
+      "what": "Yu-Gi-Oh! World Championship Tournament 2004 - Box - Front Image (North America)",
+      "source": "LaunchBox Games Database",
+      "url": "https://gamesdb.launchbox-app.com/games/images/3931-yu-gi-oh-world-championship-tournament-2004"
+    }
+  ],
+  "files": {
+    "cover.webp": "702e68f4a163d6f80d1c3327b4541d591156c4e5db23ce0a1434178cfad7d260"
+  },
+  "cover_attribution": {
+    "source_url": "https://images.launchbox-app.com/37743d13-862c-41c8-b21d-7d0bd33166f9.jpg",
+    "region": "North America",
+    "original_resolution": [
+      1000,
+      1000
+    ]
+  }
+}

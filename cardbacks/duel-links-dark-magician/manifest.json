@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "cardback-duel-links-dark-magician",
+  "kind": "cardback",
+  "name": "Dark Magician",
+  "label": "Yu-Gi-Oh! Duel Links Dark Magician launch sleeve",
+  "era": "2016",
+  "credits": [
+    {
+      "what": "Japanese launch era",
+      "source": "Konami",
+      "url": "https://www.konami.com/games/asia/en/topics/555/"
+    },
+    {
+      "what": "Launch sleeve used for the logo-free reconstruction",
+      "source": "Konami game graphic archived by Yugipedia",
+      "url": "https://yugipedia.com/wiki/File:Sleeve-DULI-DarkMagician.png"
+    },
+    {
+      "what": "Dark Magician costume and pose underneath the sleeve overprint",
+      "source": "Konami card artwork via YGOPRODeck",
+      "url": "https://images.ygoprodeck.com/images/cards_cropped/46986416.jpg"
+    }
+  ],
+  "group": "video-games",
+  "version": "1.0.0",
+  "image": "back.png",
+  "master": "master.png",
+  "files": {
+    "back.png": "ac315fc9e0719ec1a415ab9ec0a60d97558105376468a1f5a55243519d901a2b",
+    "master.png": "290f5cd6ddc457037e3835a74ecfd48e7600ab8af7bd4e4d81cffc4f5c06409b"
+  }
+}
