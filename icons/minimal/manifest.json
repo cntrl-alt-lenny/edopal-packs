@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "icons-minimal",
+  "kind": "icons",
+  "name": "Minimal",
+  "version": "1.0.0",
+  "credits": [
+    {
+      "what": "Duel icon textures",
+      "source": "EDOPal · Minimal series",
+      "url": ""
+    }
+  ],
+  "files": {
+    "textures/act.png": "1eb32ef347d5b7aac8ee1c7bf8162cb6516104e1e18350814e8d090b27723157",
+    "textures/attack.png": "7c1ea81a5e5335c97f7ea848319b7ca6c8ae4c7924cc4ec0dcd0ef1cfd3b2cd1",
+    "textures/chain.png": "4242298631c50d8b313e4d9713c6669173f5476219da9fa77ad2a3a48ce1b3dc",
+    "textures/chaintarget.png": "364517454ab31836d561fbdacbb29d86869df98400d934e72300f7b1e88b9cef",
+    "textures/equip.png": "e072826650b2818bf396478f949428181aa912f00ef8cc109e6ec705b572f5e7",
+    "textures/lim.png": "0882ea3d6a91c3d93cb5171a71dca5fb16e751a7aef9260617f7e5a97ded8e09",
+    "textures/lpf.png": "c81e2a8b3b50b37e2870906ed2445d2b6b243dffefb2882508fff9bb184b9dc5",
+    "textures/negated.png": "9502747121c668ed4e65257fcc814c781177eb8e5a5d15d50461f919aa6cbb84",
+    "textures/number.png": "0f762ec1bfd7d5b317122456003d4b4cf47dda7873d306aae5079010699bffec",
+    "textures/settings.png": "797a202f307203806ac7fabf578c8f978fe62ad163009ec67b02fc9f5a9e419d",
+    "textures/target.png": "136695e4e69f15dc962cbd913733c5dfe8044423a6ac8d407f273058ed122fe0"
+  }
+}

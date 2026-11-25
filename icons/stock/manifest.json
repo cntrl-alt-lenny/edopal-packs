@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "id": "icons-stock",
+  "kind": "icons",
+  "name": "EDOPro Default",
+  "version": "1.0.0",
+  "credits": [
+    {
+      "what": "Activation",
+      "source": "NaimSantos (AGPLv3 or later)",
+      "url": "https://github.com/ProjectIgnis/EDOPro"
+    },
+    {
+      "what": "Settings and field",
+      "source": "Icematoro (AGPLv3 or later)",
+      "url": "https://github.com/ProjectIgnis/EDOPro"
+    },
+    {
+      "what": "Duel indicators",
+      "source": "Argon Sun (GPLv2)",
+      "url": "https://github.com/ProjectIgnis/EDOPro"
+    },
+    {
+      "what": "Duel field preview",
+      "source": "EDOPal · Abyss in EDOPro",
+      "url": ""
+    }
+  ],
+  "files": {
+    "CREDITS.txt": "bf2e2b2f7afb08a640120133c467e0db044824d0f0e9134da39a34510249f558",
+    "previews/field.webp": "575bc22ccc2049b43cd12a87f1e569ff8ba646d1af629d0e2f89925a08c29c9e",
+    "textures/act.png": "fd71cdf7763860e6fdfadb9c62e2893cbb0e5bf43ca157c2dc23d9a7a08bd616",
+    "textures/attack.png": "0112006286c6876bf207861e720c3b0d4dd209f6b890be88e7ac76eb7637b641",
+    "textures/chain.png": "1632b222279e46624cace614321a2f2f5e83b736074acc3f548bed0377ab2320",
+    "textures/chaintarget.png": "3ac508df7b2b033c015155aa775133075b40b45dd196d2876ca0e12cb9466cbc",
+    "textures/equip.png": "30ffb18093fdef3731e083c627859a40ba363f9c73e9a88967ddc0644b2548c0",
+    "textures/lim.png": "9467f570d0e080e710b6211dcb07b30ec68c29b68966b002551d86ba9edd51b5",
+    "textures/lpf.png": "8752f983cc11aa28ce8feaef4e9df2af0982825acf2fba953fb8f6a7a4847455",
+    "textures/negated.png": "b7f39534561b593f134dc62a5432336fe6190956da477818df1549a7eecda4c3",
+    "textures/number.png": "ac6bb94658f9d58bd18de60a496cac1c7ab79031f79bcd9b9db02beef96017e3",
+    "textures/settings.png": "ea919d154cfde5c3fb240b2d886bf8565897781cd91a80f892e48c85c67688e8",
+    "textures/target.png": "d74da8aa8b0bd5175d2142008181b2df6b11dece013255abd9803a908ba928dd"
+  }
+}

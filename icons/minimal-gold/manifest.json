@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "icons-minimal-gold",
+  "kind": "icons",
+  "name": "Minimal Gold",
+  "version": "1.0.0",
+  "credits": [
+    {
+      "what": "Duel icon textures",
+      "source": "EDOPal · Minimal series",
+      "url": ""
+    }
+  ],
+  "files": {
+    "textures/act.png": "4d8e257414abe7e0ea21ece8856c133d5e9b8219d7e14a3f996eacb2f225113e",
+    "textures/attack.png": "a5afc8bcc346f1bb3b01a038d31cb1eeb4544c20c0a52ddb6c4fe56f89312de2",
+    "textures/chain.png": "f54c157b4a6b3ddee948650ae4cac9f8dd4d8d517ad99cd934af993aa0b8f2ae",
+    "textures/chaintarget.png": "e9cc431a859a3dc500d291254da0883c586372f5a2fa634a749e04c453ceadc4",
+    "textures/equip.png": "cbd68adf0fba037aa8c577c3301115703d2f0b97c9285ef79c1ccdebaf7088a7",
+    "textures/lim.png": "a4b603b5a43eb3afa9f629f3bdf0112831853088b403e3cd69ad758d20665079",
+    "textures/lpf.png": "51630e6623b5242e0cb52aac2ae37c6244d62f810d44706bd06ffcc0676a5a78",
+    "textures/negated.png": "53f18c0b6ae25d65b23620818bc91551d1f704221180f7c1a769a606b39a43f9",
+    "textures/number.png": "3881a73492d294271c407bfa17bc11d7283bba3d27e2e5b3c640be29725c99f6",
+    "textures/settings.png": "ebad69d0cd3a05e618eb1ec4e4648820ab3741aa46ea5ab37387e735ce694b33",
+    "textures/target.png": "dd1b4906f5daccaf1ddbd8e97583754a49f5d7dfc36b6050c1e2612a29b0ed35"
+  }
+}

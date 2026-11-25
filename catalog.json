@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-25T17:29:53Z",
+  "generated": "2026-11-25T19:42:12Z",
   "packs": [
     {
       "id": "theme-abyss",
@@ -115,11 +115,11 @@
     {
       "id": "cardback-duel-links-dark-magician",
       "kind": "cardback",
-      "name": "Dark Magician",
-      "version": "1.0.0",
+      "name": "Duel Links · Dark Magician",
+      "version": "1.0.1",
       "url": "cardbacks/duel-links-dark-magician",
-      "size": 7162741,
-      "sha256": "4204a69b09fd6ea784046a8ce05f563d15321b4fd92c171a918d0b5f8fcd3379",
+      "size": 7162749,
+      "sha256": "9102247f387ec837043f1ed72b2f9b13ef93346fb7226d89437e037bdc48e02f",
       "thumbnail": "thumbs/cardback-duel-links-dark-magician.webp",
       "preview": "",
       "meta": {
@@ -1621,6 +1621,66 @@
       "url": "art/music-banners",
       "size": 18298867,
       "sha256": "38fb41edc9d7cce61f85c502a891cad8c3d15cb5af791852cee7dd41942c4c8f",
+      "thumbnail": "",
+      "preview": "",
+      "meta": {}
+    },
+    {
+      "id": "icons-candidates",
+      "kind": "icons",
+      "name": "Duel Icon Candidates",
+      "version": "1.0.0",
+      "url": "icons/candidates",
+      "size": 461438,
+      "sha256": "86f4e6f7eb74a9b38baf26d1980c2d8eff43d573e841f2f145ade15f9d32c8e8",
+      "thumbnail": "",
+      "preview": "",
+      "meta": {}
+    },
+    {
+      "id": "icons-stock",
+      "kind": "icons",
+      "name": "EDOPro Default",
+      "version": "1.0.0",
+      "url": "icons/stock",
+      "size": 280989,
+      "sha256": "21b8623ea8eba438f796c9a03e659ed01d6b4b747fe0c33df2fdeb9eb787d077",
+      "thumbnail": "",
+      "preview": "",
+      "meta": {}
+    },
+    {
+      "id": "icons-minimal",
+      "kind": "icons",
+      "name": "Minimal",
+      "version": "1.0.0",
+      "url": "icons/minimal",
+      "size": 128457,
+      "sha256": "e89751be82cea4797d4d3de3c1b277704ddbdc877d736aa475c4941886b358dc",
+      "thumbnail": "",
+      "preview": "",
+      "meta": {}
+    },
+    {
+      "id": "icons-minimal-glass",
+      "kind": "icons",
+      "name": "Minimal Glass",
+      "version": "1.0.0",
+      "url": "icons/minimal-glass",
+      "size": 152624,
+      "sha256": "78039406d83241b3a03d4e952829c2f99e914cc56a56b403fabb5e82c3ef516c",
+      "thumbnail": "",
+      "preview": "",
+      "meta": {}
+    },
+    {
+      "id": "icons-minimal-gold",
+      "kind": "icons",
+      "name": "Minimal Gold",
+      "version": "1.0.0",
+      "url": "icons/minimal-gold",
+      "size": 131796,
+      "sha256": "26a38aa54ebf6e4988dccf945193f23041c688293421d765c92fe9e30e1bdfd7",
       "thumbnail": "",
       "preview": "",
       "meta": {}

@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "cardback-duel-links-dark-magician",
   "kind": "cardback",
-  "name": "Dark Magician",
+  "name": "Duel Links · Dark Magician",
   "label": "Yu-Gi-Oh! Duel Links Dark Magician launch sleeve",
   "era": "2016",
   "credits": [
@@ -23,7 +23,7 @@
     }
   ],
   "group": "video-games",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "image": "back.png",
   "master": "master.png",
   "files": {

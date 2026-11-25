@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "icons-minimal-glass",
+  "kind": "icons",
+  "name": "Minimal Glass",
+  "version": "1.0.0",
+  "credits": [
+    {
+      "what": "Duel icon textures",
+      "source": "EDOPal · Minimal series",
+      "url": ""
+    }
+  ],
+  "files": {
+    "textures/act.png": "eb2254da63d603e836af6f65de3145cb9b144dec68ef1a42af11014600ba5fe2",
+    "textures/attack.png": "d8c82fa7aeca09bb459a2e91ef227fe232734ea541b9a3468f909567b4c9d4ca",
+    "textures/chain.png": "649c8776ed606e4b619dc016215c5a1e66ae91959a0cac66461e6e419ddf8cda",
+    "textures/chaintarget.png": "1a409ddb80da161540123465534cd9521bfd590d92eac49b697ccfe780ea0433",
+    "textures/equip.png": "93545d8676ba95fd0e37212058b498ec03ed8ef8304045e8b675dc47ee77511b",
+    "textures/lim.png": "8bb6c306faed032e13115596276bddbd84f3fd1c65113d4c36997feefffdd8ea",
+    "textures/lpf.png": "deb53b0a0b4b8f81d690feffe4a2abef61515ceedbfeaac7ddbfb3548cf18fe2",
+    "textures/negated.png": "63f8d5325f4a8fdeec299545a6e3bab401cba334c308a441b051ff995e7e2c42",
+    "textures/number.png": "dda1667f34ff291734eb3f5a65f1f16a06c8ac2387fbbeca16df1cd6963c69e9",
+    "textures/settings.png": "f24c80f7153d3b0d40ce057ca66570f81c8972430d1fb7e1612e22cc9f6bf023",
+    "textures/target.png": "97898afbaecfffc58eac9d121d3f763ba256b768cf53f5e96948ca33881d436d"
+  }
+}
