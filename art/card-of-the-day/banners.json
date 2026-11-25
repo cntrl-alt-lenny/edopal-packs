@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 89631144,
+    "name": "Blue-Eyes White Dragon",
+    "set_name": "Legend of Blue Eyes White Dragon",
+    "set_code": "LOB-001",
+    "year": 2002,
+    "crop": [
+      102,
+      250,
+      609,
+      175
+    ],
+    "focus": [
+      0.6719,
+      0.5074
+    ]
+  },
+  {
+    "id": 46986414,
+    "name": "Dark Magician",
+    "set_name": "Legend of Blue Eyes White Dragon",
+    "set_code": "LOB-005",
+    "year": 2002,
+    "crop": [
+      102,
+      325,
+      610,
+      175
+    ],
+    "focus": [
+      0.3486,
+      0.5139
+    ]
+  },
+  {
+    "id": 74677423,
+    "name": "Red-Eyes Black Dragon",
+    "set_name": "Legend of Blue Eyes White Dragon",
+    "set_code": "LOB-070",
+    "year": 2002,
+    "crop": [
+      102,
+      229,
+      610,
+      175
+    ],
+    "focus": [
+      0.2561,
+      0.4955
+    ]
+  },
+  {
+    "id": 83764719,
+    "name": "Monster Reborn",
+    "set_name": "Legend of Blue Eyes White Dragon",
+    "set_code": "LOB-118",
+    "year": 2002,
+    "crop": [
+      102,
+      349,
+      610,
+      175
+    ],
+    "focus": [
+      0.5102,
+      0.6156
+    ]
+  },
+  {
+    "id": 55144522,
+    "name": "Pot of Greed",
+    "set_name": "Legend of Blue Eyes White Dragon",
+    "set_code": "LOB-119",
+    "year": 2002,
+    "crop": [
+      103,
+      512,
+      608,
+      175
+    ],
+    "focus": [
+      0.551,
+      0.4722
+    ]
+  },
+  {
+    "id": 33396948,
+    "name": "Exodia the Forbidden One",
+    "set_name": "Legend of Blue Eyes White Dragon",
+    "set_code": "LOB-124",
+    "year": 2002,
+    "crop": [
+      102,
+      429,
+      610,
+      175
+    ],
+    "focus": [
+      0.5,
+      0.5044
+    ]
+  },
+  {
+    "id": 19613556,
+    "name": "Heavy Storm",
+    "set_name": "Metal Raiders",
+    "set_code": "MRD-142",
+    "year": 2002,
+    "crop": [
+      103,
+      312,
+      608,
+      175
+    ],
+    "focus": [
+      0.4592,
+      0.5097
+    ]
+  },
+  {
+    "id": 77585513,
+    "name": "Jinzo",
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-000",
+    "year": 2002,
+    "crop": [
+      102,
+      297,
+      610,
+      175
+    ],
+    "focus": [
+      0.4939,
+      0.5099
+    ]
+  },
+  {
+    "id": 47355498,
+    "name": "Necrovalley",
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-084",
+    "year": 2003,
+    "crop": [
+      103,
+      471,
+      608,
+      175
+    ],
+    "focus": [
+      0.6428,
+      0.4605
+    ]
+  },
+  {
+    "id": 38033121,
+    "name": "Dark Magician Girl",
+    "set_name": "Magician's Force",
+    "set_code": "MFC-000",
+    "year": 2003,
+    "crop": [
+      102,
+      455,
+      610,
+      175
+    ],
+    "focus": [
+      0.4289,
+      0.5127
+    ]
+  },
+  {
+    "id": 10000022,
+    "name": "Slifer the Sky Dragon",
+    "set_name": "Yu-Gi-Oh! The Movie Ani-Manga promotional card",
+    "set_code": "YMA-EN001",
+    "year": 2004,
+    "crop": [
+      102,
+      298,
+      610,
+      175
+    ],
+    "focus": [
+      0.4492,
+      0.5113
+    ]
+  },
+  {
+    "id": 57116033,
+    "name": "Winged Kuriboh",
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN005",
+    "year": 2005,
+    "crop": [
+      102,
+      391,
+      610,
+      175
+    ],
+    "focus": [
+      0.5,
+      0.5111
+    ]
+  },
+  {
+    "id": 35809262,
+    "name": "Elemental HERO Flame Wingman",
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN035",
+    "year": 2005,
+    "crop": [
+      102,
+      287,
+      610,
+      175
+    ],
+    "focus": [
+      0.5091,
+      0.5206
+    ]
+  },
+  {
+    "id": 70095154,
+    "name": "Cyber Dragon",
+    "set_name": "Cybernetic Revolution",
+    "set_code": "CRV-EN015",
+    "year": 2005,
+    "crop": [
+      102,
+      222,
+      611,
+      176
+    ],
+    "focus": [
+      0.7275,
+      0.341
+    ]
+  },
+  {
+    "id": 63035430,
+    "name": "Skyscraper",
+    "set_name": "Cybernetic Revolution",
+    "set_code": "CRV-EN048",
+    "year": 2005,
+    "crop": [
+      103,
+      387,
+      609,
+      175
+    ],
+    "focus": [
+      0.489,
+      0.4876
+    ]
+  },
+  {
+    "id": 89943724,
+    "name": "Elemental HERO Neos",
+    "set_name": "Power of the Duelist",
+    "set_code": "POTD-EN001",
+    "year": 2006,
+    "crop": [
+      102,
+      249,
+      610,
+      175
+    ],
+    "focus": [
+      0.5671,
+      0.5131
+    ]
+  },
+  {
+    "id": 7093411,
+    "name": "Crystal Beast Sapphire Pegasus",
+    "set_name": "Force of the Breaker",
+    "set_code": "FOTB-EN007",
+    "year": 2007,
+    "crop": [
+      102,
+      292,
+      610,
+      175
+    ],
+    "focus": [
+      0.6565,
+      0.5063
+    ]
+  },
+  {
+    "id": 75500286,
+    "name": "Gold Sarcophagus",
+    "set_name": "Shonen Jump Championship 2007 Prize Card B",
+    "set_code": "SJCS-EN005",
+    "year": 2007,
+    "crop": [
+      103,
+      466,
+      608,
+      175
+    ],
+    "focus": [
+      0.5,
+      0.4891
+    ]
+  },
+  {
+    "id": 70342110,
+    "name": "Dimensional Prison",
+    "set_name": "Yu-Gi-Oh! World Championship 2008 promotional cards",
+    "set_code": "WC08-EN003",
+    "year": 2007,
+    "crop": [
+      102,
+      310,
+      610,
+      175
+    ],
+    "focus": [
+      0.4492,
+      0.5104
+    ]
+  },
+  {
+    "id": 78371393,
+    "name": "Yubel",
+    "set_name": "Phantom Darkness",
+    "set_code": "PTDN-EN006",
+    "year": 2008,
+    "crop": [
+      102,
+      342,
+      611,
+      176
+    ],
+    "focus": [
+      0.485,
+      0.5065
+    ]
+  },
+  {
+    "id": 57774843,
+    "name": "Judgment Dragon",
+    "set_name": "Light of Destruction",
+    "set_code": "LODT-EN026",
+    "year": 2008,
+    "crop": [
+      103,
+      222,
+      609,
+      175
+    ],
+    "focus": [
+      0.4574,
+      0.4499
+    ]
+  },
+  {
+    "id": 60800381,
+    "name": "Junk Warrior",
+    "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+    "set_code": "5DS1-EN041",
+    "year": 2008,
+    "crop": [
+      102,
+      258,
+      611,
+      176
+    ],
+    "focus": [
+      0.553,
+      0.5087
+    ]
+  },
+  {
+    "id": 44508094,
+    "name": "Stardust Dragon",
+    "set_name": "Collectible Tins 2008 Wave 1",
+    "set_code": "CT05-EN001",
+    "year": 2008,
+    "crop": [
+      102,
+      401,
+      610,
+      175
+    ],
+    "focus": [
+      0.3475,
+      0.511
+    ]
+  },
+  {
+    "id": 73580471,
+    "name": "Black Rose Dragon",
+    "set_name": "Collectible Tins 2008 Wave 2",
+    "set_code": "CT05-EN003",
+    "year": 2008,
+    "crop": [
+      102,
+      442,
+      611,
+      176
+    ],
+    "focus": [
+      0.352,
+      0.4985
+    ]
+  },
+  {
+    "id": 71645242,
+    "name": "Black Garden",
+    "set_name": "Crossroads of Chaos",
+    "set_code": "CSOC-EN048",
+    "year": 2008,
+    "crop": [
+      103,
+      378,
+      608,
+      175
+    ],
+    "focus": [
+      0.5,
+      0.4749
+    ]
+  },
+  {
+    "id": 15341821,
+    "name": "Dandylion",
+    "set_name": "Shonen Jump February 2009 subscription bonus",
+    "set_code": "JUMP-EN029",
+    "year": 2009,
+    "crop": [
+      102,
+      383,
+      610,
+      175
+    ],
+    "focus": [
+      0.379,
+      0.5105
+    ]
+  },
+  {
+    "id": 52687916,
+    "name": "Trishula, Dragon of the Ice Barrier",
+    "set_name": "Duel Terminal 4",
+    "set_code": "DT04-EN092",
+    "year": 2011,
+    "crop": [
+      102,
+      284,
+      610,
+      175
+    ],
+    "focus": [
+      0.4807,
+      0.4772
+    ]
+  },
+  {
+    "id": 62265044,
+    "name": "Dragon Ravine",
+    "set_name": "Dragunity Legion Structure Deck",
+    "set_code": "SDDL-EN021",
+    "year": 2011,
+    "crop": [
+      102,
+      306,
+      610,
+      175
+    ],
+    "focus": [
+      0.6088,
+      0.5119
+    ]
+  },
+  {
+    "id": 10802915,
+    "name": "Tour Guide From the Underworld",
+    "set_name": "Extreme Victory",
+    "set_code": "EXVC-EN084",
+    "year": 2011,
+    "crop": [
+      103,
+      269,
+      609,
+      175
+    ],
+    "focus": [
+      0.5511,
+      0.5344
+    ]
+  },
+  {
+    "id": 84013238,
+    "name": "Number 39: Utopia",
+    "set_name": "Starter Deck: Dawn of the Xyz",
+    "set_code": "YS11-EN041",
+    "year": 2011,
+    "crop": [
+      102,
+      305,
+      610,
+      175
+    ],
+    "focus": [
+      0.4797,
+      0.5497
+    ]
+  },
+  {
+    "id": 93717133,
+    "name": "Galaxy-Eyes Photon Dragon",
+    "set_name": "Collectible Tins 2011 Wave 2",
+    "set_code": "CT08-EN003",
+    "year": 2011,
+    "crop": [
+      103,
+      245,
+      608,
+      175
+    ],
+    "focus": [
+      0.4307,
+      0.511
+    ]
+  },
+  {
+    "id": 37164373,
+    "name": "Madolche Queen Tiaramisu",
+    "set_name": "Abyss Rising",
+    "set_code": "ABYR-EN048",
+    "year": 2012,
+    "crop": [
+      102,
+      268,
+      610,
+      175
+    ],
+    "focus": [
+      0.5173,
+      0.5722
+    ]
+  },
+  {
+    "id": 48739166,
+    "name": "Number 101: Silent Honor ARK",
+    "set_name": "Legacy of the Valiant",
+    "set_code": "LVAL-EN047",
+    "year": 2014,
+    "crop": [
+      103,
+      472,
+      608,
+      175
+    ],
+    "focus": [
+      0.5071,
+      0.5083
+    ]
+  },
+  {
+    "id": 16178681,
+    "name": "Odd-Eyes Pendulum Dragon",
+    "set_name": "Duelist Alliance",
+    "set_code": "DUEA-EN004",
+    "year": 2014,
+    "crop": [
+      58,
+      325,
+      696,
+      200
+    ],
+    "focus": [
+      0.4906,
+      0.5157
+    ]
+  },
+  {
+    "id": 20366274,
+    "name": "El Shaddoll Construct",
+    "set_name": "Duelist Alliance",
+    "set_code": "DUEA-EN049",
+    "year": 2014,
+    "crop": [
+      102,
+      222,
+      610,
+      175
+    ],
+    "focus": [
+      0.499,
+      0.3429
+    ]
+  },
+  {
+    "id": 83531441,
+    "name": "Dante, Traveler of the Burning Abyss",
+    "set_name": "Duelist Alliance",
+    "set_code": "DUEA-EN085",
+    "year": 2014,
+    "crop": [
+      102,
+      261,
+      610,
+      175
+    ],
+    "focus": [
+      0.4939,
+      0.5266
+    ]
+  },
+  {
+    "id": 59438930,
+    "name": "Ghost Ogre & Snow Rabbit",
+    "set_name": "Crossed Souls",
+    "set_code": "CROS-EN033",
+    "year": 2015,
+    "crop": [
+      102,
+      338,
+      610,
+      175
+    ],
+    "focus": [
+      0.4797,
+      0.518
+    ]
+  },
+  {
+    "id": 82044279,
+    "name": "Clear Wing Synchro Dragon",
+    "set_name": "Crossed Souls",
+    "set_code": "CROS-EN046",
+    "year": 2015,
+    "crop": [
+      102,
+      229,
+      610,
+      175
+    ],
+    "focus": [
+      0.5772,
+      0.4991
+    ]
+  },
+  {
+    "id": 90809975,
+    "name": "Toadally Awesome",
+    "set_name": "Invasion: Vengeance",
+    "set_code": "INOV-EN052",
+    "year": 2016,
+    "crop": [
+      102,
+      483,
+      610,
+      175
+    ],
+    "focus": [
+      0.4492,
+      0.4953
+    ]
+  },
+  {
+    "id": 14558127,
+    "name": "Ash Blossom & Joyous Spring",
+    "set_name": "Maximum Crisis",
+    "set_code": "MACR-EN036",
+    "year": 2017,
+    "crop": [
+      102,
+      345,
+      610,
+      175
+    ],
+    "focus": [
+      0.2418,
+      0.5101
+    ]
+  },
+  {
+    "id": 1861629,
+    "name": "Decode Talker",
+    "set_name": "Starter Deck: Link Strike",
+    "set_code": "YS17-EN041",
+    "year": 2017,
+    "crop": [
+      103,
+      326,
+      609,
+      175
+    ],
+    "focus": [
+      0.4279,
+      0.5117
+    ]
+  },
+  {
+    "id": 5043010,
+    "name": "Firewall Dragon",
+    "set_name": "Code of the Duelist",
+    "set_code": "COTD-EN043",
+    "year": 2017,
+    "crop": [
+      102,
+      308,
+      610,
+      175
+    ],
+    "focus": [
+      0.4187,
+      0.5112
+    ]
+  },
+  {
+    "id": 10045474,
+    "name": "Infinite Impermanence",
+    "set_name": "Flames of Destruction",
+    "set_code": "FLOD-EN077",
+    "year": 2018,
+    "crop": [
+      102,
+      288,
+      610,
+      175
+    ],
+    "focus": [
+      0.5163,
+      0.4507
+    ]
+  },
+  {
+    "id": 26077387,
+    "name": "Sky Striker Ace - Raye",
+    "set_name": "Dark Saviors",
+    "set_code": "DASA-EN029",
+    "year": 2018,
+    "crop": [
+      102,
+      222,
+      610,
+      175
+    ],
+    "focus": [
+      0.6708,
+      0.3394
+    ]
+  },
+  {
+    "id": 65741786,
+    "name": "I:P Masquerena",
+    "set_name": "Chaos Impact",
+    "set_code": "CHIM-EN049",
+    "year": 2019,
+    "crop": [
+      103,
+      264,
+      608,
+      175
+    ],
+    "focus": [
+      0.4888,
+      0.5094
+    ]
+  },
+  {
+    "id": 86066372,
+    "name": "Accesscode Talker",
+    "set_name": "Eternity Code",
+    "set_code": "ETCO-EN046",
+    "year": 2020,
+    "crop": [
+      103,
+      250,
+      608,
+      175
+    ],
+    "focus": [
+      0.5428,
+      0.404
+    ]
+  },
+  {
+    "id": 60303688,
+    "name": "Dogmatika Ecclesia, the Virtuous",
+    "set_name": "Rise of the Duelist",
+    "set_code": "ROTD-EN005",
+    "year": 2020,
+    "crop": [
+      102,
+      226,
+      610,
+      175
+    ],
+    "focus": [
+      0.6494,
+      0.5091
+    ]
+  },
+  {
+    "id": 68468459,
+    "name": "Fallen of Albaz",
+    "set_name": "Rise of the Duelist",
+    "set_code": "ROTD-EN011",
+    "year": 2020,
+    "crop": [
+      102,
+      228,
+      610,
+      175
+    ],
+    "focus": [
+      0.441,
+      0.4834
+    ]
+  },
+  {
+    "id": 24299458,
+    "name": "Forbidden Droplet",
+    "set_name": "Rise of the Duelist",
+    "set_code": "ROTD-EN065",
+    "year": 2020,
+    "crop": [
+      102,
+      294,
+      610,
+      175
+    ],
+    "focus": [
+      0.563,
+      0.5127
+    ]
+  },
+  {
+    "id": 90448279,
+    "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+    "set_name": "Phantom Rage",
+    "set_code": "PHRA-EN045",
+    "year": 2020,
+    "crop": [
+      102,
+      331,
+      610,
+      175
+    ],
+    "focus": [
+      0.5193,
+      0.5117
+    ]
+  },
+  {
+    "id": 18940725,
+    "name": "Floowandereeze & Robina",
+    "set_name": "Burst of Destiny",
+    "set_code": "BODE-EN013",
+    "year": 2021,
+    "crop": [
+      102,
+      284,
+      610,
+      175
+    ],
+    "focus": [
+      0.2998,
+      0.5093
+    ]
+  },
+  {
+    "id": 92731385,
+    "name": "Tearlaments Kitkallos",
+    "set_name": "Power of the Elements",
+    "set_code": "POTE-EN042",
+    "year": 2022,
+    "crop": [
+      102,
+      225,
+      610,
+      175
+    ],
+    "focus": [
+      0.685,
+      0.4756
+    ]
+  },
+  {
+    "id": 28403802,
+    "name": "P.U.N.K. JAM Dragon Drive",
+    "set_name": "Power of the Elements",
+    "set_code": "POTE-EN046",
+    "year": 2022,
+    "crop": [
+      102,
+      409,
+      610,
+      175
+    ],
+    "focus": [
+      0.4919,
+      0.5081
+    ]
+  },
+  {
+    "id": 34090915,
+    "name": "Branded Regained",
+    "set_name": "Darkwing Blast",
+    "set_code": "DABL-EN053",
+    "year": 2022,
+    "crop": [
+      102,
+      349,
+      610,
+      175
+    ],
+    "focus": [
+      0.4339,
+      0.5087
+    ]
+  },
+  {
+    "id": 25550531,
+    "name": "Purrely",
+    "set_name": "Amazing Defenders",
+    "set_code": "AMDE-EN013",
+    "year": 2023,
+    "crop": [
+      102,
+      406,
+      610,
+      175
+    ],
+    "focus": [
+      0.5203,
+      0.5074
+    ]
+  },
+  {
+    "id": 72270339,
+    "name": "Diabellstar the Black Witch",
+    "set_name": "Age of Overlord",
+    "set_code": "AGOV-EN006",
+    "year": 2023,
+    "crop": [
+      103,
+      228,
+      609,
+      175
+    ],
+    "focus": [
+      0.4086,
+      0.5155
+    ]
+  },
+  {
+    "id": 29301450,
+    "name": "S:P Little Knight",
+    "set_name": "Age of Overlord",
+    "set_code": "AGOV-EN046",
+    "year": 2023,
+    "crop": [
+      102,
+      274,
+      609,
+      175
+    ],
+    "focus": [
+      0.3003,
+      0.5093
+    ]
+  },
+  {
+    "id": 60764609,
+    "name": "Fiendsmith Engraver",
+    "set_name": "The Infinite Forbidden",
+    "set_code": "INFO-EN017",
+    "year": 2024,
+    "crop": [
+      102,
+      286,
+      610,
+      175
+    ],
+    "focus": [
+      0.3404,
+      0.5121
+    ]
+  },
+  {
+    "id": 42141493,
+    "name": "Mulcharmy Fuwalos",
+    "set_name": "Rage of the Abyss",
+    "set_code": "ROTA-EN024",
+    "year": 2024,
+    "crop": [
+      102,
+      505,
+      610,
+      175
+    ],
+    "focus": [
+      0.4604,
+      0.4873
+    ]
+  },
+  {
+    "id": 18176525,
+    "name": "Mitsurugi no Mikoto, Saji",
+    "set_name": "Supreme Darkness",
+    "set_code": "SUDA-EN091",
+    "year": 2025,
+    "crop": [
+      102,
+      256,
+      610,
+      175
+    ],
+    "focus": [
+      0.4593,
+      0.5088
+    ]
+  }
+]

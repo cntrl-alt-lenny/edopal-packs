@@ -87,6 +87,7 @@ def test_four_pack_kinds_reproducible_archives_and_urls(tmp_path):
         "music-test",
         {
             "game": "Game",
+            "series": "GX",
             "year": 2004,
             "platform": "PC",
             "cover": "cover.webp",
@@ -103,6 +104,11 @@ def test_four_pack_kinds_reproducible_archives_and_urls(tmp_path):
         ["cover.webp", "audio/one.ogg"],
     )
     put(tmp_path, "previews/music-test.wav")
+    pack(tmp_path, "art/daily", "art", "art-daily", {"index": "banners.json"}, ["banners.json", "thumbs/one.jpg"])
+    icons = pack(tmp_path, "icons/minimal", "icons", "icons-minimal", {}, ["textures/marker.png"])
+    icon_data = json.loads(icons.read_bytes())
+    del icon_data["credits"]
+    icons.write_text(json.dumps(icon_data), encoding="utf-8")
     pack(
         tmp_path,
         "formats",
@@ -147,13 +153,17 @@ def test_four_pack_kinds_reproducible_archives_and_urls(tmp_path):
     catalog = json.loads((tmp_path / "catalog.json").read_bytes())
     assert catalog["schema"] == 1
     rows = {p["kind"]: p for p in catalog["packs"]}
-    assert set(rows) == {"theme", "format", "cardback", "music"}
+    assert set(rows) == {"theme", "format", "cardback", "music", "art", "icons"}
+    for kind, relative in (("art", "art/daily"), ("icons", "icons/minimal")):
+        assert rows[kind]["url"] == relative
+        assert rows[kind]["meta"] == {}
     assert rows["theme"]["thumbnail"] == "thumbs/theme-test.webp"
     assert rows["theme"]["meta"]["previews"] == [f"previews/theme-test-{s}.webp" for s in ("menu", "deck", "duel")]
     assert rows["cardback"]["meta"]["default_for"] == "you"
     assert rows["format"]["url"] == "formats" and rows["format"]["meta"]["formats"] == 3
     assert rows["music"]["meta"] == {
         "game": "Game",
+        "series": "GX",
         "platform": "PC",
         "year": 2004,
         "track_count": 1,

@@ -24,7 +24,14 @@ from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 MEDIA_BASE = "https://raw.githubusercontent.com/cntrl-alt-lenny/edopal-packs/main"
-COLLECTIONS = {"theme": "themes", "cardback": "cardbacks", "music": "music", "format": "formats"}
+COLLECTIONS = {
+    "theme": "themes",
+    "cardback": "cardbacks",
+    "music": "music",
+    "format": "formats",
+    "art": "art",
+    "icons": "icons",
+}
 GROUPS = {"tcg-ocg", "anime", "manga", "video-games", "other-tcgs"}
 ROLES = {"menu", "deck", "duel", "win", "lose"}
 SCENES = ("menu", "deck", "duel")
@@ -133,6 +140,8 @@ def cardback_meta(m: dict, files: set[str]) -> dict:
 def music_meta(m: dict, files: set[str]) -> dict:
     tracks = field(m, "tracks", list)
     meta = {"game": field(m, "game", str), "year": field(m, "year", int), "platform": field(m, "platform", str)}
+    if "series" in m:
+        meta["series"] = field(m, "series", str)
     asset(m, "cover", files)
     duration = 0
     seen = set()
@@ -194,13 +203,15 @@ def metadata(m: dict, kind: str, expected_id: str, files: set[str]) -> dict:
         raise ValueError("version must be safe to include in a ZIP filename")
     if "files" in m:
         field(m, "files", dict)  # This generated field can be absent or stale in authored manifests.
-    for credit in objects(field(m, "credits", list), "credits"):
+    credits = [] if kind == "icons" and "credits" not in m else field(m, "credits", list)
+    for credit in objects(credits, "credits"):
         field(credit, "what", str)
         field(credit, "source", str)
         if not isinstance(credit.get("url"), str):
             raise ValueError("credit.url must be a string")
     validators = {"theme": theme_meta, "cardback": cardback_meta, "music": music_meta, "format": format_meta}
-    return validators[kind](m, files)
+    validator = validators.get(kind)
+    return validator(m, files) if validator else {}
 
 
 def pack_sources(root: Path):

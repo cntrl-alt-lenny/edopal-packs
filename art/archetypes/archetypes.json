@@ -1,0 +1,8316 @@
+[
+  {
+    "name": "60-Card Artifact Zoodiac",
+    "cards": [
+      85103922,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Brilliant Zoodiac",
+    "cards": [
+      3113836,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Dark",
+    "cards": [
+      11110587
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "60-Card Dark HERO",
+    "cards": [
+      65192027,
+      9411399
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Dinosaur Fish",
+    "cards": [
+      18940556,
+      46815301
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Dinosaur Mash",
+    "cards": [
+      15894048
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "60-Card Dinosaur Zombie",
+    "cards": [
+      18940556,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Fish",
+    "cards": [
+      89617515
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "60-Card Fist Artifact Traptrix",
+    "cards": [
+      96381979,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Flamvell Machina Gadget",
+    "cards": [
+      23297235,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Gouki",
+    "cards": [
+      97688360
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "60-Card Infernoid Burning Abyss",
+    "cards": [
+      58446973,
+      83531441
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Infernoid Zoodiac",
+    "cards": [
+      58446973,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Invoked Lightsworn Zoodiac",
+    "cards": [
+      86120751,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Lightsworn Zombie",
+    "cards": [
+      57774843,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Lightsworn Zombie Zoodiac",
+    "cards": [
+      57774843,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Madolche",
+    "cards": [
+      34680482
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "60-Card Metalfoes Zoodiac",
+    "cards": [
+      4688231,
+      85115440
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "60-Card Shaddoll",
+    "cards": [
+      44394295
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "60-Card Zombie",
+    "cards": [
+      92826944
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "@Ignister",
+    "cards": [
+      11738489
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "ABC",
+    "cards": [
+      1561110
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Abyss Actor Metalfoes",
+    "cards": [
+      25629622,
+      4688231
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Adamancipator",
+    "cards": [
+      9464441
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Adventurer Plunder Patroll",
+    "cards": [
+      30680659,
+      67647362
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Adventurer Spright",
+    "cards": [
+      30680659,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Adventurer Synchron",
+    "cards": [
+      30680659,
+      63977008
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Agent",
+    "cards": [
+      55794644
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Agent Hero",
+    "cards": [
+      55794644,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Alien",
+    "cards": [
+      68319538
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Alien Artifact",
+    "cards": [
+      68319538,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Alien Frog",
+    "cards": [
+      68319538,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Altergeist",
+    "cards": [
+      42790071
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Amaryllis",
+    "cards": [
+      23558733
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Amazoness",
+    "cards": [
+      15951532
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Amazoness Harpie",
+    "cards": [
+      94004268,
+      90238142
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Amazoness Harpie Relinquished",
+    "cards": [
+      94004268,
+      64631466
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Dark",
+    "cards": [
+      50933533,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Hero Frog",
+    "cards": [
+      50933533,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Machina",
+    "cards": [
+      50933533,
+      5556499
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Machina Gadget",
+    "cards": [
+      50933533,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Machina Plant",
+    "cards": [
+      50933533,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Plant",
+    "cards": [
+      50933533,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Umi Ninja",
+    "cards": [
+      50933533,
+      95027497
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ancient Gear Yubel Fire King",
+    "cards": [
+      50933533,
+      23015896
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Angel Control",
+    "cards": [
+      95956346
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Anti-Meta Hand",
+    "cards": [
+      71564252,
+      68535320
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Anti-Meta Stun",
+    "cards": [
+      71564252
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Apprentice Monarch",
+    "cards": [
+      9156135,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Archfiend",
+    "cards": [
+      35975813
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Archfiend Artifact",
+    "cards": [
+      35975813,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Archfiend Dark World",
+    "cards": [
+      35975813,
+      34230233
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Archfiend Ghostrick",
+    "cards": [
+      35975813,
+      80885284
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact",
+    "cards": [
+      85103922
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Artifact ABC",
+    "cards": [
+      85103922,
+      1561110
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Agent",
+    "cards": [
+      85103922,
+      55794644
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Batteryman",
+    "cards": [
+      85103922,
+      19441018
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Bujin",
+    "cards": [
+      85103922,
+      75840616
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Burning Abyss",
+    "cards": [
+      85103922,
+      83531441
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Control",
+    "cards": [
+      12444060
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Artifact Counter Fairy",
+    "cards": [
+      85103922,
+      32296881
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Dark World",
+    "cards": [
+      85103922,
+      34230233
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Diabellstar",
+    "cards": [
+      85103922,
+      72270339
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Extra Deck Monarch",
+    "cards": [
+      85103922,
+      96570609
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Fairy",
+    "cards": [
+      85103922,
+      59509952
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Fire Fist",
+    "cards": [
+      85103922,
+      6353603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Fire King",
+    "cards": [
+      85103922,
+      23015896
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Gadget",
+    "cards": [
+      85103922,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Galaxy",
+    "cards": [
+      85103922,
+      93717133
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Geargia",
+    "cards": [
+      85103922,
+      28912357
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Ghostrick",
+    "cards": [
+      85103922,
+      80885284
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Gogogo",
+    "cards": [
+      85103922,
+      39695323
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Gravekeeper",
+    "cards": [
+      85103922,
+      24317029
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Gusto",
+    "cards": [
+      85103922,
+      29552709
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Harpie",
+    "cards": [
+      85103922,
+      90238142
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Hero Beat",
+    "cards": [
+      85103922,
+      69884162
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Koa'ki Meiru",
+    "cards": [
+      85103922,
+      30936186
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Kozmo",
+    "cards": [
+      85103922,
+      94454495
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Laval",
+    "cards": [
+      85103922,
+      8611007
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Majespecter Performapal",
+    "cards": [
+      85103922,
+      47075569
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Masked Hero",
+    "cards": [
+      85103922,
+      58481572
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Monarch",
+    "cards": [
+      85103922,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Nordic",
+    "cards": [
+      85103922,
+      30604579
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Satellarknight",
+    "cards": [
+      85103922,
+      42589641
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Shaddoll",
+    "cards": [
+      85103922,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Shaddoll Batteryman",
+    "cards": [
+      12444060,
+      19441018
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Shaddoll Burning Abyss",
+    "cards": [
+      85103922,
+      20758643
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Shaddoll Satellarknight",
+    "cards": [
+      12444060,
+      42589641
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Spellbook",
+    "cards": [
+      85103922,
+      86585274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Spirit",
+    "cards": [
+      85103922,
+      16889337
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Thunder",
+    "cards": [
+      85103922,
+      21524779
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Traptrix",
+    "cards": [
+      85103922,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Traptrix Geargia",
+    "cards": [
+      12444060,
+      28912357
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Traptrix Worm",
+    "cards": [
+      12444060,
+      11722335
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Wind-Up",
+    "cards": [
+      85103922,
+      81122844
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Artifact Worm",
+    "cards": [
+      85103922,
+      11722335
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Assault Dragon Ruler",
+    "cards": [
+      61257789,
+      53804307
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Assault Turbo",
+    "cards": [
+      61257789
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Atlantean",
+    "cards": [
+      74311226
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Awesome Hero",
+    "cards": [
+      90809975,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Azamina Fire King Snake-Eye",
+    "cards": [
+      46396218,
+      23015896
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Azamina Snake-Eye",
+    "cards": [
+      46396218,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Azimina White Forest",
+    "cards": [
+      46396218,
+      14307929
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Baboon Blue-Eyes",
+    "cards": [
+      46668237,
+      89631139
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Baboon Burn",
+    "cards": [
+      46668237,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Baboon Monarch",
+    "cards": [
+      46668237,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Baboon Stun",
+    "cards": [
+      46668237
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Batteryman",
+    "cards": [
+      19441018
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Battlin' Boxer",
+    "cards": [
+      23232295
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Bazoo Burn",
+    "cards": [
+      40133511,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bazoo Return",
+    "cards": [
+      40133511,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Beast",
+    "cards": [
+      39168895
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Beatrice Turbo",
+    "cards": [
+      27552504
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ben Kei OTK",
+    "cards": [
+      84430950
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Big Bang OTK",
+    "cards": [
+      61127349
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Black Garden",
+    "cards": [
+      71645242
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Black Skull Dragon Turbo",
+    "cards": [
+      11901678
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Blackwing",
+    "cards": [
+      69031175
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Blackwing Boxer",
+    "cards": [
+      69031175,
+      23232295
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Blue Blade",
+    "cards": [
+      36088082
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Blue-Eyes",
+    "cards": [
+      89631139
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Blue-Eyes Plant",
+    "cards": [
+      89631139,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Blue-Eyes Ruler",
+    "cards": [
+      89631139,
+      53804307
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Blue-Eyes Spellbook",
+    "cards": [
+      89631139,
+      86585274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Branded",
+    "cards": [
+      44146295
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Branded Chimera",
+    "cards": [
+      44146295,
+      11321089
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Branded Dracotail",
+    "cards": [
+      44146295,
+      33760966
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Branded Eldlich",
+    "cards": [
+      44146295,
+      95440946
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Branded Tearlaments",
+    "cards": [
+      44146295,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Branded Voiceless Voice",
+    "cards": [
+      44146295,
+      10774240
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bubble Beat",
+    "cards": [
+      40854197
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Bujin",
+    "cards": [
+      75840616
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Burning Abyss",
+    "cards": [
+      83531441
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Burning Abyss Monarch",
+    "cards": [
+      83531441,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Burning Abyss Zoodiac",
+    "cards": [
+      83531441,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Centur-Ion",
+    "cards": [
+      33854624,
+      15982593
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Danger! Thunder Dragon",
+    "cards": [
+      33854624,
+      15291624
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Dragon Link",
+    "cards": [
+      33854624,
+      73539069
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Mannadium",
+    "cards": [
+      33854624,
+      71277255
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Orcust Runick",
+    "cards": [
+      33854624,
+      92107604
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial RDA",
+    "cards": [
+      33854624,
+      70902743
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Resonator",
+    "cards": [
+      33854624,
+      40975574
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Scareclaw",
+    "cards": [
+      33854624,
+      59120809
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Spright",
+    "cards": [
+      33854624,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Synchron",
+    "cards": [
+      33854624,
+      63977008
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Tearlaments",
+    "cards": [
+      33854624,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Bystial Thunder Dragon Tearlaments",
+    "cards": [
+      32731036,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Calculator",
+    "cards": [
+      51196174
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Canceller Stun",
+    "cards": [
+      84636823
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cannon Burn",
+    "cards": [
+      11384280
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cat Burn",
+    "cards": [
+      14878871,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Cat Control",
+    "cards": [
+      31924889
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cat Garden",
+    "cards": [
+      14878871,
+      71645242
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Cat OTK",
+    "cards": [
+      14878871
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cat Plant",
+    "cards": [
+      14878871,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Catapult OTK",
+    "cards": [
+      95727991
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Centur-Ion",
+    "cards": [
+      15982593
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chain Beat",
+    "cards": [
+      78663366
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chain Burn",
+    "cards": [
+      62279055
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chain Material Burn",
+    "cards": [
+      39980304
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chaos Artifact Ghostrick",
+    "cards": [
+      9596126,
+      80885284
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Burn",
+    "cards": [
+      9596126,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Burning Abyss",
+    "cards": [
+      9596126,
+      83531441
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Control",
+    "cards": [
+      72989439
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chaos Diva Hero",
+    "cards": [
+      9596126,
+      78868119
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Dragon",
+    "cards": [
+      9596126,
+      88264978
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Dragon Zombie",
+    "cards": [
+      9596126,
+      17259470
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Fairy",
+    "cards": [
+      9596126,
+      59509952
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Flip Warrior",
+    "cards": [
+      9596126,
+      39507162
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Gravekeeper",
+    "cards": [
+      9596126,
+      24317029
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Hero",
+    "cards": [
+      9596126,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Hero Plant",
+    "cards": [
+      9596126,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Machine",
+    "cards": [
+      9596126,
+      77585513
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Monarch",
+    "cards": [
+      9596126,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Plant",
+    "cards": [
+      9596126,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Recruiter",
+    "cards": [
+      9596126,
+      83011277
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Reptile",
+    "cards": [
+      9596126,
+      72677437
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Return",
+    "cards": [
+      9596126,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Shaddoll",
+    "cards": [
+      9596126,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Stein Monarch",
+    "cards": [
+      69015963,
+      9748752
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Stun",
+    "cards": [
+      88240808
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chaos Synchro",
+    "cards": [
+      9596126,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Turbo",
+    "cards": [
+      31786629
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chaos Warrior",
+    "cards": [
+      9596126,
+      7572887
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Warrior Turbo",
+    "cards": [
+      9596126,
+      74131780
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Water",
+    "cards": [
+      9596126,
+      18318842
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chaos Zombie",
+    "cards": [
+      9596126,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chronomaly",
+    "cards": [
+      24861088
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Chronomaly Artifact",
+    "cards": [
+      24861088,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Chronomaly Stun",
+    "cards": [
+      51435705
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cloudian",
+    "cards": [
+      79703905
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cloudian Plant Synchro",
+    "cards": [
+      79703905,
+      7391448
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Cloudian Synchro",
+    "cards": [
+      79703905,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Clown Blade",
+    "cards": [
+      67696066,
+      1833916
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Clown Blade Monarch",
+    "cards": [
+      67696066,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Clown Control",
+    "cards": [
+      13215230
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Clown Monarch",
+    "cards": [
+      13215230,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Coin Control",
+    "cards": [
+      36562627
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Constellar",
+    "cards": [
+      73964868
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Constellar Artifact",
+    "cards": [
+      73964868,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Constellar Evilswarm",
+    "cards": [
+      73964868,
+      91279700
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Counter Dragon",
+    "cards": [
+      24857466
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Counter Fairy",
+    "cards": [
+      32296881
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Crane Turbo",
+    "cards": [
+      30914564
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Creator Turbo",
+    "cards": [
+      61505339
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Crooked Cook Stall",
+    "cards": [
+      82697249
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Crusher Control",
+    "cards": [
+      27827903
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Crystal Beast",
+    "cards": [
+      7093411
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Crystron Yummy",
+    "cards": [
+      25865565,
+      30581601
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Cubic",
+    "cards": [
+      30270176
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cubic OTK",
+    "cards": [
+      35058588
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cyber Dragon",
+    "cards": [
+      70095154
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cyber Dragon Artifact",
+    "cards": [
+      70095154,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Cyber Dragon Shaddoll",
+    "cards": [
+      70095154,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Cyberdark",
+    "cards": [
+      40418351
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Cyberse Eldlich",
+    "cards": [
+      18789533,
+      95440946
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "D.D. Warrior Return",
+    "cards": [
+      37043180,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "DAD Return",
+    "cards": [
+      65192027,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "DAD Turbo",
+    "cards": [
+      65192027
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Danger! Crusadia Dragon Link",
+    "cards": [
+      70711847,
+      98630720
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Dark World",
+    "cards": [
+      70711847,
+      34230233
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Dino Trickstar PK Orcust",
+    "cards": [
+      99745551,
+      62709239
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Dragon Link",
+    "cards": [
+      70711847,
+      73539069
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Gouki",
+    "cards": [
+      70711847,
+      24073068
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Gren Maju",
+    "cards": [
+      70711847,
+      36584821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Lunalight",
+    "cards": [
+      70711847,
+      24550676
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Lunalight Orcust",
+    "cards": [
+      99745551,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! P.U.N.K Spright Tearlaments",
+    "cards": [
+      19535693,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Runick Tearlaments",
+    "cards": [
+      99745551,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Shaddoll Orcust",
+    "cards": [
+      70711847,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Spright Tearlaments",
+    "cards": [
+      43316238,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! SPYRAL",
+    "cards": [
+      70711847,
+      1322368
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Tearlaments",
+    "cards": [
+      70711847,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Thunder Dragon",
+    "cards": [
+      70711847,
+      15291624
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Thunder Dragon Link",
+    "cards": [
+      15291624,
+      73539069
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Trickstar PK Orcust",
+    "cards": [
+      70711847,
+      62709239
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Danger! Zombie PK Orcust",
+    "cards": [
+      43316238,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark Creator Turbo",
+    "cards": [
+      92719314
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dark Equip",
+    "cards": [
+      37120512
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dark Gaia Turbo",
+    "cards": [
+      58332301
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dark Ghostrick",
+    "cards": [
+      65192027,
+      80885284
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark Gouki",
+    "cards": [
+      65192027,
+      24073068
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark Magician",
+    "cards": [
+      46986414
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dark Magician Turbo",
+    "cards": [
+      99789342
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dark Pendulum",
+    "cards": [
+      65192027,
+      16178681
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark Plant",
+    "cards": [
+      65192027,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark Rock Stun",
+    "cards": [
+      65192027,
+      45041488
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark Scorpion",
+    "cards": [
+      74153887
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dark Synchro",
+    "cards": [
+      65192027,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark World",
+    "cards": [
+      34230233
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dark World Burn",
+    "cards": [
+      34230233,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark World Monarch",
+    "cards": [
+      34230233,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark World Vayu Turbo",
+    "cards": [
+      34230233,
+      72714392
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dark World Wind-Up",
+    "cards": [
+      34230233,
+      81122844
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Darklord",
+    "cards": [
+      40921744
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "DDD Eldlich Rokket",
+    "cards": [
+      74583607,
+      68464358
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Decree Warrior",
+    "cards": [
+      51452091,
+      7572887
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Demise OTK",
+    "cards": [
+      72426662
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Denko Shaddoll",
+    "cards": [
+      13974207,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Despia",
+    "cards": [
+      6855503
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Destiny End Turbo",
+    "cards": [
+      76263644
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Destiny HERO",
+    "cards": [
+      9411399
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Destiny Hero Hieratic",
+    "cards": [
+      9411399,
+      27337596
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Destiny Hero Phantom",
+    "cards": [
+      9411399,
+      30312361
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diamond Dude Turbo",
+    "cards": [
+      13093792
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dimension Fusion Turbo",
+    "cards": [
+      23557835
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dino Guardragon",
+    "cards": [
+      74294676,
+      86148577
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dino Rabbit",
+    "cards": [
+      74294676,
+      85138716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dino Rabbit Evilswarm",
+    "cards": [
+      74294676,
+      91279700
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dino Rabbit Fire Fist",
+    "cards": [
+      74294676,
+      6353603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dino Rabbit Gladiator Fist",
+    "cards": [
+      85138716,
+      48156348
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dino Rabbit Hero",
+    "cards": [
+      74294676,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dinomorphia",
+    "cards": [
+      92798873
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dinosaur",
+    "cards": [
+      18940556
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dinosaur FTK",
+    "cards": [
+      44335251
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Diva Alien",
+    "cards": [
+      78868119,
+      68319538
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Ancient Gear Machina",
+    "cards": [
+      78868119,
+      5556499
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Cat",
+    "cards": [
+      78868119,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Control",
+    "cards": [
+      78868119
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Diva Frog",
+    "cards": [
+      78868119,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Hero",
+    "cards": [
+      78868119,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Hero Beat",
+    "cards": [
+      78868119,
+      69884162
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Hero Frog",
+    "cards": [
+      78868119,
+      12538374
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Hero Gigavise",
+    "cards": [
+      78868119,
+      53257892
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Hero Plant Zombie",
+    "cards": [
+      42463414,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Hero Vayu Turbo",
+    "cards": [
+      78868119,
+      72714392
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Hero Zombie",
+    "cards": [
+      78868119,
+      17259470
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Macro Stun",
+    "cards": [
+      78868119,
+      30241314
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Plant",
+    "cards": [
+      78868119,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Plant Zombie",
+    "cards": [
+      78868119,
+      63665875
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Psychic",
+    "cards": [
+      78868119,
+      98358303
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva T.G.",
+    "cards": [
+      78868119,
+      1315120
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Diva Zombie",
+    "cards": [
+      78868119,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Divine Grace",
+    "cards": [
+      61757117
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Divine Wind",
+    "cards": [
+      15854426
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dogmatika Eldlich",
+    "cards": [
+      60303688,
+      95440946
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dogmatika Shaddoll",
+    "cards": [
+      60303688,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dokurorider",
+    "cards": [
+      99721536
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Domain Monarch",
+    "cards": [
+      84171830
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Doppel Synchro",
+    "cards": [
+      53855409,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Doriado",
+    "cards": [
+      99414168
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Double D",
+    "cards": [
+      45809008
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dracoslayer",
+    "cards": [
+      18239909
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dracoslayer Performapal",
+    "cards": [
+      18239909,
+      47075569
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dracotail",
+    "cards": [
+      33760966
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragon Beat",
+    "cards": [
+      88264978
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragon Control",
+    "cards": [
+      17985575
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragon Fortune Lady",
+    "cards": [
+      88264978,
+      55586621
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dragon Koa'ki Meiru",
+    "cards": [
+      88264978,
+      30936186
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dragon Link",
+    "cards": [
+      27548199
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragon Link FTK",
+    "cards": [
+      31353051
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragon Plant",
+    "cards": [
+      88264978,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dragon Ruler",
+    "cards": [
+      89399912
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragon Shaddoll",
+    "cards": [
+      88264978,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Dragon Turbo",
+    "cards": [
+      99365553
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragunity",
+    "cards": [
+      21249921
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Dragunity Ruler",
+    "cards": [
+      21249921,
+      53804307
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Drain Beat",
+    "cards": [
+      88472456
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Drain Burn",
+    "cards": [
+      82732705,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Drain Dino Rabbit",
+    "cards": [
+      82732705,
+      85138716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Drain Diva Hero",
+    "cards": [
+      82732705,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Drain Machina",
+    "cards": [
+      82732705,
+      5556499
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Drain TeleDAD",
+    "cards": [
+      82732705,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Drytron",
+    "cards": [
+      97148796
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Duston",
+    "cards": [
+      40343749
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Earth Beat",
+    "cards": [
+      47606319
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Earth Machine",
+    "cards": [
+      49032236
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Economics FTK",
+    "cards": [
+      40737112
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Eldlich",
+    "cards": [
+      95440946
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Eldlich Synchron",
+    "cards": [
+      95440946,
+      63977008
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Emissary Beat",
+    "cards": [
+      75043725
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Emissary Control",
+    "cards": [
+      3136426
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Emissary Zombie",
+    "cards": [
+      75043725,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Empty Jar",
+    "cards": [
+      33508719
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Endymion",
+    "cards": [
+      3611830
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Equip Beat",
+    "cards": [
+      56747793
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Evil Hero",
+    "cards": [
+      58554959
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Evil Hero Frog",
+    "cards": [
+      58332301,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Evilswarm",
+    "cards": [
+      91279700
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Evilswarm Traptrix",
+    "cards": [
+      91279700,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Evol",
+    "cards": [
+      74294676
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Evol Artifact Traptrix",
+    "cards": [
+      74294676,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Evol Fire King",
+    "cards": [
+      74294676,
+      23015896
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Exodia",
+    "cards": [
+      33396948
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Exodia FTK",
+    "cards": [
+      70368879
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Exosister",
+    "cards": [
+      42741437
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Explosion OTK",
+    "cards": [
+      32723153
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Extra Deck Monarch",
+    "cards": [
+      96570609
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "F.A.",
+    "cards": [
+      93449450
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fabled",
+    "cards": [
+      47395382
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fabled Chaos",
+    "cards": [
+      44155002,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fabled Chaos Dragon",
+    "cards": [
+      44155002,
+      88264978
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fabled Frog",
+    "cards": [
+      44155002,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fabled Ghostrick",
+    "cards": [
+      44155002,
+      80885284
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fabled Piper Chaos",
+    "cards": [
+      44155002,
+      72989439
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fabled Synchro",
+    "cards": [
+      44155002,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fairy",
+    "cards": [
+      59509952
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fairy Frog",
+    "cards": [
+      59509952,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Falcon Control",
+    "cards": [
+      82199284
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Felgrand",
+    "cards": [
+      1639384
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fertilizer Control",
+    "cards": [
+      44887817
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fiend",
+    "cards": [
+      31829185
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fiend Artifact Control",
+    "cards": [
+      31829185,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiend Artifact Traptrix",
+    "cards": [
+      31829185,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiend Control",
+    "cards": [
+      53982768
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fiend Fusion",
+    "cards": [
+      70781052
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fiendsmith Azamina White Forest",
+    "cards": [
+      60764609,
+      14307929
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Bystial",
+    "cards": [
+      60764609,
+      33854624
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Bystial Tenpai Dragon",
+    "cards": [
+      60764609,
+      39931513
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Chimera",
+    "cards": [
+      60764609,
+      11321089
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Magical Musketeer",
+    "cards": [
+      60764609,
+      71791814
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Maliss",
+    "cards": [
+      60764609,
+      95454996
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Odion",
+    "cards": [
+      60764609,
+      97522863
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Radiant Typhoon Goblin Biker",
+    "cards": [
+      60764609,
+      34001672
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Ryzeal",
+    "cards": [
+      60764609,
+      34909328
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Snake-Eye",
+    "cards": [
+      60764609,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fiendsmith Yubel",
+    "cards": [
+      60764609,
+      78371393
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Final Countdown",
+    "cards": [
+      95308449
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fire Beat",
+    "cards": [
+      60806437
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fire Fist",
+    "cards": [
+      96381979
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fire Fist Constellar",
+    "cards": [
+      6353603,
+      73964868
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire Fist Geargia",
+    "cards": [
+      6353603,
+      28912357
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire Fist Laval",
+    "cards": [
+      6353603,
+      8611007
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire Fist Traptrix",
+    "cards": [
+      6353603,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King",
+    "cards": [
+      23015896
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fire King Fire Fist",
+    "cards": [
+      23015896,
+      6353603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Gladiator Beast",
+    "cards": [
+      23015896,
+      48156348
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Gravekeeper",
+    "cards": [
+      23015896,
+      24317029
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Harpie",
+    "cards": [
+      23015896,
+      90238142
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Heraldic Beast",
+    "cards": [
+      23015896,
+      82293134
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Kozmo",
+    "cards": [
+      23015896,
+      94454495
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Raccoon",
+    "cards": [
+      23015896,
+      39972129
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Snake-Eye",
+    "cards": [
+      23015896,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fire King Volcanic",
+    "cards": [
+      23015896,
+      76459806
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fish Control",
+    "cards": [
+      93369354
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fish OTK",
+    "cards": [
+      88307361
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fist Artifact Traptrix",
+    "cards": [
+      6353603,
+      45803070
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fitting Room Rock",
+    "cards": [
+      30531525,
+      45041488
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flamvell",
+    "cards": [
+      23297235
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Flamvell Cat",
+    "cards": [
+      23297235,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flamvell Cat Plant",
+    "cards": [
+      23297235,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flamvell Frog",
+    "cards": [
+      23297235,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flamvell Hero Zombie",
+    "cards": [
+      23297235,
+      17259470
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flamvell Lightsworn",
+    "cards": [
+      23297235,
+      57774843
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flamvell Lightsworn Vayu Turbo",
+    "cards": [
+      23297235,
+      72714392
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flamvell Zombie",
+    "cards": [
+      23297235,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flash Assailant",
+    "cards": [
+      96890582
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Flip Burn",
+    "cards": [
+      31560081,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Flip Control",
+    "cards": [
+      28933734
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Flip Warrior",
+    "cards": [
+      31560081,
+      7572887
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Floowandereeze",
+    "cards": [
+      80611581
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fluffal",
+    "cards": [
+      464362
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fluffal Lightsworn Zombie",
+    "cards": [
+      464362,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fluffal Super Quant",
+    "cards": [
+      464362,
+      59975920
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Forest Beat",
+    "cards": [
+      90357090
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Forest Control",
+    "cards": [
+      87430998
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Forged Pile",
+    "cards": [
+      19665973
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fortune Lady Burn",
+    "cards": [
+      55586621,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Frog Beat",
+    "cards": [
+      84451804
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Frog Control",
+    "cards": [
+      9126351
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Frog FTK",
+    "cards": [
+      20663556
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Frog Mermail",
+    "cards": [
+      9126351,
+      21954587
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Frog Monarch",
+    "cards": [
+      9126351,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Frog OTK",
+    "cards": [
+      23693634
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Frog Plant Synchro",
+    "cards": [
+      9126351,
+      7391448
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Frog Quickdraw Plant",
+    "cards": [
+      9126351,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Frog Ruler",
+    "cards": [
+      9126351,
+      53804307
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Frog Synchro",
+    "cards": [
+      9126351,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fusion Gate Cat OTK",
+    "cards": [
+      33550694,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fusion Gate Hero",
+    "cards": [
+      33550694,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fusion Gate Hero Beat",
+    "cards": [
+      33550694,
+      69884162
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Fusion Gate Turbo",
+    "cards": [
+      33550694
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Fusion Hero",
+    "cards": [
+      24094653,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Future Visions Turbo",
+    "cards": [
+      87902575
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gadget",
+    "cards": [
+      41172955
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gadget Plant Synchro",
+    "cards": [
+      41172955,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gadget Traptrix",
+    "cards": [
+      41172955,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gagaga",
+    "cards": [
+      26082117
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gaia Fusion Dragon Turbo",
+    "cards": [
+      66889139
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Galaxy",
+    "cards": [
+      93717133
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gallis T.G. Agent",
+    "cards": [
+      30915572,
+      55794644
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Garden Burn",
+    "cards": [
+      71645242,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Garlandolf",
+    "cards": [
+      30646525
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gear Machina Diva Zombie",
+    "cards": [
+      50933533,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gear Machina Hero Beat",
+    "cards": [
+      50933533,
+      69884162
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gearfried",
+    "cards": [
+      423705
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Geargia",
+    "cards": [
+      28912357
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Geargia Chain Material Burn",
+    "cards": [
+      28912357,
+      39980304
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gem-Knight",
+    "cards": [
+      8692301
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gem-Knight FTK",
+    "cards": [
+      47611119
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gem-Knight Rock Stun",
+    "cards": [
+      39512984,
+      45041488
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gemini Beat",
+    "cards": [
+      96872283
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gemini Zombie",
+    "cards": [
+      33846209,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Genex Turbo",
+    "cards": [
+      64034255
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Germ Burn",
+    "cards": [
+      34124316
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ghostrick",
+    "cards": [
+      80885284
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ghostrick Frog Monarch",
+    "cards": [
+      80885284,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ghostrick Gravekeeper",
+    "cards": [
+      80885284,
+      24317029
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ghostrick Madolche",
+    "cards": [
+      80885284,
+      37164373
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ghostrick Thunder",
+    "cards": [
+      80885284,
+      21524779
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gigaplant Turbo",
+    "cards": [
+      53257892
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gigavise",
+    "cards": [
+      53257892,
+      95750695
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gigavise Gemini Beat",
+    "cards": [
+      53257892,
+      69884162
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gigavise Sylvan",
+    "cards": [
+      53257892,
+      10406322
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gishki Control",
+    "cards": [
+      92784374
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gishki FTK",
+    "cards": [
+      11877465
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gishki Hieratic",
+    "cards": [
+      45222299,
+      27337596
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gishki Spright",
+    "cards": [
+      45222299,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gishki Water Synchro",
+    "cards": [
+      45222299,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gladiator Beast",
+    "cards": [
+      48156348
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gladiator Beast Fire Fist",
+    "cards": [
+      48156348,
+      6353603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gladiator Cat",
+    "cards": [
+      48156348,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Goat Burn",
+    "cards": [
+      73915051,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Goat Control",
+    "cards": [
+      73915051
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Goblin Control",
+    "cards": [
+      88279736
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gogogo",
+    "cards": [
+      39695323
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gouki",
+    "cards": [
+      24073068
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gradius",
+    "cards": [
+      10992251
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Grandsoil Machina",
+    "cards": [
+      61468779,
+      5556499
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Grass Cubic",
+    "cards": [
+      11110587,
+      30270176
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Grass Dark Magician Paleozoic",
+    "cards": [
+      11110587,
+      37649320
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Grass Infernoid",
+    "cards": [
+      11110587,
+      58446973
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Grass Lightsworn Zombie",
+    "cards": [
+      11110587,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Grass Shaddoll Burning Abyss Phantom Knight",
+    "cards": [
+      11110587,
+      62709239
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gravekeeper",
+    "cards": [
+      24317029
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gravekeeper Burn",
+    "cards": [
+      24317029,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gravekeeper Last Turn",
+    "cards": [
+      24317029,
+      28566710
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gravekeeper Monarch",
+    "cards": [
+      24317029,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Gren Maju Turbo",
+    "cards": [
+      36584821
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Guru Control",
+    "cards": [
+      16428514
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Gusto",
+    "cards": [
+      29552709
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Hand Artifact",
+    "cards": [
+      68535320,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hand Control",
+    "cards": [
+      3078576
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Harpie",
+    "cards": [
+      90238142
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Harpie Dragunity",
+    "cards": [
+      90238142,
+      21249921
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Harpie Sylvan",
+    "cards": [
+      90238142,
+      10406322
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hazy Flame",
+    "cards": [
+      23776077
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Heavy Slump",
+    "cards": [
+      52417194
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Herald Agent",
+    "cards": [
+      44665365,
+      55794644
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Herald Control",
+    "cards": [
+      44665365
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Heraldic Beast",
+    "cards": [
+      61314842
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Hero Beat",
+    "cards": [
+      69884162
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Hero Fish",
+    "cards": [
+      40044918,
+      88307361
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hero Frog",
+    "cards": [
+      40044918,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hero Gigavise",
+    "cards": [
+      40044918,
+      53257892
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hero Plant",
+    "cards": [
+      40044918,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hero Quickdraw Plant",
+    "cards": [
+      40044918,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hero Traptrix",
+    "cards": [
+      40044918,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hero Turbo",
+    "cards": [
+      40044918
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Hieratic",
+    "cards": [
+      27337596
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Hieratic Dragunity",
+    "cards": [
+      27337596,
+      21249921
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hieratic Ruler",
+    "cards": [
+      27337596,
+      53804307
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Hieratic TeleDAD",
+    "cards": [
+      27337596,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Horus",
+    "cards": [
+      48229808
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Horus Centur-Ion",
+    "cards": [
+      84941194,
+      15982593
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Horus Control",
+    "cards": [
+      11224103
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Horus Ishizu Tearlaments",
+    "cards": [
+      84941194,
+      25926710
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Horus Kashtira",
+    "cards": [
+      84941194,
+      32909498
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Horus Phantom Knights",
+    "cards": [
+      84941194,
+      62709239
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Horus Stun",
+    "cards": [
+      51452091
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Horus Tearlaments",
+    "cards": [
+      84941194,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Igknight",
+    "cards": [
+      97024987
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Immortal Beat",
+    "cards": [
+      2460565
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Immortal Bushi",
+    "cards": [
+      52035300
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Infernity",
+    "cards": [
+      99177923
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Infernoble Knight",
+    "cards": [
+      59934749
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Infernoid",
+    "cards": [
+      58446973
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Infernoid Snake-Eye",
+    "cards": [
+      58446973,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Infernoid Synchro",
+    "cards": [
+      58446973,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Infinitrack Trains",
+    "cards": [
+      97584719,
+      56910167
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Insect",
+    "cards": [
+      76039636
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Insect Artifact Traptrix",
+    "cards": [
+      76039636,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked",
+    "cards": [
+      75286621
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Invoked Dogmatika DPE",
+    "cards": [
+      75286621,
+      60461804
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Dogmatika Shaddoll",
+    "cards": [
+      86120751,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Mekk-Knight",
+    "cards": [
+      75286621,
+      28692962
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Mekk-Knight Dinosaur",
+    "cards": [
+      75286621,
+      18940556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Shaddoll",
+    "cards": [
+      75286621,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Shaddoll Zombie",
+    "cards": [
+      75286621,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Sky Striker",
+    "cards": [
+      75286621,
+      26077387
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Sky Striker Mekk-Knight",
+    "cards": [
+      86120751,
+      28692962
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked True Draco",
+    "cards": [
+      75286621,
+      21377582
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Windwitch",
+    "cards": [
+      75286621,
+      43722862
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Windwitch Zoodiac",
+    "cards": [
+      75286621,
+      85115440
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Invoked Zoodiac",
+    "cards": [
+      75286621,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Inzektor",
+    "cards": [
+      68184115
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Inzektor Artifact",
+    "cards": [
+      68184115,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Inzektor Wind-Up",
+    "cards": [
+      68184115,
+      81122844
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Iron Chain",
+    "cards": [
+      2403771
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Iron Chain Lightsworn",
+    "cards": [
+      19974580,
+      57774843
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ishizu Tearlaments",
+    "cards": [
+      25926710,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Jar Burn",
+    "cards": [
+      33508719,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Jar Turbo",
+    "cards": [
+      79106360
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Jewels 6-axis",
+    "cards": [
+      72710085
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Jewels Zombie",
+    "cards": [
+      72710085,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Jinzo Machina",
+    "cards": [
+      77585513,
+      5556499
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Jinzo Machina Gadget",
+    "cards": [
+      77585513,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Junk Chaos",
+    "cards": [
+      63977008,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Junk Collector",
+    "cards": [
+      58242947
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Junk Synchro",
+    "cards": [
+      63977008,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Jurrac",
+    "cards": [
+      11012887
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Jurrac HERO",
+    "cards": [
+      11012887,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "K9 Crystron",
+    "cards": [
+      92248362,
+      25865565
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "K9 Dracotail",
+    "cards": [
+      92248362,
+      33760966
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "K9 Mitsurugi",
+    "cards": [
+      92248362,
+      19899073
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "K9 Vanquish Soul",
+    "cards": [
+      92248362,
+      29302858
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kaiju Zoodiac",
+    "cards": [
+      55063751,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kamakiri Control",
+    "cards": [
+      84834865
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Karakuri",
+    "cards": [
+      23874409
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Karakuri Geargia",
+    "cards": [
+      23874409,
+      28912357
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Karakuri Machina Gadget",
+    "cards": [
+      23874409,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Karakuri Machina Plant",
+    "cards": [
+      23874409,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Karakuri Psychic",
+    "cards": [
+      23874409,
+      98358303
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kashtira",
+    "cards": [
+      32909498
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Kashtira Fiendsmith",
+    "cards": [
+      32909498,
+      60764609
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kashtira Maliss",
+    "cards": [
+      32909498,
+      95454996
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kashtira Mannadium",
+    "cards": [
+      32909498,
+      71277255
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kashtira Nemleria",
+    "cards": [
+      32909498,
+      70155677
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kashtira Snake-Eye",
+    "cards": [
+      32909498,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Koa'ki Meiru",
+    "cards": [
+      30936186
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Koa'ki Meiru Fire Fist",
+    "cards": [
+      30936186,
+      6353603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Kozmo",
+    "cards": [
+      94454495
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Labrynth",
+    "cards": [
+      81497285
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Labyrinth Tank Turbo",
+    "cards": [
+      99551425
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ladybug Control",
+    "cards": [
+      83994646
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Lancer Frog",
+    "cards": [
+      22842214,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Last Turn",
+    "cards": [
+      28566710
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Last Warrior Burn",
+    "cards": [
+      86099788,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Last Will Turbo",
+    "cards": [
+      85602018
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Laval",
+    "cards": [
+      8611007
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Laval Fire King",
+    "cards": [
+      8611007,
+      23015896
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Laval OTK",
+    "cards": [
+      75991898
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Legendary Ocean",
+    "cards": [
+      295517
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Library FTK",
+    "cards": [
+      70791313
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Light Beat",
+    "cards": [
+      77527210
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Light Burn",
+    "cards": [
+      77527210,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Light Fusion",
+    "cards": [
+      54752875
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Light Return",
+    "cards": [
+      77527210,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn",
+    "cards": [
+      57774843
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Lightsworn Bujin",
+    "cards": [
+      57774843,
+      75840616
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Chaos",
+    "cards": [
+      57774843,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Chaos Shaddoll",
+    "cards": [
+      57774843,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Doppel",
+    "cards": [
+      57774843,
+      53855409
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Fairy",
+    "cards": [
+      57774843,
+      59509952
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Gem-Knight Plant",
+    "cards": [
+      57774843,
+      11747708
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Laval",
+    "cards": [
+      57774843,
+      8611007
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Mermail",
+    "cards": [
+      57774843,
+      21954587
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Monarch",
+    "cards": [
+      57774843,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Plant",
+    "cards": [
+      57774843,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Raccoon",
+    "cards": [
+      57774843,
+      39972129
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Ruler",
+    "cards": [
+      57774843,
+      53804307
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Vayu Plant",
+    "cards": [
+      57774843,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lightsworn Watt",
+    "cards": [
+      57774843,
+      402568
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Lunalight",
+    "cards": [
+      24550676
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Machina Cat",
+    "cards": [
+      5556499,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Control",
+    "cards": [
+      42940404
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Machina Frog",
+    "cards": [
+      5556499,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Gadget",
+    "cards": [
+      5556499,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Geargia",
+    "cards": [
+      5556499,
+      28912357
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Gimmick Puppet",
+    "cards": [
+      5556499,
+      92418590
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Hero",
+    "cards": [
+      5556499,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Karakuri",
+    "cards": [
+      5556499,
+      23874409
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Karakuri Geargia",
+    "cards": [
+      42940404,
+      28912357
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Plant",
+    "cards": [
+      5556499,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Quickdraw Plant",
+    "cards": [
+      5556499,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Roid",
+    "cards": [
+      5556499,
+      984114
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Salvo DAD",
+    "cards": [
+      5556499,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machina Turbo",
+    "cards": [
+      5556499
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Machina Volcanic Quickdraw",
+    "cards": [
+      5556499,
+      3429238
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machine Beat",
+    "cards": [
+      77585513
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Machine DAD Return",
+    "cards": [
+      77585513,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Machine OTK",
+    "cards": [
+      64599569
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Machine Rabbit",
+    "cards": [
+      77585513,
+      85138716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Macro Monarch",
+    "cards": [
+      30241314,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Macro Stun",
+    "cards": [
+      48092532
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Madolche",
+    "cards": [
+      37164373
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Madolche Artifact",
+    "cards": [
+      37164373,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Madolche Artifact Traptrix",
+    "cards": [
+      37164373,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Magical Musketeer",
+    "cards": [
+      71791814
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Magician Dracoslayer Performapal",
+    "cards": [
+      72714461,
+      47075569
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Magnet Warrior",
+    "cards": [
+      75347539
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Majespecter",
+    "cards": [
+      31178212
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Majespecter Draco Performapal",
+    "cards": [
+      31178212,
+      40318957
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Majespecter Metalfoes",
+    "cards": [
+      31178212,
+      4688231
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Majespecter Pendulum Magician",
+    "cards": [
+      31178212,
+      72714461
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Majespecter Performapal",
+    "cards": [
+      31178212,
+      47075569
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Malefic Stun",
+    "cards": [
+      1710476
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Maliss",
+    "cards": [
+      95454996
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mannadium",
+    "cards": [
+      71277255
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Manticore Turbo",
+    "cards": [
+      77121851
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Marincess",
+    "cards": [
+      20934852
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Masked Control",
+    "cards": [
+      10189126
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Masked Goblin Control",
+    "cards": [
+      10189126,
+      88279736
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Masked Hero",
+    "cards": [
+      58481572
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Masked Hero Phantom Knight",
+    "cards": [
+      58481572,
+      62709239
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mataza Rush",
+    "cards": [
+      22609617
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mathmech",
+    "cards": [
+      42632209
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mathmech Libromancer",
+    "cards": [
+      42632209,
+      16312943
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mausoleum Frog",
+    "cards": [
+      80921533,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mausoleum Stun",
+    "cards": [
+      80921533
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mecha Phantom Beast",
+    "cards": [
+      26949946
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Megalith",
+    "cards": [
+      99628747
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mekk-Knight",
+    "cards": [
+      28692962
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mekk-Knight Orcust",
+    "cards": [
+      28692962,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mekk-Knight Trickstar",
+    "cards": [
+      28692962,
+      61283655
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mekk-Knight Trickstar Sky Striker",
+    "cards": [
+      28692962,
+      26077387
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Melffy Spright",
+    "cards": [
+      93018428,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Meliae Plant Turbo",
+    "cards": [
+      64245689,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Melodious",
+    "cards": [
+      56208713
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Melodius Snake-Eye",
+    "cards": [
+      84988419,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Memento",
+    "cards": [
+      23288411
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Merchant Pot Turbo",
+    "cards": [
+      32362575,
+      67169062
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mercury Control",
+    "cards": [
+      38730226
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mermail",
+    "cards": [
+      21954587
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Metal Dragon Fusion",
+    "cards": [
+      9293977
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Metalfoes",
+    "cards": [
+      4688231
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mikanko",
+    "cards": [
+      81260679
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Minerva Turbo",
+    "cards": [
+      30100551
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Misfortune Burn",
+    "cards": [
+      1036974
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mist Valley",
+    "cards": [
+      10028593
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mist Valley Frog",
+    "cards": [
+      29587993,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mist Valley Ninja",
+    "cards": [
+      29587993,
+      95027497
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mitsurugi",
+    "cards": [
+      19899073
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mitsurugi Ryzeal",
+    "cards": [
+      19899073,
+      34909328
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Mitsurugi Yummy",
+    "cards": [
+      19899073,
+      30581601
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Moja Beast",
+    "cards": [
+      94878265,
+      39168895
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Monarch",
+    "cards": [
+      51945556
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Monarch FTK",
+    "cards": [
+      22842126
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Monarch Qliphort",
+    "cards": [
+      51945556,
+      65518099
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Monster Mash",
+    "cards": [
+      73580471
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Morphtronic",
+    "cards": [
+      93542102
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mountain Beat",
+    "cards": [
+      50913601
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Muka Muka Turbo",
+    "cards": [
+      46657337
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mystic Mine",
+    "cards": [
+      76375976
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Mythic Ruler",
+    "cards": [
+      50457953,
+      53804307
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Naturia Control",
+    "cards": [
+      33198837
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Naturia Gadget",
+    "cards": [
+      33198837,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Naturia Stun",
+    "cards": [
+      47084486
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Necroface Turbo",
+    "cards": [
+      28297833
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Nekroz",
+    "cards": [
+      89463537
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Neo-Spacian Cat",
+    "cards": [
+      80344569,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Neo-Spacian Diva Hero",
+    "cards": [
+      80344569,
+      40854197
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Neo-Spacian Hero",
+    "cards": [
+      80344569,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Neo-Spacian Hero Cat",
+    "cards": [
+      80344569,
+      90508760
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Neo-Spacian Quickdraw Plant",
+    "cards": [
+      80344569,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Neos",
+    "cards": [
+      89943723
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Nephthys Return",
+    "cards": [
+      61441708,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Nephthys Spright",
+    "cards": [
+      61441708,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Nimble Mermail",
+    "cards": [
+      88686573,
+      21954587
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ninja",
+    "cards": [
+      95027497
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ninja Chaos",
+    "cards": [
+      95027497,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ninja Hieratic",
+    "cards": [
+      95027497,
+      27337596
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ninja Jurrac",
+    "cards": [
+      95027497,
+      11012887
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ninja Lock",
+    "cards": [
+      70861343
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Noble Knight",
+    "cards": [
+      10613952
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Nordic",
+    "cards": [
+      30604579
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Nurse Burn",
+    "cards": [
+      67316075
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ocean Control",
+    "cards": [
+      37195861
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Odd-Eyes",
+    "cards": [
+      16178681
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Odd-Eyes Dracoslayer Performapal",
+    "cards": [
+      16178681,
+      18239909
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Odd-Eyes Magician",
+    "cards": [
+      16178681,
+      72714461
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Odd-Eyes Majespecter Magician",
+    "cards": [
+      16178681,
+      47349116
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Odd-Eyes Performapal",
+    "cards": [
+      16178681,
+      47075569
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Odd-Eyes Performapal Magician",
+    "cards": [
+      16178681,
+      40318957
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Odd-Eyes Zefra Yang Zing",
+    "cards": [
+      16178681,
+      83755611
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ojama",
+    "cards": [
+      64627453
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ojama Frog",
+    "cards": [
+      64627453,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Oracle Chaos",
+    "cards": [
+      42280216,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Orcust",
+    "cards": [
+      57835716
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Other",
+    "cards": [
+      83764718
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "P.U.N.K. Gold Pride",
+    "cards": [
+      19535693,
+      22390469
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "PACMAN",
+    "cards": [
+      17078030
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Paladin Turbo",
+    "cards": [
+      98502113
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Paleo Frog",
+    "cards": [
+      37649320,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Paleo Frog Zoodiac",
+    "cards": [
+      37649320,
+      85115440
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Paleo Zoodiac",
+    "cards": [
+      37649320,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Paleozoic Dinosaur",
+    "cards": [
+      37649320,
+      18940556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Paleozoic Tearlaments",
+    "cards": [
+      37649320,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Panda Burn",
+    "cards": [
+      9817927
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Pendulum Magician",
+    "cards": [
+      47349116
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Pendulum Magician FTK",
+    "cards": [
+      43387895
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Pendulum Magician SPYRAL",
+    "cards": [
+      72714461,
+      1322368
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Pendulum Zoodiac",
+    "cards": [
+      16178681,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Perfect Circle Monarch",
+    "cards": [
+      56570271,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Performage Perfomapals",
+    "cards": [
+      67696066,
+      47075569
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Performage Performapals",
+    "cards": [
+      67696066,
+      40318957
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Performapal Dinomist",
+    "cards": [
+      47075569,
+      63251695
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Performapal Masked Hero",
+    "cards": [
+      47075569,
+      58481572
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Phantom Knight",
+    "cards": [
+      62709239
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Phantom Knight Burning Abyss",
+    "cards": [
+      62709239,
+      83531441
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Phantom Turbo",
+    "cards": [
+      30312361
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Phantom Twilight",
+    "cards": [
+      30312361,
+      95503687
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Phantom Twilight Vayu Turbo",
+    "cards": [
+      30312361,
+      72714392
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Phantom Twilight Zombie",
+    "cards": [
+      30312361,
+      17259470
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Phantom Zombie",
+    "cards": [
+      30312361,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Photon Stun",
+    "cards": [
+      65367484
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Piper Chaos",
+    "cards": [
+      14198496,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "PK Warrior Orcust",
+    "cards": [
+      62709239,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Plant Control",
+    "cards": [
+      48686504
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Plant Dragon Turbo",
+    "cards": [
+      48686504,
+      99365553
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Plant Frog",
+    "cards": [
+      48686504,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Plant Garden",
+    "cards": [
+      48686504,
+      71645242
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Plant Gate Turbo",
+    "cards": [
+      48686504,
+      43040603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Plant Hero",
+    "cards": [
+      48686504,
+      40854197
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Plant Insect",
+    "cards": [
+      48686504,
+      76039636
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Plant Princess",
+    "cards": [
+      80190753
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Plant Synchro",
+    "cards": [
+      48686504,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Planter Frog",
+    "cards": [
+      1073952,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Prank-Kids",
+    "cards": [
+      17382973
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Predaplant",
+    "cards": [
+      69946549
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Primite Blue-Eyes",
+    "cards": [
+      63198739,
+      89631139
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "PSY-Frame",
+    "cards": [
+      74586817
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Psychic",
+    "cards": [
+      98358303
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Psychic Diva Frog",
+    "cards": [
+      98358303,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Psychic Madolche",
+    "cards": [
+      98358303,
+      37164373
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Psychic Plant",
+    "cards": [
+      98358303,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Psychic Shaddoll",
+    "cards": [
+      98358303,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Psychic Zombie",
+    "cards": [
+      98358303,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Purrely",
+    "cards": [
+      83827392
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Purrely Spright",
+    "cards": [
+      83827392,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Qliphort Stun",
+    "cards": [
+      65518099
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Qliphort Turbo",
+    "cards": [
+      64496451
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Quantum Monarch",
+    "cards": [
+      59975920,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Diva Hero",
+    "cards": [
+      20932152,
+      40854197
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Diva Hero Frog",
+    "cards": [
+      20932152,
+      12538374
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Dragon Turbo",
+    "cards": [
+      20932152,
+      88264978
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Fairy",
+    "cards": [
+      20932152,
+      59509952
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Flamvell",
+    "cards": [
+      20932152,
+      23297235
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Frog",
+    "cards": [
+      20932152,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Hero",
+    "cards": [
+      20932152,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Machina",
+    "cards": [
+      20932152,
+      5556499
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Piper Chaos",
+    "cards": [
+      20932152,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Plant",
+    "cards": [
+      20932152,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Plant Cat",
+    "cards": [
+      20932152,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Plant Dragon Turbo",
+    "cards": [
+      20932152,
+      99365553
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw TeleDAD",
+    "cards": [
+      20932152,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Turbo",
+    "cards": [
+      74860293
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Quickdraw Twilight",
+    "cards": [
+      20932152,
+      95503687
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quickdraw Vayu Turbo",
+    "cards": [
+      20932152,
+      72714392
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Quiz Burn",
+    "cards": [
+      5990062
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Raccoon Turbo",
+    "cards": [
+      39972129
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Raidraptor",
+    "cards": [
+      86221741
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Randomizer Control",
+    "cards": [
+      13582837
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Rank 4 Toolbox",
+    "cards": [
+      581014
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Rat Monarch",
+    "cards": [
+      97017120,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Rat Toolbox",
+    "cards": [
+      97017120
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Rat Warrior",
+    "cards": [
+      97017120,
+      7572887
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Reasoning Gate Turbo",
+    "cards": [
+      58577036,
+      43040603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Recruiter Control",
+    "cards": [
+      77044671
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Red-Eyes Dragunity",
+    "cards": [
+      74677422,
+      21249921
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Red-Eyes Plant",
+    "cards": [
+      74677422,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Red-Eyes Turbo",
+    "cards": [
+      18491580
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Relinquished",
+    "cards": [
+      64631466
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Relinquished Burn",
+    "cards": [
+      64631466,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Reptile Control",
+    "cards": [
+      72677437
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Reptile Destiny HERO",
+    "cards": [
+      72677437,
+      9411399
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Reptile Monarch",
+    "cards": [
+      72677437,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Rescue-ACE",
+    "cards": [
+      37495766
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Resonator Bystial Horus",
+    "cards": [
+      40975574,
+      84941194
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ritual Beast",
+    "cards": [
+      48063985
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ritual Chaos",
+    "cards": [
+      95492061,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Rock Heraldic Beast",
+    "cards": [
+      45041488,
+      82293134
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Rock Spirit",
+    "cards": [
+      76305638
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Rock Stun",
+    "cards": [
+      42009836
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Rock Turbo",
+    "cards": [
+      71544954
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Rose Dragon Adventurer",
+    "cards": [
+      93708824,
+      30680659
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Bystial",
+    "cards": [
+      55990317,
+      33854624
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Evil★Twin Spright",
+    "cards": [
+      55990317,
+      9205573
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Naturia",
+    "cards": [
+      55990317,
+      33198837
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Plunder Patrol",
+    "cards": [
+      55990317,
+      67647362
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Sky Striker",
+    "cards": [
+      55990317,
+      26077387
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Spright",
+    "cards": [
+      55990317,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Spright Fur Hire",
+    "cards": [
+      55990317,
+      28004531
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick Stun",
+    "cards": [
+      55990317
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Runick Twin Spright",
+    "cards": [
+      92107604,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Runick White Forest",
+    "cards": [
+      55990317,
+      14307929
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Ryzeal",
+    "cards": [
+      34909328
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Ryzeal Mitsurugi",
+    "cards": [
+      8633261,
+      19899073
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Saffira Burning Abyss",
+    "cards": [
+      56350972,
+      83531441
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Salamangreat",
+    "cards": [
+      87871125
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Salamangreat Snake-Eye FTK",
+    "cards": [
+      87871125,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Salvo Chaos",
+    "cards": [
+      88671720,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Salvo DAD",
+    "cards": [
+      88671720,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sanctuary Agent",
+    "cards": [
+      56433456,
+      55794644
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Satellarknight",
+    "cards": [
+      42589641
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Scareclaw",
+    "cards": [
+      59120809
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Scareclaw Snake-Eye",
+    "cards": [
+      59120809,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Scareclaw Tearlaments",
+    "cards": [
+      59120809,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Scientist Control",
+    "cards": [
+      63519819
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Scientist FTK",
+    "cards": [
+      34206604
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Scrap",
+    "cards": [
+      76774528
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Scrap Dinosaur",
+    "cards": [
+      76774528,
+      18940556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shaddoll",
+    "cards": [
+      20366274
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Shaddoll Burning Abyss",
+    "cards": [
+      20366274,
+      83531441
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shaddoll Clown Blade",
+    "cards": [
+      20366274,
+      67696066
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shaddoll Dinosaur",
+    "cards": [
+      20366274,
+      18940556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shaddoll Inzektor",
+    "cards": [
+      20366274,
+      68184115
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shaddoll Ishizu Tearlaments",
+    "cards": [
+      20366274,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shaddoll Masked Hero",
+    "cards": [
+      20366274,
+      58481572
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shaddoll Nekroz",
+    "cards": [
+      20366274,
+      89463537
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Shark",
+    "cards": [
+      440556
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Simochi Burn",
+    "cards": [
+      40633297
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Simorgh Diva Hero",
+    "cards": [
+      11366199,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Simorgh Frog Quickdraw Plant",
+    "cards": [
+      11366199,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Simorgh Quickdraw",
+    "cards": [
+      11366199,
+      20932152
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Simorgh Quickdraw Plant",
+    "cards": [
+      11366199,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Six Samurai",
+    "cards": [
+      29981921
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Skull Servant Quickdraw Piper",
+    "cards": [
+      36021814,
+      14198496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Skull Servant Turbo",
+    "cards": [
+      36021814
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Sky Striker",
+    "cards": [
+      26077387
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Sky Striker ABC",
+    "cards": [
+      26077387,
+      1561110
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sky Striker Cyber Dragon",
+    "cards": [
+      26077387,
+      70095154
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sky Striker Dark Gouki",
+    "cards": [
+      26077387,
+      78437364
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sky Striker Gouki",
+    "cards": [
+      26077387,
+      24073068
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sky Striker Maliss",
+    "cards": [
+      26077387,
+      95454996
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sky Striker Orcust",
+    "cards": [
+      26077387,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sky Striker SPYRAL",
+    "cards": [
+      26077387,
+      1322368
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sky Striker Tenpai Dragon",
+    "cards": [
+      26077387,
+      39931513
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Snake-Eye",
+    "cards": [
+      48452496
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Snake-Eye Rescue-ACE",
+    "cards": [
+      48452496,
+      37495766
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sogen Beat",
+    "cards": [
+      86318356
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Soul Control",
+    "cards": [
+      68005187
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Spaceship",
+    "cards": [
+      14089428
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Spatial Collapse",
+    "cards": [
+      20644748
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Spellbook",
+    "cards": [
+      86585274
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Spellcaster Control",
+    "cards": [
+      71413901
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Sphere Chaos",
+    "cards": [
+      82693042
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Spirit Artifact Fairy",
+    "cards": [
+      16889337,
+      59509952
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Spirit Control",
+    "cards": [
+      16889337
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Spirit Ghostrick",
+    "cards": [
+      16889337,
+      80885284
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Spirit Shaddoll",
+    "cards": [
+      16889337,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Spright",
+    "cards": [
+      54498517
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Spright Purrely",
+    "cards": [
+      54498517,
+      79933029
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Spright Tearlament",
+    "cards": [
+      54498517,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "SPYRAL",
+    "cards": [
+      1322368
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "SPYRAL Ghostrick",
+    "cards": [
+      1322368,
+      80885284
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "SPYRAL Metalfoes",
+    "cards": [
+      1322368,
+      4688231
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Stall Burn",
+    "cards": [
+      102380
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Stall Mill",
+    "cards": [
+      81843628
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Star Seraph Artifact Traptrix",
+    "cards": [
+      38331564,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Star Seraph Clown Blade",
+    "cards": [
+      38331564,
+      67696066
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Star Seraph Satellarknight",
+    "cards": [
+      38331564,
+      42589641
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Star Seraph Shaddoll",
+    "cards": [
+      38331564,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Stardust Ishizu Tearlaments",
+    "cards": [
+      44508094,
+      92731385
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Starter Deck Kaiba",
+    "cards": [
+      5053103
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Starter Deck Yugi",
+    "cards": [
+      6368038
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Steelswarm",
+    "cards": [
+      58494728
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Stein Gate Turbo",
+    "cards": [
+      69015963,
+      43040603
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Stein Horus",
+    "cards": [
+      69015963,
+      48229808
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Stein Jar Turbo",
+    "cards": [
+      69015963,
+      33508719
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Stein Last Turn",
+    "cards": [
+      69015963,
+      28566710
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Stein Monarch",
+    "cards": [
+      69015963,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Stein OTK",
+    "cards": [
+      69015963
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Strike Ninja Return",
+    "cards": [
+      41006930
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Stygian Zombie",
+    "cards": [
+      13521194,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Subterror",
+    "cards": [
+      42713844
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Sunavalon Rikka",
+    "cards": [
+      93896655,
+      3828844
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Superheavy Centur-Ion",
+    "cards": [
+      82112494,
+      15982593
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Superheavy Mannadium",
+    "cards": [
+      82112494,
+      71277255
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Superheavy Runick",
+    "cards": [
+      82112494,
+      55990317
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Superheavy Samurai Ghoti",
+    "cards": [
+      82112494,
+      46815301
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Swordsoul Tenyi",
+    "cards": [
+      69248256,
+      87052196
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Sylvan",
+    "cards": [
+      10406322
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Synchron Artifact",
+    "cards": [
+      63977008,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Agent",
+    "cards": [
+      1315120,
+      55794644
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Chaos",
+    "cards": [
+      1315120,
+      9596126
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Gadget",
+    "cards": [
+      1315120,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Koa'ki Meiru",
+    "cards": [
+      1315120,
+      30936186
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Plant Synchro",
+    "cards": [
+      1315120,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Psychic",
+    "cards": [
+      1315120,
+      98358303
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Rabbit",
+    "cards": [
+      1315120,
+      85138716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "T.G. Stun",
+    "cards": [
+      36687247
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "T.G. X-Saber",
+    "cards": [
+      1315120,
+      52352005
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tearlaments",
+    "cards": [
+      92731385
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "TeleDAD",
+    "cards": [
+      67723438,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tenpai Dragon",
+    "cards": [
+      18969888
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Tethys Turbo",
+    "cards": [
+      87148330
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "The Masked Beast",
+    "cards": [
+      49064413
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Thunder",
+    "cards": [
+      21524779
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Thunder Dragon",
+    "cards": [
+      15291624
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Thunder Dragon Orcust",
+    "cards": [
+      15291624,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tiger Stun",
+    "cards": [
+      83986578
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Timelord",
+    "cards": [
+      74530899
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Tin Gadget",
+    "cards": [
+      18063928,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tomato Beat",
+    "cards": [
+      83011277
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Tomato Control",
+    "cards": [
+      76922029
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Tomato Monarch",
+    "cards": [
+      83011277,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Toons",
+    "cards": [
+      53183600
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Train Shaddoll",
+    "cards": [
+      56910167,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Traptrix",
+    "cards": [
+      91812341
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Traptrix Artifacts",
+    "cards": [
+      45803070,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Traptrix Geargia",
+    "cards": [
+      91812341,
+      28912357
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Traptrix Worm",
+    "cards": [
+      91812341,
+      11722335
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tri-Brigade",
+    "cards": [
+      99726621
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Tri-Brigade Ancient Warrior",
+    "cards": [
+      99726621,
+      40140448
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tri-Brigade Lyrilusc",
+    "cards": [
+      99726621,
+      8491961
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tri-Brigade Zoodiac",
+    "cards": [
+      99726621,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Trickstar",
+    "cards": [
+      61283655
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Trickstar Invoked True Draco ABC",
+    "cards": [
+      61283655,
+      1561110
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Trickstar PK Orcust",
+    "cards": [
+      61283655,
+      57835716
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Trickstar Sky Striker",
+    "cards": [
+      61283655,
+      26077387
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Trooper Beast",
+    "cards": [
+      85087012,
+      39168895
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Trooper Burn",
+    "cards": [
+      85087012,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Trooper Hero",
+    "cards": [
+      85087012,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Trooper Monarch",
+    "cards": [
+      85087012,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "True Draco",
+    "cards": [
+      21377582
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "True Draco ABC",
+    "cards": [
+      21377582,
+      1561110
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "True Draco Invoked",
+    "cards": [
+      21377582,
+      86120751
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "True Draco Metalfoes",
+    "cards": [
+      21377582,
+      4688231
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "True Draco Sky Striker",
+    "cards": [
+      21377582,
+      26077387
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "True Draco Zoodiac",
+    "cards": [
+      21377582,
+      48905153
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "True King Dinosaur",
+    "cards": [
+      30539496,
+      18940556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Turbo Frog",
+    "cards": [
+      9748752
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Twilight",
+    "cards": [
+      88643579
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Twilight Plant",
+    "cards": [
+      95503687,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Twilight Vayu Turbo",
+    "cards": [
+      95503687,
+      72714392
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Twilight Zombie",
+    "cards": [
+      95503687,
+      92826944
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Twin Spright",
+    "cards": [
+      9205573,
+      54498517
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Tzolkin Monarch",
+    "cards": [
+      1686814,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "U.A.",
+    "cards": [
+      82419869
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Umbral",
+    "cards": [
+      7152333
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Umi Beat",
+    "cards": [
+      22702055
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Umi Ninja",
+    "cards": [
+      22702055,
+      95027497
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Unchained",
+    "cards": [
+      24269961
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Underdog Machine",
+    "cards": [
+      35762283,
+      77585513
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "UO Control",
+    "cards": [
+      80604091
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "UO Junk Frog",
+    "cards": [
+      80604091,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Uria",
+    "cards": [
+      6007213
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vampire",
+    "cards": [
+      53839837
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vanilla Beat",
+    "cards": [
+      69140098
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vanilla Gem-Knight",
+    "cards": [
+      69140098,
+      39512984
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Vanquish Soul",
+    "cards": [
+      28168628
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vaskii Turbo",
+    "cards": [
+      16886617
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vayu Control",
+    "cards": [
+      58820853
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vayu Turbo",
+    "cards": [
+      72714392
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vengeful Burn",
+    "cards": [
+      21702241
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vernuslyph Madolche",
+    "cards": [
+      9350312,
+      37164373
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Versago Fusion",
+    "cards": [
+      50259460,
+      24094653
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Victory Dragon Aggro",
+    "cards": [
+      31553716
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Victory Dragon Gadget",
+    "cards": [
+      44910027,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Victory Dragon Lock",
+    "cards": [
+      44910027
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Victory Dragon Turbo",
+    "cards": [
+      39191307
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Virtual World",
+    "cards": [
+      92519087
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Virus Control",
+    "cards": [
+      35027493
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Virus Dragon",
+    "cards": [
+      35027493,
+      88264978
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Virus Drain Beat",
+    "cards": [
+      35027493,
+      82732705
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Virus Frog",
+    "cards": [
+      35027493,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Voiceless Voice",
+    "cards": [
+      88284599
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Volcanic",
+    "cards": [
+      76459806
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Volcanic Cat",
+    "cards": [
+      76459806,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Counter Fairy",
+    "cards": [
+      76459806,
+      32296881
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Diva",
+    "cards": [
+      76459806,
+      78868119
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Diva Hero",
+    "cards": [
+      76459806,
+      40854197
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Flamvell",
+    "cards": [
+      76459806,
+      23297235
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Gadget",
+    "cards": [
+      76459806,
+      41172955
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Garden",
+    "cards": [
+      76459806,
+      71645242
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Hero",
+    "cards": [
+      76459806,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Hero Beat",
+    "cards": [
+      76459806,
+      69884162
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Laval",
+    "cards": [
+      76459806,
+      8611007
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Laval Flamvell",
+    "cards": [
+      76459806,
+      95621257
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Monarch",
+    "cards": [
+      76459806,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Nekroz",
+    "cards": [
+      76459806,
+      89463537
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Quickdraw",
+    "cards": [
+      76459806,
+      20932152
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Quickdraw Plant",
+    "cards": [
+      76459806,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Volcanic Snake-Eye",
+    "cards": [
+      76459806,
+      48452496
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Vylon",
+    "cards": [
+      93157004
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Vylon Cyber Dragon",
+    "cards": [
+      93157004,
+      70095154
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Warrior",
+    "cards": [
+      39507162
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Warrior Burn",
+    "cards": [
+      7572887,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Warrior Chaos Shaddoll",
+    "cards": [
+      39507162,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Warrior Control",
+    "cards": [
+      74131780
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Warrior Gravekeeper",
+    "cards": [
+      7572887,
+      24317029
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Warrior Rat Control",
+    "cards": [
+      39507162,
+      97017120
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Warrior Recruiter Control",
+    "cards": [
+      7572887,
+      95956346
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Warrior Shaddoll",
+    "cards": [
+      7572887,
+      20366274
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Warrior Stun",
+    "cards": [
+      7572887
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Warrior Tomato Control",
+    "cards": [
+      7572887,
+      83011277
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Wasteland Beat",
+    "cards": [
+      23424603
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Water Beat",
+    "cards": [
+      18318842
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Water Control",
+    "cards": [
+      4929256
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Water Fusion",
+    "cards": [
+      86164529
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Water Hero",
+    "cards": [
+      18318842,
+      40044918
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Water Plant Synchro",
+    "cards": [
+      18318842,
+      44508094
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Water Return",
+    "cards": [
+      18318842,
+      27174286
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Water Spellcaster",
+    "cards": [
+      18318842,
+      71413901
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Watt",
+    "cards": [
+      402568
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Watt Burn",
+    "cards": [
+      402568,
+      38992735
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Wind Beat",
+    "cards": [
+      78636495
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Wind-Up",
+    "cards": [
+      81122844
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Wind-Up Beast",
+    "cards": [
+      81122844,
+      39168895
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Windwitch Trickstar",
+    "cards": [
+      43722862,
+      61283655
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Windwitch True Draco",
+    "cards": [
+      43722862,
+      21377582
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "World Chalice",
+    "cards": [
+      31226177
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Worm",
+    "cards": [
+      11722335
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "X-Saber",
+    "cards": [
+      52352005
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "X-Saber Plant",
+    "cards": [
+      52352005,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Yang Zing",
+    "cards": [
+      83755611
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Yang Zing Metalfoes",
+    "cards": [
+      83755611,
+      4688231
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Yosenju",
+    "cards": [
+      92246806
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Yubel Fire King",
+    "cards": [
+      78371393,
+      23015896
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Yummy",
+    "cards": [
+      30581601
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zefra",
+    "cards": [
+      29432356
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zefra Endymion",
+    "cards": [
+      29432356,
+      3611830
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zefra Pendulum Magician",
+    "cards": [
+      29432356,
+      72714461
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zefra Yang Zing",
+    "cards": [
+      29432356,
+      83755611
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zera Artifact",
+    "cards": [
+      42216237,
+      85103922
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zera Artifact Traptrix",
+    "cards": [
+      42216237,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zeta Control",
+    "cards": [
+      64382839
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zombie",
+    "cards": [
+      63665875
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zombie Artifact Traptrix",
+    "cards": [
+      92826944,
+      91812341
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Cat",
+    "cards": [
+      92826944,
+      14878871
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Fairy",
+    "cards": [
+      92826944,
+      59509952
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Frog",
+    "cards": [
+      92826944,
+      9126351
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Monarch",
+    "cards": [
+      92826944,
+      51945556
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Paleo Reasoning Gate",
+    "cards": [
+      92826944,
+      58577036
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Plant",
+    "cards": [
+      92826944,
+      48686504
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Quickdraw",
+    "cards": [
+      92826944,
+      20932152
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Quickdraw Plant",
+    "cards": [
+      92826944,
+      15341821
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Stun",
+    "cards": [
+      68670547
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zombie Synchro",
+    "cards": [
+      92826944,
+      5309481
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie TeleDAD",
+    "cards": [
+      92826944,
+      65192027
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie Turbo",
+    "cards": [
+      57281778
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zombie Vayu Turbo",
+    "cards": [
+      92826944,
+      72714392
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zombie World",
+    "cards": [
+      4064256
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zoodiac",
+    "cards": [
+      48905153
+    ],
+    "layout": "single"
+  },
+  {
+    "name": "Zoodiac Kozmo",
+    "cards": [
+      48905153,
+      94454495
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zoodiac Metalfoes",
+    "cards": [
+      48905153,
+      4688231
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zoodiac Pendulum Magician",
+    "cards": [
+      48905153,
+      72714461
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zoodiac Shaddoll Burning Abyss",
+    "cards": [
+      48905153,
+      20758643
+    ],
+    "layout": "split"
+  },
+  {
+    "name": "Zorc Turbo",
+    "cards": [
+      97642679
+    ],
+    "layout": "single"
+  }
+]

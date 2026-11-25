@@ -1,0 +1,1750 @@
+{
+  "artwork": "Yu-Gi-Oh! Music track-preview banners",
+  "size": [
+    1600,
+    500
+  ],
+  "source_notes": "LaunchBox media types are preserved as listed. Fanart contributors are credited individually where identified. Fallback denotes a composition from the game cover with blurred edge extension.",
+  "games": {
+    "arc-v-tag-force-special": {
+      "title": "Yu-Gi-Oh! ARC-V Tag Force Special",
+      "year": 2015,
+      "platform": "PSP, PlayStation Vita",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26499"
+      ],
+      "banner": {
+        "file": "banners/arc-v-tag-force-special.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26499",
+        "url": "https://images.launchbox-app.com/f3a941d2-d643-41e9-b387-f6d01d69faf1.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community",
+        "source_crop_normalized": [
+          0.008,
+          0.061,
+          0.992,
+          0.561
+        ]
+      },
+      "logo": {
+        "file": "logos/arc-v-tag-force-special.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26499",
+        "url": "https://images.launchbox-app.com/r2_e78a5fa9-ba84-4779-95ad-8e10749642a6.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "bam": {
+      "title": "Yu-Gi-Oh! BAM",
+      "year": 2012,
+      "platform": "Web browser, iOS, Android",
+      "status": "official",
+      "launchbox_pages": [],
+      "banner": {
+        "file": "banners/bam.jpg",
+        "url": "https://web.archive.org/web/20121024172018id_/https://www.yugioh-bam.com/blog/wp-content/uploads/2012/09/wallpaper10_2_1080.png",
+        "page": "https://web.archive.org/web/20120921153515/https://www.yugioh-bam.com/blog/goodies/",
+        "credit": "Konami Digital Entertainment / Frima Studio",
+        "note": "Dark Magician official wallpaper, with the lower title excluded and the left star field extended.",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/bam.png",
+        "url": "https://img.yugipedia.com/9/92/Yu-Gi-Oh%21_BAM_logo.png",
+        "page": "https://yugipedia.com/wiki/File:Yu-Gi-Oh!_BAM_logo.png",
+        "credit": "Konami Digital Entertainment, archived by Yugipedia",
+        "type": "Clear Logo",
+        "note": "Removed the translucent white backing from the archived logo."
+      }
+    },
+    "capsule-monster-coliseum": {
+      "title": "Yu-Gi-Oh! Capsule Monster Coliseum",
+      "year": 2004,
+      "platform": "PlayStation 2",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/9472"
+      ],
+      "banner": {
+        "file": "banners/capsule-monster-coliseum.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/9472",
+        "url": "https://images.launchbox-app.com/df0ee011-0e91-41d1-9a3f-e57d0daaf804.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America",
+        "source_crop_normalized": [
+          0.12,
+          0.36,
+          0.95,
+          0.71
+        ]
+      },
+      "logo": {
+        "file": "logos/capsule-monster-coliseum.png",
+        "page": "https://archive.org/details/konami-e-3-2004-press-asset-disc",
+        "url": "https://archive.org/download/konami-e-3-2004-press-asset-disc/Konami%20E3%202004%20-%20Press%20Asset%20Disc%20-%20Dump.7z",
+        "credit": "Konami, E3 2004 Press Asset Disc. Disc preserved by Gaming Alexandria. White presentation background removed.",
+        "source_file": "Yu-Gi-Oh! Capsule Monster Coliseum/Logo/Yu-Gi-Oh!CMC_Logo_01.jpg",
+        "type": "Clear Logo"
+      }
+    },
+    "cross-duel": {
+      "title": "Yu-Gi-Oh! Cross Duel",
+      "year": 2022,
+      "platform": "iOS, Android",
+      "status": "official",
+      "launchbox_pages": [],
+      "banner": {
+        "file": "banners/cross-duel.jpg",
+        "url": "https://prcdn.freetls.fastly.net/release_image/50711/597/50711-597-315712da1a4b7776ac482fac1358aacb-1778x1000.png",
+        "page": "https://prtimes.jp/main/html/rd/p/000000597.000050711.html",
+        "credit": "Konami Digital Entertainment via PR Times",
+        "note": "Cropped the upper two duelist panels in Konami’s Japanese launch key visual, Yugi with Dark Magician and Kaiba with Blue-Eyes. Title and legal line fall below the frame.",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/cross-duel.png",
+        "url": "https://web.archive.org/web/20220801000000id_/https://www.konami.com/yugioh/crossduel/images/nj/main-logo.png",
+        "page": "https://web.archive.org/web/20220801000000id_/https://www.konami.com/yugioh/crossduel/en/",
+        "credit": "Konami Digital Entertainment",
+        "note": "Transparent international title art from the launch website.",
+        "type": "Clear Logo"
+      }
+    },
+    "dark-duel-stories": {
+      "title": "Yu-Gi-Oh! Dark Duel Stories",
+      "year": 2000,
+      "platform": "Game Boy Color",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/8465"
+      ],
+      "banner": {
+        "file": "banners/dark-duel-stories.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/8465",
+        "url": "https://images.launchbox-app.com/4f7bfbab-6449-46f2-9854-d7b3824aeb1a.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan",
+        "source_crop_normalized": [
+          0.16,
+          0.18,
+          0.99,
+          0.56
+        ]
+      },
+      "logo": {
+        "file": "logos/dark-duel-stories.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/8465",
+        "url": "https://images.launchbox-app.com/e5df26a8-03bd-4499-8137-7d5e4878ca82.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "dawn-of-destiny": {
+      "title": "Yu-Gi-Oh! The Dawn of Destiny",
+      "year": 2004,
+      "platform": "Xbox",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/29162"
+      ],
+      "banner": {
+        "file": "banners/dawn-of-destiny.jpg",
+        "page": "https://archive.org/details/yu-gi-oh-the-dawn-of-destiny",
+        "url": "https://archive.org/download/yu-gi-oh-the-dawn-of-destiny/cover.jpg",
+        "credit": "Konami, North American Xbox retail cover; scan archived by the Internet Archive",
+        "type": "Box - Front",
+        "note": "The original North American Xbox cover cast was cropped above the printed game title and blended into the illustrated eye and hieroglyphs on the back of the official PAL instruction booklet.",
+        "additional_sources": [
+          {
+            "type": "PAL Xbox instruction booklet, back cover",
+            "page": "https://www.mobygames.com/game/12719/yu-gi-oh-the-dawn-of-destiny/cover/group-389526/cover-930234/",
+            "url": "https://cdn.mobygames.com/covers/18542912-yu-gi-oh-the-dawn-of-destiny-xbox-manual.png",
+            "credit": "Konami Europe; scan contributed by DJKaito to MobyGames"
+          }
+        ]
+      },
+      "logo": {
+        "file": "logos/dawn-of-destiny.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/29162",
+        "url": "https://images.launchbox-app.com/c268e276-6e27-4678-8e4f-12b87c849650.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "decade-duels": {
+      "title": "Yu-Gi-Oh! 5D's Decade Duels",
+      "year": 2010,
+      "platform": "Xbox 360, PlayStation 3",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/447306",
+        "https://gamesdb.launchbox-app.com/games/details/160007",
+        "https://gamesdb.launchbox-app.com/games/details/79525"
+      ],
+      "banner": {
+        "file": "banners/decade-duels.jpg",
+        "page": "https://www.xbox-gamer.net/galerie-yu-gi-oh--5d-s-decade-duels-2686-0-0.html",
+        "url": "https://www.xbox-gamer.net/screens/2686_68552_yu-gi-oh--5d-s-decade-duels.jpg",
+        "credit": "Konami Digital Entertainment, original 2010 Xbox 360 press art archived by Xbox-Gamer. Text-free composition from the game title’s circuitry and character illustrations of Yusei Fudo and Jack Atlas.",
+        "type": "Official press artwork composite",
+        "additional_urls": [
+          "https://www.xbox-gamer.net/screens/2686_62595_yu-gi-oh--5d-s-decade-duels.jpg",
+          "https://www.xbox-gamer.net/screens/2686_62593_yu-gi-oh--5d-s-decade-duels.jpg"
+        ]
+      },
+      "logo": {
+        "file": "logos/decade-duels.png",
+        "page": "https://www.xbox-gamer.net/galerie-yu-gi-oh--5d-s-decade-duels-2686-0-0.html",
+        "url": "https://www.xbox-gamer.net/screens/2686_62596_yu-gi-oh--5d-s-decade-duels.jpg",
+        "credit": "Konami Digital Entertainment, original 2010 Xbox 360 logo press artwork, archived by Xbox-Gamer. White presentation background removed.",
+        "type": "Clear Logo"
+      }
+    },
+    "destiny-board-traveler": {
+      "title": "Yu-Gi-Oh! Destiny Board Traveler",
+      "year": 2004,
+      "platform": "Game Boy Advance",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/3928"
+      ],
+      "banner": {
+        "file": "banners/destiny-board-traveler.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3928",
+        "url": "https://images.launchbox-app.com/5676481a-6d2b-420f-9d6c-2183f29b81bd.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America",
+        "source_crop_normalized": [
+          0.25,
+          0.17,
+          0.99,
+          0.62
+        ]
+      },
+      "logo": {
+        "file": "logos/destiny-board-traveler.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3928",
+        "url": "https://images.launchbox-app.com/772fecc4-961f-4175-a854-edbfe46307d5.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "duel-arena": {
+      "title": "Yu-Gi-Oh! Duel Arena",
+      "year": 2014,
+      "platform": "Web browser",
+      "status": "official",
+      "launchbox_pages": [],
+      "banner": {
+        "file": "banners/duel-arena.jpg",
+        "url": "https://uploads3.yugioh.com/news/53/original/2YGO_DA_4KM_1024_415_center.jpg?1403810806",
+        "page": "https://www.yugioh.com/news/duel-arena-launch",
+        "credit": "Konami Cross Media NY / Yu-Gi-Oh! Official Site",
+        "note": "Crop above the title and to the right of the Konami mark in the original official launch visual.",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/duel-arena.png",
+        "url": "https://img.yugipedia.com/7/74/DuelArenaLogo.png",
+        "page": "https://yugipedia.com/wiki/File:DuelArenaLogo.png",
+        "credit": "Konami Digital Entertainment, archived by Yugipedia",
+        "type": "Clear Logo"
+      }
+    },
+    "duel-generation": {
+      "title": "Yu-Gi-Oh! Duel Generation",
+      "year": 2014,
+      "platform": "iOS, Android, Fire OS",
+      "status": "official",
+      "launchbox_pages": [],
+      "banner": {
+        "file": "banners/duel-generation.jpg",
+        "url": "https://web.archive.org/web/20150101000000id_/http://duelgeneration.konami.com/img/bg.jpg",
+        "page": "https://web.archive.org/web/20150101000000id_/http://duelgeneration.konami.com/",
+        "credit": "Konami Digital Entertainment",
+        "note": "Original game-site cosmic background centered on the illuminated right edge.",
+        "type": "Official game artwork",
+        "logo_overlay": "logos/duel-generation.png"
+      },
+      "logo": {
+        "file": "logos/duel-generation.png",
+        "url": "https://web.archive.org/web/20150101000000id_/http://duelgeneration.konami.com/img/ygodg-logo.png",
+        "page": "https://web.archive.org/web/20150101000000id_/http://duelgeneration.konami.com/",
+        "credit": "Konami Digital Entertainment",
+        "note": "Transparent game mark from the official website.",
+        "type": "Clear Logo"
+      }
+    },
+    "duel-links": {
+      "title": "Yu-Gi-Oh! Duel Links",
+      "year": 2016,
+      "platform": "iOS, Android, Windows",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/91064"
+      ],
+      "banner": {
+        "file": "banners/duel-links.jpg",
+        "url": "https://cdn.akamai.steamstatic.com/steam/apps/601510/library_hero.jpg",
+        "page": "https://store.steampowered.com/app/601510/",
+        "credit": "Konami Digital Entertainment via Steam",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/duel-links.png",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601510/logo.png",
+        "page": "https://store.steampowered.com/app/601510/",
+        "credit": "Konami Digital Entertainment via Steam",
+        "type": "Clear Logo"
+      }
+    },
+    "duel-monsters": {
+      "title": "Yu-Gi-Oh! Duel Monsters",
+      "year": 1998,
+      "platform": "Game Boy",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26514"
+      ],
+      "banner": {
+        "file": "banners/duel-monsters.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26514",
+        "url": "https://images.launchbox-app.com/ae3d0c9d-048e-4cc0-b356-41a3e50bde82.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan",
+        "source_crop_normalized": [
+          0.032,
+          0.183,
+          0.99,
+          0.532
+        ]
+      },
+      "logo": {
+        "file": "logos/duel-monsters.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26514",
+        "url": "https://images.launchbox-app.com/be455fdf-2ccb-43fb-b9b0-5aa854fbe16e.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "duel-monsters-4": {
+      "title": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist",
+      "year": 2000,
+      "platform": "Game Boy Color",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26515"
+      ],
+      "banner": {
+        "file": "banners/duel-monsters-4.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26515",
+        "url": "https://images.launchbox-app.com/r2_cb19e9a2-b3de-47d7-a6b8-86692384a576.png",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community",
+        "region": "Japan"
+      },
+      "logo": {
+        "file": "logos/duel-monsters-4.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26515",
+        "url": "https://images.launchbox-app.com/11cc2f56-efaf-4a0c-8387-e000414f4e37.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "duel-monsters-6-expert-2": {
+      "title": "Yu-Gi-Oh! Duel Monsters 6: Expert 2",
+      "year": 2001,
+      "platform": "Game Boy Advance",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/448627"
+      ],
+      "banner": {
+        "file": "banners/duel-monsters-6-expert-2.jpg",
+        "page": "https://web.archive.org/web/20020203025809/http://www.konamijpn.com:80/products/yugioh_dm6/",
+        "url": "https://web.archive.org/web/20031017175714id_/http://www.konamijpn.com:80/products/yugioh_dm6/pic/main_all2.jpg",
+        "credit": "Konami Computer Entertainment Japan, archived 2001 promotional website",
+        "type": "Official Japanese website key visual",
+        "note": "Cropped the Yami Marik and Yugi faces from the original campaign visual and extended the green website graphic on the left."
+      },
+      "logo": {
+        "file": "logos/duel-monsters-6-expert-2.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/448627",
+        "url": "https://images.launchbox-app.com/99da9de4-c55d-4757-8ce7-1094c6656cbd.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "duel-monsters-ii": {
+      "title": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories",
+      "year": 1999,
+      "platform": "Game Boy, Game Boy Color",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26269"
+      ],
+      "banner": {
+        "file": "banners/duel-monsters-ii.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26269",
+        "url": "https://images.launchbox-app.com/bbd87317-d817-4389-8cce-2057760ca227.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan",
+        "source_crop_normalized": [
+          0.196,
+          0.179,
+          0.988,
+          0.545
+        ]
+      },
+      "logo": {
+        "file": "logos/duel-monsters-ii.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26269",
+        "url": "https://images.launchbox-app.com/r2_8b4d8809-7b58-4fb4-bfbd-2ace96f4c904.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "duel-terminal": {
+      "title": "Yu-Gi-Oh! 5D's Duel Terminal",
+      "year": 2008,
+      "platform": "Arcade",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/139853"
+      ],
+      "banner": {
+        "file": "banners/duel-terminal.jpg",
+        "url": "https://web.archive.org/web/20090704233119id_/http://www.konami.jp/yugioh_dt/img/top_dt6.swf",
+        "page": "https://web.archive.org/web/20090704232650/http://www.konami.jp/yugioh_dt/",
+        "credit": "Konami Digital Entertainment",
+        "note": "Duel Terminal 6 official masthead energy background (object 78), composed with in-game Duel Terminal character portraits archived by Yugipedia.",
+        "additional_sources": [
+          {
+            "url": "https://img.yugipedia.com/9/9b/YamiYugi-DT.png",
+            "page": "https://yugipedia.com/wiki/File:YamiYugi-DT.png",
+            "credit": "Konami Digital Entertainment, archived by Yugipedia"
+          },
+          {
+            "url": "https://img.yugipedia.com/d/db/JadenYuki-DT.png",
+            "page": "https://yugipedia.com/wiki/File:JadenYuki-DT.png",
+            "credit": "Konami Digital Entertainment, game artwork archived by Yugipedia"
+          },
+          {
+            "url": "https://img.yugipedia.com/6/68/YuseiFudo-DT.png",
+            "page": "https://yugipedia.com/wiki/File:YuseiFudo-DT.png",
+            "credit": "Konami Digital Entertainment, game artwork archived by Yugipedia"
+          }
+        ],
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/duel-terminal.png",
+        "url": "https://web.archive.org/web/20090704233119id_/http://www.konami.jp/yugioh_dt/img/top_dt6.swf",
+        "page": "https://web.archive.org/web/20090704232650/http://www.konami.jp/yugioh_dt/",
+        "credit": "Konami Digital Entertainment",
+        "note": "Japanese Yu-Gi-Oh! 5D’s Duel Terminal arcade mark, original transparent masthead object 63.",
+        "type": "Clear Logo"
+      }
+    },
+    "duel-transer": {
+      "title": "Yu-Gi-Oh! 5D's Duel Transer",
+      "year": 2010,
+      "platform": "Wii",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/20236"
+      ],
+      "banner": {
+        "file": "banners/duel-transer.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/20236",
+        "url": "https://images.launchbox-app.com/cbac3ad4-7948-4414-b3b1-9b416283fe08.png",
+        "type": "Screenshot - Game Title",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America",
+        "source_crop_normalized": [
+          0.01,
+          0.005,
+          0.99,
+          0.402
+        ]
+      },
+      "logo": {
+        "file": "logos/duel-transer.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/20236",
+        "url": "https://images.launchbox-app.com/31d7fe72-f831-478a-9a0c-ba6d2909ca69.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America"
+      }
+    },
+    "duelists-of-the-roses": {
+      "title": "Yu-Gi-Oh! The Duelists of the Roses",
+      "year": 2001,
+      "platform": "PlayStation 2",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/9473"
+      ],
+      "banner": {
+        "file": "banners/duelists-of-the-roses.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/9473",
+        "url": "https://images.launchbox-app.com/3b02b62d-bd10-46b5-b3c7-6f0fa10a4f1b.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community"
+      },
+      "logo": {
+        "file": "logos/duelists-of-the-roses.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/9473",
+        "url": "https://images.launchbox-app.com/533eee79-b152-4573-90bf-a20fa4897b2e.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "dungeon-dice-monsters": {
+      "title": "Yu-Gi-Oh! Dungeon Dice Monsters",
+      "year": 2001,
+      "platform": "Game Boy Advance",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/3819"
+      ],
+      "banner": {
+        "file": "banners/dungeon-dice-monsters.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3819",
+        "url": "https://images.launchbox-app.com/bdf1fba3-6516-402c-8632-bdc5a574d390.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America",
+        "source_crop_normalized": [
+          0.244,
+          0.113,
+          0.989,
+          0.386
+        ]
+      },
+      "logo": {
+        "file": "logos/dungeon-dice-monsters.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3819",
+        "url": "https://images.launchbox-app.com/f6ec0bea-b3ab-4614-aee8-6a1a3f7b578e.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "early-days-collection": {
+      "title": "Yu-Gi-Oh! Early Days Collection",
+      "year": 2025,
+      "platform": "Nintendo Switch, Windows",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/421969",
+        "https://gamesdb.launchbox-app.com/games/details/421933"
+      ],
+      "banner": {
+        "file": "banners/early-days-collection.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/421933",
+        "url": "https://images.launchbox-app.com/52e02d67-ee42-4f18-aec7-024921095ba6.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community",
+        "source_crop_normalized": [
+          0.15,
+          0.08,
+          0.83,
+          0.84
+        ]
+      },
+      "logo": {
+        "file": "logos/early-days-collection.png",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3013550/logo.png",
+        "page": "https://store.steampowered.com/app/3013550/",
+        "credit": "Konami Digital Entertainment via Steam",
+        "type": "Clear Logo"
+      }
+    },
+    "eternal-duelist-soul": {
+      "title": "Yu-Gi-Oh! The Eternal Duelist Soul",
+      "year": 2001,
+      "platform": "Game Boy Advance",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/3930"
+      ],
+      "banner": {
+        "file": "banners/eternal-duelist-soul.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3930",
+        "url": "https://images.launchbox-app.com/de089eb5-4976-4a1f-9844-561b1e234fd0.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community"
+      },
+      "logo": {
+        "file": "logos/eternal-duelist-soul.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3930",
+        "url": "https://images.launchbox-app.com/97be8097-4c60-42d0-b910-9d5f9d61c584.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "falsebound-kingdom": {
+      "title": "Yu-Gi-Oh! The Falsebound Kingdom",
+      "year": 2002,
+      "platform": "GameCube",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/29777"
+      ],
+      "banner": {
+        "file": "banners/falsebound-kingdom.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/29777",
+        "url": "https://images.launchbox-app.com/d6621cfd-92cc-498b-bd5c-d616e7faad0f.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Spain",
+        "source_crop_normalized": [
+          0.017,
+          0.221,
+          0.982,
+          0.576
+        ]
+      },
+      "logo": {
+        "file": "logos/falsebound-kingdom.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/29777",
+        "url": "https://images.launchbox-app.com/r2_b14d4906-41c7-495a-8168-cecda1391c35.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "forbidden-memories": {
+      "title": "Yu-Gi-Oh! Forbidden Memories",
+      "year": 1999,
+      "platform": "PlayStation",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/9490"
+      ],
+      "banner": {
+        "file": "banners/forbidden-memories.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/9490",
+        "url": "https://images.launchbox-app.com/r2_52fbcfee-4ae4-4f9f-96bf-9889e615ca90.png",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America",
+        "source_crop_normalized": [
+          0.17,
+          0.05,
+          0.99,
+          0.63
+        ]
+      },
+      "logo": {
+        "file": "logos/forbidden-memories.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/9490",
+        "url": "https://images.launchbox-app.com/826e7c6b-cf98-459f-bd1e-22d7dcce3ac0.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "gx-beginning-of-destiny": {
+      "title": "Yu-Gi-Oh! GX The Beginning of Destiny",
+      "year": 2007,
+      "platform": "PlayStation 2",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/18180"
+      ],
+      "banner": {
+        "file": "banners/gx-beginning-of-destiny.jpg",
+        "page": "https://www.videogamemanual.com/PS2/Y.htm",
+        "url": "https://www.videogamemanual.com/PS2/Yu-Gi-Oh%21%20GX-%20The%20Beginning%20of%20Destiny%20%28USA%29.pdf",
+        "credit": "Konami Digital Entertainment",
+        "type": "North American instruction manual, back-cover illustration",
+        "note": "PDF page 16 of the North American Konami instruction manual, preserved by Video Game Manual. Jaden on the orange-yellow radial background.",
+        "source_crop_normalized": [
+          0.019,
+          0.115,
+          0.978,
+          0.747
+        ]
+      },
+      "logo": {
+        "file": "logos/gx-beginning-of-destiny.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/18180",
+        "url": "https://images.launchbox-app.com/r2_ad35a116-f0e6-446c-a689-75ada2dbdc55.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America"
+      }
+    },
+    "gx-card-almanac": {
+      "title": "Yu-Gi-Oh! GX Card Almanac",
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/126576"
+      ],
+      "banner": {
+        "file": "banners/gx-card-almanac.jpg",
+        "page": "https://web.archive.org/web/20091001000000/http://www.konami.jp/gs/game/yugioh_ca/",
+        "url": "https://web.archive.org/web/20091001000000id_/http://www.konami.jp/gs/game/yugioh_ca/image/mein_vis_02.jpg",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Reassembled the illustration along the top of the Japanese product masthead.",
+        "type": "Official Japanese website artwork",
+        "additional_urls": [
+          "https://web.archive.org/web/20091001000000id_/http://www.konami.jp/gs/game/yugioh_ca/image/mein_vis_01.jpg",
+          "https://web.archive.org/web/20091001000000id_/http://www.konami.jp/gs/game/yugioh_ca/image/mein_vis_03.jpg"
+        ]
+      },
+      "logo": {
+        "file": "logos/gx-card-almanac.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/126576",
+        "url": "https://images.launchbox-app.com/e4ea08d6-544f-4118-984c-7acda2a79f56.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "gx-duel-academy": {
+      "title": "Yu-Gi-Oh! GX Duel Academy",
+      "year": 2005,
+      "platform": "Game Boy Advance",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26476"
+      ],
+      "banner": {
+        "file": "banners/gx-duel-academy.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26476",
+        "url": "https://images.launchbox-app.com/6ed567f0-3379-4709-b1bb-6e408a064758.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community"
+      },
+      "logo": {
+        "file": "logos/gx-duel-academy.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26476",
+        "url": "https://images.launchbox-app.com/r2_1775eb83-a305-428a-a7dc-971abd6936ee.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America"
+      }
+    },
+    "gx-spirit-caller": {
+      "title": "Yu-Gi-Oh! GX Spirit Caller",
+      "year": 2006,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/14404"
+      ],
+      "banner": {
+        "file": "banners/gx-spirit-caller.jpg",
+        "page": "https://web.archive.org/web/20090621042411/http://www.konami.jp/gs/game/yugioh_ss/",
+        "url": "https://web.archive.org/web/20090621042411id_/http://www.konami.jp/gs/game/yugioh_ss/pic/main4.jpg",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Assembled the original Spirit Summoner masthead artwork from the publisher’s image slices, then cropped below the Wi-Fi badge.",
+        "type": "Official Japanese website artwork",
+        "additional_urls": [
+          "https://web.archive.org/web/20090621042411id_/http://www.konami.jp/gs/game/yugioh_ss/pic/main1.jpg",
+          "https://web.archive.org/web/20090621042411id_/http://www.konami.jp/gs/game/yugioh_ss/pic/main2.jpg",
+          "https://web.archive.org/web/20090621042411id_/http://www.konami.jp/gs/game/yugioh_ss/pic/main3.jpg"
+        ],
+        "source_crop_normalized": [
+          0,
+          0.368,
+          0.99,
+          0.997
+        ]
+      },
+      "logo": {
+        "file": "logos/gx-spirit-caller.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/14404",
+        "url": "https://images.launchbox-app.com/ce6658d2-0d6f-4db0-aae5-636a117235fa.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "gx-tag-force": {
+      "title": "Yu-Gi-Oh! GX Tag Force",
+      "year": 2006,
+      "platform": "PSP",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/27703"
+      ],
+      "banner": {
+        "file": "banners/gx-tag-force.jpg",
+        "page": "https://web.archive.org/web/20060901120442/http://www.konami.jp:80/gs/game/yugioh_tf/index.html",
+        "url": "https://web.archive.org/web/20070208115205id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_02.jpg",
+        "credit": "Konami Digital Entertainment",
+        "type": "Japanese promotional website header",
+        "note": "Jaden and Chazz portrait panels from the archived launch-page illustration, blended over the original green background; both characters retain their orientation.",
+        "additional_urls": [
+          "https://web.archive.org/web/20070208115215id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_03.jpg",
+          "https://web.archive.org/web/20070208115225id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_04.jpg",
+          "https://web.archive.org/web/20070208115235id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_05.jpg",
+          "https://web.archive.org/web/20070208115246id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_06.jpg",
+          "https://web.archive.org/web/20070208115255id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_07.jpg",
+          "https://web.archive.org/web/20070208115305id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_08.jpg",
+          "https://web.archive.org/web/20070208115316id_/http://www.konami.jp:80/gs/game/yugioh_tf/img/top_09.jpg"
+        ]
+      },
+      "logo": {
+        "file": "logos/gx-tag-force.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/27703",
+        "url": "https://images.launchbox-app.com/5928f147-ec12-4d10-a6e4-53538b8714f7.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "gx-tag-force-2": {
+      "title": "Yu-Gi-Oh! GX Tag Force 2",
+      "year": 2007,
+      "platform": "PSP",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/24392"
+      ],
+      "banner": {
+        "file": "banners/gx-tag-force-2.jpg",
+        "page": "https://web.archive.org/web/20120503125931/http://www.konami.jp/gs/game/yugioh_tf2/index.html",
+        "url": "https://web.archive.org/web/20120119161638id_/http://www.konami.jp/gs/game/yugioh_tf2/img/mein_vis_01.jpg",
+        "credit": "Konami Digital Entertainment",
+        "type": "Japanese promotional website key art",
+        "note": "Three adjoining character illustration slices from the promotional site, showing Winged Kuriboh, Jaden Yuki, and Jesse Anderson.",
+        "additional_urls": [
+          "https://web.archive.org/web/20120119165514id_/http://www.konami.jp/gs/game/yugioh_tf2/img/mein_vis_06.jpg",
+          "https://web.archive.org/web/20120119153555id_/http://www.konami.jp/gs/game/yugioh_tf2/img/mein_vis_07.jpg"
+        ],
+        "source_crop_normalized": [
+          0.006,
+          0.02,
+          0.99,
+          0.68
+        ]
+      },
+      "logo": {
+        "file": "logos/gx-tag-force-2.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/24392",
+        "url": "https://images.launchbox-app.com/r2_f26a8228-b088-44b9-8213-ec95f108ef4e.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America"
+      }
+    },
+    "gx-tag-force-3": {
+      "title": "Yu-Gi-Oh! GX Tag Force 3",
+      "year": 2008,
+      "platform": "PSP",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26501"
+      ],
+      "banner": {
+        "file": "banners/gx-tag-force-3.jpg",
+        "page": "https://web.archive.org/web/20080727014329/http://www.konami.jp:80/gs/game/yugioh_tf3/index.html",
+        "url": "https://web.archive.org/web/20150506200835id_/http://www.konami.jp/gs/game/yugioh_tf3/img/head_img.jpg",
+        "credit": "Konami Digital Entertainment",
+        "type": "Japanese promotional website header",
+        "note": "Official clean horizontal illustration of Jaden and Yubel.",
+        "source_crop_normalized": [
+          0.004,
+          0.005,
+          0.996,
+          0.845
+        ]
+      },
+      "logo": {
+        "file": "logos/gx-tag-force-3.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26501",
+        "url": "https://images.launchbox-app.com/f8697199-af67-4305-82d1-f7dfb59d6280.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "legacy-of-the-duelist": {
+      "title": "Yu-Gi-Oh! Legacy of the Duelist",
+      "year": 2015,
+      "platform": "PlayStation 4, Xbox One, Windows",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/72756"
+      ],
+      "banner": {
+        "file": "banners/legacy-of-the-duelist.jpg",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/480650/library_hero.jpg",
+        "page": "https://store.steampowered.com/app/480650/",
+        "credit": "Konami Digital Entertainment via Steam",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/legacy-of-the-duelist.png",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/480650/logo.png",
+        "page": "https://store.steampowered.com/app/480650/",
+        "credit": "Konami Digital Entertainment via Steam",
+        "type": "Clear Logo"
+      }
+    },
+    "link-evolution": {
+      "title": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+      "year": 2019,
+      "platform": "Nintendo Switch, PlayStation 4, Xbox One, Windows",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/118882",
+        "https://gamesdb.launchbox-app.com/games/details/149474"
+      ],
+      "banner": {
+        "file": "banners/link-evolution.jpg",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150640/library_hero.jpg",
+        "page": "https://store.steampowered.com/app/1150640/",
+        "credit": "Konami Digital Entertainment via Steam",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/link-evolution.png",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150640/logo.png",
+        "page": "https://store.steampowered.com/app/1150640/",
+        "credit": "Konami Digital Entertainment via Steam",
+        "type": "Clear Logo"
+      }
+    },
+    "master-duel": {
+      "title": "Yu-Gi-Oh! Master Duel",
+      "year": 2022,
+      "platform": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S, Nintendo Switch, Windows, iOS, Android",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/161726",
+        "https://gamesdb.launchbox-app.com/games/details/160203"
+      ],
+      "banner": {
+        "file": "banners/master-duel.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/161726",
+        "url": "https://images.launchbox-app.com/bfdaa69f-7eec-41a2-a2a6-305ee7bcf16e.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community"
+      },
+      "logo": {
+        "file": "logos/master-duel.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/160203",
+        "url": "https://images.launchbox-app.com/9c5fe4e5-f74c-4352-9494-3f9e9636299f.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "millennium-duels": {
+      "title": "Yu-Gi-Oh! Millennium Duels",
+      "year": 2014,
+      "platform": "Xbox 360, PlayStation 3",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/93394",
+        "https://gamesdb.launchbox-app.com/games/details/79526"
+      ],
+      "banner": {
+        "file": "banners/millennium-duels.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/93394",
+        "url": "https://images.launchbox-app.com/r2_74d94713-2940-416f-95ad-529a8c3dfeb3.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community",
+        "region": "World",
+        "source_crop_normalized": [
+          0.01,
+          0.007,
+          0.99,
+          0.505
+        ]
+      },
+      "logo": {
+        "file": "logos/millennium-duels.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/93394",
+        "url": "https://images.launchbox-app.com/e9549c74-fc5c-48ac-b7fe-3690cc8cffab.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "monster-capsule-breed-and-battle": {
+      "title": "Yu-Gi-Oh! Monster Capsule Breed & Battle",
+      "year": 1998,
+      "platform": "PlayStation",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/104449"
+      ],
+      "banner": {
+        "file": "banners/monster-capsule-breed-and-battle.jpg",
+        "page": "https://archive.org/details/yu-gi-oh-monster-capsule-breed-battle-ps-version/page/n6/mode/1up",
+        "url": "https://archive.org/download/yu-gi-oh-monster-capsule-breed-battle-ps-version/page/n6/mode/1up?view=theater",
+        "credit": "Shueisha / Studio Hard, V Jump Books, 1998; original game by Konami",
+        "type": "Original game guide illustration",
+        "note": "Original full-color guide illustration of Yugi and the capsule monsters. Cropped the artwork above the production credits and extended its purple background on the left."
+      },
+      "logo": {
+        "file": "logos/monster-capsule-breed-and-battle.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/104449",
+        "url": "https://images.launchbox-app.com/r2_189a33e0-acef-4b25-9dd3-5ebc63f37da1.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "monster-capsule-gb": {
+      "title": "Yu-Gi-Oh! Monster Capsule GB",
+      "year": 2000,
+      "platform": "Game Boy, Game Boy Color",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26268"
+      ],
+      "banner": {
+        "file": "banners/monster-capsule-gb.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26268",
+        "url": "https://images.launchbox-app.com/r2_990a4a76-8f81-4cf6-856e-c3c268d0a516.png",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community",
+        "region": "Japan"
+      },
+      "logo": {
+        "file": "logos/monster-capsule-gb.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26268",
+        "url": "https://images.launchbox-app.com/68eb9689-e9cc-45a1-8df0-68ffcee99348.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "nightmare-troubadour": {
+      "title": "Yu-Gi-Oh! Nightmare Troubadour",
+      "year": 2005,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26506"
+      ],
+      "banner": {
+        "file": "banners/nightmare-troubadour.jpg",
+        "page": "https://web.archive.org/web/20090621015027/http://www.konami.jp/gs/game/yugioh_nt/",
+        "url": "https://web.archive.org/web/20090621015027id_/http://www.konami.jp/gs/game/yugioh_nt/pic/dmnt_top.jpg",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Cropped the upper band of the original Japanese website illustration above the title.",
+        "type": "Official Japanese website artwork",
+        "source_crop_normalized": [
+          0.003,
+          0.003,
+          0.996,
+          0.49
+        ]
+      },
+      "logo": {
+        "file": "logos/nightmare-troubadour.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26506",
+        "url": "https://images.launchbox-app.com/66ac78de-6997-474e-a8b3-f3b0af9cecc8.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "online": {
+      "title": "Yu-Gi-Oh! Online",
+      "year": 2005,
+      "platform": "Windows",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/8824"
+      ],
+      "banner": {
+        "file": "banners/online.jpg",
+        "url": "https://web.archive.org/web/20051212213355id_/http://www.yugioh-online.net:80/top/english/top.swf",
+        "page": "https://web.archive.org/web/20051212213355/http://www.yugioh-online.net/top/english/",
+        "credit": "Konami Digital Entertainment, archived official game website",
+        "note": "Background 3 from the 2005 official Duelpass Phase 2 promotion.",
+        "type": "Official game artwork",
+        "logo_overlay": "logos/online.png"
+      },
+      "logo": {
+        "file": "logos/online.png",
+        "url": "https://web.archive.org/web/20051212213355id_/http://www.yugioh-online.net:80/top/english/top.swf",
+        "page": "https://web.archive.org/web/20051212213355/http://www.yugioh-online.net/top/english/",
+        "credit": "Konami Digital Entertainment, archived official game website",
+        "note": "Official first-edition English title artwork (Flash object 33); removed the edge-connected black matte while preserving the blue luminous baseline and enclosed black linework.",
+        "type": "Clear Logo"
+      }
+    },
+    "online-duel-accelerator": {
+      "title": "Yu-Gi-Oh! Online: Duel Accelerator",
+      "year": 2010,
+      "platform": "Windows",
+      "status": "official",
+      "launchbox_pages": [],
+      "banner": {
+        "file": "banners/online-duel-accelerator.jpg",
+        "url": "https://web.archive.org/web/20111202032907id_/http://www.yugioh-online.net/v3/swf/fl_top.swf?=&lng=eng&pfx=/v3/",
+        "page": "https://web.archive.org/web/20100716110715/http://www.yugioh-online.net:80/v3/",
+        "credit": "Konami Digital Entertainment, archived official game website",
+        "note": "Composed from the official masthead background, ring, dragon and Yusei artwork, objects 10, 17, 45 and 49.",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/online-duel-accelerator.png",
+        "url": "https://web.archive.org/web/20111202032907id_/http://www.yugioh-online.net/v3/swf/fl_top.swf?=&lng=eng&pfx=/v3/",
+        "page": "https://web.archive.org/web/20100716110715/http://www.yugioh-online.net:80/v3/",
+        "credit": "Konami Digital Entertainment, archived official game website",
+        "note": "International transparent title mark from the lower frame of object 38.",
+        "type": "Clear Logo"
+      }
+    },
+    "online-duel-evolution": {
+      "title": "Yu-Gi-Oh! Online: Duel Evolution",
+      "year": 2007,
+      "platform": "Windows",
+      "status": "official",
+      "launchbox_pages": [],
+      "banner": {
+        "file": "banners/online-duel-evolution.jpg",
+        "url": "https://web.archive.org/web/20070819104952id_/http://www.yugioh-online.net/top/japanese/fl_top.swf",
+        "page": "https://web.archive.org/web/20070819104952/http://www.yugioh-online.net/top/japanese/",
+        "credit": "Konami Digital Entertainment, archived official game website",
+        "note": "Composed from background 8, energy rings 20 and 22, and character layers 10 and 12 from the 2007 official Japanese masthead.",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/online-duel-evolution.png",
+        "url": "https://web.archive.org/web/20070819104952id_/http://www.yugioh-online.net/top/japanese/fl_top.swf",
+        "page": "https://web.archive.org/web/20070819104952/http://www.yugioh-online.net/top/japanese/",
+        "credit": "Konami Digital Entertainment, archived official game website",
+        "note": "Japanese transparent title mark, object 14.",
+        "type": "Clear Logo"
+      }
+    },
+    "power-of-chaos-joey": {
+      "title": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
+      "year": 2004,
+      "platform": "Windows",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/16759"
+      ],
+      "banner": {
+        "file": "banners/power-of-chaos-joey.jpg",
+        "page": "https://www.steamgriddb.com/hero/106347",
+        "url": "https://cdn2.steamgriddb.com/hero/e8d48e35062b5d5053ccd9ffe7105fd6.png",
+        "credit": "Konami game title-screen background, presented by Norrum on SteamGridDB",
+        "type": "Game title-screen background",
+        "logo_overlay": "logos/power-of-chaos-joey.png"
+      },
+      "logo": {
+        "file": "logos/power-of-chaos-joey.png",
+        "page": "https://archive.org/details/konami-e-3-2004-press-asset-disc",
+        "url": "https://archive.org/download/konami-e-3-2004-press-asset-disc/Konami%20E3%202004%20-%20Press%20Asset%20Disc%20-%20Dump.7z",
+        "credit": "Konami, E3 2004 Press Asset Disc. Disc preserved by Gaming Alexandria. White presentation background removed.",
+        "source_file": "Yu-Gi-Oh! Power of Chaos Joey/Logo/Yu-Gi-Oh!PowerofChaosJoey_Logo_01.jpg",
+        "type": "Clear Logo"
+      }
+    },
+    "power-of-chaos-kaiba": {
+      "title": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge",
+      "year": 2004,
+      "platform": "Windows",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/16758"
+      ],
+      "banner": {
+        "file": "banners/power-of-chaos-kaiba.jpg",
+        "page": "https://www.steamgriddb.com/hero/106346",
+        "url": "https://cdn2.steamgriddb.com/hero/b3a2a8592133a41f00f271712390f206.png",
+        "credit": "Konami game title-screen background, presented by Norrum on SteamGridDB",
+        "type": "Game title-screen background",
+        "logo_overlay": "logos/power-of-chaos-kaiba.png"
+      },
+      "logo": {
+        "file": "logos/power-of-chaos-kaiba.png",
+        "page": "https://www.steamgriddb.com/logo/112047",
+        "url": "https://cdn2.steamgriddb.com/logo/b6459f0025a79ec8efb69d93c6816d07.png",
+        "credit": "Konami game logo, presented by Norrum on SteamGridDB",
+        "type": "Clear Logo"
+      }
+    },
+    "power-of-chaos-yugi": {
+      "title": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
+      "year": 2003,
+      "platform": "Windows",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/16757"
+      ],
+      "banner": {
+        "file": "banners/power-of-chaos-yugi.jpg",
+        "page": "https://www.steamgriddb.com/hero/106345",
+        "url": "https://cdn2.steamgriddb.com/hero/77cd157e1cfa063f183eaf00206bf1e8.png",
+        "credit": "Konami game title-screen background, presented by Norrum on SteamGridDB",
+        "type": "Game title-screen background",
+        "logo_overlay": "logos/power-of-chaos-yugi.png"
+      },
+      "logo": {
+        "file": "logos/power-of-chaos-yugi.png",
+        "page": "https://www.steamgriddb.com/logo/112046",
+        "url": "https://cdn2.steamgriddb.com/logo/84085ab2e3af9b48d17017535bd3c4d6.png",
+        "credit": "Konami game logo, presented by Norrum on SteamGridDB",
+        "type": "Clear Logo"
+      }
+    },
+    "reshef-of-destruction": {
+      "title": "Yu-Gi-Oh! Reshef of Destruction",
+      "year": 2003,
+      "platform": "Game Boy Advance",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26517"
+      ],
+      "banner": {
+        "file": "banners/reshef-of-destruction.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26517",
+        "url": "https://images.launchbox-app.com/6f528ac3-f682-480a-be3a-daae4de79fa3.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Europe",
+        "source_crop_normalized": [
+          0.24,
+          0.15,
+          0.97,
+          0.51
+        ]
+      },
+      "logo": {
+        "file": "logos/reshef-of-destruction.png",
+        "page": "https://archive.org/details/konami-e-3-2004-press-asset-disc",
+        "url": "https://archive.org/download/konami-e-3-2004-press-asset-disc/Konami%20E3%202004%20-%20Press%20Asset%20Disc%20-%20Dump.7z",
+        "credit": "Konami, E3 2004 Press Asset Disc. Disc preserved by Gaming Alexandria. White presentation background removed.",
+        "source_file": "Yu-Gi-Oh! Reshef of Destruction/Logo/Yu-Gi-Oh!Reshef_Logo_01.jpg",
+        "type": "Clear Logo"
+      }
+    },
+    "rush-duel-dawn-of-the-battle-royale": {
+      "title": "Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale!!",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/154396"
+      ],
+      "banner": {
+        "file": "banners/rush-duel-dawn-of-the-battle-royale.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/154396",
+        "url": "https://images.launchbox-app.com/93dfb869-09e2-40e2-add1-cdd83897bd2e.png",
+        "type": "Banner",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan",
+        "source_crop_normalized": [
+          0.01,
+          0.008,
+          0.99,
+          0.655
+        ]
+      },
+      "logo": {
+        "file": "logos/rush-duel-dawn-of-the-battle-royale.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/154396",
+        "url": "https://images.launchbox-app.com/480ec670-ae0f-4a77-85fc-fac3fc9254b3.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Europe"
+      }
+    },
+    "rush-duel-go-rush": {
+      "title": "Yu-Gi-Oh! Rush Duel: Saikyo Battle Royale!! Ikuzo! Go Rush!!",
+      "year": 2022,
+      "platform": "Nintendo Switch",
+      "status": "official",
+      "launchbox_pages": [],
+      "banner": {
+        "file": "banners/rush-duel-go-rush.jpg",
+        "url": "https://www.konami.com/yugioh/rushduel_game_gorush/images/mainvisual.jpg",
+        "page": "https://www.konami.com/yugioh/rushduel_game_gorush/",
+        "credit": "Konami Digital Entertainment",
+        "note": "Clean crop of the publisher key visual, source pixels (183, 0, 1473, 403).",
+        "type": "Official game artwork"
+      },
+      "logo": {
+        "file": "logos/rush-duel-go-rush.png",
+        "url": "https://www.konami.com/yugioh/rushduel_game_gorush/images/logo.png",
+        "page": "https://www.konami.com/yugioh/rushduel_game_gorush/",
+        "credit": "Konami Digital Entertainment",
+        "type": "Clear Logo"
+      }
+    },
+    "sacred-cards": {
+      "title": "Yu-Gi-Oh! The Sacred Cards",
+      "year": 2002,
+      "platform": "Game Boy Advance",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/23746"
+      ],
+      "banner": {
+        "file": "banners/sacred-cards.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/23746",
+        "url": "https://images.launchbox-app.com/e68ce591-a415-4ac1-9c25-aa545e4815f5.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America",
+        "source_crop_normalized": [
+          0.24,
+          0.16,
+          0.96,
+          0.445
+        ]
+      },
+      "logo": {
+        "file": "logos/sacred-cards.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/23746",
+        "url": "https://images.launchbox-app.com/ad510f7d-feed-4519-b743-69d6411e5f75.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "saikyo-card-battle": {
+      "title": "Yu-Gi-Oh! Duel Monsters Saikyo Card Battle!",
+      "year": 2016,
+      "platform": "Nintendo 3DS",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/100391"
+      ],
+      "banner": {
+        "file": "banners/saikyo-card-battle.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/100391",
+        "url": "https://images.launchbox-app.com/d2716c1e-0d9a-4558-a0c1-6139a03c126c.png",
+        "type": "Banner",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan",
+        "source_crop_normalized": [
+          0.009,
+          0.008,
+          0.993,
+          0.545
+        ]
+      },
+      "logo": {
+        "file": "logos/saikyo-card-battle.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/100391",
+        "url": "https://images.launchbox-app.com/6bb58dfc-b1e1-4c09-b85c-f49e43fb21ee.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "tag-force-4": {
+      "title": "Yu-Gi-Oh! 5D's Tag Force 4",
+      "year": 2009,
+      "platform": "PSP",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26502"
+      ],
+      "banner": {
+        "file": "banners/tag-force-4.jpg",
+        "page": "https://web.archive.org/web/20090727085509/http://www.konami.jp:80/gs/game/yugioh_tf4/index.php",
+        "url": "https://web.archive.org/web/20120119104237id_/http://www.konami.jp/gs/game/yugioh_tf4/img/top_2.jpg",
+        "credit": "Konami Digital Entertainment",
+        "type": "Japanese promotional website main visual",
+        "note": "Yusei and Jack from the official Japanese launch website. The matching German retail illustration reconstructs a small area of clothing underneath the Japanese tagline. Circuit background from the official character page.",
+        "additional_urls": [
+          "https://web.archive.org/web/20120119114816id_/http://www.konami.jp/gs/game/yugioh_tf4/img/top_3.jpg",
+          "https://web.archive.org/web/20120210073211id_/http://www.konami.jp/gs/game/yugioh_tf4/char/sg_bk.jpg",
+          "https://images.launchbox-app.com/r2_3396ae1b-13bb-4889-940c-5a4a6d5a5ebc.jpg"
+        ]
+      },
+      "logo": {
+        "file": "logos/tag-force-4.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26502",
+        "url": "https://images.launchbox-app.com/r2_7b20ed67-3545-4dfe-b3bf-5bcc93e9a95e.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America"
+      }
+    },
+    "tag-force-5": {
+      "title": "Yu-Gi-Oh! 5D's Tag Force 5",
+      "year": 2010,
+      "platform": "PSP",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/14750"
+      ],
+      "banner": {
+        "file": "banners/tag-force-5.jpg",
+        "page": "https://web.archive.org/web/20100828025711/http://www.konami.jp:80/gs/game/yugioh_tf5/char.html",
+        "url": "https://web.archive.org/web/20110929142640id_/http://www.konami.jp/gs/game/yugioh_tf5/img/contents_hd_img_b.jpg",
+        "credit": "Konami Digital Entertainment",
+        "type": "Japanese promotional website header",
+        "note": "Content-page header art of Yusei Fudo and Crow Hogan.",
+        "source_crop_normalized": [
+          0.007,
+          0.007,
+          0.984,
+          0.91
+        ]
+      },
+      "logo": {
+        "file": "logos/tag-force-5.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/14750",
+        "url": "https://images.launchbox-app.com/1aa33ac7-37fe-4068-bc9d-3e28ee773697.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "tag-force-6": {
+      "title": "Yu-Gi-Oh! 5D's Tag Force 6",
+      "year": 2011,
+      "platform": "PSP",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26503"
+      ],
+      "banner": {
+        "file": "banners/tag-force-6.jpg",
+        "page": "https://web.archive.org/web/20110924185444/http://www.konami.jp:80/gs/game/yugioh_tf6/index.php",
+        "url": "https://web.archive.org/web/20120621025154id_/http://www.konami.jp/gs/game/yugioh_tf6/daytime/main_visual_bk.jpg",
+        "credit": "Konami Digital Entertainment",
+        "type": "Japanese promotional website main visual",
+        "note": "Japanese promotional main visual. The original empty gold field was extended to the left. Character positions and orientation relative to one another are preserved."
+      },
+      "logo": {
+        "file": "logos/tag-force-6.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26503",
+        "url": "https://images.launchbox-app.com/d353dafd-3b38-4629-885d-9db5cdde39d9.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan"
+      }
+    },
+    "wheelie-breakers": {
+      "title": "Yu-Gi-Oh! 5D's Wheelie Breakers",
+      "year": 2009,
+      "platform": "Wii",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/34234"
+      ],
+      "banner": {
+        "file": "banners/wheelie-breakers.jpg",
+        "page": "https://web.archive.org/web/20100401000000/http://www.konami.jp/gs/game/yugioh_wb/",
+        "url": "https://web.archive.org/web/20100401000000id_/http://www.konami.jp/gs/game/yugioh_wb/img/main_vis.jpg",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Used the right-hand Yusei illustration from the original launch masthead.",
+        "type": "Official Japanese website artwork",
+        "source_crop_normalized": [
+          0.538,
+          0.0,
+          0.996,
+          0.83
+        ]
+      },
+      "logo": {
+        "file": "logos/wheelie-breakers.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/34234",
+        "url": "https://images.launchbox-app.com/38ea02d0-73d6-407a-ad6c-0648289529a0.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "world-championship-2004": {
+      "title": "Yu-Gi-Oh! World Championship Tournament 2004",
+      "year": 2004,
+      "platform": "Game Boy Advance",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/3931"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2004.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3931",
+        "url": "https://images.launchbox-app.com/37743d13-862c-41c8-b21d-7d0bd33166f9.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America",
+        "source_crop_normalized": [
+          0.26,
+          0.245,
+          0.99,
+          0.59
+        ]
+      },
+      "logo": {
+        "file": "logos/world-championship-2004.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3931",
+        "url": "https://images.launchbox-app.com/r2_69113d22-c43e-4f7e-a69d-82529f16946b.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "world-championship-2005": {
+      "title": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005",
+      "year": 2004,
+      "platform": "Game Boy Advance",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/3929"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2005.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3929",
+        "url": "https://images.launchbox-app.com/r2_85deb776-c4e8-4f0d-86b1-61c31f135d3d.jpg",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Japan",
+        "source_crop_normalized": [
+          0.366,
+          0.207,
+          0.994,
+          0.578
+        ]
+      },
+      "logo": {
+        "file": "logos/world-championship-2005.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/3929",
+        "url": "https://images.launchbox-app.com/3e478b32-c3c0-4c96-ae31-d6739c546ec7.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America"
+      }
+    },
+    "world-championship-2006": {
+      "title": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006",
+      "year": 2006,
+      "platform": "Game Boy Advance",
+      "status": "fallback",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26518"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2006.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26518",
+        "url": "https://images.launchbox-app.com/272f3ee4-4c36-40a3-b6fb-5e080bd42b24.png",
+        "type": "Box - Front",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "Europe",
+        "source_crop_normalized": [
+          0.244,
+          0.103,
+          0.774,
+          0.389
+        ]
+      },
+      "logo": {
+        "file": "logos/world-championship-2006.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26518",
+        "url": "https://images.launchbox-app.com/898c6206-d08d-48bf-94d8-adaf21114a35.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "United States"
+      }
+    },
+    "world-championship-2007": {
+      "title": "Yu-Gi-Oh! World Championship 2007",
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26507"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2007.jpg",
+        "page": "https://web.archive.org/web/20120601000000/http://www.konami.jp/gs/game/yugioh_wcs2007/",
+        "url": "https://web.archive.org/web/20120601000000id_/http://www.konami.jp/gs/game/yugioh_wcs2007/images/mein_07.jpg",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Reassembled the Japanese masthead’s original Jaden illustration from six adjoining slices and extended its blue field.",
+        "type": "Official Japanese website artwork",
+        "additional_urls": [
+          "https://web.archive.org/web/20120601000000id_/http://www.konami.jp/gs/game/yugioh_wcs2007/images/mein_06.jpg",
+          "https://web.archive.org/web/20120601000000id_/http://www.konami.jp/gs/game/yugioh_wcs2007/images/mein_11.jpg",
+          "https://web.archive.org/web/20120601000000id_/http://www.konami.jp/gs/game/yugioh_wcs2007/images/mein_12.jpg",
+          "https://web.archive.org/web/20120601000000id_/http://www.konami.jp/gs/game/yugioh_wcs2007/images/mein_14.jpg",
+          "https://web.archive.org/web/20120601000000id_/http://www.konami.jp/gs/game/yugioh_wcs2007/images/mein_15.jpg"
+        ]
+      },
+      "logo": {
+        "file": "logos/world-championship-2007.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26507",
+        "url": "https://images.launchbox-app.com/faf566ce-8ec4-4177-84df-db71c931eba4.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "world-championship-2008": {
+      "title": "Yu-Gi-Oh! World Championship 2008",
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/20047"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2008.jpg",
+        "url": "https://web.archive.org/web/20150814085517id_/http://www.konami.jp/gs/game/yugioh_wcs2008/top_9.swf",
+        "page": "https://web.archive.org/web/20150814085517/http://www.konami.jp/gs/game/yugioh_wcs2008/",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Composed from the original promotional header’s Jaden artwork (bitmap 105) and striped texture (bitmap 5).",
+        "type": "Official Japanese website artwork"
+      },
+      "logo": {
+        "file": "logos/world-championship-2008.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/20047",
+        "url": "https://images.launchbox-app.com/83f15dcb-dded-41ad-afb5-73120935f0a8.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "World"
+      }
+    },
+    "world-championship-2009": {
+      "title": "Yu-Gi-Oh! 5D's Stardust Accelerator: World Championship 2009",
+      "year": 2009,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26504"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2009.jpg",
+        "page": "https://web.archive.org/web/20100401000000/http://www.konami.jp/gs/game/yugioh_wcs2009/",
+        "url": "https://web.archive.org/web/20100401000000id_/http://www.konami.jp/gs/game/yugioh_wcs2009/img/top_wcs_a.swf",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Composed from the official web masthead’s circuit-board texture, dragon, motion lines and Yusei on his Duel Runner (bitmap IDs 5, 36, 39 and 20).",
+        "type": "Official Japanese website artwork"
+      },
+      "logo": {
+        "file": "logos/world-championship-2009.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26504",
+        "url": "https://images.launchbox-app.com/3d3961f5-948b-4b99-b110-4730745673f0.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "world-championship-2010": {
+      "title": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia",
+      "year": 2010,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/26505"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2010.jpg",
+        "url": "https://web.archive.org/web/20111121184126id_/http://www.konami.jp/gs/game/yugioh_wcs2010/img/top.swf",
+        "page": "https://web.archive.org/web/20111121184126/http://www.konami.jp/gs/game/yugioh_wcs2010/",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Composed from the original site animation’s violet background, speed lines, dragon and Yusei layers (bitmap IDs 5, 37, 45 and 42).",
+        "type": "Official Japanese website artwork"
+      },
+      "logo": {
+        "file": "logos/world-championship-2010.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/26505",
+        "url": "https://images.launchbox-app.com/52f9dfc1-6966-452b-9b6b-f52618c435c5.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "world-championship-2011": {
+      "title": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
+      "year": 2011,
+      "platform": "Nintendo DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/21500"
+      ],
+      "banner": {
+        "file": "banners/world-championship-2011.jpg",
+        "url": "https://web.archive.org/web/20110509062210id_/http://www.konami.jp/gs/game/yugioh_wcs2011/img/top_img_5.jpg",
+        "page": "https://web.archive.org/web/20110509062210/http://www.konami.jp/gs/game/yugioh_wcs2011/",
+        "credit": "Konami Digital Entertainment, archived Japanese game website",
+        "note": "Reassembled the right-hand illustration of Yusei and his Duel Runner from three publisher masthead slices.",
+        "type": "Official Japanese website artwork",
+        "additional_urls": [
+          "https://web.archive.org/web/20110509062210id_/http://www.konami.jp/gs/game/yugioh_wcs2011/img/top_img_2.jpg",
+          "https://web.archive.org/web/20110509062213id_/http://www.konami.jp/gs/game/yugioh_wcs2011/img/top_img_7.jpg"
+        ]
+      },
+      "logo": {
+        "file": "logos/world-championship-2011.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/21500",
+        "url": "https://images.launchbox-app.com/38894c77-e1b7-49db-adeb-8060def98bb2.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    },
+    "worldwide-edition": {
+      "title": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+      "year": 2003,
+      "platform": "Game Boy Advance",
+      "status": "launchbox",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/2233"
+      ],
+      "banner": {
+        "file": "banners/worldwide-edition.jpg",
+        "page": "https://gamesdb.launchbox-app.com/games/details/2233",
+        "url": "https://images.launchbox-app.com/7af824be-05e3-40e1-bc1f-64f87411b1da.jpg",
+        "type": "Fanart - Background",
+        "credit": "LaunchBox Games Database community",
+        "region": "World",
+        "source_crop_normalized": [
+          0,
+          0.058,
+          1,
+          0.996
+        ]
+      },
+      "logo": {
+        "file": "logos/worldwide-edition.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/2233",
+        "url": "https://images.launchbox-app.com/fb4377e9-765a-4493-91cd-ad50f924c9cb.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database",
+        "region": "North America"
+      }
+    },
+    "zexal-world-duel-carnival": {
+      "title": "Yu-Gi-Oh! ZEXAL World Duel Carnival",
+      "year": 2013,
+      "platform": "Nintendo 3DS",
+      "status": "official",
+      "launchbox_pages": [
+        "https://gamesdb.launchbox-app.com/games/details/34345"
+      ],
+      "banner": {
+        "file": "banners/zexal-world-duel-carnival.jpg",
+        "page": "https://www.konami.com/yugioh/duel_carnival/duelist/",
+        "url": "https://www.konami.com/yugioh/duel_carnival/duelist/images/duelist_01.png",
+        "additional_urls": [
+          "https://www.konami.com/yugioh/duel_carnival/images/contents_bk.jpg"
+        ],
+        "credit": "Konami Digital Entertainment",
+        "type": "Official Japanese game website artwork",
+        "note": "Yuma’s original character portrait over the website’s gold background."
+      },
+      "logo": {
+        "file": "logos/zexal-world-duel-carnival.png",
+        "page": "https://gamesdb.launchbox-app.com/games/details/34345",
+        "url": "https://images.launchbox-app.com/b715b4fd-0a8e-40bd-921c-d47dc4078964.png",
+        "type": "Clear Logo",
+        "credit": "Konami game artwork via LaunchBox Games Database"
+      }
+    }
+  }
+}
